@@ -375,6 +375,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_golden-hour",
+      "slug": "golden-hour",
+      "title": "Golden Hour",
+      "image": "/artwork/playlist/golden-hour.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Census",
+      "position": 4,
+      "caption": "Census is track 4"
+    },
+    {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Depot (Live at the Roundhouse)",
+      "position": 8,
+      "caption": "Depot (Live at the Roundhouse) is track 8"
+    },
+    {
       "playlistId": "pl_country-japan",
       "slug": "japan",
       "title": "Japan",

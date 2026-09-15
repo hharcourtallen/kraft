@@ -200,6 +200,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_late-night-heat",
+      "slug": "late-night-heat",
+      "title": "Late Night Heat",
+      "image": "/artwork/playlist/late-night-heat.jpg",
+      "curatorId": "cur_amara-diallo",
+      "curatorName": "Amara Diallo",
+      "trackTitle": "Midnight Underpass",
+      "position": 2,
+      "caption": "Midnight Underpass is track 2"
+    },
+    {
       "playlistId": "pl_country-spain",
       "slug": "spain",
       "title": "Spain",

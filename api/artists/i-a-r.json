@@ -293,6 +293,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_tropicalia",
+      "slug": "tropicalia",
+      "title": "Tropicália",
+      "image": "/artwork/playlist/tropicalia.jpg",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Rootwork",
+      "position": 6,
+      "caption": "Rootwork is track 6"
+    },
+    {
       "playlistId": "pl_country-argentina",
       "slug": "argentina",
       "title": "Argentina",

@@ -23,9 +23,9 @@
     "city": "Oslo"
   },
   "trackCount": 25,
-  "durationSec": 6000,
-  "durationLabel": "1 hr 40 min",
-  "metaLine": "25 tracks · 1 hr 40 min",
+  "durationSec": 8737,
+  "durationLabel": "2 hr 26 min",
+  "metaLine": "25 tracks · 2 hr 26 min",
   "libraryLine": "List · 25 songs",
   "followers": 48117,
   "followersLabel": "48K",
@@ -39,10 +39,512 @@
     "modern-composition",
     "folk"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 25,
+  "trackIds": [
+    "trk_slate-aggregate-tobias-t-2025-0",
+    "trk_iron-bedrock-opal-and-2023-1",
+    "trk_orbit-hymn-til-voge-2023-1",
+    "trk_rust-quarry-the-oute-2023-0",
+    "trk_blue-underpass-sadie-bl-2019-1",
+    "trk_bloom-opal-and-2019-4",
+    "trk_parallax-the-oute-2025-1",
+    "trk_overgrowth-lodestar-2024-3",
+    "trk_grey-estuary-petra-il-2021-4",
+    "trk_bright-hedgerow-opal-and-2023-3",
+    "trk_sediment-til-voge-2024-1",
+    "trk_slow-alder-opal-and-2015-1",
+    "trk_ninth-corona-the-oute-2025-3",
+    "trk_harbour-reprise-petra-il-2019-3",
+    "trk_half-a-ferry-halvor-l-2020-2",
+    "trk_static-lullaby",
+    "trk_ballast-the-shoa-2020-0",
+    "trk_ballast-petra-il-2021-3",
+    "trk_foundry-lullaby-tobias-t-2025-2",
+    "trk_breakwater-march-the-shoa-2020-1",
+    "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+    "trk_basalt-cairn-tobias-t-2024-1",
+    "trk_slow-pasture-petra-il-2021-0",
+    "trk_twice-the-barleyfield-opal-and-2014-4",
+    "trk_tectonics-tobias-t-2024-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_slate-aggregate-tobias-t-2025-0",
+      "slug": "slate-aggregate",
+      "title": "Slate Aggregate",
+      "duration": "10:44",
+      "durationSec": 644,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_iron-bedrock-opal-and-2023-1",
+      "slug": "iron-bedrock",
+      "title": "Iron Bedrock",
+      "duration": "5:21",
+      "durationSec": 321,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slow-fieldwork-opal-and-t",
+        "title": "Slow Fieldwork",
+        "slug": "slow-fieldwork",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_orbit-hymn-til-voge-2023-1",
+      "slug": "orbit-hymn",
+      "title": "Orbit Hymn",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rust-quarry-the-oute-2023-0",
+      "slug": "rust-quarry",
+      "title": "Rust Quarry",
+      "duration": "9:06",
+      "durationSec": 546,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-underpass-sadie-bl-2019-1",
+      "slug": "blue-underpass",
+      "title": "Blue Underpass",
+      "duration": "5:26",
+      "durationSec": 326,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-opal-and-2019-4",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "4:01",
+      "durationSec": 241,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_parallax-the-oute-2025-1",
+      "slug": "parallax",
+      "title": "Parallax",
+      "duration": "7:24",
+      "durationSec": 444,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_overgrowth-lodestar-2024-3",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_grey-estuary-petra-il-2021-4",
+      "slug": "grey-estuary",
+      "title": "Grey Estuary",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-hedgerow-opal-and-2023-3",
+      "slug": "bright-hedgerow",
+      "title": "Bright Hedgerow",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slow-fieldwork-opal-and-t",
+        "title": "Slow Fieldwork",
+        "slug": "slow-fieldwork",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_sediment-til-voge-2024-1",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "5:20",
+      "durationSec": 320,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slow-alder-opal-and-2015-1",
+      "slug": "slow-alder",
+      "title": "Slow Alder",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_fieldwork-opal-and-t",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ninth-corona-the-oute-2025-3",
+      "slug": "ninth-corona",
+      "title": "Ninth Corona",
+      "duration": "7:36",
+      "durationSec": 456,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_harbour-reprise-petra-il-2019-3",
+      "slug": "harbour-reprise",
+      "title": "Harbour (Reprise)",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-ferry-halvor-l-2020-2",
+      "slug": "half-a-ferry",
+      "title": "Half a Ferry",
+      "duration": "5:04",
+      "durationSec": 304,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_static-lullaby",
+      "slug": "static-lullaby",
+      "title": "Static Lullaby",
+      "duration": "6:14",
+      "durationSec": 374,
+      "artist": {
+        "id": "art_hiss-and-warmth",
+        "name": "Hiss & Warmth",
+        "slug": "hiss-and-warmth"
+      },
+      "album": {
+        "id": "alb_analog-sundays",
+        "title": "Analog Sundays",
+        "slug": "analog-sundays",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/analog-sundays.jpg"
+    },
+    {
+      "id": "trk_ballast-the-shoa-2020-0",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-petra-il-2021-3",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_foundry-lullaby-tobias-t-2025-2",
+      "slug": "foundry-lullaby",
+      "title": "Foundry Lullaby",
+      "duration": "6:42",
+      "durationSec": 402,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_breakwater-march-the-shoa-2020-1",
+      "slug": "breakwater-march",
+      "title": "Breakwater March",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+      "slug": "quarry-live-at-the-roundhouse",
+      "title": "Quarry (Live at the Roundhouse)",
+      "duration": "2:53",
+      "durationSec": 173,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_basalt-cairn-tobias-t-2024-1",
+      "slug": "basalt-cairn",
+      "title": "Basalt Cairn",
+      "duration": "9:48",
+      "durationSec": 588,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slow-pasture-petra-il-2021-0",
+      "slug": "slow-pasture",
+      "title": "Slow Pasture",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_twice-the-barleyfield-opal-and-2014-4",
+      "slug": "twice-the-barleyfield",
+      "title": "Twice the Barleyfield",
+      "duration": "4:11",
+      "durationSec": 251,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_tectonics-tobias-t-2024-0",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "11:17",
+      "durationSec": 677,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 25,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/garden-sessions.jpg",
     "direction": {

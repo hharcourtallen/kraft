@@ -335,6 +335,39 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_garden-sessions",
+      "slug": "garden-sessions",
+      "title": "Garden Sessions",
+      "image": "/artwork/playlist/garden-sessions.jpg",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Half a Ferry",
+      "position": 15,
+      "caption": "Half a Ferry is track 15"
+    },
+    {
+      "playlistId": "pl_string-theory",
+      "slug": "string-theory",
+      "title": "String Theory",
+      "image": "/artwork/playlist/string-theory.jpg",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Provisional Bureau",
+      "position": 4,
+      "caption": "Provisional Bureau is track 4"
+    },
+    {
+      "playlistId": "pl_jazz-nights",
+      "slug": "jazz-nights",
+      "title": "Jazz Nights",
+      "image": "/artwork/playlist/jazz-nights.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Curfew",
+      "position": 3,
+      "caption": "Curfew is track 3"
+    },
+    {
       "playlistId": "pl_country-norway",
       "slug": "norway",
       "title": "Norway",

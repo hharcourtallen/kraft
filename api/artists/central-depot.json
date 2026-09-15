@@ -345,6 +345,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Nocturne",
+      "position": 6,
+      "caption": "Nocturne is track 6"
+    },
+    {
       "playlistId": "pl_country-japan",
       "slug": "japan",
       "title": "Japan",

@@ -179,6 +179,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_poolside",
+      "slug": "poolside",
+      "title": "Poolside",
+      "image": "/artwork/playlist/poolside.jpg",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Small Marquee",
+      "position": 6,
+      "caption": "Small Marquee is track 6"
+    },
+    {
+      "playlistId": "pl_midnight-sax",
+      "slug": "midnight-sax",
+      "title": "Midnight Sax",
+      "image": "/artwork/playlist/midnight-sax.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Census",
+      "position": 8,
+      "caption": "Census is track 8"
+    },
+    {
       "playlistId": "pl_country-chile",
       "slug": "chile",
       "title": "Chile",

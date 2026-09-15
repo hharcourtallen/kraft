@@ -61,9 +61,9 @@
         "city": "London"
       },
       "trackCount": 8,
-      "durationSec": 1920,
-      "durationLabel": "32 min",
-      "metaLine": "8 tracks · 32 min",
+      "durationSec": 2416,
+      "durationLabel": "40 min",
+      "metaLine": "8 tracks · 40 min",
       "libraryLine": "List · 8 songs",
       "followers": 41880,
       "followersLabel": "42K",
@@ -76,8 +76,8 @@
         "soul",
         "downtempo"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 8,
+      "resolvedTrackCount": 8,
+      "shortfall": 0,
       "updatedLabel": "6 days ago",
       "image": "/artwork/playlist/late-night-heat.jpg"
     },
@@ -98,9 +98,9 @@
         "city": "Mexico City"
       },
       "trackCount": 20,
-      "durationSec": 4800,
-      "durationLabel": "1 hr 20 min",
-      "metaLine": "20 tracks · 1 hr 20 min",
+      "durationSec": 4576,
+      "durationLabel": "1 hr 16 min",
+      "metaLine": "20 tracks · 1 hr 16 min",
       "libraryLine": "List · 20 songs",
       "followers": 129440,
       "followersLabel": "129K",
@@ -113,8 +113,8 @@
         "bossa",
         "dream-pop"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 20,
+      "resolvedTrackCount": 20,
+      "shortfall": 0,
       "updatedLabel": "4 days ago",
       "image": "/artwork/playlist/golden-hour.jpg"
     },
@@ -135,9 +135,9 @@
         "city": "Mexico City"
       },
       "trackCount": 15,
-      "durationSec": 3600,
-      "durationLabel": "1 hr 0 min",
-      "metaLine": "15 tracks · 1 hr 0 min",
+      "durationSec": 3805,
+      "durationLabel": "1 hr 3 min",
+      "metaLine": "15 tracks · 1 hr 3 min",
       "libraryLine": "List · 15 songs",
       "followers": 62190,
       "followersLabel": "62K",
@@ -150,8 +150,8 @@
         "americana",
         "singer-songwriter"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 15,
+      "resolvedTrackCount": 15,
+      "shortfall": 0,
       "updatedLabel": "4 weeks ago",
       "image": "/artwork/playlist/wildflower-days.jpg"
     },
@@ -172,9 +172,9 @@
         "city": "Tokyo"
       },
       "trackCount": 9,
-      "durationSec": 2160,
-      "durationLabel": "36 min",
-      "metaLine": "9 tracks · 36 min",
+      "durationSec": 1958,
+      "durationLabel": "33 min",
+      "metaLine": "9 tracks · 33 min",
       "libraryLine": "List · 9 songs",
       "followers": 37605,
       "followersLabel": "38K",
@@ -188,8 +188,8 @@
         "shoegaze",
         "analog-revival"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 9,
+      "resolvedTrackCount": 9,
+      "shortfall": 0,
       "updatedLabel": "2 weeks ago",
       "image": "/artwork/playlist/cassette-dreams.jpg"
     },
@@ -210,9 +210,9 @@
         "city": "São Paulo"
       },
       "trackCount": 11,
-      "durationSec": 2640,
-      "durationLabel": "44 min",
-      "metaLine": "11 tracks · 44 min",
+      "durationSec": 4111,
+      "durationLabel": "1 hr 9 min",
+      "metaLine": "11 tracks · 1 hr 9 min",
       "libraryLine": "List · 11 songs",
       "followers": 55302,
       "followersLabel": "55K",
@@ -226,8 +226,8 @@
         "dub",
         "funk"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 11,
+      "resolvedTrackCount": 11,
+      "shortfall": 0,
       "updatedLabel": "3 weeks ago",
       "image": "/artwork/playlist/poolside.jpg"
     },
@@ -256,9 +256,9 @@
         "city": "Oslo"
       },
       "trackCount": 25,
-      "durationSec": 6000,
-      "durationLabel": "1 hr 40 min",
-      "metaLine": "25 tracks · 1 hr 40 min",
+      "durationSec": 8737,
+      "durationLabel": "2 hr 26 min",
+      "metaLine": "25 tracks · 2 hr 26 min",
       "libraryLine": "List · 25 songs",
       "followers": 48117,
       "followersLabel": "48K",
@@ -272,8 +272,8 @@
         "modern-composition",
         "folk"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 25,
+      "resolvedTrackCount": 25,
+      "shortfall": 0,
       "updatedLabel": "3 days ago",
       "image": "/artwork/playlist/garden-sessions.jpg"
     },
@@ -294,9 +294,9 @@
         "city": "Oslo"
       },
       "trackCount": 18,
-      "durationSec": 4320,
-      "durationLabel": "1 hr 12 min",
-      "metaLine": "18 tracks · 1 hr 12 min",
+      "durationSec": 7639,
+      "durationLabel": "2 hr 7 min",
+      "metaLine": "18 tracks · 2 hr 7 min",
       "libraryLine": "List · 18 songs",
       "followers": 21044,
       "followersLabel": "21K",
@@ -308,8 +308,8 @@
         "modern-composition",
         "experimental"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 18,
+      "resolvedTrackCount": 18,
+      "shortfall": 0,
       "updatedLabel": "28 Jun",
       "image": "/artwork/playlist/string-theory.jpg"
     },
@@ -338,9 +338,9 @@
         "city": "Philadelphia"
       },
       "trackCount": 22,
-      "durationSec": 5280,
-      "durationLabel": "1 hr 28 min",
-      "metaLine": "22 tracks · 1 hr 28 min",
+      "durationSec": 8571,
+      "durationLabel": "2 hr 23 min",
+      "metaLine": "22 tracks · 2 hr 23 min",
       "libraryLine": "List · 22 songs",
       "followers": 93860,
       "followersLabel": "94K",
@@ -352,8 +352,8 @@
         "jazz",
         "spiritual-jazz"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 22,
+      "resolvedTrackCount": 22,
+      "shortfall": 0,
       "updatedLabel": "1 week ago",
       "image": "/artwork/playlist/jazz-nights.jpg"
     },
@@ -374,9 +374,9 @@
         "city": "São Paulo"
       },
       "trackCount": 24,
-      "durationSec": 5760,
-      "durationLabel": "1 hr 36 min",
-      "metaLine": "24 tracks · 1 hr 36 min",
+      "durationSec": 7428,
+      "durationLabel": "2 hr 4 min",
+      "metaLine": "24 tracks · 2 hr 4 min",
       "libraryLine": "List · 24 songs",
       "followers": 71225,
       "followersLabel": "71K",
@@ -389,8 +389,8 @@
         "latin",
         "funk"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 24,
+      "resolvedTrackCount": 24,
+      "shortfall": 0,
       "updatedLabel": "14 Jul",
       "image": "/artwork/playlist/tropicalia.jpg"
     },
@@ -411,9 +411,9 @@
         "city": "Philadelphia"
       },
       "trackCount": 14,
-      "durationSec": 3360,
-      "durationLabel": "56 min",
-      "metaLine": "14 tracks · 56 min",
+      "durationSec": 5129,
+      "durationLabel": "1 hr 25 min",
+      "metaLine": "14 tracks · 1 hr 25 min",
       "libraryLine": "List · 14 songs",
       "followers": 33418,
       "followersLabel": "33K",
@@ -426,8 +426,8 @@
         "spiritual-jazz",
         "soul"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 14,
+      "resolvedTrackCount": 14,
+      "shortfall": 0,
       "updatedLabel": "9 May",
       "image": "/artwork/playlist/midnight-sax.jpg"
     },
@@ -448,9 +448,9 @@
         "city": "Accra"
       },
       "trackCount": 40,
-      "durationSec": 9600,
-      "durationLabel": "2 hr 40 min",
-      "metaLine": "40 tracks · 2 hr 40 min",
+      "durationSec": 12422,
+      "durationLabel": "3 hr 27 min",
+      "metaLine": "40 tracks · 3 hr 27 min",
       "libraryLine": "List · 40 songs",
       "followers": 26703,
       "followersLabel": "27K",
@@ -462,8 +462,8 @@
         "funk",
         "cumbia"
       ],
-      "resolvedTrackCount": 0,
-      "shortfall": 40,
+      "resolvedTrackCount": 40,
+      "shortfall": 0,
       "updatedLabel": "5 days ago",
       "image": "/artwork/playlist/the-archive.jpg"
     },
@@ -480,17 +480,17 @@
       "subtitle": "Auto-generated",
       "curator": null,
       "trackCount": 312,
-      "durationSec": 74880,
-      "durationLabel": "20 hr 48 min",
-      "metaLine": "312 tracks · 20 hr 48 min",
+      "durationSec": 85876,
+      "durationLabel": "23 hr 51 min",
+      "metaLine": "312 tracks · 23 hr 51 min",
       "libraryLine": "List · 312 songs",
       "followers": null,
       "followersLabel": null,
       "updated": null,
       "moods": [],
       "genres": [],
-      "resolvedTrackCount": 0,
-      "shortfall": 312,
+      "resolvedTrackCount": 312,
+      "shortfall": 0,
       "updatedLabel": null,
       "image": null
     },

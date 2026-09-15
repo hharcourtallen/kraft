@@ -345,6 +345,50 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_golden-hour",
+      "slug": "golden-hour",
+      "title": "Golden Hour",
+      "image": "/artwork/playlist/golden-hour.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Ballast",
+      "position": 3,
+      "caption": "Ballast is track 3"
+    },
+    {
+      "playlistId": "pl_wildflower-days",
+      "slug": "wildflower-days",
+      "title": "Wildflower Days",
+      "image": "/artwork/playlist/wildflower-days.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Long Barleyfield",
+      "position": 7,
+      "caption": "Long Barleyfield is track 7"
+    },
+    {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Cove Waltz",
+      "position": 9,
+      "caption": "Cove Waltz is track 9"
+    },
+    {
+      "playlistId": "pl_garden-sessions",
+      "slug": "garden-sessions",
+      "title": "Garden Sessions",
+      "image": "/artwork/playlist/garden-sessions.jpg",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Ballast",
+      "position": 17,
+      "caption": "Ballast is track 17"
+    },
+    {
       "playlistId": "pl_country-france",
       "slug": "france",
       "title": "France",

@@ -54,8 +54,7 @@
       "note": "Made for the drive home after the drive home. Nothing here asks for your full attention until the third song, and then it takes it.",
       "pinnedTrackIds": [
         "trk_cassette-weather"
-      ],
-      "trackIds": []
+      ]
     },
     {
       "id": "pl_golden-hour",
@@ -78,8 +77,7 @@
       "pinnedTrackIds": [
         "trk_paper-lanterns",
         "trk_harbour-lights"
-      ],
-      "trackIds": []
+      ]
     },
     {
       "id": "pl_wildflower-days",
@@ -102,8 +100,7 @@
       "pinnedTrackIds": [
         "trk_open-fields",
         "trk_wax-and-wane"
-      ],
-      "trackIds": []
+      ]
     },
     {
       "id": "pl_cassette-dreams",
@@ -127,8 +124,7 @@
       "pinnedTrackIds": [
         "trk_golden-thread",
         "trk_night-bloom"
-      ],
-      "trackIds": []
+      ]
     },
     {
       "id": "pl_poolside",
@@ -148,8 +144,7 @@
       "trackCount": 11,
       "followers": 55302,
       "updated": "2026-08-04",
-      "note": "Cumbia, bossa, and things that move at the speed of a Sunday. Play it loud enough that the neighbours ask.",
-      "trackIds": []
+      "note": "Cumbia, bossa, and things that move at the speed of a Sunday. Play it loud enough that the neighbours ask."
     },
     {
       "id": "pl_garden-sessions",
@@ -173,8 +168,7 @@
       "notePin": {
         "trackId": "trk_orbit-hymn-til-voge-2023-1",
         "sec": 400
-      },
-      "trackIds": []
+      }
     },
     {
       "id": "pl_string-theory",
@@ -192,8 +186,7 @@
       "trackCount": 18,
       "followers": 21044,
       "updated": "2026-06-28",
-      "note": "Modern composition for strings, mostly. Two of these were recorded in the same church, eleven years apart. You can hear the roof.",
-      "trackIds": []
+      "note": "Modern composition for strings, mostly. Two of these were recorded in the same church, eleven years apart. You can hear the roof."
     },
     {
       "id": "pl_jazz-nights",
@@ -215,8 +208,7 @@
       "notePin": {
         "trackId": "trk_minor-key",
         "sec": 4
-      },
-      "trackIds": []
+      }
     },
     {
       "id": "pl_tropicalia",
@@ -235,8 +227,7 @@
       "trackCount": 24,
       "followers": 71225,
       "updated": "2026-07-14",
-      "note": "The Rio pressings and the Bogotá ones side by side. You can tell them apart by the hiss, and now so can you.",
-      "trackIds": []
+      "note": "The Rio pressings and the Bogotá ones side by side. You can tell them apart by the hiss, and now so can you."
     },
     {
       "id": "pl_midnight-sax",
@@ -255,8 +246,7 @@
       "trackCount": 14,
       "followers": 33418,
       "updated": "2026-05-09",
-      "note": "Ballads only. I put this together for a friend who couldn't sleep and it has outlived the insomnia.",
-      "trackIds": []
+      "note": "Ballads only. I put this together for a friend who couldn't sleep and it has outlived the insomnia."
     },
     {
       "id": "pl_the-archive",
@@ -274,8 +264,7 @@
       "trackCount": 40,
       "followers": 26703,
       "updated": "2026-08-20",
-      "note": "Forty tracks of Accra and Lagos crate finds. The liner notes are longer than some of the songs, on purpose.",
-      "trackIds": []
+      "note": "Forty tracks of Accra and Lagos crate finds. The liner notes are longer than some of the songs, on purpose."
     },
     {
       "id": "pl_liked-songs",
@@ -289,8 +278,7 @@
       "trackCount": 312,
       "moods": [],
       "genres": [],
-      "note": null,
-      "trackIds": []
+      "note": null
     }
   ]
 }

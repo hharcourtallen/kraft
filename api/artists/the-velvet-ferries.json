@@ -325,6 +325,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_jazz-nights",
+      "slug": "jazz-nights",
+      "title": "Jazz Nights",
+      "image": "/artwork/playlist/jazz-nights.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Small Underpass",
+      "position": 5,
+      "caption": "Small Underpass is track 5"
+    },
+    {
+      "playlistId": "pl_midnight-sax",
+      "slug": "midnight-sax",
+      "title": "Midnight Sax",
+      "image": "/artwork/playlist/midnight-sax.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Afterhours",
+      "position": 1,
+      "caption": "Afterhours opens it"
+    },
+    {
       "playlistId": "pl_country-united-states",
       "slug": "united-states",
       "title": "United States",

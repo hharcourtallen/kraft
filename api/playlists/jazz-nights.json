@@ -23,9 +23,9 @@
     "city": "Philadelphia"
   },
   "trackCount": 22,
-  "durationSec": 5280,
-  "durationLabel": "1 hr 28 min",
-  "metaLine": "22 tracks · 1 hr 28 min",
+  "durationSec": 8571,
+  "durationLabel": "2 hr 23 min",
+  "metaLine": "22 tracks · 2 hr 23 min",
   "libraryLine": "List · 22 songs",
   "followers": 93860,
   "followersLabel": "94K",
@@ -37,10 +37,452 @@
     "jazz",
     "spiritual-jazz"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 22,
+  "trackIds": [
+    "trk_provision-rhys-ree-2025-0",
+    "trk_every-meridian-the-gree-2023-2",
+    "trk_curfew-halvor-l-2017-0",
+    "trk_central-registry-halvor-l-2014-0",
+    "trk_small-underpass-the-velv-2021-2",
+    "trk_precinct-waltz-halvor-l-2014-4",
+    "trk_minor-key",
+    "trk_nothing-but-transits-the-gree-2025-3",
+    "trk_provisional-bureau-halvor-l-2017-1",
+    "trk_bloc-live-at-the-roundhouse-halvor-l-2016-2",
+    "trk_afterhours-late-pay-2016-3",
+    "trk_assembly-hymn-rhys-ree-2023-0",
+    "trk_half-a-marquee-the-velv-2024-0",
+    "trk_annex-lullaby-rhys-ree-2025-3",
+    "trk_afterhours-the-velv-2023-0",
+    "trk_late-marquee-the-velv-2023-1",
+    "trk_assembly-hymn-halvor-l-2020-0",
+    "trk_afterhours-the-velv-2023-3",
+    "trk_afterhours-rhys-ree-2023-4",
+    "trk_registry-elegy-the-velv-2024-2",
+    "trk_zoning-halvor-l-2020-3",
+    "trk_parallax-the-gree-2024-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_provision-rhys-ree-2025-0",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "6:31",
+      "durationSec": 391,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-meridian-the-gree-2023-2",
+      "slug": "every-meridian",
+      "title": "Every Meridian",
+      "duration": "9:52",
+      "durationSec": 592,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-halvor-l-2017-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-registry-halvor-l-2014-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-underpass-the-velv-2021-2",
+      "slug": "small-underpass",
+      "title": "Small Underpass",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_precinct-waltz-halvor-l-2014-4",
+      "slug": "precinct-waltz",
+      "title": "Precinct Waltz",
+      "duration": "7:09",
+      "durationSec": 429,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_minor-key",
+      "slug": "minor-key",
+      "title": "Minor Key",
+      "duration": "4:25",
+      "durationSec": 265,
+      "artist": {
+        "id": "art_milo-kestrel",
+        "name": "Milo Kestrel",
+        "slug": "milo-kestrel"
+      },
+      "album": {
+        "id": "alb_nocturne",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-transits-the-gree-2025-3",
+      "slug": "nothing-but-transits",
+      "title": "Nothing but Transits",
+      "duration": "6:57",
+      "durationSec": 417,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_green-frond-the-green-",
+        "title": "Green Frond",
+        "slug": "green-frond",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-bureau-halvor-l-2017-1",
+      "slug": "provisional-bureau",
+      "title": "Provisional Bureau",
+      "duration": "7:01",
+      "durationSec": 421,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-live-at-the-roundhouse-halvor-l-2016-2",
+      "slug": "bloc-live-at-the-roundhouse",
+      "title": "Bloc (Live at the Roundhouse)",
+      "duration": "6:10",
+      "durationSec": 370,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_depots-halvor-lin",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-late-pay-2016-3",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "4:00",
+      "durationSec": 240,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_assembly-hymn-rhys-ree-2023-0",
+      "slug": "assembly-hymn",
+      "title": "Assembly Hymn",
+      "duration": "7:26",
+      "durationSec": 446,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-marquee-the-velv-2024-0",
+      "slug": "half-a-marquee",
+      "title": "Half a Marquee",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_annex-lullaby-rhys-ree-2025-3",
+      "slug": "annex-lullaby",
+      "title": "Annex Lullaby",
+      "duration": "5:34",
+      "durationSec": 334,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-the-velv-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "6:46",
+      "durationSec": 406,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_late-marquee-the-velv-2023-1",
+      "slug": "late-marquee",
+      "title": "Late Marquee",
+      "duration": "7:44",
+      "durationSec": 464,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_assembly-hymn-halvor-l-2020-0",
+      "slug": "assembly-hymn",
+      "title": "Assembly Hymn",
+      "duration": "8:08",
+      "durationSec": 488,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-the-velv-2023-3",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "6:27",
+      "durationSec": 387,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-rhys-ree-2023-4",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "5:21",
+      "durationSec": 321,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_registry-elegy-the-velv-2024-2",
+      "slug": "registry-elegy",
+      "title": "Registry Elegy",
+      "duration": "6:33",
+      "durationSec": 393,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-halvor-l-2020-3",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "7:33",
+      "durationSec": 453,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_parallax-the-gree-2024-0",
+      "slug": "parallax",
+      "title": "Parallax",
+      "duration": "4:40",
+      "durationSec": 280,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 22,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/jazz-nights.jpg",
     "direction": {

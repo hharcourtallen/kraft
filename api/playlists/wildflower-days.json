@@ -15,9 +15,9 @@
     "city": "Mexico City"
   },
   "trackCount": 15,
-  "durationSec": 3600,
-  "durationLabel": "1 hr 0 min",
-  "metaLine": "15 tracks · 1 hr 0 min",
+  "durationSec": 3805,
+  "durationLabel": "1 hr 3 min",
+  "metaLine": "15 tracks · 1 hr 3 min",
   "libraryLine": "List · 15 songs",
   "followers": 62190,
   "followersLabel": "62K",
@@ -30,10 +30,312 @@
     "americana",
     "singer-songwriter"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 15,
+  "trackIds": [
+    "trk_open-fields",
+    "trk_wax-and-wane",
+    "trk_oxidation-the-barl-2020-1",
+    "trk_thicket-march-wren-mer-2026-3",
+    "trk_tectonics-sadie-an-2020-1",
+    "trk_hollow-bramble-petra-il-2017-1",
+    "trk_long-barleyfield-the-shoa-2021-1",
+    "trk_slow-pasture-petra-il-2021-0",
+    "trk_sediment-opal-and-2023-0",
+    "trk_fieldwork-ballast--2025-1",
+    "trk_fallow-alder-petra-il-2019-0",
+    "trk_cairn-demo-sadie-an-2020-0",
+    "trk_fen-hymn-rust-str-2022-1",
+    "trk_seam-theme-opal-and-2009-1",
+    "trk_hedgerow-waltz-wren-mer-2020-3"
+  ],
+  "tracks": [
+    {
+      "id": "trk_open-fields",
+      "slug": "open-fields",
+      "title": "Open Fields",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_felix-drift",
+        "name": "Felix Drift",
+        "slug": "felix-drift"
+      },
+      "album": {
+        "id": "alb_wide-open",
+        "title": "Wide Open",
+        "slug": "wide-open",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wax-and-wane",
+      "slug": "wax-and-wane",
+      "title": "Wax & Wane",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_petal-and-dew",
+        "name": "Petal & Dew",
+        "slug": "petal-and-dew"
+      },
+      "album": {
+        "id": "alb_petal-and-dew",
+        "title": "Petal & Dew",
+        "slug": "petal-and-dew",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_oxidation-the-barl-2020-1",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "3:53",
+      "durationSec": 233,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_thicket-march-wren-mer-2026-3",
+      "slug": "thicket-march",
+      "title": "Thicket March",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_fieldwork-wren-merce",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_tectonics-sadie-an-2020-1",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hollow-bramble-petra-il-2017-1",
+      "slug": "hollow-bramble",
+      "title": "Hollow Bramble",
+      "duration": "4:59",
+      "durationSec": 299,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-barleyfield-the-shoa-2021-1",
+      "slug": "long-barleyfield",
+      "title": "Long Barleyfield",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_almanac-the-shoals",
+        "title": "Almanac",
+        "slug": "almanac",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slow-pasture-petra-il-2021-0",
+      "slug": "slow-pasture",
+      "title": "Slow Pasture",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_sediment-opal-and-2023-0",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "5:40",
+      "durationSec": 340,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slow-fieldwork-opal-and-t",
+        "title": "Slow Fieldwork",
+        "slug": "slow-fieldwork",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fieldwork-ballast--2025-1",
+      "slug": "fieldwork",
+      "title": "Fieldwork",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "album": {
+        "id": "alb_rootwork-ballast-an",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fallow-alder-petra-il-2019-0",
+      "slug": "fallow-alder",
+      "title": "Fallow Alder",
+      "duration": "4:42",
+      "durationSec": 282,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cairn-demo-sadie-an-2020-0",
+      "slug": "cairn-demo",
+      "title": "Cairn (Demo)",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fen-hymn-rust-str-2022-1",
+      "slug": "fen-hymn",
+      "title": "Fen Hymn",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_quiet-bloom-rust-strat",
+        "title": "Quiet Bloom",
+        "slug": "quiet-bloom",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_seam-theme-opal-and-2009-1",
+      "slug": "seam-theme",
+      "title": "Seam Theme",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_tectonics-opal-and-t",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hedgerow-waltz-wren-mer-2020-3",
+      "slug": "hedgerow-waltz",
+      "title": "Hedgerow Waltz",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_nocturne-wren-merce",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2020
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 15,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/wildflower-days.jpg",
     "direction": {

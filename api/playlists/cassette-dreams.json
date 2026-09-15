@@ -15,9 +15,9 @@
     "city": "Tokyo"
   },
   "trackCount": 9,
-  "durationSec": 2160,
-  "durationLabel": "36 min",
-  "metaLine": "9 tracks · 36 min",
+  "durationSec": 1958,
+  "durationLabel": "33 min",
+  "metaLine": "9 tracks · 33 min",
   "libraryLine": "List · 9 songs",
   "followers": 37605,
   "followersLabel": "38K",
@@ -31,10 +31,192 @@
     "shoegaze",
     "analog-revival"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 9,
+  "trackIds": [
+    "trk_golden-thread",
+    "trk_night-bloom",
+    "trk_45-rpm-heart",
+    "trk_blue-ballroom-grafting-2021-2",
+    "trk_nocturne-merrick--2011-3",
+    "trk_nocturne-central--2017-3",
+    "trk_hour-lullaby-blue-fer-2024-2",
+    "trk_depot-live-at-the-roundhouse-imogen-s-2011-2",
+    "trk_cove-waltz-the-shoa-2021-3"
+  ],
+  "tracks": [
+    {
+      "id": "trk_golden-thread",
+      "slug": "golden-thread",
+      "title": "Golden Thread",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_flora",
+        "title": "Flora",
+        "slug": "flora",
+        "year": 2025
+      },
+      "albumArt": "/artwork/album/flora.jpg"
+    },
+    {
+      "id": "trk_night-bloom",
+      "slug": "night-bloom",
+      "title": "Night Bloom",
+      "duration": "4:05",
+      "durationSec": 245,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_night-bloom",
+        "title": "Night Bloom",
+        "slug": "night-bloom",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/night-bloom.jpg"
+    },
+    {
+      "id": "trk_45-rpm-heart",
+      "slug": "45-rpm-heart",
+      "title": "45 RPM Heart",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_shellac-jones",
+        "name": "Shellac Jones",
+        "slug": "shellac-jones"
+      },
+      "album": {
+        "id": "alb_slow-rotation",
+        "title": "Slow Rotation",
+        "slug": "slow-rotation",
+        "year": 2022
+      },
+      "albumArt": "/artwork/album/slow-rotation.jpg"
+    },
+    {
+      "id": "trk_blue-ballroom-grafting-2021-2",
+      "slug": "blue-ballroom",
+      "title": "Blue Ballroom",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-merrick--2011-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:00",
+      "durationSec": 180,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-central--2017-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:22",
+      "durationSec": 262,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_payphones-central-de",
+        "title": "Payphones",
+        "slug": "payphones",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hour-lullaby-blue-fer-2024-2",
+      "slug": "hour-lullaby",
+      "title": "Hour Lullaby",
+      "duration": "3:02",
+      "durationSec": 182,
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "album": {
+        "id": "alb_taxis-blue-ferry",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_depot-live-at-the-roundhouse-imogen-s-2011-2",
+      "slug": "depot-live-at-the-roundhouse",
+      "title": "Depot (Live at the Roundhouse)",
+      "duration": "3:19",
+      "durationSec": 199,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_exchanges-imogen-sin",
+        "title": "Exchanges",
+        "slug": "exchanges",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cove-waltz-the-shoa-2021-3",
+      "slug": "cove-waltz",
+      "title": "Cove Waltz",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_almanac-the-shoals",
+        "title": "Almanac",
+        "slug": "almanac",
+        "year": 2021
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 9,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/cassette-dreams.jpg",
     "direction": {

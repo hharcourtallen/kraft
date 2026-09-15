@@ -15,9 +15,9 @@
     "city": "Philadelphia"
   },
   "trackCount": 14,
-  "durationSec": 3360,
-  "durationLabel": "56 min",
-  "metaLine": "14 tracks · 56 min",
+  "durationSec": 5129,
+  "durationLabel": "1 hr 25 min",
+  "metaLine": "14 tracks · 1 hr 25 min",
   "libraryLine": "List · 14 songs",
   "followers": 33418,
   "followersLabel": "33K",
@@ -30,10 +30,292 @@
     "spiritual-jazz",
     "soul"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 14,
+  "trackIds": [
+    "trk_afterhours-the-velv-2023-0",
+    "trk_public-bloc-rhys-ree-2025-4",
+    "trk_parallax-the-gree-2024-0",
+    "trk_neon-hour-rhys-ree-2023-2",
+    "trk_dark-ballroom-late-pay-2019-1",
+    "trk_nocturne-late-pay-2017-3",
+    "trk_bloc-lullaby-cass-and-2021-2",
+    "trk_census-curfew-2023-1",
+    "trk_photosynthesis-the-gree-2025-2",
+    "trk_half-a-marquee-the-velv-2024-0",
+    "trk_neon-taxi-cass-and-2023-2",
+    "trk_registry-elegy-the-velv-2024-2",
+    "trk_small-rooftop-the-velv-2021-3",
+    "trk_chlorophyll-the-gree-2023-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_afterhours-the-velv-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "6:46",
+      "durationSec": 406,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-bloc-rhys-ree-2025-4",
+      "slug": "public-bloc",
+      "title": "Public Bloc",
+      "duration": "5:56",
+      "durationSec": 356,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_parallax-the-gree-2024-0",
+      "slug": "parallax",
+      "title": "Parallax",
+      "duration": "4:40",
+      "durationSec": 280,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_neon-hour-rhys-ree-2023-2",
+      "slug": "neon-hour",
+      "title": "Neon Hour",
+      "duration": "7:08",
+      "durationSec": 428,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dark-ballroom-late-pay-2019-1",
+      "slug": "dark-ballroom",
+      "title": "Dark Ballroom",
+      "duration": "6:22",
+      "durationSec": 382,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_curfew-late-payph",
+        "title": "Curfew",
+        "slug": "curfew",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-late-pay-2017-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "5:24",
+      "durationSec": 324,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_central-depot-late-payph",
+        "title": "Central Depot",
+        "slug": "central-depot",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-lullaby-cass-and-2021-2",
+      "slug": "bloc-lullaby",
+      "title": "Bloc Lullaby",
+      "duration": "4:40",
+      "durationSec": 280,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_zoning-cass-and-t",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-curfew-2023-1",
+      "slug": "census",
+      "title": "Census",
+      "duration": "7:09",
+      "durationSec": 429,
+      "artist": {
+        "id": "art_curfew",
+        "name": "Curfew",
+        "slug": "curfew"
+      },
+      "album": {
+        "id": "alb_bureaus-curfew",
+        "title": "Bureaus",
+        "slug": "bureaus",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_photosynthesis-the-gree-2025-2",
+      "slug": "photosynthesis",
+      "title": "Photosynthesis",
+      "duration": "8:30",
+      "durationSec": 510,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_green-frond-the-green-",
+        "title": "Green Frond",
+        "slug": "green-frond",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-marquee-the-velv-2024-0",
+      "slug": "half-a-marquee",
+      "title": "Half a Marquee",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_neon-taxi-cass-and-2023-2",
+      "slug": "neon-taxi",
+      "title": "Neon Taxi",
+      "duration": "5:12",
+      "durationSec": 312,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_registry-elegy-the-velv-2024-2",
+      "slug": "registry-elegy",
+      "title": "Registry Elegy",
+      "duration": "6:33",
+      "durationSec": 393,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-rooftop-the-velv-2021-3",
+      "slug": "small-rooftop",
+      "title": "Small Rooftop",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_chlorophyll-the-gree-2023-0",
+      "slug": "chlorophyll",
+      "title": "Chlorophyll",
+      "duration": "9:06",
+      "durationSec": 546,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 14,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/midnight-sax.jpg",
     "direction": {

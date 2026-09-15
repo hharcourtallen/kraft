@@ -125,6 +125,17 @@
       "trackTitle": "Static Lullaby",
       "position": 7,
       "caption": "Static Lullaby is track 7"
+    },
+    {
+      "playlistId": "pl_garden-sessions",
+      "slug": "garden-sessions",
+      "title": "Garden Sessions",
+      "image": "/artwork/playlist/garden-sessions.jpg",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Static Lullaby",
+      "position": 16,
+      "caption": "Static Lullaby is track 16"
     }
   ]
 }

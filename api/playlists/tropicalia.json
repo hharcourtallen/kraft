@@ -15,9 +15,9 @@
     "city": "São Paulo"
   },
   "trackCount": 24,
-  "durationSec": 5760,
-  "durationLabel": "1 hr 36 min",
-  "metaLine": "24 tracks · 1 hr 36 min",
+  "durationSec": 7428,
+  "durationLabel": "2 hr 4 min",
+  "metaLine": "24 tracks · 2 hr 4 min",
   "libraryLine": "List · 24 songs",
   "followers": 71225,
   "followersLabel": "71K",
@@ -30,10 +30,492 @@
     "latin",
     "funk"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 24,
+  "trackIds": [
+    "trk_another-meridian-femi-and-2011-0",
+    "trk_total-meridian-femi-and-2011-3",
+    "trk_no-more-orchards-renata-a-2021-4",
+    "trk_depot-reprise-mateo-mo-2019-2",
+    "trk_municipal-bloc-femi-and-2011-4",
+    "trk_rootwork-i-a-r-2026-1",
+    "trk_another-bloc-mateo-mo-2026-1",
+    "trk_bloc-reprise-cass-and-2023-3",
+    "trk_curfew-merrick--2024-1",
+    "trk_municipal-depot-mateo-mo-2019-1",
+    "trk_every-bureau-cass-and-2022-0",
+    "trk_small-hour-cass-and-2021-0",
+    "trk_model-bloc-mateo-mo-2019-3",
+    "trk_zoning-femi-and-2006-3",
+    "trk_provision-mateo-mo-2015-2",
+    "trk_bloc-lullaby-cass-and-2021-2",
+    "trk_census-femi-and-2022-0",
+    "trk_last-ballroom-renata-a-2025-1",
+    "trk_terminal-lullaby-femi-and-2018-3",
+    "trk_orbit-lullaby-femi-and-2013-0",
+    "trk_census-femi-and-2016-0",
+    "trk_ascension-femi-and-2007-3",
+    "trk_bright-pasture-mateo-mo-2015-1",
+    "trk_every-vine-merrick--2024-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_another-meridian-femi-and-2011-0",
+      "slug": "another-meridian",
+      "title": "Another Meridian",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_total-meridian-femi-and-2011-3",
+      "slug": "total-meridian",
+      "title": "Total Meridian",
+      "duration": "8:10",
+      "durationSec": 490,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_no-more-orchards-renata-a-2021-4",
+      "slug": "no-more-orchards",
+      "title": "No More Orchards",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_depot-reprise-mateo-mo-2019-2",
+      "slug": "depot-reprise",
+      "title": "Depot (Reprise)",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_municipal-bloc-femi-and-2011-4",
+      "slug": "municipal-bloc",
+      "title": "Municipal Bloc",
+      "duration": "8:46",
+      "durationSec": 526,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rootwork-i-a-r-2026-1",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-bloc-mateo-mo-2026-1",
+      "slug": "another-bloc",
+      "title": "Another Bloc",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-annex-mateo-moli",
+        "title": "The Annex",
+        "slug": "the-annex",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-reprise-cass-and-2023-3",
+      "slug": "bloc-reprise",
+      "title": "Bloc (Reprise)",
+      "duration": "4:52",
+      "durationSec": 292,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-merrick--2024-1",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "2:41",
+      "durationSec": 161,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_herbaria-merrick-da",
+        "title": "Herbaria",
+        "slug": "herbaria",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_municipal-depot-mateo-mo-2019-1",
+      "slug": "municipal-depot",
+      "title": "Municipal Depot",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-bureau-cass-and-2022-0",
+      "slug": "every-bureau",
+      "title": "Every Bureau",
+      "duration": "5:16",
+      "durationSec": 316,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-rooftop-cass-and-t",
+        "title": "The Rooftop",
+        "slug": "the-rooftop",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-hour-cass-and-2021-0",
+      "slug": "small-hour",
+      "title": "Small Hour",
+      "duration": "4:52",
+      "durationSec": 292,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_zoning-cass-and-t",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-bloc-mateo-mo-2019-3",
+      "slug": "model-bloc",
+      "title": "Model Bloc",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-femi-and-2006-3",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "5:08",
+      "durationSec": 308,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_model-assembly-femi-and-t",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2006
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provision-mateo-mo-2015-2",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-lullaby-cass-and-2021-2",
+      "slug": "bloc-lullaby",
+      "title": "Bloc Lullaby",
+      "duration": "4:40",
+      "durationSec": 280,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_zoning-cass-and-t",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-femi-and-2022-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "7:29",
+      "durationSec": 449,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-ballroom-renata-a-2025-1",
+      "slug": "last-ballroom",
+      "title": "Last Ballroom",
+      "duration": "4:23",
+      "durationSec": 263,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_the-payphone-renata-and",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_terminal-lullaby-femi-and-2018-3",
+      "slug": "terminal-lullaby",
+      "title": "Terminal Lullaby",
+      "duration": "7:24",
+      "durationSec": 444,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_ninth-meridian-femi-and-t",
+        "title": "Ninth Meridian",
+        "slug": "ninth-meridian",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_orbit-lullaby-femi-and-2013-0",
+      "slug": "orbit-lullaby",
+      "title": "Orbit Lullaby",
+      "duration": "4:31",
+      "durationSec": 271,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_new-zoning-femi-and-t",
+        "title": "New Zoning",
+        "slug": "new-zoning",
+        "year": 2013
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-femi-and-2016-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "8:26",
+      "durationSec": 506,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_central-annex-femi-and-t",
+        "title": "Central Annex",
+        "slug": "central-annex",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ascension-femi-and-2007-3",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "5:49",
+      "durationSec": 349,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-pasture-mateo-mo-2015-1",
+      "slug": "bright-pasture",
+      "title": "Bright Pasture",
+      "duration": "4:08",
+      "durationSec": 248,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-vine-merrick--2024-0",
+      "slug": "every-vine",
+      "title": "Every Vine",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_herbaria-merrick-da",
+        "title": "Herbaria",
+        "slug": "herbaria",
+        "year": 2024
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 24,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/tropicalia.jpg",
     "direction": {

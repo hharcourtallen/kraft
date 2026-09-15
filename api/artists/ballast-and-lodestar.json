@@ -157,6 +157,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_wildflower-days",
+      "slug": "wildflower-days",
+      "title": "Wildflower Days",
+      "image": "/artwork/playlist/wildflower-days.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Fieldwork",
+      "position": 10,
+      "caption": "Fieldwork is track 10"
+    },
+    {
       "playlistId": "pl_country-mexico",
       "slug": "mexico",
       "title": "Mexico",

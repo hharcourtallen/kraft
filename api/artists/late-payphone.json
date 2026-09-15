@@ -333,5 +333,39 @@
       "image": null
     }
   ],
-  "onLists": []
+  "onLists": [
+    {
+      "playlistId": "pl_late-night-heat",
+      "slug": "late-night-heat",
+      "title": "Late Night Heat",
+      "image": "/artwork/playlist/late-night-heat.jpg",
+      "curatorId": "cur_amara-diallo",
+      "curatorName": "Amara Diallo",
+      "trackTitle": "Central Bloc",
+      "position": 3,
+      "caption": "Central Bloc is track 3"
+    },
+    {
+      "playlistId": "pl_jazz-nights",
+      "slug": "jazz-nights",
+      "title": "Jazz Nights",
+      "image": "/artwork/playlist/jazz-nights.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Afterhours",
+      "position": 11,
+      "caption": "Afterhours is track 11"
+    },
+    {
+      "playlistId": "pl_midnight-sax",
+      "slug": "midnight-sax",
+      "title": "Midnight Sax",
+      "image": "/artwork/playlist/midnight-sax.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Dark Ballroom",
+      "position": 5,
+      "caption": "Dark Ballroom is track 5"
+    }
+  ]
 }

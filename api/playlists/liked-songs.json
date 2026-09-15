@@ -11,19 +11,6261 @@
   "subtitle": "Auto-generated",
   "curator": null,
   "trackCount": 312,
-  "durationSec": 74880,
-  "durationLabel": "20 hr 48 min",
-  "metaLine": "312 tracks · 20 hr 48 min",
+  "durationSec": 85876,
+  "durationLabel": "23 hr 51 min",
+  "metaLine": "312 tracks · 23 hr 51 min",
   "libraryLine": "List · 312 songs",
   "followers": null,
   "followersLabel": null,
   "updated": null,
   "moods": [],
   "genres": [],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 312,
+  "trackIds": [
+    "trk_model-bloc-greer-bl-2020-1",
+    "trk_petal-moss-merrick--2018-2",
+    "trk_wet-conservatory-nell-wre-2023-0",
+    "trk_photosynthesis-merrick--2020-2",
+    "trk_limestone-bedrock-elliot-c-2023-3",
+    "trk_no-more-boulevards-imogen-s-2026-0",
+    "trk_afterhours-wren-mer-2026-2",
+    "trk_provision-mateo-mo-2021-0",
+    "trk_tectonics-tobias-t-2024-0",
+    "trk_every-vine-merrick--2024-0",
+    "trk_harbour-lullaby-petra-il-2015-0",
+    "trk_boulevard-lullaby-merrick--2009-1",
+    "trk_small-underpass-antonell-2023-1",
+    "trk_salt-shoal-petra-il-2019-4",
+    "trk_almanac-the-barl-2020-3",
+    "trk_thicket-march-wren-mer-2026-3",
+    "trk_alder-waltz-antonell-2024-1",
+    "trk_two-hundred-meadows-opal-and-2009-2",
+    "trk_afterhours-ren-ishi-2023-0",
+    "trk_bloom-opal-and-2019-4",
+    "trk_half-a-marquee-the-velv-2024-0",
+    "trk_turntable-daydream",
+    "trk_conservatory-elegy-grafting-2020-3",
+    "trk_blue-underpass-provisio-2018-2",
+    "trk_model-bloc-nell-hol-2023-1",
+    "trk_far-current-petra-il-2017-3",
+    "trk_velvet-boulevard-the-ball-2015-1",
+    "trk_assembly-hymn-halvor-l-2020-0",
+    "trk_flora-merrick--2019-0",
+    "trk_precinct-elegy-delia-ho-2022-0",
+    "trk_model-assembly-provisio-2017-0",
+    "trk_blue-rooftop-zoning-a-2022-1",
+    "trk_annex-reprise-provisio-2016-3",
+    "trk_nothing-but-boulevards-imogen-s-2011-0",
+    "trk_public-bloc-rhys-ree-2025-4",
+    "trk_fallow-barleyfield-wren-mer-2023-3",
+    "trk_public-assembly-imogen-s-2015-4",
+    "trk_new-bureau-zoning-a-2022-3",
+    "trk_census-central--2024-0",
+    "trk_transit-waltz-nell-wre-2023-1",
+    "trk_long-common-the-shoa-2026-4",
+    "trk_central-terminal-the-ball-2010-0",
+    "trk_tectonics-rust-str-2023-1",
+    "trk_two-hundred-commons-the-neon-2017-0",
+    "trk_model-registry-rhys-ree-2023-3",
+    "trk_bloom-i-a-r-2025-1",
+    "trk_public-terminal-nocturne-2021-0",
+    "trk_bone-and-brass",
+    "trk_bramble-blues-overgrow-2021-4",
+    "trk_velvet-rooftop-sadie-bl-2019-0",
+    "trk_distant-transit-nell-and-2025-1",
+    "trk_seam-march-til-voge-2024-2",
+    "trk_neon-payphone-merrick--2019-2",
+    "trk_two-hundred-fronds-the-gree-2024-2",
+    "trk_afterhours-merrick--2019-1",
+    "trk_outer-equinox-femi-and-2009-2",
+    "trk_public-bureau-femi-and-2007-1",
+    "trk_zoning-delia-ho-2023-4",
+    "trk_assembly-lullaby-merrick--2023-0",
+    "trk_ninth-aphelion-femi-and-2011-1",
+    "trk_almanac-the-neon-2008-1",
+    "trk_midnight-ferry-the-neon-2008-2",
+    "trk_ninth-corona-the-oute-2025-3",
+    "trk_limestone-kiln-redshift-2018-3",
+    "trk_neon-hour-the-neon-2014-1",
+    "trk_long-fen-opal-and-2025-1",
+    "trk_underpass-lullaby-central--2017-2",
+    "trk_small-ballroom-the-neon-2006-0",
+    "trk_almanac-petra-il-2021-1",
+    "trk_taxi-theme-late-pay-2023-0",
+    "trk_hollow-common-small-pa-2021-1",
+    "trk_iron-quarry-the-oute-2025-4",
+    "trk_marquee-lullaby-the-asse-2008-1",
+    "trk_crackle-and-hum",
+    "trk_marquee-demo-late-pay-2016-1",
+    "trk_last-boulevard-merrick--2022-0",
+    "trk_underpass-hymn-sadie-bl-2021-2",
+    "trk_thicket-edit-wren-mer-2026-1",
+    "trk_green-frond-nell-and-2024-0",
+    "trk_depot-reprise-mateo-mo-2019-2",
+    "trk_bloc-reprise-cass-and-2023-3",
+    "trk_every-bramble-small-pa-2024-3",
+    "trk_provision-central--2017-4",
+    "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+    "trk_cold-lighthouse-petra-il-2016-0",
+    "trk_annex-lullaby-rhys-ree-2025-3",
+    "trk_registry-edit-delia-ho-2022-3",
+    "trk_half-a-ballroom-the-asse-2023-2",
+    "trk_bright-fen-the-barl-2022-0",
+    "trk_another-village-the-shoa-2020-2",
+    "trk_overgrowth-lodestar-2024-3",
+    "trk_golden-pasture-overgrow-2023-1",
+    "trk_midnight-marquee-sadie-bl-2020-3",
+    "trk_two-hundred-thickets-small-pa-2024-2",
+    "trk_zoning-halvor-l-2020-3",
+    "trk_chalk-strata-the-barl-2022-3",
+    "trk_foundry-lullaby-tobias-t-2025-2",
+    "trk_provisional-exchange-cass-and-2023-1",
+    "trk_neon-marquee-the-asse-2020-3",
+    "trk_wet-pollen-merrick--2013-0",
+    "trk_dark-ferry-zoning-a-2017-2",
+    "trk_all-the-orchards-bloom-2017-2",
+    "trk_every-bloc-the-slat-2023-1",
+    "trk_exchange-lullaby-merrick--2024-2",
+    "trk_another-boulevard-blue-fer-2024-1",
+    "trk_bloc-hymn-zoning-a-2017-1",
+    "trk_foundry-instrumental-rasmus-s-2020-3",
+    "trk_blue-payphone-zoning-a-2016-1",
+    "trk_last-ferry-greer-bl-2020-2",
+    "trk_soft-thicket-mateo-mo-2015-3",
+    "trk_census-the-velv-2021-0",
+    "trk_two-hundred-registries-central--2016-1",
+    "trk_hour-march-renata-a-2023-0",
+    "trk_ascension-femi-and-2007-3",
+    "trk_payphone-waltz-the-asse-2010-1",
+    "trk_bright-common-rust-str-2023-2",
+    "trk_faded-label",
+    "trk_municipal-assembly-nocturne-2025-1",
+    "trk_ascension-nell-and-2025-2",
+    "trk_golden-alder-petra-il-2019-1",
+    "trk_all-the-precincts-greer-bl-2021-1",
+    "trk_aggregate-march-the-barl-2020-0",
+    "trk_nothing-but-underpasses-nocturne-2025-2",
+    "trk_underpass-hymn-wren-mer-2021-2",
+    "trk_census-curfew-2023-1",
+    "trk_infrastructure-the-asse-2020-2",
+    "trk_golden-meadow-overgrow-2022-2",
+    "trk_another-barleyfield-bloom-2022-4",
+    "trk_quiet-common-the-neon-2024-0",
+    "trk_boulevard-reprise-zoning-a-2022-2",
+    "trk_limestone-strata-the-slat-2023-4",
+    "trk_deep-current-ballast--2025-2",
+    "trk_two-hundred-observatories-nell-wre-2024-0",
+    "trk_annex-alt-take-imogen-s-2008-1",
+    "trk_ninth-corona-femi-and-2022-1",
+    "trk_zenith-redshift-2016-0",
+    "trk_two-hundred-rooftops-rootwork-2026-2",
+    "trk_wet-pollen-the-gree-2025-1",
+    "trk_ascension-nell-and-2025-3",
+    "trk_outer-equinox-nell-and-2024-4",
+    "trk_provision-central--2017-0",
+    "trk_nothing-but-transits-the-gree-2025-3",
+    "trk_another-bloc-mateo-mo-2026-1",
+    "trk_underpass-edit-halvor-l-2016-0",
+    "trk_long-meadow-bloom-2022-3",
+    "trk_small-underpass-the-velv-2021-2",
+    "trk_afterhours-the-velv-2023-0",
+    "trk_limestone-seam-nell-hol-2023-2",
+    "trk_trawler-march-lodestar-2024-0",
+    "trk_static-hearts",
+    "trk_wax-and-wane",
+    "trk_nocturne-i-a-r-2025-3",
+    "trk_rooftop-waltz-bridie-v-2021-0",
+    "trk_late-motel-merrick--2018-0",
+    "trk_long-meadow-mateo-mo-2015-4",
+    "trk_small-boulevard-zoning-a-2020-1",
+    "trk_static-lullaby",
+    "trk_dark-ferry-overgrow-2022-0",
+    "trk_strata-song-delia-ho-2023-3",
+    "trk_neon-motel-greer-bl-2020-3",
+    "trk_limestone-seam-the-oute-2023-2",
+    "trk_transit-lullaby-rasmus-s-2020-2",
+    "trk_provisional-assembly-the-ball-2024-2",
+    "trk_afterhours-the-ball-2024-1",
+    "trk_oxidation-the-oute-2025-2",
+    "trk_curfew-central--2019-0",
+    "trk_barleyfield-lullaby-wren-mer-2021-0",
+    "trk_wild-thicket-sadie-an-2025-4",
+    "trk_half-a-strata-sadie-an-2021-1",
+    "trk_slow-meadow-rootwork-2017-0",
+    "trk_bright-pasture-mateo-mo-2015-1",
+    "trk_basalt-cairn-tobias-t-2024-1",
+    "trk_nothing-but-transits-femi-and-2016-2",
+    "trk_long-hedgerow-rust-str-2020-0",
+    "trk_common-waltz-overgrow-2021-1",
+    "trk_nothing-but-estuaries-the-shoa-2026-3",
+    "trk_ferry-lullaby-provisio-2022-1",
+    "trk_two-hundred-alders-rootwork-2023-2",
+    "trk_census-delia-ho-2023-0",
+    "trk_census-central--2019-4",
+    "trk_cairn-demo-sadie-an-2020-0",
+    "trk_curfew-sadie-bl-2020-0",
+    "trk_long-harvest-renata-a-2021-2",
+    "trk_husbandry-i-a-r-2025-2",
+    "trk_two-hundred-motels-wren-mer-2023-1",
+    "trk_assembly-march-the-asse-2012-0",
+    "trk_half-a-common-small-pa-2021-2",
+    "trk_dark-boulevard-the-asse-2008-4",
+    "trk_oxidation-elliot-c-2025-3",
+    "trk_nothing-but-taxis-merrick--2025-1",
+    "trk_midnight-underpass-sanne-mi-2025-0",
+    "trk_45-rpm-heart",
+    "trk_nocturne-merrick--2024-1",
+    "trk_taxi-march-central--2016-2",
+    "trk_nocturne-overgrow-2021-3",
+    "trk_taxi-blues-sadie-bl-2020-2",
+    "trk_sediment-opal-and-2015-0",
+    "trk_twice-the-registry-late-pay-2017-0",
+    "trk_half-a-ballroom-merrick--2011-1",
+    "trk_zoning-rhys-ree-2021-0",
+    "trk_twice-the-meadow-petra-il-2017-2",
+    "trk_ballroom-hymn-nocturne-2025-0",
+    "trk_breakwater-march-the-shoa-2020-1",
+    "trk_all-the-currents-the-shoa-2026-2",
+    "trk_quiet-village-the-shoa-2026-0",
+    "trk_dust-on-the-needle",
+    "trk_strata-waltz-elliot-c-2023-0",
+    "trk_all-the-precincts-mateo-mo-2021-2",
+    "trk_insomnia-the-ball-2012-4",
+    "trk_nocturne-merrick--2011-3",
+    "trk_worn-edges",
+    "trk_total-meridian-femi-and-2011-3",
+    "trk_nocturne-zoning-a-2024-0",
+    "trk_half-a-rooftop-i-a-r-2025-0",
+    "trk_half-a-ferry-halvor-l-2020-2",
+    "trk_fallow-orchard-antonell-2023-2",
+    "trk_provisional-annex-the-ball-2012-2",
+    "trk_overgrowth-the-barl-2022-1",
+    "trk_all-the-hours-imogen-s-2026-3",
+    "trk_motel-demo-zoning-a-2024-1",
+    "trk_aphelion-song-femi-and-2006-2",
+    "trk_quiet-fen-rust-str-2020-2",
+    "trk_grafting-grafting-2021-3",
+    "trk_zenith-nell-wre-2024-1",
+    "trk_orbit-lullaby-femi-and-2013-0",
+    "trk_provisional-terminal-bridie-v-2025-3",
+    "trk_all-the-registries-merrick--2023-1",
+    "trk_nothing-but-rooftops-wren-mer-2023-0",
+    "trk_erosion-opal-and-2009-0",
+    "trk_nocturne-the-neon-2017-2",
+    "trk_almanac-bloom-2016-2",
+    "trk_ballroom-reprise-imogen-s-2017-0",
+    "trk_ballast-petra-il-2017-0",
+    "trk_deep-current",
+    "trk_slow-pasture-petra-il-2021-0",
+    "trk_central-registry-the-ball-2015-0",
+    "trk_bloc-waltz-the-slat-2017-1",
+    "trk_ballast-lodestar-2024-1",
+    "trk_public-precinct-central--2024-1",
+    "trk_twice-the-ballroom-bridie-v-2021-1",
+    "trk_fern-dew-nell-and-2024-1",
+    "trk_curfew-wren-mer-2023-2",
+    "trk_municipal-depot-mateo-mo-2019-1",
+    "trk_model-precinct-the-asse-2026-0",
+    "trk_last-track-home",
+    "trk_oxidation-the-oute-2023-3",
+    "trk_infrastructure-the-ball-2008-0",
+    "trk_provision-the-asse-2012-1",
+    "trk_central-bureau-central--2019-3",
+    "trk_blue-ballroom-grafting-2021-2",
+    "trk_golden-alder-opal-and-2015-2",
+    "trk_depot-instrumental-mateo-mo-2026-0",
+    "trk_nothing-but-sleeves-sadie-bl-2019-2",
+    "trk_last-ballroom-renata-a-2025-1",
+    "trk_wet-herbarium-merrick--2019-3",
+    "trk_rooftop-lullaby-nocturne-2021-2",
+    "trk_insomnia-provisio-2016-2",
+    "trk_small-marquee-small-pa-2022-0",
+    "trk_nocturne-imogen-s-2015-2",
+    "trk_census-imogen-s-2017-2",
+    "trk_rootwork-the-barl-2021-0",
+    "trk_ballast-the-shoa-2020-0",
+    "trk_nightblooming-greenhouse-nell-wre-2023-2",
+    "trk_twice-the-rooftop-provisio-2018-1",
+    "trk_central-registry-halvor-l-2014-0",
+    "trk_all-the-assemblies-central--2016-0",
+    "trk_seam-demo-rust-str-2020-3",
+    "trk_ferry-live-at-the-roundhouse-overgrow-2022-3",
+    "trk_slate-aggregate-tobias-t-2025-0",
+    "trk_hollow-fen-the-neon-2014-3",
+    "trk_bureau-waltz-the-velv-2024-3",
+    "trk_distant-observatory-redshift-2018-1",
+    "trk_late-marquee-the-velv-2023-1",
+    "trk_sediment-redshift-2016-2",
+    "trk_zoning-imogen-s-2021-0",
+    "trk_every-taxi-provisio-2016-0",
+    "trk_model-terminal-greer-bl-2018-1",
+    "trk_marquee-lullaby-merrick--2011-2",
+    "trk_underpass-waltz-merrick--2025-3",
+    "trk_small-ferry-the-ball-2012-3",
+    "trk_all-the-ballrooms-grafting-2026-1",
+    "trk_fallow-meadow-opal-and-2019-1",
+    "trk_census-imogen-s-2015-0",
+    "trk_soft-meadow-rootwork-2019-0",
+    "trk_every-terminal-the-asse-2026-1",
+    "trk_public-assembly-femi-and-2016-3",
+    "trk_long-village-rust-str-2022-0",
+    "trk_open-fields",
+    "trk_solar-equinox-redshift-2018-2",
+    "trk_half-a-payphone-curfew-2023-0",
+    "trk_zoning-the-ball-2015-2",
+    "trk_ballast-petra-il-2021-3",
+    "trk_blue-taxi-blue-fer-2022-1",
+    "trk_ferry-reprise-imogen-s-2026-2",
+    "trk_nocturne-the-velv-2021-1",
+    "trk_quarry-instrumental-til-voge-2023-3",
+    "trk_two-hundred-estuaries-the-shoa-2019-2",
+    "trk_cove-waltz-the-shoa-2021-3",
+    "trk_curfew-halvor-l-2017-0",
+    "trk_zoning-provisio-2022-2",
+    "trk_outer-aphelion-femi-and-2022-3",
+    "trk_tidal-fathom-the-shoa-2020-3",
+    "trk_census-femi-and-2016-0",
+    "trk_chalk-strata-the-slat-2021-1",
+    "trk_wow-and-flutter-sadie-bl-2020-1",
+    "trk_all-the-pastures-the-neon-2014-2",
+    "trk_paper-lanterns",
+    "trk_golden-thread",
+    "trk_marquee-elegy-merrick--2009-2",
+    "trk_strata-blues-sadie-an-2025-1",
+    "trk_every-rooftop-zoning-a-2020-0",
+    "trk_half-a-meridian-nell-and-2025-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_model-bloc-greer-bl-2020-1",
+      "slug": "model-bloc",
+      "title": "Model Bloc",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_petal-moss-merrick--2018-2",
+      "slug": "petal-moss",
+      "title": "Petal Moss",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_nightblooming-chlorophyll-merrick-an",
+        "title": "Nightblooming Chlorophyll",
+        "slug": "nightblooming-chlorophyll",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wet-conservatory-nell-wre-2023-0",
+      "slug": "wet-conservatory",
+      "title": "Wet Conservatory",
+      "duration": "5:06",
+      "durationSec": 306,
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "album": {
+        "id": "alb_the-dew-nell-wren",
+        "title": "The Dew",
+        "slug": "the-dew",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_photosynthesis-merrick--2020-2",
+      "slug": "photosynthesis",
+      "title": "Photosynthesis",
+      "duration": "4:49",
+      "durationSec": 289,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_the-ballroom-merrick-an",
+        "title": "The Ballroom",
+        "slug": "the-ballroom",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_limestone-bedrock-elliot-c-2023-3",
+      "slug": "limestone-bedrock",
+      "title": "Limestone Bedrock",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_no-more-boulevards-imogen-s-2026-0",
+      "slug": "no-more-boulevards",
+      "title": "No More Boulevards",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_registries-imogen-sin",
+        "title": "Registries",
+        "slug": "registries",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-wren-mer-2026-2",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "3:12",
+      "durationSec": 192,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_fieldwork-wren-merce",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provision-mateo-mo-2021-0",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-pasture-mateo-moli",
+        "title": "The Pasture",
+        "slug": "the-pasture",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_tectonics-tobias-t-2024-0",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "11:17",
+      "durationSec": 677,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-vine-merrick--2024-0",
+      "slug": "every-vine",
+      "title": "Every Vine",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_herbaria-merrick-da",
+        "title": "Herbaria",
+        "slug": "herbaria",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_harbour-lullaby-petra-il-2015-0",
+      "slug": "harbour-lullaby",
+      "title": "Harbour Lullaby",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_golden-harvest-petra-ilic",
+        "title": "Golden Harvest",
+        "slug": "golden-harvest",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_boulevard-lullaby-merrick--2009-1",
+      "slug": "boulevard-lullaby",
+      "title": "Boulevard Lullaby",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_green-dew-merrick-an",
+        "title": "Green Dew",
+        "slug": "green-dew",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-underpass-antonell-2023-1",
+      "slug": "small-underpass",
+      "title": "Small Underpass",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_fallow-common-antonella-",
+        "title": "Fallow Common",
+        "slug": "fallow-common",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_salt-shoal-petra-il-2019-4",
+      "slug": "salt-shoal",
+      "title": "Salt Shoal",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_almanac-the-barl-2020-3",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_thicket-march-wren-mer-2026-3",
+      "slug": "thicket-march",
+      "title": "Thicket March",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_fieldwork-wren-merce",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_alder-waltz-antonell-2024-1",
+      "slug": "alder-waltz",
+      "title": "Alder Waltz",
+      "duration": "5:25",
+      "durationSec": 325,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_the-thicket-antonella-",
+        "title": "The Thicket",
+        "slug": "the-thicket",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-meadows-opal-and-2009-2",
+      "slug": "two-hundred-meadows",
+      "title": "Two Hundred Meadows",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_tectonics-opal-and-t",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-ren-ishi-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "4:48",
+      "durationSec": 288,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_husbandry-ren-ishii",
+        "title": "Husbandry",
+        "slug": "husbandry",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-opal-and-2019-4",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "4:01",
+      "durationSec": 241,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-marquee-the-velv-2024-0",
+      "slug": "half-a-marquee",
+      "title": "Half a Marquee",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_turntable-daydream",
+      "slug": "turntable-daydream",
+      "title": "Turntable Daydream",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_spinning-room",
+        "name": "Spinning Room",
+        "slug": "spinning-room"
+      },
+      "album": {
+        "id": "alb_wax-poetic",
+        "title": "Wax Poetic",
+        "slug": "wax-poetic",
+        "year": 2022
+      },
+      "albumArt": "/artwork/album/wax-poetic.jpg"
+    },
+    {
+      "id": "trk_conservatory-elegy-grafting-2020-3",
+      "slug": "conservatory-elegy",
+      "title": "Conservatory Elegy",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_petal-dew-grafting",
+        "title": "Petal Dew",
+        "slug": "petal-dew",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-underpass-provisio-2018-2",
+      "slug": "blue-underpass",
+      "title": "Blue Underpass",
+      "duration": "4:06",
+      "durationSec": 246,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_infrastructure-provisiona",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-bloc-nell-hol-2023-1",
+      "slug": "model-bloc",
+      "title": "Model Bloc",
+      "duration": "2:56",
+      "durationSec": 176,
+      "artist": {
+        "id": "art_nell-hollowell",
+        "name": "Nell Hollowell",
+        "slug": "nell-hollowell"
+      },
+      "album": {
+        "id": "alb_provisional-census-nell-hollo",
+        "title": "Provisional Census",
+        "slug": "provisional-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_far-current-petra-il-2017-3",
+      "slug": "far-current",
+      "title": "Far Current",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_velvet-boulevard-the-ball-2015-1",
+      "slug": "velvet-boulevard",
+      "title": "Velvet Boulevard",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_velvet-underpass-the-ballro",
+        "title": "Velvet Underpass",
+        "slug": "velvet-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_assembly-hymn-halvor-l-2020-0",
+      "slug": "assembly-hymn",
+      "title": "Assembly Hymn",
+      "duration": "8:08",
+      "durationSec": 488,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_flora-merrick--2019-0",
+      "slug": "flora",
+      "title": "Flora",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_precinct-elegy-delia-ho-2022-0",
+      "slug": "precinct-elegy",
+      "title": "Precinct Elegy",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_the-bloc-delia-holl",
+        "title": "The Bloc",
+        "slug": "the-bloc",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-assembly-provisio-2017-0",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "duration": "2:54",
+      "durationSec": 174,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_the-exchange-provisiona",
+        "title": "The Exchange",
+        "slug": "the-exchange",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-rooftop-zoning-a-2022-1",
+      "slug": "blue-rooftop",
+      "title": "Blue Rooftop",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_public-exchange-zoning-and",
+        "title": "Public Exchange",
+        "slug": "public-exchange",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_annex-reprise-provisio-2016-3",
+      "slug": "annex-reprise",
+      "title": "Annex (Reprise)",
+      "duration": "3:06",
+      "durationSec": 186,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-boulevards-imogen-s-2011-0",
+      "slug": "nothing-but-boulevards",
+      "title": "Nothing but Boulevards",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_exchanges-imogen-sin",
+        "title": "Exchanges",
+        "slug": "exchanges",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-bloc-rhys-ree-2025-4",
+      "slug": "public-bloc",
+      "title": "Public Bloc",
+      "duration": "5:56",
+      "durationSec": 356,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fallow-barleyfield-wren-mer-2023-3",
+      "slug": "fallow-barleyfield",
+      "title": "Fallow Barleyfield",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-assembly-imogen-s-2015-4",
+      "slug": "public-assembly",
+      "title": "Public Assembly",
+      "duration": "4:01",
+      "durationSec": 241,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_payphone-and-underpass-imogen-sin",
+        "title": "Payphone & Underpass",
+        "slug": "payphone-and-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_new-bureau-zoning-a-2022-3",
+      "slug": "new-bureau",
+      "title": "New Bureau",
+      "duration": "5:14",
+      "durationSec": 314,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_public-exchange-zoning-and",
+        "title": "Public Exchange",
+        "slug": "public-exchange",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-central--2024-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:38",
+      "durationSec": 218,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-payphone-central-de",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_transit-waltz-nell-wre-2023-1",
+      "slug": "transit-waltz",
+      "title": "Transit Waltz",
+      "duration": "5:25",
+      "durationSec": 325,
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "album": {
+        "id": "alb_the-dew-nell-wren",
+        "title": "The Dew",
+        "slug": "the-dew",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-common-the-shoa-2026-4",
+      "slug": "long-common",
+      "title": "Long Common",
+      "duration": "3:52",
+      "durationSec": 232,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_hollow-rootwork-the-shoals",
+        "title": "Hollow Rootwork",
+        "slug": "hollow-rootwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-terminal-the-ball-2010-0",
+      "slug": "central-terminal",
+      "title": "Central Terminal",
+      "duration": "2:10",
+      "durationSec": 130,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_dark-taxi-the-ballro",
+        "title": "Dark Taxi",
+        "slug": "dark-taxi",
+        "year": 2010
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_tectonics-rust-str-2023-1",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_basalt-kiln-rust-strat",
+        "title": "Basalt Kiln",
+        "slug": "basalt-kiln",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-commons-the-neon-2017-0",
+      "slug": "two-hundred-commons",
+      "title": "Two Hundred Commons",
+      "duration": "5:10",
+      "durationSec": 310,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-neon-u",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-registry-rhys-ree-2023-3",
+      "slug": "model-registry",
+      "title": "Model Registry",
+      "duration": "7:02",
+      "durationSec": 422,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-i-a-r-2025-1",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-terminal-nocturne-2021-0",
+      "slug": "public-terminal",
+      "title": "Public Terminal",
+      "duration": "3:52",
+      "durationSec": 232,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_songs-for-blocs-nocturne",
+        "title": "Songs for Blocs",
+        "slug": "songs-for-blocs",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bone-and-brass",
+      "slug": "bone-and-brass",
+      "title": "Bone & Brass",
+      "duration": "4:11",
+      "durationSec": 251,
+      "artist": {
+        "id": "art_dusk-ritual",
+        "name": "Dusk Ritual",
+        "slug": "dusk-ritual"
+      },
+      "album": {
+        "id": "alb_brass-and-bones",
+        "title": "Brass & Bones",
+        "slug": "brass-and-bones",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bramble-blues-overgrow-2021-4",
+      "slug": "bramble-blues",
+      "title": "Bramble Blues",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_velvet-rooftop-sadie-bl-2019-0",
+      "slug": "velvet-rooftop",
+      "title": "Velvet Rooftop",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_distant-transit-nell-and-2025-1",
+      "slug": "distant-transit",
+      "title": "Distant Transit",
+      "duration": "6:38",
+      "durationSec": 398,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_seam-march-til-voge-2024-2",
+      "slug": "seam-march",
+      "title": "Seam March",
+      "duration": "7:39",
+      "durationSec": 459,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_neon-payphone-merrick--2019-2",
+      "slug": "neon-payphone",
+      "title": "Neon Payphone",
+      "duration": "3:08",
+      "durationSec": 188,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-fronds-the-gree-2024-2",
+      "slug": "two-hundred-fronds",
+      "title": "Two Hundred Fronds",
+      "duration": "6:49",
+      "durationSec": 409,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-merrick--2019-1",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_outer-equinox-femi-and-2009-2",
+      "slug": "outer-equinox",
+      "title": "Outer Equinox",
+      "duration": "6:47",
+      "durationSec": 407,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_orbit-and-aphelion-femi-and-t",
+        "title": "Orbit & Aphelion",
+        "slug": "orbit-and-aphelion",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-bureau-femi-and-2007-1",
+      "slug": "public-bureau",
+      "title": "Public Bureau",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-delia-ho-2023-4",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "7:03",
+      "durationSec": 423,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_assembly-lullaby-merrick--2023-0",
+      "slug": "assembly-lullaby",
+      "title": "Assembly Lullaby",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_motels-merrick-mu",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ninth-aphelion-femi-and-2011-1",
+      "slug": "ninth-aphelion",
+      "title": "Ninth Aphelion",
+      "duration": "7:08",
+      "durationSec": 428,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_almanac-the-neon-2008-1",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_midnight-ferry-the-neon-2008-2",
+      "slug": "midnight-ferry",
+      "title": "Midnight Ferry",
+      "duration": "5:29",
+      "durationSec": 329,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ninth-corona-the-oute-2025-3",
+      "slug": "ninth-corona",
+      "title": "Ninth Corona",
+      "duration": "7:36",
+      "durationSec": 456,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_limestone-kiln-redshift-2018-3",
+      "slug": "limestone-kiln",
+      "title": "Limestone Kiln",
+      "duration": "11:24",
+      "durationSec": 684,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_neon-hour-the-neon-2014-1",
+      "slug": "neon-hour",
+      "title": "Neon Hour",
+      "duration": "4:51",
+      "durationSec": 291,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u-2",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-fen-opal-and-2025-1",
+      "slug": "long-fen",
+      "title": "Long Fen",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_music-for-seams-opal-and-t",
+        "title": "Music for Seams",
+        "slug": "music-for-seams",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_underpass-lullaby-central--2017-2",
+      "slug": "underpass-lullaby",
+      "title": "Underpass Lullaby",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_payphones-central-de",
+        "title": "Payphones",
+        "slug": "payphones",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-ballroom-the-neon-2006-0",
+      "slug": "small-ballroom",
+      "title": "Small Ballroom",
+      "duration": "4:09",
+      "durationSec": 249,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_bramble-and-fen-the-neon-u",
+        "title": "Bramble & Fen",
+        "slug": "bramble-and-fen",
+        "year": 2006
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_almanac-petra-il-2021-1",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_taxi-theme-late-pay-2023-0",
+      "slug": "taxi-theme",
+      "title": "Taxi Theme",
+      "duration": "5:52",
+      "durationSec": 352,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_underpasses-late-payph",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hollow-common-small-pa-2021-1",
+      "slug": "hollow-common",
+      "title": "Hollow Common",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_soft-husbandry-small-payp",
+        "title": "Soft Husbandry",
+        "slug": "soft-husbandry",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_iron-quarry-the-oute-2025-4",
+      "slug": "iron-quarry",
+      "title": "Iron Quarry",
+      "duration": "7:50",
+      "durationSec": 470,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_marquee-lullaby-the-asse-2008-1",
+      "slug": "marquee-lullaby",
+      "title": "Marquee Lullaby",
+      "duration": "3:26",
+      "durationSec": 206,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_small-afterhours-the-assemb",
+        "title": "Small Afterhours",
+        "slug": "small-afterhours",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_crackle-and-hum",
+      "slug": "crackle-and-hum",
+      "title": "Crackle & Hum",
+      "duration": "3:48",
+      "durationSec": 228,
+      "artist": {
+        "id": "art_analog-hearts",
+        "name": "Analog Hearts",
+        "slug": "analog-hearts"
+      },
+      "album": {
+        "id": "alb_pressed-memories",
+        "title": "Pressed Memories",
+        "slug": "pressed-memories",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/pressed-memories.jpg"
+    },
+    {
+      "id": "trk_marquee-demo-late-pay-2016-1",
+      "slug": "marquee-demo",
+      "title": "Marquee (Demo)",
+      "duration": "7:39",
+      "durationSec": 459,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-boulevard-merrick--2022-0",
+      "slug": "last-boulevard",
+      "title": "Last Boulevard",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_last-curfew-merrick-da",
+        "title": "Last Curfew",
+        "slug": "last-curfew",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_underpass-hymn-sadie-bl-2021-2",
+      "slug": "underpass-hymn",
+      "title": "Underpass Hymn",
+      "duration": "3:48",
+      "durationSec": 228,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_label-and-reel-sadie-blac",
+        "title": "Label & Reel",
+        "slug": "label-and-reel",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_thicket-edit-wren-mer-2026-1",
+      "slug": "thicket-edit",
+      "title": "Thicket (Edit)",
+      "duration": "2:49",
+      "durationSec": 169,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_fieldwork-wren-merce",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_green-frond-nell-and-2024-0",
+      "slug": "green-frond",
+      "title": "Green Frond",
+      "duration": "4:57",
+      "durationSec": 297,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_depot-reprise-mateo-mo-2019-2",
+      "slug": "depot-reprise",
+      "title": "Depot (Reprise)",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-reprise-cass-and-2023-3",
+      "slug": "bloc-reprise",
+      "title": "Bloc (Reprise)",
+      "duration": "4:52",
+      "durationSec": 292,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-bramble-small-pa-2024-3",
+      "slug": "every-bramble",
+      "title": "Every Bramble",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_the-motel-small-payp",
+        "title": "The Motel",
+        "slug": "the-motel",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provision-central--2017-4",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_payphones-central-de",
+        "title": "Payphones",
+        "slug": "payphones",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+      "slug": "quarry-live-at-the-roundhouse",
+      "title": "Quarry (Live at the Roundhouse)",
+      "duration": "2:53",
+      "durationSec": 173,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cold-lighthouse-petra-il-2016-0",
+      "slug": "cold-lighthouse",
+      "title": "Cold Lighthouse",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_hollow-fieldwork-petra-ilic",
+        "title": "Hollow Fieldwork",
+        "slug": "hollow-fieldwork",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_annex-lullaby-rhys-ree-2025-3",
+      "slug": "annex-lullaby",
+      "title": "Annex Lullaby",
+      "duration": "5:34",
+      "durationSec": 334,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_registry-edit-delia-ho-2022-3",
+      "slug": "registry-edit",
+      "title": "Registry (Edit)",
+      "duration": "6:17",
+      "durationSec": 377,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_the-bloc-delia-holl",
+        "title": "The Bloc",
+        "slug": "the-bloc",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-ballroom-the-asse-2023-2",
+      "slug": "half-a-ballroom",
+      "title": "Half a Ballroom",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_bureaus-the-assemb",
+        "title": "Bureaus",
+        "slug": "bureaus",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-fen-the-barl-2022-0",
+      "slug": "bright-fen",
+      "title": "Bright Fen",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_the-quarry-the-barley",
+        "title": "The Quarry",
+        "slug": "the-quarry",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-village-the-shoa-2020-2",
+      "slug": "another-village",
+      "title": "Another Village",
+      "duration": "4:09",
+      "durationSec": 249,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_overgrowth-lodestar-2024-3",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-pasture-overgrow-2023-1",
+      "slug": "golden-pasture",
+      "title": "Golden Pasture",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_orchards-overgrowth",
+        "title": "Orchards",
+        "slug": "orchards",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_midnight-marquee-sadie-bl-2020-3",
+      "slug": "midnight-marquee",
+      "title": "Midnight Marquee",
+      "duration": "6:31",
+      "durationSec": 391,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-thickets-small-pa-2024-2",
+      "slug": "two-hundred-thickets",
+      "title": "Two Hundred Thickets",
+      "duration": "3:24",
+      "durationSec": 204,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_the-motel-small-payp",
+        "title": "The Motel",
+        "slug": "the-motel",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-halvor-l-2020-3",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "7:33",
+      "durationSec": 453,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_chalk-strata-the-barl-2022-3",
+      "slug": "chalk-strata",
+      "title": "Chalk Strata",
+      "duration": "4:49",
+      "durationSec": 289,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_the-quarry-the-barley",
+        "title": "The Quarry",
+        "slug": "the-quarry",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_foundry-lullaby-tobias-t-2025-2",
+      "slug": "foundry-lullaby",
+      "title": "Foundry Lullaby",
+      "duration": "6:42",
+      "durationSec": 402,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-exchange-cass-and-2023-1",
+      "slug": "provisional-exchange",
+      "title": "Provisional Exchange",
+      "duration": "5:28",
+      "durationSec": 328,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_neon-marquee-the-asse-2020-3",
+      "slug": "neon-marquee",
+      "title": "Neon Marquee",
+      "duration": "3:53",
+      "durationSec": 233,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_census-the-assemb",
+        "title": "Census",
+        "slug": "census",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wet-pollen-merrick--2013-0",
+      "slug": "wet-pollen",
+      "title": "Wet Pollen",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_nightblooming-flora-merrick-an",
+        "title": "Nightblooming Flora",
+        "slug": "nightblooming-flora",
+        "year": 2013
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dark-ferry-zoning-a-2017-2",
+      "slug": "dark-ferry",
+      "title": "Dark Ferry",
+      "duration": "2:59",
+      "durationSec": 179,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_late-afterhours-zoning-and",
+        "title": "Late Afterhours",
+        "slug": "late-afterhours",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-orchards-bloom-2017-2",
+      "slug": "all-the-orchards",
+      "title": "All the Orchards",
+      "duration": "2:30",
+      "durationSec": 150,
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "album": {
+        "id": "alb_rootwork-bloom",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-bloc-the-slat-2023-1",
+      "slug": "every-bloc",
+      "title": "Every Bloc",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_copper-oxidation-the-slate-",
+        "title": "Copper Oxidation",
+        "slug": "copper-oxidation",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_exchange-lullaby-merrick--2024-2",
+      "slug": "exchange-lullaby",
+      "title": "Exchange Lullaby",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_velvet-motel-merrick-mu",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-boulevard-blue-fer-2024-1",
+      "slug": "another-boulevard",
+      "title": "Another Boulevard",
+      "duration": "5:34",
+      "durationSec": 334,
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "album": {
+        "id": "alb_taxis-blue-ferry",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-hymn-zoning-a-2017-1",
+      "slug": "bloc-hymn",
+      "title": "Bloc Hymn",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_late-afterhours-zoning-and",
+        "title": "Late Afterhours",
+        "slug": "late-afterhours",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_foundry-instrumental-rasmus-s-2020-3",
+      "slug": "foundry-instrumental",
+      "title": "Foundry (Instrumental)",
+      "duration": "4:42",
+      "durationSec": 282,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-payphone-zoning-a-2016-1",
+      "slug": "blue-payphone",
+      "title": "Blue Payphone",
+      "duration": "4:46",
+      "durationSec": 286,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_motels-zoning-and",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-ferry-greer-bl-2020-2",
+      "slug": "last-ferry",
+      "title": "Last Ferry",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_soft-thicket-mateo-mo-2015-3",
+      "slug": "soft-thicket",
+      "title": "Soft Thicket",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-the-velv-2021-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-registries-central--2016-1",
+      "slug": "two-hundred-registries",
+      "title": "Two Hundred Registries",
+      "duration": "2:55",
+      "durationSec": 175,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hour-march-renata-a-2023-0",
+      "slug": "hour-march",
+      "title": "Hour March",
+      "duration": "3:14",
+      "durationSec": 194,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_brambles-renata-and",
+        "title": "Brambles",
+        "slug": "brambles",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ascension-femi-and-2007-3",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "5:49",
+      "durationSec": 349,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_payphone-waltz-the-asse-2010-1",
+      "slug": "payphone-waltz",
+      "title": "Payphone Waltz",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_late-motel-the-assemb",
+        "title": "Late Motel",
+        "slug": "late-motel",
+        "year": 2010
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-common-rust-str-2023-2",
+      "slug": "bright-common",
+      "title": "Bright Common",
+      "duration": "4:34",
+      "durationSec": 274,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_basalt-kiln-rust-strat",
+        "title": "Basalt Kiln",
+        "slug": "basalt-kiln",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_faded-label",
+      "slug": "faded-label",
+      "title": "Faded Label",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_the-dusty-crates",
+        "name": "The Dusty Crates",
+        "slug": "the-dusty-crates"
+      },
+      "album": {
+        "id": "alb_basement-sessions",
+        "title": "Basement Sessions",
+        "slug": "basement-sessions",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/basement-sessions.jpg"
+    },
+    {
+      "id": "trk_municipal-assembly-nocturne-2025-1",
+      "slug": "municipal-assembly",
+      "title": "Municipal Assembly",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ascension-nell-and-2025-2",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "6:30",
+      "durationSec": 390,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-alder-petra-il-2019-1",
+      "slug": "golden-alder",
+      "title": "Golden Alder",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-precincts-greer-bl-2021-1",
+      "slug": "all-the-precincts",
+      "title": "All the Precincts",
+      "duration": "4:05",
+      "durationSec": 245,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_taxis-greer-blac",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_aggregate-march-the-barl-2020-0",
+      "slug": "aggregate-march",
+      "title": "Aggregate March",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-underpasses-nocturne-2025-2",
+      "slug": "nothing-but-underpasses",
+      "title": "Nothing but Underpasses",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_underpass-hymn-wren-mer-2021-2",
+      "slug": "underpass-hymn",
+      "title": "Underpass Hymn",
+      "duration": "4:14",
+      "durationSec": 254,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_barleyfield-and-meadow-wren-merce",
+        "title": "Barleyfield & Meadow",
+        "slug": "barleyfield-and-meadow",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-curfew-2023-1",
+      "slug": "census",
+      "title": "Census",
+      "duration": "7:09",
+      "durationSec": 429,
+      "artist": {
+        "id": "art_curfew",
+        "name": "Curfew",
+        "slug": "curfew"
+      },
+      "album": {
+        "id": "alb_bureaus-curfew",
+        "title": "Bureaus",
+        "slug": "bureaus",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_infrastructure-the-asse-2020-2",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "4:10",
+      "durationSec": 250,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_census-the-assemb",
+        "title": "Census",
+        "slug": "census",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-meadow-overgrow-2022-2",
+      "slug": "golden-meadow",
+      "title": "Golden Meadow",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-barleyfield-bloom-2022-4",
+      "slug": "another-barleyfield",
+      "title": "Another Barleyfield",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "album": {
+        "id": "alb_grey-estuary-bloom",
+        "title": "Grey Estuary",
+        "slug": "grey-estuary",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quiet-common-the-neon-2024-0",
+      "slug": "quiet-common",
+      "title": "Quiet Common",
+      "duration": "4:27",
+      "durationSec": 267,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_the-ballroom-the-neon-u",
+        "title": "The Ballroom",
+        "slug": "the-ballroom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_boulevard-reprise-zoning-a-2022-2",
+      "slug": "boulevard-reprise",
+      "title": "Boulevard (Reprise)",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_public-exchange-zoning-and",
+        "title": "Public Exchange",
+        "slug": "public-exchange",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_limestone-strata-the-slat-2023-4",
+      "slug": "limestone-strata",
+      "title": "Limestone Strata",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_copper-oxidation-the-slate-",
+        "title": "Copper Oxidation",
+        "slug": "copper-oxidation",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_deep-current-ballast--2025-2",
+      "slug": "deep-current",
+      "title": "Deep Current",
+      "duration": "4:09",
+      "durationSec": 249,
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "album": {
+        "id": "alb_rootwork-ballast-an",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-observatories-nell-wre-2024-0",
+      "slug": "two-hundred-observatories",
+      "title": "Two Hundred Observatories",
+      "duration": "6:34",
+      "durationSec": 394,
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "album": {
+        "id": "alb_the-orbit-nell-wren",
+        "title": "The Orbit",
+        "slug": "the-orbit",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_annex-alt-take-imogen-s-2008-1",
+      "slug": "annex-alt-take",
+      "title": "Annex (Alt. Take)",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_ferries-imogen-sin",
+        "title": "Ferries",
+        "slug": "ferries",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ninth-corona-femi-and-2022-1",
+      "slug": "ninth-corona",
+      "title": "Ninth Corona",
+      "duration": "6:14",
+      "durationSec": 374,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zenith-redshift-2016-0",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "7:54",
+      "durationSec": 474,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-rooftops-rootwork-2026-2",
+      "slug": "two-hundred-rooftops",
+      "title": "Two Hundred Rooftops",
+      "duration": "3:33",
+      "durationSec": 213,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_neon-underpass-rootwork-a",
+        "title": "Neon Underpass",
+        "slug": "neon-underpass",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wet-pollen-the-gree-2025-1",
+      "slug": "wet-pollen",
+      "title": "Wet Pollen",
+      "duration": "7:29",
+      "durationSec": 449,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_green-frond-the-green-",
+        "title": "Green Frond",
+        "slug": "green-frond",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ascension-nell-and-2025-3",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "4:54",
+      "durationSec": 294,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_outer-equinox-nell-and-2024-4",
+      "slug": "outer-equinox",
+      "title": "Outer Equinox",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provision-central--2017-0",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_payphones-central-de",
+        "title": "Payphones",
+        "slug": "payphones",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-transits-the-gree-2025-3",
+      "slug": "nothing-but-transits",
+      "title": "Nothing but Transits",
+      "duration": "6:57",
+      "durationSec": 417,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_green-frond-the-green-",
+        "title": "Green Frond",
+        "slug": "green-frond",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-bloc-mateo-mo-2026-1",
+      "slug": "another-bloc",
+      "title": "Another Bloc",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-annex-mateo-moli",
+        "title": "The Annex",
+        "slug": "the-annex",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_underpass-edit-halvor-l-2016-0",
+      "slug": "underpass-edit",
+      "title": "Underpass (Edit)",
+      "duration": "6:22",
+      "durationSec": 382,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_depots-halvor-lin",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-meadow-bloom-2022-3",
+      "slug": "long-meadow",
+      "title": "Long Meadow",
+      "duration": "4:54",
+      "durationSec": 294,
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "album": {
+        "id": "alb_grey-estuary-bloom",
+        "title": "Grey Estuary",
+        "slug": "grey-estuary",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-underpass-the-velv-2021-2",
+      "slug": "small-underpass",
+      "title": "Small Underpass",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-the-velv-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "6:46",
+      "durationSec": 406,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_limestone-seam-nell-hol-2023-2",
+      "slug": "limestone-seam",
+      "title": "Limestone Seam",
+      "duration": "2:57",
+      "durationSec": 177,
+      "artist": {
+        "id": "art_nell-hollowell",
+        "name": "Nell Hollowell",
+        "slug": "nell-hollowell"
+      },
+      "album": {
+        "id": "alb_provisional-census-nell-hollo",
+        "title": "Provisional Census",
+        "slug": "provisional-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_trawler-march-lodestar-2024-0",
+      "slug": "trawler-march",
+      "title": "Trawler March",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_static-hearts",
+      "slug": "static-hearts",
+      "title": "Static Hearts",
+      "duration": "2:58",
+      "durationSec": 178,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_static-hearts",
+        "title": "Static Hearts",
+        "slug": "static-hearts",
+        "year": 2021
+      },
+      "albumArt": "/artwork/album/static-hearts.jpg"
+    },
+    {
+      "id": "trk_wax-and-wane",
+      "slug": "wax-and-wane",
+      "title": "Wax & Wane",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_petal-and-dew",
+        "name": "Petal & Dew",
+        "slug": "petal-and-dew"
+      },
+      "album": {
+        "id": "alb_petal-and-dew",
+        "title": "Petal & Dew",
+        "slug": "petal-and-dew",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-i-a-r-2025-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rooftop-waltz-bridie-v-2021-0",
+      "slug": "rooftop-waltz",
+      "title": "Rooftop Waltz",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_bridie-velvet",
+        "name": "Bridie Velvet",
+        "slug": "bridie-velvet"
+      },
+      "album": {
+        "id": "alb_neon-ballroom-bridie-vel",
+        "title": "Neon Ballroom",
+        "slug": "neon-ballroom",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_late-motel-merrick--2018-0",
+      "slug": "late-motel",
+      "title": "Late Motel",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_nightblooming-chlorophyll-merrick-an",
+        "title": "Nightblooming Chlorophyll",
+        "slug": "nightblooming-chlorophyll",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-meadow-mateo-mo-2015-4",
+      "slug": "long-meadow",
+      "title": "Long Meadow",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-boulevard-zoning-a-2020-1",
+      "slug": "small-boulevard",
+      "title": "Small Boulevard",
+      "duration": "3:23",
+      "durationSec": 203,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_precincts-zoning-and",
+        "title": "Precincts",
+        "slug": "precincts",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_static-lullaby",
+      "slug": "static-lullaby",
+      "title": "Static Lullaby",
+      "duration": "6:14",
+      "durationSec": 374,
+      "artist": {
+        "id": "art_hiss-and-warmth",
+        "name": "Hiss & Warmth",
+        "slug": "hiss-and-warmth"
+      },
+      "album": {
+        "id": "alb_analog-sundays",
+        "title": "Analog Sundays",
+        "slug": "analog-sundays",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/analog-sundays.jpg"
+    },
+    {
+      "id": "trk_dark-ferry-overgrow-2022-0",
+      "slug": "dark-ferry",
+      "title": "Dark Ferry",
+      "duration": "2:51",
+      "durationSec": 171,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_strata-song-delia-ho-2023-3",
+      "slug": "strata-song",
+      "title": "Strata Song",
+      "duration": "5:47",
+      "durationSec": 347,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_neon-motel-greer-bl-2020-3",
+      "slug": "neon-motel",
+      "title": "Neon Motel",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_limestone-seam-the-oute-2023-2",
+      "slug": "limestone-seam",
+      "title": "Limestone Seam",
+      "duration": "6:27",
+      "durationSec": 387,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_transit-lullaby-rasmus-s-2020-2",
+      "slug": "transit-lullaby",
+      "title": "Transit Lullaby",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-assembly-the-ball-2024-2",
+      "slug": "provisional-assembly",
+      "title": "Provisional Assembly",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_provisional-infrastructure-the-ballro",
+        "title": "Provisional Infrastructure",
+        "slug": "provisional-infrastructure",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-the-ball-2024-1",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "3:09",
+      "durationSec": 189,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_provisional-infrastructure-the-ballro",
+        "title": "Provisional Infrastructure",
+        "slug": "provisional-infrastructure",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_oxidation-the-oute-2025-2",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "7:00",
+      "durationSec": 420,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-central--2019-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "5:09",
+      "durationSec": 309,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_precinct-and-depot-central-de",
+        "title": "Precinct & Depot",
+        "slug": "precinct-and-depot",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_barleyfield-lullaby-wren-mer-2021-0",
+      "slug": "barleyfield-lullaby",
+      "title": "Barleyfield Lullaby",
+      "duration": "4:03",
+      "durationSec": 243,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_barleyfield-and-meadow-wren-merce",
+        "title": "Barleyfield & Meadow",
+        "slug": "barleyfield-and-meadow",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wild-thicket-sadie-an-2025-4",
+      "slug": "wild-thicket",
+      "title": "Wild Thicket",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_meadows-sadie-and-",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-strata-sadie-an-2021-1",
+      "slug": "half-a-strata",
+      "title": "Half a Strata",
+      "duration": "4:27",
+      "durationSec": 267,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_harvests-sadie-and-",
+        "title": "Harvests",
+        "slug": "harvests",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slow-meadow-rootwork-2017-0",
+      "slug": "slow-meadow",
+      "title": "Slow Meadow",
+      "duration": "5:19",
+      "durationSec": 319,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_village-and-alder-rootwork-a",
+        "title": "Village & Alder",
+        "slug": "village-and-alder",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-pasture-mateo-mo-2015-1",
+      "slug": "bright-pasture",
+      "title": "Bright Pasture",
+      "duration": "4:08",
+      "durationSec": 248,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_basalt-cairn-tobias-t-2024-1",
+      "slug": "basalt-cairn",
+      "title": "Basalt Cairn",
+      "duration": "9:48",
+      "durationSec": 588,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-transits-femi-and-2016-2",
+      "slug": "nothing-but-transits",
+      "title": "Nothing but Transits",
+      "duration": "7:42",
+      "durationSec": 462,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_central-annex-femi-and-t",
+        "title": "Central Annex",
+        "slug": "central-annex",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-hedgerow-rust-str-2020-0",
+      "slug": "long-hedgerow",
+      "title": "Long Hedgerow",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_common-waltz-overgrow-2021-1",
+      "slug": "common-waltz",
+      "title": "Common Waltz",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-estuaries-the-shoa-2026-3",
+      "slug": "nothing-but-estuaries",
+      "title": "Nothing but Estuaries",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_hollow-rootwork-the-shoals",
+        "title": "Hollow Rootwork",
+        "slug": "hollow-rootwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ferry-lullaby-provisio-2022-1",
+      "slug": "ferry-lullaby",
+      "title": "Ferry Lullaby",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_late-nocturne-provisiona",
+        "title": "Late Nocturne",
+        "slug": "late-nocturne",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-alders-rootwork-2023-2",
+      "slug": "two-hundred-alders",
+      "title": "Two Hundred Alders",
+      "duration": "2:30",
+      "durationSec": 150,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_commons-rootwork-a",
+        "title": "Commons",
+        "slug": "commons",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-delia-ho-2023-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "5:57",
+      "durationSec": 357,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-central--2019-4",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_precinct-and-depot-central-de",
+        "title": "Precinct & Depot",
+        "slug": "precinct-and-depot",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cairn-demo-sadie-an-2020-0",
+      "slug": "cairn-demo",
+      "title": "Cairn (Demo)",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-sadie-bl-2020-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "5:25",
+      "durationSec": 325,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-harvest-renata-a-2021-2",
+      "slug": "long-harvest",
+      "title": "Long Harvest",
+      "duration": "4:06",
+      "durationSec": 246,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_husbandry-i-a-r-2025-2",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-motels-wren-mer-2023-1",
+      "slug": "two-hundred-motels",
+      "title": "Two Hundred Motels",
+      "duration": "4:04",
+      "durationSec": 244,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_assembly-march-the-asse-2012-0",
+      "slug": "assembly-march",
+      "title": "Assembly March",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_velvet-insomnia-the-assemb",
+        "title": "Velvet Insomnia",
+        "slug": "velvet-insomnia",
+        "year": 2012
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-common-small-pa-2021-2",
+      "slug": "half-a-common",
+      "title": "Half a Common",
+      "duration": "4:34",
+      "durationSec": 274,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_soft-husbandry-small-payp",
+        "title": "Soft Husbandry",
+        "slug": "soft-husbandry",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dark-boulevard-the-asse-2008-4",
+      "slug": "dark-boulevard",
+      "title": "Dark Boulevard",
+      "duration": "3:47",
+      "durationSec": 227,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_small-afterhours-the-assemb",
+        "title": "Small Afterhours",
+        "slug": "small-afterhours",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_oxidation-elliot-c-2025-3",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "3:53",
+      "durationSec": 233,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_model-assembly-elliot-cra",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-taxis-merrick--2025-1",
+      "slug": "nothing-but-taxis",
+      "title": "Nothing but Taxis",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_provision-merrick-mu",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_midnight-underpass-sanne-mi-2025-0",
+      "slug": "midnight-underpass",
+      "title": "Midnight Underpass",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_45-rpm-heart",
+      "slug": "45-rpm-heart",
+      "title": "45 RPM Heart",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_shellac-jones",
+        "name": "Shellac Jones",
+        "slug": "shellac-jones"
+      },
+      "album": {
+        "id": "alb_slow-rotation",
+        "title": "Slow Rotation",
+        "slug": "slow-rotation",
+        "year": 2022
+      },
+      "albumArt": "/artwork/album/slow-rotation.jpg"
+    },
+    {
+      "id": "trk_nocturne-merrick--2024-1",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_velvet-motel-merrick-mu",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_taxi-march-central--2016-2",
+      "slug": "taxi-march",
+      "title": "Taxi March",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-overgrow-2021-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_taxi-blues-sadie-bl-2020-2",
+      "slug": "taxi-blues",
+      "title": "Taxi Blues",
+      "duration": "3:55",
+      "durationSec": 235,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_sediment-opal-and-2015-0",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_fieldwork-opal-and-t",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_twice-the-registry-late-pay-2017-0",
+      "slug": "twice-the-registry",
+      "title": "Twice the Registry",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_central-depot-late-payph",
+        "title": "Central Depot",
+        "slug": "central-depot",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-ballroom-merrick--2011-1",
+      "slug": "half-a-ballroom",
+      "title": "Half a Ballroom",
+      "duration": "4:26",
+      "durationSec": 266,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-rhys-ree-2021-0",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "5:18",
+      "durationSec": 318,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_annex-and-terminal-rhys-rees",
+        "title": "Annex & Terminal",
+        "slug": "annex-and-terminal",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_twice-the-meadow-petra-il-2017-2",
+      "slug": "twice-the-meadow",
+      "title": "Twice the Meadow",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballroom-hymn-nocturne-2025-0",
+      "slug": "ballroom-hymn",
+      "title": "Ballroom Hymn",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_breakwater-march-the-shoa-2020-1",
+      "slug": "breakwater-march",
+      "title": "Breakwater March",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-currents-the-shoa-2026-2",
+      "slug": "all-the-currents",
+      "title": "All the Currents",
+      "duration": "2:30",
+      "durationSec": 150,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_hollow-rootwork-the-shoals",
+        "title": "Hollow Rootwork",
+        "slug": "hollow-rootwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quiet-village-the-shoa-2026-0",
+      "slug": "quiet-village",
+      "title": "Quiet Village",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_hollow-rootwork-the-shoals",
+        "title": "Hollow Rootwork",
+        "slug": "hollow-rootwork",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dust-on-the-needle",
+      "slug": "dust-on-the-needle",
+      "title": "Dust on the Needle",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_the-worn-grooves",
+        "name": "The Worn Grooves",
+        "slug": "the-worn-grooves"
+      },
+      "album": {
+        "id": "alb_sunday-spins",
+        "title": "Sunday Spins",
+        "slug": "sunday-spins",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/sunday-spins.jpg"
+    },
+    {
+      "id": "trk_strata-waltz-elliot-c-2023-0",
+      "slug": "strata-waltz",
+      "title": "Strata Waltz",
+      "duration": "3:17",
+      "durationSec": 197,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-precincts-mateo-mo-2021-2",
+      "slug": "all-the-precincts",
+      "title": "All the Precincts",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-pasture-mateo-moli",
+        "title": "The Pasture",
+        "slug": "the-pasture",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_insomnia-the-ball-2012-4",
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "duration": "2:18",
+      "durationSec": 138,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-ballro",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2012
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-merrick--2011-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:00",
+      "durationSec": 180,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_worn-edges",
+      "slug": "worn-edges",
+      "title": "Worn Edges",
+      "duration": "4:22",
+      "durationSec": 262,
+      "artist": {
+        "id": "art_margot-and-the-spindles",
+        "name": "Margot & The Spindles",
+        "slug": "margot-and-the-spindles"
+      },
+      "album": {
+        "id": "alb_thrift-store-finds",
+        "title": "Thrift Store Finds",
+        "slug": "thrift-store-finds",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/thrift-store-finds.jpg"
+    },
+    {
+      "id": "trk_total-meridian-femi-and-2011-3",
+      "slug": "total-meridian",
+      "title": "Total Meridian",
+      "duration": "8:10",
+      "durationSec": 490,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-zoning-a-2024-0",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_small-insomnia-zoning-and",
+        "title": "Small Insomnia",
+        "slug": "small-insomnia",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-rooftop-i-a-r-2025-0",
+      "slug": "half-a-rooftop",
+      "title": "Half a Rooftop",
+      "duration": "5:15",
+      "durationSec": 315,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-ferry-halvor-l-2020-2",
+      "slug": "half-a-ferry",
+      "title": "Half a Ferry",
+      "duration": "5:04",
+      "durationSec": 304,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fallow-orchard-antonell-2023-2",
+      "slug": "fallow-orchard",
+      "title": "Fallow Orchard",
+      "duration": "2:36",
+      "durationSec": 156,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_fallow-common-antonella-",
+        "title": "Fallow Common",
+        "slug": "fallow-common",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-annex-the-ball-2012-2",
+      "slug": "provisional-annex",
+      "title": "Provisional Annex",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-ballro",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2012
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_overgrowth-the-barl-2022-1",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_the-quarry-the-barley",
+        "title": "The Quarry",
+        "slug": "the-quarry",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-hours-imogen-s-2026-3",
+      "slug": "all-the-hours",
+      "title": "All the Hours",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_registries-imogen-sin",
+        "title": "Registries",
+        "slug": "registries",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_motel-demo-zoning-a-2024-1",
+      "slug": "motel-demo",
+      "title": "Motel (Demo)",
+      "duration": "3:10",
+      "durationSec": 190,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_small-insomnia-zoning-and",
+        "title": "Small Insomnia",
+        "slug": "small-insomnia",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_aphelion-song-femi-and-2006-2",
+      "slug": "aphelion-song",
+      "title": "Aphelion Song",
+      "duration": "8:04",
+      "durationSec": 484,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_model-assembly-femi-and-t",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2006
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quiet-fen-rust-str-2020-2",
+      "slug": "quiet-fen",
+      "title": "Quiet Fen",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_grafting-grafting-2021-3",
+      "slug": "grafting",
+      "title": "Grafting",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zenith-nell-wre-2024-1",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "album": {
+        "id": "alb_the-orbit-nell-wren",
+        "title": "The Orbit",
+        "slug": "the-orbit",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_orbit-lullaby-femi-and-2013-0",
+      "slug": "orbit-lullaby",
+      "title": "Orbit Lullaby",
+      "duration": "4:31",
+      "durationSec": 271,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_new-zoning-femi-and-t",
+        "title": "New Zoning",
+        "slug": "new-zoning",
+        "year": 2013
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-terminal-bridie-v-2025-3",
+      "slug": "provisional-terminal",
+      "title": "Provisional Terminal",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_bridie-velvet",
+        "name": "Bridie Velvet",
+        "slug": "bridie-velvet"
+      },
+      "album": {
+        "id": "alb_curfew-bridie-vel",
+        "title": "Curfew",
+        "slug": "curfew",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-registries-merrick--2023-1",
+      "slug": "all-the-registries",
+      "title": "All the Registries",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_motels-merrick-mu",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-rooftops-wren-mer-2023-0",
+      "slug": "nothing-but-rooftops",
+      "title": "Nothing but Rooftops",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_erosion-opal-and-2009-0",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_tectonics-opal-and-t",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-the-neon-2017-2",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-neon-u",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_almanac-bloom-2016-2",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:09",
+      "durationSec": 189,
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "album": {
+        "id": "alb_bloom-bloom",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballroom-reprise-imogen-s-2017-0",
+      "slug": "ballroom-reprise",
+      "title": "Ballroom (Reprise)",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_neon-hour-imogen-sin",
+        "title": "Neon Hour",
+        "slug": "neon-hour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-petra-il-2017-0",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_deep-current",
+      "slug": "deep-current",
+      "title": "Deep Current",
+      "duration": "4:04",
+      "durationSec": 244,
+      "artist": {
+        "id": "art_elara-cove",
+        "name": "Elara Cove",
+        "slug": "elara-cove"
+      },
+      "album": {
+        "id": "alb_quiet-village",
+        "title": "Quiet Village",
+        "slug": "quiet-village",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slow-pasture-petra-il-2021-0",
+      "slug": "slow-pasture",
+      "title": "Slow Pasture",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-registry-the-ball-2015-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "3:36",
+      "durationSec": 216,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_velvet-underpass-the-ballro",
+        "title": "Velvet Underpass",
+        "slug": "velvet-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-waltz-the-slat-2017-1",
+      "slug": "bloc-waltz",
+      "title": "Bloc Waltz",
+      "duration": "3:06",
+      "durationSec": 186,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_tectonics-the-slate-",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-lodestar-2024-1",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-precinct-central--2024-1",
+      "slug": "public-precinct",
+      "title": "Public Precinct",
+      "duration": "4:30",
+      "durationSec": 270,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-payphone-central-de",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_twice-the-ballroom-bridie-v-2021-1",
+      "slug": "twice-the-ballroom",
+      "title": "Twice the Ballroom",
+      "duration": "4:11",
+      "durationSec": 251,
+      "artist": {
+        "id": "art_bridie-velvet",
+        "name": "Bridie Velvet",
+        "slug": "bridie-velvet"
+      },
+      "album": {
+        "id": "alb_neon-ballroom-bridie-vel",
+        "title": "Neon Ballroom",
+        "slug": "neon-ballroom",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fern-dew-nell-and-2024-1",
+      "slug": "fern-dew",
+      "title": "Fern Dew",
+      "duration": "6:20",
+      "durationSec": 380,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-wren-mer-2023-2",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "4:25",
+      "durationSec": 265,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_municipal-depot-mateo-mo-2019-1",
+      "slug": "municipal-depot",
+      "title": "Municipal Depot",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-precinct-the-asse-2026-0",
+      "slug": "model-precinct",
+      "title": "Model Precinct",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_velvet-motel-the-assemb",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-track-home",
+      "slug": "last-track-home",
+      "title": "Last Track Home",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_lead-in-groove",
+        "name": "Lead-In Groove",
+        "slug": "lead-in-groove"
+      },
+      "album": {
+        "id": "alb_side-b-forever",
+        "title": "Side B Forever",
+        "slug": "side-b-forever",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/side-b-forever.jpg"
+    },
+    {
+      "id": "trk_oxidation-the-oute-2023-3",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "9:42",
+      "durationSec": 582,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_infrastructure-the-ball-2008-0",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_boulevards-the-ballro",
+        "title": "Boulevards",
+        "slug": "boulevards",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provision-the-asse-2012-1",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_velvet-insomnia-the-assemb",
+        "title": "Velvet Insomnia",
+        "slug": "velvet-insomnia",
+        "year": 2012
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-bureau-central--2019-3",
+      "slug": "central-bureau",
+      "title": "Central Bureau",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_precinct-and-depot-central-de",
+        "title": "Precinct & Depot",
+        "slug": "precinct-and-depot",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-ballroom-grafting-2021-2",
+      "slug": "blue-ballroom",
+      "title": "Blue Ballroom",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-alder-opal-and-2015-2",
+      "slug": "golden-alder",
+      "title": "Golden Alder",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_fieldwork-opal-and-t",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_depot-instrumental-mateo-mo-2026-0",
+      "slug": "depot-instrumental",
+      "title": "Depot (Instrumental)",
+      "duration": "3:50",
+      "durationSec": 230,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-annex-mateo-moli",
+        "title": "The Annex",
+        "slug": "the-annex",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-sleeves-sadie-bl-2019-2",
+      "slug": "nothing-but-sleeves",
+      "title": "Nothing but Sleeves",
+      "duration": "5:03",
+      "durationSec": 303,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-ballroom-renata-a-2025-1",
+      "slug": "last-ballroom",
+      "title": "Last Ballroom",
+      "duration": "4:23",
+      "durationSec": 263,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_the-payphone-renata-and",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wet-herbarium-merrick--2019-3",
+      "slug": "wet-herbarium",
+      "title": "Wet Herbarium",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rooftop-lullaby-nocturne-2021-2",
+      "slug": "rooftop-lullaby",
+      "title": "Rooftop Lullaby",
+      "duration": "2:54",
+      "durationSec": 174,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_songs-for-blocs-nocturne",
+        "title": "Songs for Blocs",
+        "slug": "songs-for-blocs",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_insomnia-provisio-2016-2",
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "duration": "3:01",
+      "durationSec": 181,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-marquee-small-pa-2022-0",
+      "slug": "small-marquee",
+      "title": "Small Marquee",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_nocturne-small-payp",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-imogen-s-2015-2",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_payphone-and-underpass-imogen-sin",
+        "title": "Payphone & Underpass",
+        "slug": "payphone-and-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-imogen-s-2017-2",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_neon-hour-imogen-sin",
+        "title": "Neon Hour",
+        "slug": "neon-hour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rootwork-the-barl-2021-0",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_wild-almanac-the-barley",
+        "title": "Wild Almanac",
+        "slug": "wild-almanac",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-the-shoa-2020-0",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nightblooming-greenhouse-nell-wre-2023-2",
+      "slug": "nightblooming-greenhouse",
+      "title": "Nightblooming Greenhouse",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "album": {
+        "id": "alb_the-dew-nell-wren",
+        "title": "The Dew",
+        "slug": "the-dew",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_twice-the-rooftop-provisio-2018-1",
+      "slug": "twice-the-rooftop",
+      "title": "Twice the Rooftop",
+      "duration": "4:27",
+      "durationSec": 267,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_infrastructure-provisiona",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-registry-halvor-l-2014-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-assemblies-central--2016-0",
+      "slug": "all-the-assemblies",
+      "title": "All the Assemblies",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_seam-demo-rust-str-2020-3",
+      "slug": "seam-demo",
+      "title": "Seam (Demo)",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ferry-live-at-the-roundhouse-overgrow-2022-3",
+      "slug": "ferry-live-at-the-roundhouse",
+      "title": "Ferry (Live at the Roundhouse)",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slate-aggregate-tobias-t-2025-0",
+      "slug": "slate-aggregate",
+      "title": "Slate Aggregate",
+      "duration": "10:44",
+      "durationSec": 644,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hollow-fen-the-neon-2014-3",
+      "slug": "hollow-fen",
+      "title": "Hollow Fen",
+      "duration": "3:48",
+      "durationSec": 228,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u-2",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bureau-waltz-the-velv-2024-3",
+      "slug": "bureau-waltz",
+      "title": "Bureau Waltz",
+      "duration": "5:59",
+      "durationSec": 359,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_distant-observatory-redshift-2018-1",
+      "slug": "distant-observatory",
+      "title": "Distant Observatory",
+      "duration": "10:31",
+      "durationSec": 631,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_late-marquee-the-velv-2023-1",
+      "slug": "late-marquee",
+      "title": "Late Marquee",
+      "duration": "7:44",
+      "durationSec": 464,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_sediment-redshift-2016-2",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "8:35",
+      "durationSec": 515,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-imogen-s-2021-0",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "4:55",
+      "durationSec": 295,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_curfew-imogen-sin",
+        "title": "Curfew",
+        "slug": "curfew",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-taxi-provisio-2016-0",
+      "slug": "every-taxi",
+      "title": "Every Taxi",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-terminal-greer-bl-2018-1",
+      "slug": "model-terminal",
+      "title": "Model Terminal",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_neon-rooftop-greer-blac",
+        "title": "Neon Rooftop",
+        "slug": "neon-rooftop",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_marquee-lullaby-merrick--2011-2",
+      "slug": "marquee-lullaby",
+      "title": "Marquee Lullaby",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_underpass-waltz-merrick--2025-3",
+      "slug": "underpass-waltz",
+      "title": "Underpass Waltz",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_provision-merrick-mu",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-ferry-the-ball-2012-3",
+      "slug": "small-ferry",
+      "title": "Small Ferry",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-ballro",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2012
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-ballrooms-grafting-2026-1",
+      "slug": "all-the-ballrooms",
+      "title": "All the Ballrooms",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_velvet-nocturne-grafting",
+        "title": "Velvet Nocturne",
+        "slug": "velvet-nocturne",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fallow-meadow-opal-and-2019-1",
+      "slug": "fallow-meadow",
+      "title": "Fallow Meadow",
+      "duration": "4:47",
+      "durationSec": 287,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-imogen-s-2015-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:38",
+      "durationSec": 218,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_payphone-and-underpass-imogen-sin",
+        "title": "Payphone & Underpass",
+        "slug": "payphone-and-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_soft-meadow-rootwork-2019-0",
+      "slug": "soft-meadow",
+      "title": "Soft Meadow",
+      "duration": "4:10",
+      "durationSec": 250,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_midnight-hour-rootwork-a",
+        "title": "Midnight Hour",
+        "slug": "midnight-hour",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-terminal-the-asse-2026-1",
+      "slug": "every-terminal",
+      "title": "Every Terminal",
+      "duration": "3:05",
+      "durationSec": 185,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_velvet-motel-the-assemb",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-assembly-femi-and-2016-3",
+      "slug": "public-assembly",
+      "title": "Public Assembly",
+      "duration": "5:20",
+      "durationSec": 320,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_central-annex-femi-and-t",
+        "title": "Central Annex",
+        "slug": "central-annex",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-village-rust-str-2022-0",
+      "slug": "long-village",
+      "title": "Long Village",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_quiet-bloom-rust-strat",
+        "title": "Quiet Bloom",
+        "slug": "quiet-bloom",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_open-fields",
+      "slug": "open-fields",
+      "title": "Open Fields",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_felix-drift",
+        "name": "Felix Drift",
+        "slug": "felix-drift"
+      },
+      "album": {
+        "id": "alb_wide-open",
+        "title": "Wide Open",
+        "slug": "wide-open",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_solar-equinox-redshift-2018-2",
+      "slug": "solar-equinox",
+      "title": "Solar Equinox",
+      "duration": "8:49",
+      "durationSec": 529,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-payphone-curfew-2023-0",
+      "slug": "half-a-payphone",
+      "title": "Half a Payphone",
+      "duration": "7:09",
+      "durationSec": 429,
+      "artist": {
+        "id": "art_curfew",
+        "name": "Curfew",
+        "slug": "curfew"
+      },
+      "album": {
+        "id": "alb_bureaus-curfew",
+        "title": "Bureaus",
+        "slug": "bureaus",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-the-ball-2015-2",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "3:03",
+      "durationSec": 183,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_velvet-underpass-the-ballro",
+        "title": "Velvet Underpass",
+        "slug": "velvet-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-petra-il-2021-3",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-taxi-blue-fer-2022-1",
+      "slug": "blue-taxi",
+      "title": "Blue Taxi",
+      "duration": "4:55",
+      "durationSec": 295,
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "album": {
+        "id": "alb_velvet-payphone-blue-ferry",
+        "title": "Velvet Payphone",
+        "slug": "velvet-payphone",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ferry-reprise-imogen-s-2026-2",
+      "slug": "ferry-reprise",
+      "title": "Ferry (Reprise)",
+      "duration": "2:47",
+      "durationSec": 167,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_registries-imogen-sin",
+        "title": "Registries",
+        "slug": "registries",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-the-velv-2021-1",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "5:13",
+      "durationSec": 313,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quarry-instrumental-til-voge-2023-3",
+      "slug": "quarry-instrumental",
+      "title": "Quarry (Instrumental)",
+      "duration": "7:48",
+      "durationSec": 468,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-estuaries-the-shoa-2019-2",
+      "slug": "two-hundred-estuaries",
+      "title": "Two Hundred Estuaries",
+      "duration": "4:06",
+      "durationSec": 246,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_deep-fathom-the-shoals",
+        "title": "Deep Fathom",
+        "slug": "deep-fathom",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cove-waltz-the-shoa-2021-3",
+      "slug": "cove-waltz",
+      "title": "Cove Waltz",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_almanac-the-shoals",
+        "title": "Almanac",
+        "slug": "almanac",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-halvor-l-2017-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-provisio-2022-2",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "2:59",
+      "durationSec": 179,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_late-nocturne-provisiona",
+        "title": "Late Nocturne",
+        "slug": "late-nocturne",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_outer-aphelion-femi-and-2022-3",
+      "slug": "outer-aphelion",
+      "title": "Outer Aphelion",
+      "duration": "7:21",
+      "durationSec": 441,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_tidal-fathom-the-shoa-2020-3",
+      "slug": "tidal-fathom",
+      "title": "Tidal Fathom",
+      "duration": "5:38",
+      "durationSec": 338,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-femi-and-2016-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "8:26",
+      "durationSec": 506,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_central-annex-femi-and-t",
+        "title": "Central Annex",
+        "slug": "central-annex",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_chalk-strata-the-slat-2021-1",
+      "slug": "chalk-strata",
+      "title": "Chalk Strata",
+      "duration": "3:18",
+      "durationSec": 198,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_zoning-the-slate-",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_wow-and-flutter-sadie-bl-2020-1",
+      "slug": "wow-and-flutter",
+      "title": "Wow & Flutter",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-pastures-the-neon-2014-2",
+      "slug": "all-the-pastures",
+      "title": "All the Pastures",
+      "duration": "3:07",
+      "durationSec": 187,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u-2",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_paper-lanterns",
+      "slug": "paper-lanterns",
+      "title": "Paper Lanterns",
+      "duration": "3:52",
+      "durationSec": 232,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_paper-lanterns",
+        "title": "Paper Lanterns",
+        "slug": "paper-lanterns",
+        "year": 2020
+      },
+      "albumArt": "/artwork/album/paper-lanterns.jpg"
+    },
+    {
+      "id": "trk_golden-thread",
+      "slug": "golden-thread",
+      "title": "Golden Thread",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_flora",
+        "title": "Flora",
+        "slug": "flora",
+        "year": 2025
+      },
+      "albumArt": "/artwork/album/flora.jpg"
+    },
+    {
+      "id": "trk_marquee-elegy-merrick--2009-2",
+      "slug": "marquee-elegy",
+      "title": "Marquee Elegy",
+      "duration": "3:00",
+      "durationSec": 180,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_green-dew-merrick-an",
+        "title": "Green Dew",
+        "slug": "green-dew",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_strata-blues-sadie-an-2025-1",
+      "slug": "strata-blues",
+      "title": "Strata Blues",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_meadows-sadie-and-",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-rooftop-zoning-a-2020-0",
+      "slug": "every-rooftop",
+      "title": "Every Rooftop",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_precincts-zoning-and",
+        "title": "Precincts",
+        "slug": "precincts",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-meridian-nell-and-2025-0",
+      "slug": "half-a-meridian",
+      "title": "Half a Meridian",
+      "duration": "3:10",
+      "durationSec": 190,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 312,
+  "shortfall": 0,
   "artwork": {
     "image": null,
     "direction": {

@@ -344,6 +344,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_golden-hour",
+      "slug": "golden-hour",
+      "title": "Golden Hour",
+      "image": "/artwork/playlist/golden-hour.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Nightblooming Frond",
+      "position": 11,
+      "caption": "Nightblooming Frond is track 11"
+    },
+    {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Nocturne",
+      "position": 5,
+      "caption": "Nocturne is track 5"
+    },
+    {
       "playlistId": "pl_country-japan",
       "slug": "japan",
       "title": "Japan",

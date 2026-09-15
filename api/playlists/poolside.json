@@ -15,9 +15,9 @@
     "city": "São Paulo"
   },
   "trackCount": 11,
-  "durationSec": 2640,
-  "durationLabel": "44 min",
-  "metaLine": "11 tracks · 44 min",
+  "durationSec": 4111,
+  "durationLabel": "1 hr 9 min",
+  "metaLine": "11 tracks · 1 hr 9 min",
   "libraryLine": "List · 11 songs",
   "followers": 55302,
   "followersLabel": "55K",
@@ -31,10 +31,232 @@
     "dub",
     "funk"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 11,
+  "trackIds": [
+    "trk_zoning-cass-and-2023-0",
+    "trk_ninth-corona-femi-and-2022-1",
+    "trk_new-assembly-femi-and-2009-1",
+    "trk_precinct-elegy-femi-and-2018-2",
+    "trk_total-meridian-femi-and-2011-3",
+    "trk_small-marquee-curfew-2023-2",
+    "trk_hour-march-renata-a-2023-0",
+    "trk_new-depot-femi-and-2016-1",
+    "trk_model-assembly-femi-and-2018-1",
+    "trk_census-femi-and-2022-2",
+    "trk_census-femi-and-2022-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_zoning-cass-and-2023-0",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ninth-corona-femi-and-2022-1",
+      "slug": "ninth-corona",
+      "title": "Ninth Corona",
+      "duration": "6:14",
+      "durationSec": 374,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_new-assembly-femi-and-2009-1",
+      "slug": "new-assembly",
+      "title": "New Assembly",
+      "duration": "7:07",
+      "durationSec": 427,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_orbit-and-aphelion-femi-and-t",
+        "title": "Orbit & Aphelion",
+        "slug": "orbit-and-aphelion",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_precinct-elegy-femi-and-2018-2",
+      "slug": "precinct-elegy",
+      "title": "Precinct Elegy",
+      "duration": "5:56",
+      "durationSec": 356,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_ninth-meridian-femi-and-t",
+        "title": "Ninth Meridian",
+        "slug": "ninth-meridian",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_total-meridian-femi-and-2011-3",
+      "slug": "total-meridian",
+      "title": "Total Meridian",
+      "duration": "8:10",
+      "durationSec": 490,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-marquee-curfew-2023-2",
+      "slug": "small-marquee",
+      "title": "Small Marquee",
+      "duration": "7:09",
+      "durationSec": 429,
+      "artist": {
+        "id": "art_curfew",
+        "name": "Curfew",
+        "slug": "curfew"
+      },
+      "album": {
+        "id": "alb_bureaus-curfew",
+        "title": "Bureaus",
+        "slug": "bureaus",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hour-march-renata-a-2023-0",
+      "slug": "hour-march",
+      "title": "Hour March",
+      "duration": "3:14",
+      "durationSec": 194,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_brambles-renata-and",
+        "title": "Brambles",
+        "slug": "brambles",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_new-depot-femi-and-2016-1",
+      "slug": "new-depot",
+      "title": "New Depot",
+      "duration": "7:56",
+      "durationSec": 476,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_central-annex-femi-and-t",
+        "title": "Central Annex",
+        "slug": "central-annex",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-assembly-femi-and-2018-1",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "duration": "6:04",
+      "durationSec": 364,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_ninth-meridian-femi-and-t",
+        "title": "Ninth Meridian",
+        "slug": "ninth-meridian",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-femi-and-2022-2",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:54",
+      "durationSec": 294,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-femi-and-2022-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "7:29",
+      "durationSec": 449,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 11,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/poolside.jpg",
     "direction": {

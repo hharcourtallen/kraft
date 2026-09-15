@@ -116,5 +116,17 @@
       "image": null
     }
   ],
-  "onLists": []
+  "onLists": [
+    {
+      "playlistId": "pl_golden-hour",
+      "slug": "golden-hour",
+      "title": "Golden Hour",
+      "image": "/artwork/playlist/golden-hour.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Harbour Lights",
+      "position": 2,
+      "caption": "Harbour Lights is track 2"
+    }
+  ]
 }

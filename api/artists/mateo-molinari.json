@@ -335,6 +335,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_tropicalia",
+      "slug": "tropicalia",
+      "title": "Tropicália",
+      "image": "/artwork/playlist/tropicalia.jpg",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Depot (Reprise)",
+      "position": 4,
+      "caption": "Depot (Reprise) is track 4"
+    },
+    {
+      "playlistId": "pl_the-archive",
+      "slug": "the-archive",
+      "title": "The Archive",
+      "image": "/artwork/playlist/the-archive.jpg",
+      "curatorId": "cur_ade-mensah",
+      "curatorName": "Adé Mensah",
+      "trackTitle": "Another Bloc",
+      "position": 3,
+      "caption": "Another Bloc is track 3"
+    },
+    {
       "playlistId": "pl_country-argentina",
       "slug": "argentina",
       "title": "Argentina",

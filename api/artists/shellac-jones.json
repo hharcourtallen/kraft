@@ -125,6 +125,17 @@
       "trackTitle": "45 RPM Heart",
       "position": 8,
       "caption": "45 RPM Heart is track 8"
+    },
+    {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "45 RPM Heart",
+      "position": 3,
+      "caption": "45 RPM Heart is track 3"
     }
   ]
 }

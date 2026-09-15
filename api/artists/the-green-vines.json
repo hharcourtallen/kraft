@@ -325,6 +325,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_jazz-nights",
+      "slug": "jazz-nights",
+      "title": "Jazz Nights",
+      "image": "/artwork/playlist/jazz-nights.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Every Meridian",
+      "position": 2,
+      "caption": "Every Meridian is track 2"
+    },
+    {
+      "playlistId": "pl_midnight-sax",
+      "slug": "midnight-sax",
+      "title": "Midnight Sax",
+      "image": "/artwork/playlist/midnight-sax.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Parallax",
+      "position": 3,
+      "caption": "Parallax is track 3"
+    },
+    {
       "playlistId": "pl_country-norway",
       "slug": "norway",
       "title": "Norway",

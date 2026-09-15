@@ -15,9 +15,9 @@
     "city": "London"
   },
   "trackCount": 8,
-  "durationSec": 1920,
-  "durationLabel": "32 min",
-  "metaLine": "8 tracks · 32 min",
+  "durationSec": 2416,
+  "durationLabel": "40 min",
+  "metaLine": "8 tracks · 40 min",
   "libraryLine": "List · 8 songs",
   "followers": 41880,
   "followersLabel": "42K",
@@ -30,10 +30,172 @@
     "soul",
     "downtempo"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 8,
+  "trackIds": [
+    "trk_cassette-weather",
+    "trk_midnight-underpass-sanne-mi-2025-0",
+    "trk_central-bloc-late-pay-2023-1",
+    "trk_provisional-registry-late-pay-2016-0",
+    "trk_outer-meridian-til-voge-2023-2",
+    "trk_blue-ballroom-late-pay-2023-3",
+    "trk_dark-ferry-sadie-bl-2019-3",
+    "trk_flora-bridie-s-2023-2"
+  ],
+  "tracks": [
+    {
+      "id": "trk_cassette-weather",
+      "slug": "cassette-weather",
+      "title": "Cassette Weather",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_elara-cove",
+        "name": "Elara Cove",
+        "slug": "elara-cove"
+      },
+      "album": {
+        "id": "alb_quiet-village",
+        "title": "Quiet Village",
+        "slug": "quiet-village",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_midnight-underpass-sanne-mi-2025-0",
+      "slug": "midnight-underpass",
+      "title": "Midnight Underpass",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-bloc-late-pay-2023-1",
+      "slug": "central-bloc",
+      "title": "Central Bloc",
+      "duration": "5:01",
+      "durationSec": 301,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_underpasses-late-payph",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-registry-late-pay-2016-0",
+      "slug": "provisional-registry",
+      "title": "Provisional Registry",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_outer-meridian-til-voge-2023-2",
+      "slug": "outer-meridian",
+      "title": "Outer Meridian",
+      "duration": "8:07",
+      "durationSec": 487,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-ballroom-late-pay-2023-3",
+      "slug": "blue-ballroom",
+      "title": "Blue Ballroom",
+      "duration": "6:24",
+      "durationSec": 384,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_underpasses-late-payph",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dark-ferry-sadie-bl-2019-3",
+      "slug": "dark-ferry",
+      "title": "Dark Ferry",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_flora-bridie-s-2023-2",
+      "slug": "flora",
+      "title": "Flora",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_wet-conservatory-bridie-sin",
+        "title": "Wet Conservatory",
+        "slug": "wet-conservatory",
+        "year": 2023
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 8,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/late-night-heat.jpg",
     "direction": {

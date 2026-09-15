@@ -178,6 +178,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_string-theory",
+      "slug": "string-theory",
+      "title": "String Theory",
+      "image": "/artwork/playlist/string-theory.jpg",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Foundry (Instrumental)",
+      "position": 2,
+      "caption": "Foundry (Instrumental) is track 2"
+    },
+    {
       "playlistId": "pl_country-norway",
       "slug": "norway",
       "title": "Norway",

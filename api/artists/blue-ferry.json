@@ -273,6 +273,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Hour Lullaby",
+      "position": 7,
+      "caption": "Hour Lullaby is track 7"
+    },
+    {
       "playlistId": "pl_country-japan",
       "slug": "japan",
       "title": "Japan",

@@ -242,6 +242,28 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_golden-hour",
+      "slug": "golden-hour",
+      "title": "Golden Hour",
+      "image": "/artwork/playlist/golden-hour.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Paper Lanterns",
+      "position": 1,
+      "caption": "Paper Lanterns opens it"
+    },
+    {
+      "playlistId": "pl_cassette-dreams",
+      "slug": "cassette-dreams",
+      "title": "Cassette Dreams",
+      "image": "/artwork/playlist/cassette-dreams.jpg",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Golden Thread",
+      "position": 1,
+      "caption": "Golden Thread opens it"
+    },
+    {
       "playlistId": "pl_country-united-states",
       "slug": "united-states",
       "title": "United States",

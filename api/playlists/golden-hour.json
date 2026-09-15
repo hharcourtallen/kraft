@@ -15,9 +15,9 @@
     "city": "Mexico City"
   },
   "trackCount": 20,
-  "durationSec": 4800,
-  "durationLabel": "1 hr 20 min",
-  "metaLine": "20 tracks · 1 hr 20 min",
+  "durationSec": 4576,
+  "durationLabel": "1 hr 16 min",
+  "metaLine": "20 tracks · 1 hr 16 min",
   "libraryLine": "List · 20 songs",
   "followers": 129440,
   "followersLabel": "129K",
@@ -30,10 +30,412 @@
     "bossa",
     "dream-pop"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 20,
+  "trackIds": [
+    "trk_paper-lanterns",
+    "trk_harbour-lights",
+    "trk_ballast-the-shoa-2023-1",
+    "trk_census-imogen-s-2008-0",
+    "trk_driftwood-petra-il-2017-4",
+    "trk_golden-alder-petra-il-2019-1",
+    "trk_ballroom-reprise-imogen-s-2017-0",
+    "trk_bloom-lodestar-2024-4",
+    "trk_census-imogen-s-2017-2",
+    "trk_bloom-opal-and-2019-4",
+    "trk_nightblooming-frond-merrick--2011-0",
+    "trk_infrastructure-imogen-s-2021-1",
+    "trk_trellis-blues-grafting-2020-1",
+    "trk_central-terminal-imogen-s-2015-3",
+    "trk_long-fen-opal-and-2025-1",
+    "trk_salt-shoal-petra-il-2019-4",
+    "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+    "trk_golden-thread",
+    "trk_dark-motel-imogen-s-2008-3",
+    "trk_almanac-petra-il-2021-1"
+  ],
+  "tracks": [
+    {
+      "id": "trk_paper-lanterns",
+      "slug": "paper-lanterns",
+      "title": "Paper Lanterns",
+      "duration": "3:52",
+      "durationSec": 232,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_paper-lanterns",
+        "title": "Paper Lanterns",
+        "slug": "paper-lanterns",
+        "year": 2020
+      },
+      "albumArt": "/artwork/album/paper-lanterns.jpg"
+    },
+    {
+      "id": "trk_harbour-lights",
+      "slug": "harbour-lights",
+      "title": "Harbour Lights",
+      "duration": "5:36",
+      "durationSec": 336,
+      "artist": {
+        "id": "art_jack-hatfield",
+        "name": "Jack Hatfield",
+        "slug": "jack-hatfield"
+      },
+      "album": {
+        "id": "alb_bloom",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-the-shoa-2023-1",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "4:09",
+      "durationSec": 249,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_the-harvest-the-shoals",
+        "title": "The Harvest",
+        "slug": "the-harvest",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-imogen-s-2008-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_ferries-imogen-sin",
+        "title": "Ferries",
+        "slug": "ferries",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_driftwood-petra-il-2017-4",
+      "slug": "driftwood",
+      "title": "Driftwood",
+      "duration": "5:07",
+      "durationSec": 307,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-alder-petra-il-2019-1",
+      "slug": "golden-alder",
+      "title": "Golden Alder",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballroom-reprise-imogen-s-2017-0",
+      "slug": "ballroom-reprise",
+      "title": "Ballroom (Reprise)",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_neon-hour-imogen-sin",
+        "title": "Neon Hour",
+        "slug": "neon-hour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-lodestar-2024-4",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "2:44",
+      "durationSec": 164,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-imogen-s-2017-2",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_neon-hour-imogen-sin",
+        "title": "Neon Hour",
+        "slug": "neon-hour",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-opal-and-2019-4",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "4:01",
+      "durationSec": 241,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nightblooming-frond-merrick--2011-0",
+      "slug": "nightblooming-frond",
+      "title": "Nightblooming Frond",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_infrastructure-imogen-s-2021-1",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "3:23",
+      "durationSec": 203,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_curfew-imogen-sin",
+        "title": "Curfew",
+        "slug": "curfew",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_trellis-blues-grafting-2020-1",
+      "slug": "trellis-blues",
+      "title": "Trellis Blues",
+      "duration": "4:44",
+      "durationSec": 284,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_petal-dew-grafting",
+        "title": "Petal Dew",
+        "slug": "petal-dew",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-terminal-imogen-s-2015-3",
+      "slug": "central-terminal",
+      "title": "Central Terminal",
+      "duration": "2:32",
+      "durationSec": 152,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_payphone-and-underpass-imogen-sin",
+        "title": "Payphone & Underpass",
+        "slug": "payphone-and-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-fen-opal-and-2025-1",
+      "slug": "long-fen",
+      "title": "Long Fen",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_music-for-seams-opal-and-t",
+        "title": "Music for Seams",
+        "slug": "music-for-seams",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_salt-shoal-petra-il-2019-4",
+      "slug": "salt-shoal",
+      "title": "Salt Shoal",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+      "slug": "quarry-live-at-the-roundhouse",
+      "title": "Quarry (Live at the Roundhouse)",
+      "duration": "2:53",
+      "durationSec": 173,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-thread",
+      "slug": "golden-thread",
+      "title": "Golden Thread",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_flora",
+        "title": "Flora",
+        "slug": "flora",
+        "year": 2025
+      },
+      "albumArt": "/artwork/album/flora.jpg"
+    },
+    {
+      "id": "trk_dark-motel-imogen-s-2008-3",
+      "slug": "dark-motel",
+      "title": "Dark Motel",
+      "duration": "3:36",
+      "durationSec": 216,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_ferries-imogen-sin",
+        "title": "Ferries",
+        "slug": "ferries",
+        "year": 2008
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_almanac-petra-il-2021-1",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 20,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/golden-hour.jpg",
     "direction": {

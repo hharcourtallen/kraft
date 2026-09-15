@@ -15,9 +15,9 @@
     "city": "Oslo"
   },
   "trackCount": 18,
-  "durationSec": 4320,
-  "durationLabel": "1 hr 12 min",
-  "metaLine": "18 tracks · 1 hr 12 min",
+  "durationSec": 7639,
+  "durationLabel": "2 hr 7 min",
+  "metaLine": "18 tracks · 2 hr 7 min",
   "libraryLine": "List · 18 songs",
   "followers": 21044,
   "followersLabel": "21K",
@@ -29,10 +29,372 @@
     "modern-composition",
     "experimental"
   ],
-  "trackIds": [],
-  "tracks": [],
-  "resolvedTrackCount": 0,
-  "shortfall": 18,
+  "trackIds": [
+    "trk_ninth-meridian-redshift-2016-3",
+    "trk_foundry-instrumental-rasmus-s-2020-3",
+    "trk_zenith-redshift-2016-0",
+    "trk_provisional-bureau-halvor-l-2017-1",
+    "trk_curfew-halvor-l-2017-0",
+    "trk_meridian-blues-rasmus-s-2020-1",
+    "trk_nocturne-halvor-l-2020-1",
+    "trk_half-a-ferry-halvor-l-2020-2",
+    "trk_transit-lullaby-rasmus-s-2020-2",
+    "trk_solar-equinox-redshift-2018-2",
+    "trk_precinct-waltz-halvor-l-2014-4",
+    "trk_observatory-theme-redshift-2018-0",
+    "trk_zoning-halvor-l-2020-3",
+    "trk_erosion-rasmus-s-2020-0",
+    "trk_equinox-blues-redshift-2022-0",
+    "trk_distant-observatory-redshift-2018-1",
+    "trk_central-registry-halvor-l-2014-0",
+    "trk_two-hundred-terminals-halvor-l-2014-3"
+  ],
+  "tracks": [
+    {
+      "id": "trk_ninth-meridian-redshift-2016-3",
+      "slug": "ninth-meridian",
+      "title": "Ninth Meridian",
+      "duration": "7:10",
+      "durationSec": 430,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_foundry-instrumental-rasmus-s-2020-3",
+      "slug": "foundry-instrumental",
+      "title": "Foundry (Instrumental)",
+      "duration": "4:42",
+      "durationSec": 282,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zenith-redshift-2016-0",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "7:54",
+      "durationSec": 474,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-bureau-halvor-l-2017-1",
+      "slug": "provisional-bureau",
+      "title": "Provisional Bureau",
+      "duration": "7:01",
+      "durationSec": 421,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-halvor-l-2017-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_meridian-blues-rasmus-s-2020-1",
+      "slug": "meridian-blues",
+      "title": "Meridian Blues",
+      "duration": "4:45",
+      "durationSec": 285,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-halvor-l-2020-1",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "5:40",
+      "durationSec": 340,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_half-a-ferry-halvor-l-2020-2",
+      "slug": "half-a-ferry",
+      "title": "Half a Ferry",
+      "duration": "5:04",
+      "durationSec": 304,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_transit-lullaby-rasmus-s-2020-2",
+      "slug": "transit-lullaby",
+      "title": "Transit Lullaby",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_solar-equinox-redshift-2018-2",
+      "slug": "solar-equinox",
+      "title": "Solar Equinox",
+      "duration": "8:49",
+      "durationSec": 529,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_precinct-waltz-halvor-l-2014-4",
+      "slug": "precinct-waltz",
+      "title": "Precinct Waltz",
+      "duration": "7:09",
+      "durationSec": 429,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_observatory-theme-redshift-2018-0",
+      "slug": "observatory-theme",
+      "title": "Observatory Theme",
+      "duration": "9:52",
+      "durationSec": 592,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-halvor-l-2020-3",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "7:33",
+      "durationSec": 453,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_erosion-rasmus-s-2020-0",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_equinox-blues-redshift-2022-0",
+      "slug": "equinox-blues",
+      "title": "Equinox Blues",
+      "duration": "9:59",
+      "durationSec": 599,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_iron-kiln-redshift",
+        "title": "Iron Kiln",
+        "slug": "iron-kiln",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_distant-observatory-redshift-2018-1",
+      "slug": "distant-observatory",
+      "title": "Distant Observatory",
+      "duration": "10:31",
+      "durationSec": 631,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-registry-halvor-l-2014-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-terminals-halvor-l-2014-3",
+      "slug": "two-hundred-terminals",
+      "title": "Two Hundred Terminals",
+      "duration": "7:43",
+      "durationSec": 463,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 18,
+  "shortfall": 0,
   "artwork": {
     "image": "/artwork/playlist/string-theory.jpg",
     "direction": {

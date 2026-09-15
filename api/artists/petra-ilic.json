@@ -345,6 +345,39 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_golden-hour",
+      "slug": "golden-hour",
+      "title": "Golden Hour",
+      "image": "/artwork/playlist/golden-hour.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Driftwood",
+      "position": 5,
+      "caption": "Driftwood is track 5"
+    },
+    {
+      "playlistId": "pl_wildflower-days",
+      "slug": "wildflower-days",
+      "title": "Wildflower Days",
+      "image": "/artwork/playlist/wildflower-days.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Hollow Bramble",
+      "position": 6,
+      "caption": "Hollow Bramble is track 6"
+    },
+    {
+      "playlistId": "pl_garden-sessions",
+      "slug": "garden-sessions",
+      "title": "Garden Sessions",
+      "image": "/artwork/playlist/garden-sessions.jpg",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Grey Estuary",
+      "position": 9,
+      "caption": "Grey Estuary is track 9"
+    },
+    {
       "playlistId": "pl_country-mexico",
       "slug": "mexico",
       "title": "Mexico",

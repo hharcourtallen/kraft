@@ -117,6 +117,17 @@
   ],
   "onLists": [
     {
+      "playlistId": "pl_jazz-nights",
+      "slug": "jazz-nights",
+      "title": "Jazz Nights",
+      "image": "/artwork/playlist/jazz-nights.jpg",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Minor Key",
+      "position": 7,
+      "caption": "Minor Key is track 7"
+    },
+    {
       "playlistId": "pl_country-united-states",
       "slug": "united-states",
       "title": "United States",

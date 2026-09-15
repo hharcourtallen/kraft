@@ -125,6 +125,17 @@
       "trackTitle": "Faded Label",
       "position": 9,
       "caption": "Faded Label is track 9"
+    },
+    {
+      "playlistId": "pl_the-archive",
+      "slug": "the-archive",
+      "title": "The Archive",
+      "image": "/artwork/playlist/the-archive.jpg",
+      "curatorId": "cur_ade-mensah",
+      "curatorName": "Adé Mensah",
+      "trackTitle": "Faded Label",
+      "position": 25,
+      "caption": "Faded Label is track 25"
     }
   ]
 }
