@@ -1,0 +1,9 @@
+{
+  "$schema": "https://openapi.vercel.sh/vercel.json",
+  "installCommand": "pnpm install",
+  "buildCommand": "node ../scripts/build.mjs && pnpm run build",
+  "outputDirectory": "dist",
+  "rewrites": [
+    { "source": "/((?!api/|artwork/|globe/|assets/).*)", "destination": "/index.html" }
+  ]
+}

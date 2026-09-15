@@ -58,10 +58,13 @@ rebuild it from `paper/`, in this order:
 on the next reload, and the strings the canvas shows (`metaLine`, `duration`,
 `followersLabel`) are the ones the build computes.
 
-**4. Deploy.** `vercel.json` at the root does it: install with pnpm, run
-`pnpm build`, serve `app/dist`, and rewrite every app route to `index.html`
-while `api/`, `artwork/` and `globe/` stay static. Import the repo in Vercel and
-keep the defaults.
+**4. Deploy.** Import the repo in Vercel and leave *Root Directory* empty:
+`vercel.json` at the root installs with pnpm, runs `pnpm build`, serves
+`app/dist`, and rewrites every app route to `index.html` while `api/`,
+`artwork/` and `globe/` stay static. If you set *Root Directory* to `app`
+instead, `app/vercel.json` does the same from there (it needs Vercel's default
+"include files outside the root directory" left on, because the build reads
+`../data` and `../public/artwork`).
 
 ---
 
