@@ -1,0 +1,357 @@
+{
+  "id": "art_the-neon-underpasses",
+  "slug": "the-neon-underpasses",
+  "name": "The Neon Underpasses",
+  "formation": "band",
+  "country": "GB",
+  "hometown": "Leeds",
+  "geo": {
+    "placeId": "plc_leeds",
+    "city": "Leeds",
+    "country": "GB",
+    "lat": 53.8,
+    "lng": -1.55
+  },
+  "region": "uk",
+  "genres": [
+    "rock",
+    "post-punk"
+  ],
+  "primaryGenre": {
+    "slug": "rock",
+    "name": "Rock"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "established",
+  "monthlyListeners": 19223,
+  "monthlyListenersLabel": "19K monthly listeners",
+  "followers": 9514,
+  "followersLabel": "9.5K",
+  "shelfCaption": "Rock · 19K listeners",
+  "verified": false,
+  "active": {
+    "from": 2006,
+    "to": null
+  },
+  "bio": "Rock four-piece from Leeds. Loud in a small room, mixed to sound like it. Has strong opinions about run-out grooves.",
+  "discography": [
+    "alb_the-ballroom-the-neon-u",
+    "alb_the-payphone-the-neon-u",
+    "alb_fieldwork-the-neon-u-2",
+    "alb_fieldwork-the-neon-u",
+    "alb_alders-the-neon-u",
+    "alb_bramble-and-fen-the-neon-u"
+  ],
+  "popularTrackIds": [
+    "trk_small-ballroom-the-neon-2006-0",
+    "trk_low-pasture-the-neon-2006-2",
+    "trk_velvet-motel-the-neon-2007-1",
+    "trk_long-fen-the-neon-2007-0",
+    "trk_hedgerow-blues-the-neon-2006-1",
+    "trk_almanac-the-neon-2008-1",
+    "trk_quiet-orchard-the-neon-2008-0",
+    "trk_hour-elegy-the-neon-2014-0",
+    "trk_two-hundred-commons-the-neon-2017-0",
+    "trk_late-marquee-the-neon-2007-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "rock",
+        "year": 2024,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "oxblood, smoke grey, brass, hard black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2024 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician in their late twenties looking just past the camera. Palette: oxblood, smoke grey, brass, hard black. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202024%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "rock",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "oxblood, smoke grey, brass, hard black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a band of three standing far apart in an empty car park. Palette: oxblood, smoke grey, brass, hard black. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_small-ballroom-the-neon-2006-0",
+      "slug": "small-ballroom",
+      "title": "Small Ballroom",
+      "duration": "4:09",
+      "durationSec": 249,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_bramble-and-fen-the-neon-u",
+        "title": "Bramble & Fen",
+        "slug": "bramble-and-fen",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "387,703"
+    },
+    {
+      "id": "trk_low-pasture-the-neon-2006-2",
+      "slug": "low-pasture",
+      "title": "Low Pasture",
+      "duration": "5:00",
+      "durationSec": 300,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_bramble-and-fen-the-neon-u",
+        "title": "Bramble & Fen",
+        "slug": "bramble-and-fen",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "185,446"
+    },
+    {
+      "id": "trk_velvet-motel-the-neon-2007-1",
+      "slug": "velvet-motel",
+      "title": "Velvet Motel",
+      "duration": "4:54",
+      "durationSec": 294,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_alders-the-neon-u",
+        "title": "Alders",
+        "slug": "alders",
+        "year": 2007
+      },
+      "albumArt": null,
+      "playCountLabel": "156,241"
+    },
+    {
+      "id": "trk_long-fen-the-neon-2007-0",
+      "slug": "long-fen",
+      "title": "Long Fen",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_alders-the-neon-u",
+        "title": "Alders",
+        "slug": "alders",
+        "year": 2007
+      },
+      "albumArt": null,
+      "playCountLabel": "130,534"
+    },
+    {
+      "id": "trk_hedgerow-blues-the-neon-2006-1",
+      "slug": "hedgerow-blues",
+      "title": "Hedgerow Blues",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_bramble-and-fen-the-neon-u",
+        "title": "Bramble & Fen",
+        "slug": "bramble-and-fen",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "115,602"
+    },
+    {
+      "id": "trk_almanac-the-neon-2008-1",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "83,706"
+    },
+    {
+      "id": "trk_quiet-orchard-the-neon-2008-0",
+      "slug": "quiet-orchard",
+      "title": "Quiet Orchard",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "81,196"
+    },
+    {
+      "id": "trk_hour-elegy-the-neon-2014-0",
+      "slug": "hour-elegy",
+      "title": "Hour Elegy",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_fieldwork-the-neon-u-2",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "68,740"
+    },
+    {
+      "id": "trk_two-hundred-commons-the-neon-2017-0",
+      "slug": "two-hundred-commons",
+      "title": "Two Hundred Commons",
+      "duration": "5:10",
+      "durationSec": 310,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-neon-u",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "60,504"
+    },
+    {
+      "id": "trk_late-marquee-the-neon-2007-2",
+      "slug": "late-marquee",
+      "title": "Late Marquee",
+      "duration": "2:30",
+      "durationSec": 150,
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "album": {
+        "id": "alb_alders-the-neon-u",
+        "title": "Alders",
+        "slug": "alders",
+        "year": 2007
+      },
+      "albumArt": null,
+      "playCountLabel": "52,450"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-ballroom-the-neon-u",
+      "slug": "the-ballroom",
+      "title": "The Ballroom",
+      "subtitle": "2024 · Single",
+      "year": 2024,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_the-payphone-the-neon-u",
+      "slug": "the-payphone",
+      "title": "The Payphone",
+      "subtitle": "2017 · EP",
+      "year": 2017,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-the-neon-u-2",
+      "slug": "fieldwork-the-neon-underpasses",
+      "title": "Fieldwork",
+      "subtitle": "2014 · Album",
+      "year": 2014,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-the-neon-u",
+      "slug": "fieldwork",
+      "title": "Fieldwork",
+      "subtitle": "2008 · Album",
+      "year": 2008,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_alders-the-neon-u",
+      "slug": "alders",
+      "title": "Alders",
+      "subtitle": "2007 · EP",
+      "year": 2007,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_bramble-and-fen-the-neon-u",
+      "slug": "bramble-and-fen",
+      "title": "Bramble & Fen",
+      "subtitle": "2006 · Album",
+      "year": 2006,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

@@ -1,0 +1,46 @@
+{
+  "id": "alb_rootwork-ren-ishii",
+  "slug": "rootwork-ren-ishii",
+  "title": "Rootwork",
+  "year": 2021,
+  "type": "EP",
+  "subtitle": "2021 · EP",
+  "trackCount": 5,
+  "durationSec": 1115,
+  "durationLabel": "19 min",
+  "artist": {
+    "id": "art_ren-ishii",
+    "name": "Ren Ishii",
+    "slug": "ren-ishii"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "genres": [
+    "electronic"
+  ],
+  "tracks": [
+    "trk_soft-fen-ren-ishi-2021-0",
+    "trk_bright-fen-ren-ishi-2021-1",
+    "trk_payphone-blues-ren-ishi-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "electronic",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "a mirrored sphere",
+      "palette": "ultramarine, silver, black, one acid highlight"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a mirrored sphere. Palette: ultramarine, silver, black, one acid highlight. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20mirrored%20sphere.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

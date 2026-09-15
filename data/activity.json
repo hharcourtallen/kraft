@@ -1,0 +1,63 @@
+{
+  "$comment": "What curators did recently, newest first. Feeds the homepage's This week. Types: update (a list changed), reply (a note left at a second inside a track of someone's list), repost (a curator put someone else's list on their shelf), follow.",
+  "activity": [
+    {
+      "id": "act_01",
+      "type": "update",
+      "curatorId": "cur_sofia-reyes",
+      "playlistId": "pl_vinyl-sundays",
+      "date": "2026-08-23",
+      "text": "Tape hiss, room mics, and nothing that sounds finished."
+    },
+    {
+      "id": "act_02",
+      "type": "reply",
+      "curatorId": "cur_marcus-pike",
+      "playlistId": "pl_vinyl-sundays",
+      "trackId": "trk_breakfast-in-mono",
+      "sec": 72,
+      "date": "2026-08-23",
+      "text": "Track three, the room mic. That's the whole list."
+    },
+    {
+      "id": "act_03",
+      "type": "repost",
+      "curatorId": "cur_ade-mensah",
+      "playlistId": "pl_poolside",
+      "date": "2026-08-22",
+      "text": null
+    },
+    {
+      "id": "act_04",
+      "type": "update",
+      "curatorId": "cur_ingrid-halvorsen",
+      "playlistId": "pl_garden-sessions",
+      "date": "2026-08-22",
+      "text": "No drone longer than the kettle takes."
+    },
+    {
+      "id": "act_05",
+      "type": "reply",
+      "curatorId": "cur_haruka-nakagawa",
+      "playlistId": "pl_garden-sessions",
+      "trackId": "trk_orbit-hymn-til-voge-2023-1",
+      "sec": 400,
+      "date": "2026-08-22",
+      "text": "Eight minutes and I did not do something else."
+    },
+    {
+      "id": "act_06",
+      "type": "follow",
+      "curatorId": "cur_luana-andrade",
+      "targetCuratorId": "cur_ade-mensah",
+      "date": "2026-08-20"
+    }
+  ],
+  "thisWeek": {
+    "$comment": "Authored weekly tally at canon scale (34 curators, 2.4M members); the rows above are a sample of it.",
+    "listsUpdated": 26,
+    "notesLeft": 141,
+    "reposts": 18,
+    "newFollows": 3900
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "cur_marcus-pike",
+  "slug": "marcus-pike",
+  "name": "Marcus Pike",
+  "beat": [
+    "jazz",
+    "spiritual-jazz",
+    "soul"
+  ],
+  "beatLabel": "Jazz · Spiritual Jazz · Soul",
+  "city": "Philadelphia",
+  "geo": {
+    "placeId": "plc_philadelphia",
+    "city": "Philadelphia",
+    "country": "US",
+    "lat": 39.95,
+    "lng": -75.17
+  },
+  "since": 2021,
+  "bio": "Forty years of Blue Note pressings in a spare room. Has opinions about run-out grooves.",
+  "kicker": "Curator · Philadelphia · since 2021",
+  "listCount": 52,
+  "listIds": [
+    "pl_jazz-nights",
+    "pl_midnight-sax",
+    "pl_country-united-states"
+  ],
+  "followers": 73100,
+  "followersLabel": "73K",
+  "follows": [
+    "cur_sofia-reyes",
+    "cur_ade-mensah"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_jazz-nights",
+    "slug": "jazz-nights",
+    "title": "Jazz Nights",
+    "curatorName": "Marcus Pike"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_jazz-nights",
+      "playlistTitle": "Jazz Nights",
+      "note": "Small rooms, late sets, the count-in left in. If you can hear the bassist breathe, it made the cut.",
+      "updated": "2026-08-18",
+      "updatedLabel": "1 week ago"
+    },
+    {
+      "playlistId": "pl_country-united-states",
+      "playlistTitle": "United States",
+      "note": "Philadelphia to Portland by way of every basement with a piano in it. Mostly what I play a friend who says they do not like jazz.",
+      "updated": "2026-07-22",
+      "updatedLabel": "22 Jul"
+    },
+    {
+      "playlistId": "pl_midnight-sax",
+      "playlistTitle": "Midnight Sax",
+      "note": "Ballads only. I put this together for a friend who couldn't sleep and it has outlived the insomnia.",
+      "updated": "2026-05-09",
+      "updatedLabel": "9 May"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/marcus-pike.jpg",
+      "direction": {
+        "genre": "jazz",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a person listening on headphones, eyes down, natural light",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a person listening on headphones, eyes down, natural light. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20person%20listening%20on%20headphones%2C%20eyes%20down%2C%20natural%20light.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

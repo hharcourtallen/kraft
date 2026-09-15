@@ -1,0 +1,337 @@
+{
+  "id": "art_late-payphone",
+  "slug": "late-payphone",
+  "name": "Late Payphone",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Tucson, AZ",
+  "geo": {
+    "placeId": "plc_tucson",
+    "city": "Tucson",
+    "country": "US",
+    "lat": 32.22,
+    "lng": -110.97
+  },
+  "region": "us",
+  "genres": [
+    "jazz",
+    "soul"
+  ],
+  "primaryGenre": {
+    "slug": "jazz",
+    "name": "Jazz"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "tier": "working",
+  "monthlyListeners": 3662,
+  "monthlyListenersLabel": "3.7K monthly listeners",
+  "followers": 1307,
+  "followersLabel": "1.3K",
+  "shelfCaption": "Jazz · 3.7K listeners",
+  "verified": false,
+  "active": {
+    "from": 2016,
+    "to": null
+  },
+  "bio": "A quintet making jazz about work. Plays standards like an argument and originals like the last word.",
+  "discography": [
+    "alb_underpasses-late-payph",
+    "alb_curfew-late-payph",
+    "alb_central-depot-late-payph",
+    "alb_municipal-infrastructure-late-payph"
+  ],
+  "popularTrackIds": [
+    "trk_provisional-registry-late-pay-2016-0",
+    "trk_velvet-boulevard-late-pay-2019-0",
+    "trk_twice-the-registry-late-pay-2017-0",
+    "trk_last-hour-late-pay-2017-1",
+    "trk_bloc-reprise-late-pay-2016-2",
+    "trk_marquee-demo-late-pay-2016-1",
+    "trk_new-registry-late-pay-2017-2",
+    "trk_dark-ballroom-late-pay-2019-1",
+    "trk_taxi-theme-late-pay-2023-0",
+    "trk_afterhours-late-pay-2016-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician walking away down a wet street, back to camera. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_provisional-registry-late-pay-2016-0",
+      "slug": "provisional-registry",
+      "title": "Provisional Registry",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "45,986"
+    },
+    {
+      "id": "trk_velvet-boulevard-late-pay-2019-0",
+      "slug": "velvet-boulevard",
+      "title": "Velvet Boulevard",
+      "duration": "10:17",
+      "durationSec": 617,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_curfew-late-payph",
+        "title": "Curfew",
+        "slug": "curfew",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "31,324"
+    },
+    {
+      "id": "trk_twice-the-registry-late-pay-2017-0",
+      "slug": "twice-the-registry",
+      "title": "Twice the Registry",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_central-depot-late-payph",
+        "title": "Central Depot",
+        "slug": "central-depot",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "29,037"
+    },
+    {
+      "id": "trk_last-hour-late-pay-2017-1",
+      "slug": "last-hour",
+      "title": "Last Hour",
+      "duration": "9:24",
+      "durationSec": 564,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_central-depot-late-payph",
+        "title": "Central Depot",
+        "slug": "central-depot",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "28,053"
+    },
+    {
+      "id": "trk_bloc-reprise-late-pay-2016-2",
+      "slug": "bloc-reprise",
+      "title": "Bloc (Reprise)",
+      "duration": "7:24",
+      "durationSec": 444,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "26,667"
+    },
+    {
+      "id": "trk_marquee-demo-late-pay-2016-1",
+      "slug": "marquee-demo",
+      "title": "Marquee (Demo)",
+      "duration": "7:39",
+      "durationSec": 459,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "23,246"
+    },
+    {
+      "id": "trk_new-registry-late-pay-2017-2",
+      "slug": "new-registry",
+      "title": "New Registry",
+      "duration": "5:23",
+      "durationSec": 323,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_central-depot-late-payph",
+        "title": "Central Depot",
+        "slug": "central-depot",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "13,164"
+    },
+    {
+      "id": "trk_dark-ballroom-late-pay-2019-1",
+      "slug": "dark-ballroom",
+      "title": "Dark Ballroom",
+      "duration": "6:22",
+      "durationSec": 382,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_curfew-late-payph",
+        "title": "Curfew",
+        "slug": "curfew",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "12,744"
+    },
+    {
+      "id": "trk_taxi-theme-late-pay-2023-0",
+      "slug": "taxi-theme",
+      "title": "Taxi Theme",
+      "duration": "5:52",
+      "durationSec": 352,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_underpasses-late-payph",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "9,748"
+    },
+    {
+      "id": "trk_afterhours-late-pay-2016-3",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "4:00",
+      "durationSec": 240,
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-late-payph",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "8,888"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_underpasses-late-payph",
+      "slug": "underpasses-late-payphone",
+      "title": "Underpasses",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_curfew-late-payph",
+      "slug": "curfew-late-payphone",
+      "title": "Curfew",
+      "subtitle": "2019 · Album",
+      "year": 2019,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_central-depot-late-payph",
+      "slug": "central-depot",
+      "title": "Central Depot",
+      "subtitle": "2017 · Album",
+      "year": 2017,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_municipal-infrastructure-late-payph",
+      "slug": "municipal-infrastructure-late-payphone",
+      "title": "Municipal Infrastructure",
+      "subtitle": "2016 · EP",
+      "year": 2016,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

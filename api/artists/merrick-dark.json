@@ -1,0 +1,360 @@
+{
+  "id": "art_merrick-dark",
+  "slug": "merrick-dark",
+  "name": "Merrick Dark",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Richmond, VA",
+  "geo": {
+    "placeId": "plc_richmond",
+    "city": "Richmond",
+    "country": "US",
+    "lat": 37.54,
+    "lng": -77.44
+  },
+  "region": "us",
+  "genres": [
+    "rnb",
+    "funk"
+  ],
+  "primaryGenre": {
+    "slug": "rnb",
+    "name": "R&B"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "tier": "working",
+  "monthlyListeners": 5151,
+  "monthlyListenersLabel": "5.2K monthly listeners",
+  "followers": 1904,
+  "followersLabel": "1.9K",
+  "shelfCaption": "R&B · 5.2K listeners",
+  "verified": false,
+  "active": {
+    "from": 2019,
+    "to": null
+  },
+  "bio": "Formed in Richmond, VA and still arguing about it. Cuts the rhythm section live and overdubs nothing but voice.",
+  "discography": [
+    "alb_herbaria-merrick-da",
+    "alb_last-curfew-merrick-da",
+    "alb_boulevard-and-taxi-merrick-da",
+    "alb_velvet-ferry-merrick-da"
+  ],
+  "popularTrackIds": [
+    "trk_afterhours-merrick--2019-1",
+    "trk_creeping-pollen-merrick--2020-0",
+    "trk_flora-merrick--2019-0",
+    "trk_neon-payphone-merrick--2019-2",
+    "trk_late-underpass-merrick--2020-1",
+    "trk_wet-herbarium-merrick--2019-3",
+    "trk_small-rooftop-merrick--2022-1",
+    "trk_last-boulevard-merrick--2022-0",
+    "trk_small-taxi-merrick--2022-2",
+    "trk_curfew-merrick--2024-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "rnb",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "ivory, champagne, deep plum, silver"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in profile against a plain wall. Palette: ivory, champagne, deep plum, silver. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "rnb",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "ivory, champagne, deep plum, silver"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: ivory, champagne, deep plum, silver. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_afterhours-merrick--2019-1",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "61,708"
+    },
+    {
+      "id": "trk_creeping-pollen-merrick--2020-0",
+      "slug": "creeping-pollen",
+      "title": "Creeping Pollen",
+      "duration": "2:48",
+      "durationSec": 168,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_boulevard-and-taxi-merrick-da",
+        "title": "Boulevard & Taxi",
+        "slug": "boulevard-and-taxi",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "52,634"
+    },
+    {
+      "id": "trk_flora-merrick--2019-0",
+      "slug": "flora",
+      "title": "Flora",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "51,179"
+    },
+    {
+      "id": "trk_neon-payphone-merrick--2019-2",
+      "slug": "neon-payphone",
+      "title": "Neon Payphone",
+      "duration": "3:08",
+      "durationSec": 188,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "33,182"
+    },
+    {
+      "id": "trk_late-underpass-merrick--2020-1",
+      "slug": "late-underpass",
+      "title": "Late Underpass",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_boulevard-and-taxi-merrick-da",
+        "title": "Boulevard & Taxi",
+        "slug": "boulevard-and-taxi",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "28,782"
+    },
+    {
+      "id": "trk_wet-herbarium-merrick--2019-3",
+      "slug": "wet-herbarium",
+      "title": "Wet Herbarium",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_velvet-ferry-merrick-da",
+        "title": "Velvet Ferry",
+        "slug": "velvet-ferry",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "22,330"
+    },
+    {
+      "id": "trk_small-rooftop-merrick--2022-1",
+      "slug": "small-rooftop",
+      "title": "Small Rooftop",
+      "duration": "3:35",
+      "durationSec": 215,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_last-curfew-merrick-da",
+        "title": "Last Curfew",
+        "slug": "last-curfew",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "17,708"
+    },
+    {
+      "id": "trk_last-boulevard-merrick--2022-0",
+      "slug": "last-boulevard",
+      "title": "Last Boulevard",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_last-curfew-merrick-da",
+        "title": "Last Curfew",
+        "slug": "last-curfew",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "16,255"
+    },
+    {
+      "id": "trk_small-taxi-merrick--2022-2",
+      "slug": "small-taxi",
+      "title": "Small Taxi",
+      "duration": "3:06",
+      "durationSec": 186,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_last-curfew-merrick-da",
+        "title": "Last Curfew",
+        "slug": "last-curfew",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "13,914"
+    },
+    {
+      "id": "trk_curfew-merrick--2024-1",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "2:41",
+      "durationSec": 161,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_herbaria-merrick-da",
+        "title": "Herbaria",
+        "slug": "herbaria",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "10,131"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_herbaria-merrick-da",
+      "slug": "herbaria",
+      "title": "Herbaria",
+      "subtitle": "2024 · EP",
+      "year": 2024,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_last-curfew-merrick-da",
+      "slug": "last-curfew",
+      "title": "Last Curfew",
+      "subtitle": "2022 · Album",
+      "year": 2022,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_boulevard-and-taxi-merrick-da",
+      "slug": "boulevard-and-taxi",
+      "title": "Boulevard & Taxi",
+      "subtitle": "2020 · Single",
+      "year": 2020,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_velvet-ferry-merrick-da",
+      "slug": "velvet-ferry",
+      "title": "Velvet Ferry",
+      "subtitle": "2019 · EP",
+      "year": 2019,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-chile",
+      "slug": "chile",
+      "title": "Chile",
+      "image": "/artwork/playlist/country-chile.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Curfew",
+      "position": 8,
+      "caption": "Curfew is track 8"
+    },
+    {
+      "playlistId": "pl_country-ghana",
+      "slug": "ghana",
+      "title": "Ghana",
+      "image": "/artwork/playlist/country-ghana.png",
+      "curatorId": "cur_ade-mensah",
+      "curatorName": "Adé Mensah",
+      "trackTitle": "Last Boulevard",
+      "position": 3,
+      "caption": "Last Boulevard is track 3"
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "alb_the-annex-mateo-moli",
+  "slug": "the-annex",
+  "title": "The Annex",
+  "year": 2026,
+  "type": "Single",
+  "subtitle": "2026 · Single",
+  "trackCount": 2,
+  "durationSec": 468,
+  "durationLabel": "8 min",
+  "artist": {
+    "id": "art_mateo-molinari",
+    "name": "Mateo Molinari",
+    "slug": "mateo-molinari"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "genres": [
+    "cumbia",
+    "latin"
+  ],
+  "tracks": [
+    "trk_depot-instrumental-mateo-mo-2026-0",
+    "trk_another-bloc-mateo-mo-2026-1"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "cumbia",
+      "year": 2026,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "duotone photograph printed over a flat solid colour block",
+      "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+      "abstract": false,
+      "subject": "tropical foliage drawn boldly",
+      "palette": "hot orange, turquoise, lime, magenta"
+    },
+    "prompt": "Album cover artwork, square format. A 2026 sleeve deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: tropical foliage drawn boldly. Palette: hot orange, turquoise, lime, magenta. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202026%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20tropical%20foliage%20drawn%20boldly.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

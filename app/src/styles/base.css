@@ -1,0 +1,111 @@
+/* Reset + the few global rules. Everything else lives beside its component. */
+
+*,
+*::before,
+*::after {
+  box-sizing: border-box;
+}
+
+html,
+body,
+#root {
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  line-height: var(--leading-sm);
+  color: var(--color-text);
+  background: var(--color-bg);
+  -webkit-font-smoothing: antialiased;
+  font-synthesis: none;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+button {
+  font: inherit;
+  color: inherit;
+  background: none;
+  border: 0;
+  padding: 0;
+  cursor: pointer;
+}
+
+button:focus-visible,
+a:focus-visible {
+  outline: 2px solid var(--color-accent);
+  outline-offset: 2px;
+  border-radius: var(--radius-sm);
+}
+
+/* Type utilities — one class per step of the scale, names match the tokens. */
+.t-micro { font-size: var(--text-micro); line-height: var(--leading-micro); }
+.t-xs    { font-size: var(--text-xs);    line-height: var(--leading-xs); }
+.t-sm    { font-size: var(--text-sm);    line-height: var(--leading-sm); }
+.t-base  { font-size: var(--text-base);  line-height: var(--leading-base); }
+.t-md    { font-size: var(--text-md);    line-height: var(--leading-md); }
+.t-lg    { font-size: var(--text-lg);    line-height: var(--leading-lg); }
+.t-xl    { font-size: var(--text-xl);    line-height: var(--leading-xl); }
+.t-3xl   { font-size: var(--text-3xl);   line-height: var(--leading-3xl); }
+.t-4xl   { font-size: var(--text-4xl);   line-height: var(--leading-4xl); }
+
+.w-medium   { font-weight: var(--font-weight-medium); }
+.w-semibold { font-weight: var(--font-weight-semibold); }
+
+.display {
+  font-family: var(--font-display);
+  font-weight: var(--font-weight-display-semibold);
+  letter-spacing: var(--tracking-snug);
+}
+
+.muted  { color: var(--color-text-muted); }
+.subtle { color: var(--color-text-subtle); }
+.tnum   { font-variant-numeric: tabular-nums; }
+
+.clamp-1 {
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.cover {
+  flex-shrink: 0;
+  background-color: var(--color-well);
+  background-size: cover;
+  background-position: 50%;
+  border-radius: var(--radius-sm);
+}
+
+/* Segmented control — Library tabs, Settings radios (Components · Segmented). */
+.seg {
+  display: flex;
+  gap: var(--spacing-0-5);
+  padding: var(--spacing-0-5);
+  border-radius: var(--radius-md);
+  background: var(--color-well);
+}
+
+.seg button {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  height: 28px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-sm);
+  font-size: var(--text-sm);
+  font-weight: var(--font-weight-medium);
+  color: var(--color-text-muted);
+}
+
+.seg button[aria-selected='true'],
+.seg button[aria-checked='true'] {
+  background: var(--color-bg-inverse);
+  color: var(--color-text-inverse);
+}

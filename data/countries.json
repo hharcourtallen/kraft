@@ -1,0 +1,317 @@
+{
+  "$comment": "Country cards: the country name set in the card template (Paper, UI page, 'Country / …') over a pixel-art strip of one city. `code` is the ISO code used by data/places.json; `cityId` is the gazetteer city the artwork draws. Curators and scenes join a card through their placeId's country, at build. Landmarks read left to right along one baseline; the palette names real things in that city. scripts/lib/place-art.mjs supplies the constant style block. A `list` makes the card a list too: the build turns it into playlist pl_country-<slug> (title = country, the curator named, local artists pinned first, the rest filled from its genres) with the exported card as its cover. A card with no key in data/artwork.json is the next batch: `npm run countries -- --missing`.",
+  "countries": [
+    {
+      "code": "US",
+      "name": "United States",
+      "cityId": "plc_new-york",
+      "landmarks": [
+        "a brownstone row with fire escapes and a wooden water tower on the roof",
+        "one granite arch of a suspension bridge with its fan of cables",
+        "an art-deco skyscraper with a stepped crown and a thin spire, rising into the sky",
+        "a yellow taxi at the kerb"
+      ],
+      "palette": "brownstone rust, limestone cream, taxi yellow, Hudson grey-blue, bridge granite, pale haze sky",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_marcus-pike",
+        "genres": [
+          "jazz",
+          "soul",
+          "americana"
+        ],
+        "updated": "2026-07-22",
+        "followers": 18400,
+        "note": "Philadelphia to Portland by way of every basement with a piano in it. Mostly what I play a friend who says they do not like jazz."
+      }
+    },
+    {
+      "code": "ES",
+      "name": "Spain",
+      "cityId": "plc_barcelona",
+      "landmarks": [
+        "a row of palm trees on the beach promenade",
+        "a modernista house with a wavy balcony facade and a scaled mosaic roof",
+        "the spires of a great unfinished basilica with a crane beside it, rising into the sky",
+        "terracotta rooftops stepping down to the sea"
+      ],
+      "palette": "sandstone ochre, trencadís turquoise, terracotta, Mediterranean blue, palm green, whitewash",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_teo-marchand",
+        "genres": [
+          "house",
+          "electronic",
+          "downtempo"
+        ],
+        "updated": "2026-07-03",
+        "followers": 12900,
+        "note": "Barcelona at seven in the morning, when the clubs let out onto the beach. I go every June and come back with this."
+      }
+    },
+    {
+      "code": "MX",
+      "name": "Mexico",
+      "cityId": "plc_mexico-city",
+      "landmarks": [
+        "jacaranda trees in full violet bloom",
+        "a marble palace with an amber tiled dome",
+        "a tall column topped by a small golden winged figure, rising into the sky",
+        "a pink modernist wall, a volcano faint on the horizon"
+      ],
+      "palette": "jacaranda violet, palace marble, dome amber, angel gold, tezontle red, Barragán pink",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_sofia-reyes",
+        "genres": [
+          "folk",
+          "bossa",
+          "electronic"
+        ],
+        "updated": "2026-07-18",
+        "followers": 21700,
+        "note": "My city the way it sounds from a rooftop in Roma Norte. Antonella Iriarte opens it because she is the reason I moved back."
+      }
+    },
+    {
+      "code": "JP",
+      "name": "Japan",
+      "cityId": "plc_tokyo",
+      "landmarks": [
+        "a five-storey pagoda with slate roofs",
+        "a vermilion torii gate",
+        "cherry trees in blossom along a canal",
+        "a red and white lattice broadcast tower rising into the sky, Mount Fuji faint and snow-capped far behind"
+      ],
+      "palette": "torii vermilion, sakura pink, Fuji snow white, slate roof blue-grey, moss green, pale sky",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_haruka-nakagawa",
+        "genres": [
+          "dream-pop",
+          "downtempo",
+          "ambient"
+        ],
+        "updated": "2026-07-10",
+        "followers": 16200,
+        "note": "Tokyo after the last train. Ren Ishii and Redshift are from here; the rest is what I hear in the taxi home."
+      }
+    },
+    {
+      "code": "AR",
+      "name": "Argentina",
+      "cityId": "plc_buenos-aires",
+      "landmarks": [
+        "corrugated tin houses painted in patchwork colours, a balcony with washing",
+        "a tall white obelisk rising into the sky",
+        "a white cable-stayed footbridge with one leaning mast over the docks",
+        "a jacaranda and a city bus"
+      ],
+      "palette": "tin red, Caminito yellow, celeste, obelisk white, river brown-grey, plane-tree green",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_luana-andrade",
+        "genres": [
+          "cumbia",
+          "latin",
+          "bossa"
+        ],
+        "updated": "2026-06-26",
+        "followers": 9800,
+        "note": "Buenos Aires is a three-hour flight and a completely different Sunday. Mateo Molinari first, always."
+      }
+    },
+    {
+      "code": "CL",
+      "name": "Chile",
+      "cityId": "plc_santiago",
+      "landmarks": [
+        "the snow-capped Andes as a wall across the whole horizon",
+        "a hill with a small white statue on its summit",
+        "one very tall glass tower rising into the sky",
+        "an adobe colonial church and a thin river channel"
+      ],
+      "palette": "Andes snow, sierra violet-brown, copper, glass teal, adobe cream, pale dry sky",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_luana-andrade",
+        "genres": [
+          "latin",
+          "funk",
+          "cumbia"
+        ],
+        "updated": "2026-06-12",
+        "followers": 7600,
+        "note": "Santiago has the Andes at the end of every street, and bands that play like they know it. Start with I.A.R."
+      }
+    },
+    {
+      "code": "BR",
+      "name": "Brazil",
+      "cityId": "plc_sao-paulo",
+      "landmarks": [
+        "a museum box of glass lifted on two bright red concrete beams, open plaza beneath",
+        "a curving high-rise with wavy horizontal concrete bands, rising into the sky",
+        "a yellow ipê tree in bloom",
+        "a painted graffiti wall and palms"
+      ],
+      "palette": "museum red, concrete grey, ipê yellow, deep leaf green, graffiti pink and teal, hazy sky",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_luana-andrade",
+        "genres": [
+          "bossa",
+          "latin",
+          "cumbia"
+        ],
+        "updated": "2026-07-24",
+        "followers": 24300,
+        "note": "Home. São Paulo is concrete and rain and somebody’s speaker on a balcony; this is what is usually coming out of it."
+      }
+    },
+    {
+      "code": "FR",
+      "name": "France",
+      "cityId": "plc_paris",
+      "landmarks": [
+        "cream limestone apartment blocks with zinc mansard roofs and chimney pots",
+        "a café awning on the corner",
+        "a stone bridge over the river with green bookstall boxes on the quay",
+        "a bronze iron lattice tower rising into the sky"
+      ],
+      "palette": "limestone cream, zinc blue-grey, tower bronze, Seine green-grey, awning red, chestnut green",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_teo-marchand",
+        "genres": [
+          "house",
+          "folk",
+          "electronic"
+        ],
+        "updated": "2026-07-15",
+        "followers": 14100,
+        "note": "Paris is not all house music, whatever my other lists say. Margot & The Spindles and Lodestar live twenty minutes from me."
+      }
+    },
+    {
+      "code": "GH",
+      "name": "Ghana",
+      "cityId": "plc_accra",
+      "landmarks": [
+        "a red and white striped lighthouse rising into the sky",
+        "a monumental ceremonial arch with a star on top",
+        "painted wooden fishing canoes pulled up on the sand",
+        "coconut palms and low surf"
+      ],
+      "palette": "kente gold, forest green, clay red, Atlantic teal, sand, lighthouse white",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_ade-mensah",
+        "genres": [
+          "afrobeat",
+          "funk",
+          "dub"
+        ],
+        "updated": "2026-07-20",
+        "followers": 19500,
+        "note": "Accra on a Friday: highlife on the radio, afrobeat from the car next to you, dub from somewhere you cannot see."
+      }
+    },
+    {
+      "code": "NO",
+      "name": "Norway",
+      "cityId": "plc_oslo",
+      "landmarks": [
+        "a white marble opera house whose roof slopes down into the water",
+        "a city hall of two plain square red-brick towers",
+        "wooden houses in ochre and ox-red",
+        "pine hills with a ski jump on the ridge, a small sailboat on the fjord"
+      ],
+      "palette": "marble white, fjord blue, ox-red, ochre, pine green, pale northern sky",
+      "list": {
+        "trackCount": 12,
+        "curatorId": "cur_ingrid-halvorsen",
+        "genres": [
+          "ambient",
+          "modern-composition",
+          "jazz"
+        ],
+        "updated": "2026-07-07",
+        "followers": 11300,
+        "note": "Oslo in the blue hour, which in winter is most of the afternoon. Rasmus, Halvor and Zoning & Census are all neighbours."
+      }
+    },
+    {
+      "code": "GB",
+      "name": "United Kingdom",
+      "cityId": "plc_london",
+      "landmarks": [
+        "a gothic clock tower rising into the sky",
+        "a red double-decker bus on a bridge over the river",
+        "a terrace of brick houses with chimney pots",
+        "a plane tree and a taxi"
+      ],
+      "palette": "stock brick, bus red, Portland stone, Thames grey-green, slate, pale overcast sky"
+    },
+    {
+      "code": "DE",
+      "name": "Germany",
+      "cityId": "plc_berlin",
+      "landmarks": [
+        "a slim television tower with a silver sphere rising into the sky",
+        "a red brick double-deck bridge with turrets and a yellow train on top",
+        "a pre-war apartment block with a painted mural on its side wall",
+        "a sandstone gate with columns"
+      ],
+      "palette": "brick red, U-Bahn yellow, sphere silver, Spree grey-blue, sandstone, linden green"
+    },
+    {
+      "code": "CO",
+      "name": "Colombia",
+      "cityId": "plc_bogota",
+      "landmarks": [
+        "a green mountain ridge with a white church on its summit",
+        "red brick residential towers",
+        "a colonial street of whitewashed houses with coloured doors and wooden balconies",
+        "wax palms"
+      ],
+      "palette": "Andes green, brick red, whitewash, door cobalt, balcony ochre, cloud grey"
+    },
+    {
+      "code": "NG",
+      "name": "Nigeria",
+      "cityId": "plc_lagos",
+      "landmarks": [
+        "a long low bridge across a lagoon",
+        "yellow minibuses in a row",
+        "a cluster of glass towers on the island rising into the sky",
+        "a market of striped umbrellas"
+      ],
+      "palette": "danfo yellow, lagoon teal, laterite red, market indigo, palm green, humid white sky"
+    },
+    {
+      "code": "AU",
+      "name": "Australia",
+      "cityId": "plc_melbourne",
+      "landmarks": [
+        "a yellow railway station with a green copper dome and a row of clocks",
+        "a green and yellow tram",
+        "a laneway wall covered in paint",
+        "a gum tree on the river bank"
+      ],
+      "palette": "station ochre, copper verdigris, tram green, eucalyptus grey-green, river brown, bright pale sky"
+    },
+    {
+      "code": "RS",
+      "name": "Serbia",
+      "cityId": "plc_belgrade",
+      "landmarks": [
+        "a stone fortress wall on a green hill above two meeting rivers",
+        "a white domed church rising into the sky",
+        "a moored river barge",
+        "a modernist tower with a revolving top"
+      ],
+      "palette": "fortress limestone, Danube green-grey, dome white, copper green, rust, pale summer sky"
+    }
+  ]
+}

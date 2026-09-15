@@ -1,0 +1,48 @@
+{
+  "id": "alb_velvet-hour-sadie-blac",
+  "slug": "velvet-hour",
+  "title": "Velvet Hour",
+  "year": 2020,
+  "type": "EP",
+  "subtitle": "2020 · EP",
+  "trackCount": 4,
+  "durationSec": 1226,
+  "durationLabel": "20 min",
+  "artist": {
+    "id": "art_sadie-blackwood",
+    "name": "Sadie Blackwood",
+    "slug": "sadie-blackwood"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "genres": [
+    "downtempo",
+    "ambient"
+  ],
+  "tracks": [
+    "trk_curfew-sadie-bl-2020-0",
+    "trk_wow-and-flutter-sadie-bl-2020-1",
+    "trk_taxi-blues-sadie-bl-2020-2",
+    "trk_midnight-marquee-sadie-bl-2020-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "downtempo",
+      "year": 2020,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "a blurred neon sign",
+      "palette": "sodium orange, wet black, muddy green"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a blurred neon sign. Palette: sodium orange, wet black, muddy green. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20blurred%20neon%20sign.%20Palette%3A%20sodium%20orange%2C%20wet%20black%2C%20muddy%20green.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

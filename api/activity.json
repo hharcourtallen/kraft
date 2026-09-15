@@ -1,0 +1,167 @@
+{
+  "thisWeek": {
+    "listsUpdated": 26,
+    "notesLeft": 141,
+    "reposts": 18,
+    "newFollows": 3900
+  },
+  "activity": [
+    {
+      "id": "act_01",
+      "type": "update",
+      "date": "2026-08-23",
+      "dateLabel": "2 days ago",
+      "text": "Tape hiss, room mics, and nothing that sounds finished.",
+      "line": "updated Vinyl Sundays",
+      "curator": {
+        "id": "cur_sofia-reyes",
+        "slug": "sofia-reyes",
+        "name": "Sofía Reyes",
+        "image": "/artwork/curator/sofia-reyes.jpg"
+      },
+      "playlist": {
+        "id": "pl_vinyl-sundays",
+        "slug": "vinyl-sundays",
+        "title": "Vinyl Sundays",
+        "image": "/artwork/playlist/vinyl-sundays.jpg",
+        "curatorName": "Sofía Reyes"
+      },
+      "track": null,
+      "sec": null,
+      "secLabel": null,
+      "target": null
+    },
+    {
+      "id": "act_02",
+      "type": "reply",
+      "date": "2026-08-23",
+      "dateLabel": "2 days ago",
+      "text": "Track three, the room mic. That's the whole list.",
+      "line": "replied on Vinyl Sundays at 1:12",
+      "curator": {
+        "id": "cur_marcus-pike",
+        "slug": "marcus-pike",
+        "name": "Marcus Pike",
+        "image": "/artwork/curator/marcus-pike.jpg"
+      },
+      "playlist": {
+        "id": "pl_vinyl-sundays",
+        "slug": "vinyl-sundays",
+        "title": "Vinyl Sundays",
+        "image": "/artwork/playlist/vinyl-sundays.jpg",
+        "curatorName": "Sofía Reyes"
+      },
+      "track": {
+        "id": "trk_breakfast-in-mono",
+        "title": "Breakfast in Mono",
+        "durationSec": 301
+      },
+      "sec": 72,
+      "secLabel": "1:12",
+      "target": null
+    },
+    {
+      "id": "act_03",
+      "type": "repost",
+      "date": "2026-08-22",
+      "dateLabel": "3 days ago",
+      "text": null,
+      "line": "put Luana's Poolside on their shelf",
+      "curator": {
+        "id": "cur_ade-mensah",
+        "slug": "ade-mensah",
+        "name": "Adé Mensah",
+        "image": "/artwork/curator/ade-mensah.jpg"
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "image": "/artwork/playlist/poolside.jpg",
+        "curatorName": "Luana Andrade"
+      },
+      "track": null,
+      "sec": null,
+      "secLabel": null,
+      "target": null
+    },
+    {
+      "id": "act_04",
+      "type": "update",
+      "date": "2026-08-22",
+      "dateLabel": "3 days ago",
+      "text": "No drone longer than the kettle takes.",
+      "line": "updated Garden Sessions",
+      "curator": {
+        "id": "cur_ingrid-halvorsen",
+        "slug": "ingrid-halvorsen",
+        "name": "Ingrid Halvorsen",
+        "image": "/artwork/curator/ingrid-halvorsen.jpg"
+      },
+      "playlist": {
+        "id": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "image": "/artwork/playlist/garden-sessions.jpg",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "track": null,
+      "sec": null,
+      "secLabel": null,
+      "target": null
+    },
+    {
+      "id": "act_05",
+      "type": "reply",
+      "date": "2026-08-22",
+      "dateLabel": "3 days ago",
+      "text": "Eight minutes and I did not do something else.",
+      "line": "replied on Garden Sessions at 6:40",
+      "curator": {
+        "id": "cur_haruka-nakagawa",
+        "slug": "haruka-nakagawa",
+        "name": "Haruka Nakagawa",
+        "image": "/artwork/curator/haruka-nakagawa.jpg"
+      },
+      "playlist": {
+        "id": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "image": "/artwork/playlist/garden-sessions.jpg",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "track": {
+        "id": "trk_orbit-hymn-til-voge-2023-1",
+        "title": "Orbit Hymn",
+        "durationSec": 492
+      },
+      "sec": 400,
+      "secLabel": "6:40",
+      "target": null
+    },
+    {
+      "id": "act_06",
+      "type": "follow",
+      "date": "2026-08-20",
+      "dateLabel": "5 days ago",
+      "text": null,
+      "line": "started following Adé Mensah",
+      "curator": {
+        "id": "cur_luana-andrade",
+        "slug": "luana-andrade",
+        "name": "Luana Andrade",
+        "image": "/artwork/curator/luana-andrade.jpg"
+      },
+      "playlist": null,
+      "track": null,
+      "sec": null,
+      "secLabel": null,
+      "target": {
+        "id": "cur_ade-mensah",
+        "slug": "ade-mensah",
+        "name": "Adé Mensah",
+        "image": "/artwork/curator/ade-mensah.jpg"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2266 @@
+{
+  "today": "2026-08-25",
+  "listeningNow": 33600,
+  "points": [
+    {
+      "id": "lsn_01",
+      "kind": "curator",
+      "placeId": "plc_mexico-city",
+      "city": "Mexico City",
+      "country": "MX",
+      "lat": 19.43,
+      "lng": -99.13,
+      "track": {
+        "id": "trk_exchange-demo-imogen-s-2023-4",
+        "title": "Exchange (Demo)",
+        "artist": "Imogen Sinclair",
+        "artistSlug": "imogen-sinclair",
+        "durationSec": 243,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_golden-hour",
+        "slug": "golden-hour",
+        "title": "Golden Hour",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": {
+        "id": "cur_sofia-reyes",
+        "slug": "sofia-reyes",
+        "name": "Sofía Reyes",
+        "image": "/artwork/curator/sofia-reyes.jpg"
+      },
+      "startedSecAgo": 223,
+      "label": "Exchange (Demo) · Imogen Sinclair"
+    },
+    {
+      "id": "lsn_02",
+      "kind": "curator",
+      "placeId": "plc_accra",
+      "city": "Accra",
+      "country": "GH",
+      "lat": 5.56,
+      "lng": -0.2,
+      "track": {
+        "id": "trk_nocturne-merrick--2024-3",
+        "title": "Nocturne",
+        "artist": "Merrick Dark",
+        "artistSlug": "merrick-dark",
+        "durationSec": 225,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_the-archive",
+        "slug": "the-archive",
+        "title": "The Archive",
+        "curatorName": "Adé Mensah"
+      },
+      "who": {
+        "id": "cur_ade-mensah",
+        "slug": "ade-mensah",
+        "name": "Adé Mensah",
+        "image": "/artwork/curator/ade-mensah.jpg"
+      },
+      "startedSecAgo": 228,
+      "label": "Nocturne · Merrick Dark"
+    },
+    {
+      "id": "lsn_03",
+      "kind": "curator",
+      "placeId": "plc_oslo",
+      "city": "Oslo",
+      "country": "NO",
+      "lat": 59.91,
+      "lng": 10.75,
+      "track": {
+        "id": "trk_erosion-opal-and-2025-0",
+        "title": "Erosion",
+        "artist": "Opal & The Villages",
+        "artistSlug": "opal-and-the-villages",
+        "durationSec": 291,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": {
+        "id": "cur_ingrid-halvorsen",
+        "slug": "ingrid-halvorsen",
+        "name": "Ingrid Halvorsen",
+        "image": "/artwork/curator/ingrid-halvorsen.jpg"
+      },
+      "startedSecAgo": 122,
+      "label": "Erosion · Opal & The Villages"
+    },
+    {
+      "id": "lsn_04",
+      "kind": "curator",
+      "placeId": "plc_philadelphia",
+      "city": "Philadelphia",
+      "country": "US",
+      "lat": 39.95,
+      "lng": -75.17,
+      "track": {
+        "id": "trk_new-registry-late-pay-2017-2",
+        "title": "New Registry",
+        "artist": "Late Payphone",
+        "artistSlug": "late-payphone",
+        "durationSec": 323,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_jazz-nights",
+        "slug": "jazz-nights",
+        "title": "Jazz Nights",
+        "curatorName": "Marcus Pike"
+      },
+      "who": {
+        "id": "cur_marcus-pike",
+        "slug": "marcus-pike",
+        "name": "Marcus Pike",
+        "image": "/artwork/curator/marcus-pike.jpg"
+      },
+      "startedSecAgo": 114,
+      "label": "New Registry · Late Payphone"
+    },
+    {
+      "id": "lsn_05",
+      "kind": "curator",
+      "placeId": "plc_tokyo",
+      "city": "Tokyo",
+      "country": "JP",
+      "lat": 35.68,
+      "lng": 139.69,
+      "track": {
+        "id": "trk_blue-ballroom-grafting-2021-2",
+        "title": "Blue Ballroom",
+        "artist": "Grafting",
+        "artistSlug": "grafting",
+        "durationSec": 259,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_cassette-dreams",
+        "slug": "cassette-dreams",
+        "title": "Cassette Dreams",
+        "curatorName": "Haruka Nakagawa"
+      },
+      "who": {
+        "id": "cur_haruka-nakagawa",
+        "slug": "haruka-nakagawa",
+        "name": "Haruka Nakagawa",
+        "image": "/artwork/curator/haruka-nakagawa.jpg"
+      },
+      "startedSecAgo": 141,
+      "label": "Blue Ballroom · Grafting"
+    },
+    {
+      "id": "lsn_06",
+      "kind": "curator",
+      "placeId": "plc_paris",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.86,
+      "lng": 2.35,
+      "track": {
+        "id": "trk_new-depot-femi-and-2016-1",
+        "title": "New Depot",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 476,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": {
+        "id": "cur_teo-marchand",
+        "slug": "theo-marchand",
+        "name": "Théo Marchand",
+        "image": "/artwork/curator/teo-marchand.jpg"
+      },
+      "startedSecAgo": 220,
+      "label": "New Depot · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_07",
+      "kind": "curator",
+      "placeId": "plc_belgrade",
+      "city": "Belgrade",
+      "country": "RS",
+      "lat": 44.79,
+      "lng": 20.46,
+      "track": {
+        "id": "trk_equinox-blues-redshift-2022-0",
+        "title": "Equinox Blues",
+        "artist": "Redshift",
+        "artistSlug": "redshift",
+        "durationSec": 599,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_string-theory",
+        "slug": "string-theory",
+        "title": "String Theory",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": {
+        "id": "cur_nadia-ilic",
+        "slug": "nadia-ilic",
+        "name": "Nadia Ilić",
+        "image": "/artwork/curator/nadia-ilic.jpg"
+      },
+      "startedSecAgo": 138,
+      "label": "Equinox Blues · Redshift"
+    },
+    {
+      "id": "lsn_08",
+      "kind": "curator",
+      "placeId": "plc_sao-paulo",
+      "city": "São Paulo",
+      "country": "BR",
+      "lat": -23.55,
+      "lng": -46.63,
+      "track": {
+        "id": "trk_zoning-femi-and-2006-3",
+        "title": "Zoning",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 308,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_tropicalia",
+        "slug": "tropicalia",
+        "title": "Tropicália",
+        "curatorName": "Luana Andrade"
+      },
+      "who": {
+        "id": "cur_luana-andrade",
+        "slug": "luana-andrade",
+        "name": "Luana Andrade",
+        "image": "/artwork/curator/luana-andrade.jpg"
+      },
+      "startedSecAgo": 75,
+      "label": "Zoning · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_09",
+      "kind": "curator",
+      "placeId": "plc_london",
+      "city": "London",
+      "country": "GB",
+      "lat": 51.51,
+      "lng": -0.13,
+      "track": {
+        "id": "trk_label-hymn-sadie-bl-2021-3",
+        "title": "Label Hymn",
+        "artist": "Sadie Blackwood",
+        "artistSlug": "sadie-blackwood",
+        "durationSec": 346,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_late-night-heat",
+        "slug": "late-night-heat",
+        "title": "Late Night Heat",
+        "curatorName": "Amara Diallo"
+      },
+      "who": {
+        "id": "cur_amara-diallo",
+        "slug": "amara-diallo",
+        "name": "Amara Diallo",
+        "image": "/artwork/curator/amara-diallo.jpg"
+      },
+      "startedSecAgo": 160,
+      "label": "Label Hymn · Sadie Blackwood"
+    },
+    {
+      "id": "lsn_10",
+      "kind": "member",
+      "placeId": "plc_lisbon",
+      "city": "Lisbon",
+      "country": "PT",
+      "lat": 38.72,
+      "lng": -9.14,
+      "track": {
+        "id": "trk_bloc-lullaby-cass-and-2021-2",
+        "title": "Bloc Lullaby",
+        "artist": "Cass & The Terminals",
+        "artistSlug": "cass-and-the-terminals",
+        "durationSec": 280,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_tropicalia",
+        "slug": "tropicalia",
+        "title": "Tropicália",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 155,
+      "label": "Bloc Lullaby · Cass & The Terminals"
+    },
+    {
+      "id": "lsn_11",
+      "kind": "member",
+      "placeId": "plc_nairobi",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lng": 36.82,
+      "track": {
+        "id": "trk_last-ballroom-renata-a-2025-1",
+        "title": "Last Ballroom",
+        "artist": "Renata & The Taxis",
+        "artistSlug": "renata-and-the-taxis",
+        "durationSec": 263,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_tropicalia",
+        "slug": "tropicalia",
+        "title": "Tropicália",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 221,
+      "label": "Last Ballroom · Renata & The Taxis"
+    },
+    {
+      "id": "lsn_12",
+      "kind": "member",
+      "placeId": "plc_seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "lat": 37.57,
+      "lng": 126.98,
+      "track": {
+        "id": "trk_wax-and-wane",
+        "title": "Wax & Wane",
+        "artist": "Petal & Dew",
+        "artistSlug": "petal-and-dew",
+        "durationSec": 226,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_wildflower-days",
+        "slug": "wildflower-days",
+        "title": "Wildflower Days",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 220,
+      "label": "Wax & Wane · Petal & Dew"
+    },
+    {
+      "id": "lsn_13",
+      "kind": "member",
+      "placeId": "plc_jakarta",
+      "city": "Jakarta",
+      "country": "ID",
+      "lat": -6.21,
+      "lng": 106.85,
+      "track": {
+        "id": "trk_zoning-cass-and-2023-0",
+        "title": "Zoning",
+        "artist": "Cass & The Terminals",
+        "artistSlug": "cass-and-the-terminals",
+        "durationSec": 258,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 12,
+      "label": "Zoning · Cass & The Terminals"
+    },
+    {
+      "id": "lsn_14",
+      "kind": "member",
+      "placeId": "plc_sydney",
+      "city": "Sydney",
+      "country": "AU",
+      "lat": -33.87,
+      "lng": 151.21,
+      "track": {
+        "id": "trk_copper-cairn-sadie-an-2020-2",
+        "title": "Copper Cairn",
+        "artist": "Sadie & The Villages",
+        "artistSlug": "sadie-and-the-villages",
+        "durationSec": 202,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_wildflower-days",
+        "slug": "wildflower-days",
+        "title": "Wildflower Days",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 176,
+      "label": "Copper Cairn · Sadie & The Villages"
+    },
+    {
+      "id": "lsn_15",
+      "kind": "member",
+      "placeId": "plc_auckland",
+      "city": "Auckland",
+      "country": "NZ",
+      "lat": -36.85,
+      "lng": 174.76,
+      "track": {
+        "id": "trk_model-assembly-femi-and-2018-1",
+        "title": "Model Assembly",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 364,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 94,
+      "label": "Model Assembly · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_16",
+      "kind": "member",
+      "placeId": "plc_reykjavik",
+      "city": "Reykjavík",
+      "country": "IS",
+      "lat": 64.15,
+      "lng": -21.94,
+      "track": {
+        "id": "trk_census-late-pay-2019-2",
+        "title": "Census",
+        "artist": "Late Payphone",
+        "artistSlug": "late-payphone",
+        "durationSec": 417,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_late-night-heat",
+        "slug": "late-night-heat",
+        "title": "Late Night Heat",
+        "curatorName": "Amara Diallo"
+      },
+      "who": null,
+      "startedSecAgo": 104,
+      "label": "Census · Late Payphone"
+    },
+    {
+      "id": "lsn_17",
+      "kind": "member",
+      "placeId": "plc_cape-town",
+      "city": "Cape Town",
+      "country": "ZA",
+      "lat": -33.92,
+      "lng": 18.42,
+      "track": {
+        "id": "trk_cassette-weather",
+        "title": "Cassette Weather",
+        "artist": "Elara Cove",
+        "artistSlug": "elara-cove",
+        "durationSec": 208,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_late-night-heat",
+        "slug": "late-night-heat",
+        "title": "Late Night Heat",
+        "curatorName": "Amara Diallo"
+      },
+      "who": null,
+      "startedSecAgo": 67,
+      "label": "Cassette Weather · Elara Cove"
+    },
+    {
+      "id": "lsn_18",
+      "kind": "member",
+      "placeId": "plc_mumbai",
+      "city": "Mumbai",
+      "country": "IN",
+      "lat": 19.08,
+      "lng": 72.88,
+      "track": {
+        "id": "trk_ballast-petra-il-2021-3",
+        "title": "Ballast",
+        "artist": "Petra Ilić",
+        "artistSlug": "petra-ilic",
+        "durationSec": 253,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": null,
+      "startedSecAgo": 82,
+      "label": "Ballast · Petra Ilić"
+    },
+    {
+      "id": "lsn_19",
+      "kind": "member",
+      "placeId": "plc_bangkok",
+      "city": "Bangkok",
+      "country": "TH",
+      "lat": 13.76,
+      "lng": 100.5,
+      "track": {
+        "id": "trk_neon-hour-rhys-ree-2023-2",
+        "title": "Neon Hour",
+        "artist": "Rhys Rees",
+        "artistSlug": "rhys-rees",
+        "durationSec": 428,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 11,
+      "label": "Neon Hour · Rhys Rees"
+    },
+    {
+      "id": "lsn_20",
+      "kind": "member",
+      "placeId": "plc_manila",
+      "city": "Manila",
+      "country": "PH",
+      "lat": 14.6,
+      "lng": 120.98,
+      "track": {
+        "id": "trk_twice-the-terminal-rhys-ree-2025-2",
+        "title": "Twice the Terminal",
+        "artist": "Rhys Rees",
+        "artistSlug": "rhys-rees",
+        "durationSec": 355,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 192,
+      "label": "Twice the Terminal · Rhys Rees"
+    },
+    {
+      "id": "lsn_21",
+      "kind": "member",
+      "placeId": "plc_buenos-aires",
+      "city": "Buenos Aires",
+      "country": "AR",
+      "lat": -34.6,
+      "lng": -58.38,
+      "track": {
+        "id": "trk_paper-lanterns",
+        "title": "Paper Lanterns",
+        "artist": "Zaya Blue",
+        "artistSlug": "zaya-blue",
+        "durationSec": 232,
+        "image": "/artwork/album/paper-lanterns.jpg"
+      },
+      "playlist": {
+        "id": "pl_golden-hour",
+        "slug": "golden-hour",
+        "title": "Golden Hour",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 6,
+      "label": "Paper Lanterns · Zaya Blue"
+    },
+    {
+      "id": "lsn_22",
+      "kind": "member",
+      "placeId": "plc_lima",
+      "city": "Lima",
+      "country": "PE",
+      "lat": -12.05,
+      "lng": -77.04,
+      "track": {
+        "id": "trk_every-bloc-the-slat-2023-1",
+        "title": "Every Bloc",
+        "artist": "The Slate Stratas",
+        "artistSlug": "the-slate-stratas",
+        "durationSec": 208,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_wildflower-days",
+        "slug": "wildflower-days",
+        "title": "Wildflower Days",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 33,
+      "label": "Every Bloc · The Slate Stratas"
+    },
+    {
+      "id": "lsn_23",
+      "kind": "member",
+      "placeId": "plc_santiago",
+      "city": "Santiago",
+      "country": "CL",
+      "lat": -33.45,
+      "lng": -70.67,
+      "track": {
+        "id": "trk_new-bureau-rhys-ree-2023-1",
+        "title": "New Bureau",
+        "artist": "Rhys Rees",
+        "artistSlug": "rhys-rees",
+        "durationSec": 333,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 132,
+      "label": "New Bureau · Rhys Rees"
+    },
+    {
+      "id": "lsn_24",
+      "kind": "member",
+      "placeId": "plc_toronto",
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.65,
+      "lng": -79.38,
+      "track": {
+        "id": "trk_no-more-fathoms-bloom-2017-1",
+        "title": "No More Fathoms",
+        "artist": "Bloom",
+        "artistSlug": "bloom",
+        "durationSec": 240,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_golden-hour",
+        "slug": "golden-hour",
+        "title": "Golden Hour",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 165,
+      "label": "No More Fathoms · Bloom"
+    },
+    {
+      "id": "lsn_25",
+      "kind": "member",
+      "placeId": "plc_vancouver",
+      "city": "Vancouver",
+      "country": "CA",
+      "lat": 49.28,
+      "lng": -123.12,
+      "track": {
+        "id": "trk_hour-march-renata-a-2023-0",
+        "title": "Hour March",
+        "artist": "Renata & The Taxis",
+        "artistSlug": "renata-and-the-taxis",
+        "durationSec": 194,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 230,
+      "label": "Hour March · Renata & The Taxis"
+    },
+    {
+      "id": "lsn_26",
+      "kind": "member",
+      "placeId": "plc_denver",
+      "city": "Denver",
+      "country": "US",
+      "lat": 39.74,
+      "lng": -104.99,
+      "track": {
+        "id": "trk_moss-waltz-the-gree-2024-3",
+        "title": "Moss Waltz",
+        "artist": "The Green Vines",
+        "artistSlug": "the-green-vines",
+        "durationSec": 499,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_string-theory",
+        "slug": "string-theory",
+        "title": "String Theory",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": null,
+      "startedSecAgo": 188,
+      "label": "Moss Waltz · The Green Vines"
+    },
+    {
+      "id": "lsn_27",
+      "kind": "member",
+      "placeId": "plc_austin",
+      "city": "Austin",
+      "country": "US",
+      "lat": 30.27,
+      "lng": -97.74,
+      "track": {
+        "id": "trk_quarry-reprise-opal-and-2014-2",
+        "title": "Quarry (Reprise)",
+        "artist": "Opal & The Villages",
+        "artistSlug": "opal-and-the-villages",
+        "durationSec": 302,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 138,
+      "label": "Quarry (Reprise) · Opal & The Villages"
+    },
+    {
+      "id": "lsn_28",
+      "kind": "member",
+      "placeId": "plc_miami",
+      "city": "Miami",
+      "country": "US",
+      "lat": 25.76,
+      "lng": -80.19,
+      "track": {
+        "id": "trk_fallow-thicket-ren-ishi-2020-1",
+        "title": "Fallow Thicket",
+        "artist": "Ren Ishii",
+        "artistSlug": "ren-ishii",
+        "durationSec": 177,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_golden-hour",
+        "slug": "golden-hour",
+        "title": "Golden Hour",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 182,
+      "label": "Fallow Thicket · Ren Ishii"
+    },
+    {
+      "id": "lsn_29",
+      "kind": "member",
+      "placeId": "plc_dublin",
+      "city": "Dublin",
+      "country": "IE",
+      "lat": 53.35,
+      "lng": -6.26,
+      "track": {
+        "id": "trk_half-a-strata-sadie-an-2021-1",
+        "title": "Half a Strata",
+        "artist": "Sadie & The Villages",
+        "artistSlug": "sadie-and-the-villages",
+        "durationSec": 267,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_wildflower-days",
+        "slug": "wildflower-days",
+        "title": "Wildflower Days",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 178,
+      "label": "Half a Strata · Sadie & The Villages"
+    },
+    {
+      "id": "lsn_30",
+      "kind": "member",
+      "placeId": "plc_amsterdam",
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.37,
+      "lng": 4.9,
+      "track": {
+        "id": "trk_nocturne-merrick--2011-3",
+        "title": "Nocturne",
+        "artist": "Merrick & The Motels",
+        "artistSlug": "merrick-and-the-motels",
+        "durationSec": 180,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_cassette-dreams",
+        "slug": "cassette-dreams",
+        "title": "Cassette Dreams",
+        "curatorName": "Haruka Nakagawa"
+      },
+      "who": null,
+      "startedSecAgo": 227,
+      "label": "Nocturne · Merrick & The Motels"
+    },
+    {
+      "id": "lsn_31",
+      "kind": "member",
+      "placeId": "plc_copenhagen",
+      "city": "Copenhagen",
+      "country": "DK",
+      "lat": 55.68,
+      "lng": 12.57,
+      "track": {
+        "id": "trk_small-rooftop-merrick--2022-1",
+        "title": "Small Rooftop",
+        "artist": "Merrick Dark",
+        "artistSlug": "merrick-dark",
+        "durationSec": 215,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_late-night-heat",
+        "slug": "late-night-heat",
+        "title": "Late Night Heat",
+        "curatorName": "Amara Diallo"
+      },
+      "who": null,
+      "startedSecAgo": 189,
+      "label": "Small Rooftop · Merrick Dark"
+    },
+    {
+      "id": "lsn_32",
+      "kind": "member",
+      "placeId": "plc_warsaw",
+      "city": "Warsaw",
+      "country": "PL",
+      "lat": 52.23,
+      "lng": 21.01,
+      "track": {
+        "id": "trk_total-observatory-tobias-t-2024-4",
+        "title": "Total Observatory",
+        "artist": "Tobias Total",
+        "artistSlug": "tobias-total",
+        "durationSec": 393,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": null,
+      "startedSecAgo": 163,
+      "label": "Total Observatory · Tobias Total"
+    },
+    {
+      "id": "lsn_33",
+      "kind": "member",
+      "placeId": "plc_athens",
+      "city": "Athens",
+      "country": "GR",
+      "lat": 37.98,
+      "lng": 23.73,
+      "track": {
+        "id": "trk_45-rpm-heart",
+        "title": "45 RPM Heart",
+        "artist": "Shellac Jones",
+        "artistSlug": "shellac-jones",
+        "durationSec": 221,
+        "image": "/artwork/album/slow-rotation.jpg"
+      },
+      "playlist": {
+        "id": "pl_cassette-dreams",
+        "slug": "cassette-dreams",
+        "title": "Cassette Dreams",
+        "curatorName": "Haruka Nakagawa"
+      },
+      "who": null,
+      "startedSecAgo": 11,
+      "label": "45 RPM Heart · Shellac Jones"
+    },
+    {
+      "id": "lsn_34",
+      "kind": "member",
+      "placeId": "plc_istanbul",
+      "city": "Istanbul",
+      "country": "TR",
+      "lat": 41.01,
+      "lng": 28.98,
+      "track": {
+        "id": "trk_small-marquee-curfew-2023-2",
+        "title": "Small Marquee",
+        "artist": "Curfew",
+        "artistSlug": "curfew",
+        "durationSec": 429,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 71,
+      "label": "Small Marquee · Curfew"
+    },
+    {
+      "id": "lsn_35",
+      "kind": "member",
+      "placeId": "plc_cairo",
+      "city": "Cairo",
+      "country": "EG",
+      "lat": 30.04,
+      "lng": 31.24,
+      "track": {
+        "id": "trk_sediment-the-barl-2020-4",
+        "title": "Sediment",
+        "artist": "The Barleyfield Ensemble",
+        "artistSlug": "the-barleyfield-ensemble",
+        "durationSec": 289,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_wildflower-days",
+        "slug": "wildflower-days",
+        "title": "Wildflower Days",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 204,
+      "label": "Sediment · The Barleyfield Ensemble"
+    },
+    {
+      "id": "lsn_36",
+      "kind": "member",
+      "placeId": "plc_dakar",
+      "city": "Dakar",
+      "country": "SN",
+      "lat": 14.72,
+      "lng": -17.47,
+      "track": {
+        "id": "trk_faded-label",
+        "title": "Faded Label",
+        "artist": "The Dusty Crates",
+        "artistSlug": "the-dusty-crates",
+        "durationSec": 298,
+        "image": "/artwork/album/basement-sessions.jpg"
+      },
+      "playlist": {
+        "id": "pl_vinyl-sundays",
+        "slug": "vinyl-sundays",
+        "title": "Vinyl Sundays",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 29,
+      "label": "Faded Label · The Dusty Crates"
+    },
+    {
+      "id": "lsn_37",
+      "kind": "member",
+      "placeId": "plc_johannesburg",
+      "city": "Johannesburg",
+      "country": "ZA",
+      "lat": -26.2,
+      "lng": 28.05,
+      "track": {
+        "id": "trk_faded-label",
+        "title": "Faded Label",
+        "artist": "The Dusty Crates",
+        "artistSlug": "the-dusty-crates",
+        "durationSec": 298,
+        "image": "/artwork/album/basement-sessions.jpg"
+      },
+      "playlist": {
+        "id": "pl_vinyl-sundays",
+        "slug": "vinyl-sundays",
+        "title": "Vinyl Sundays",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 128,
+      "label": "Faded Label · The Dusty Crates"
+    },
+    {
+      "id": "lsn_38",
+      "kind": "member",
+      "placeId": "plc_delhi",
+      "city": "Delhi",
+      "country": "IN",
+      "lat": 28.61,
+      "lng": 77.21,
+      "track": {
+        "id": "trk_census-femi-and-2022-2",
+        "title": "Census",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 294,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 119,
+      "label": "Census · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_39",
+      "kind": "member",
+      "placeId": "plc_taipei",
+      "city": "Taipei",
+      "country": "TW",
+      "lat": 25.03,
+      "lng": 121.57,
+      "track": {
+        "id": "trk_census-femi-and-2022-0",
+        "title": "Census",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 449,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_the-archive",
+        "slug": "the-archive",
+        "title": "The Archive",
+        "curatorName": "Adé Mensah"
+      },
+      "who": null,
+      "startedSecAgo": 103,
+      "label": "Census · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_40",
+      "kind": "member",
+      "placeId": "plc_hong-kong",
+      "city": "Hong Kong",
+      "country": "HK",
+      "lat": 22.32,
+      "lng": 114.17,
+      "track": {
+        "id": "trk_model-assembly-femi-and-2018-1",
+        "title": "Model Assembly",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 364,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 180,
+      "label": "Model Assembly · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_41",
+      "kind": "member",
+      "placeId": "plc_honolulu",
+      "city": "Honolulu",
+      "country": "US",
+      "lat": 21.31,
+      "lng": -157.86,
+      "track": {
+        "id": "trk_village-hymn-petra-il-2021-2",
+        "title": "Village Hymn",
+        "artist": "Petra Ilić",
+        "artistSlug": "petra-ilic",
+        "durationSec": 174,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 210,
+      "label": "Village Hymn · Petra Ilić"
+    },
+    {
+      "id": "lsn_42",
+      "kind": "member",
+      "placeId": "plc_anchorage",
+      "city": "Anchorage",
+      "country": "US",
+      "lat": 61.22,
+      "lng": -149.9,
+      "track": {
+        "id": "trk_no-more-orchards-renata-a-2021-4",
+        "title": "No More Orchards",
+        "artist": "Renata & The Taxis",
+        "artistSlug": "renata-and-the-taxis",
+        "durationSec": 160,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_tropicalia",
+        "slug": "tropicalia",
+        "title": "Tropicália",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 52,
+      "label": "No More Orchards · Renata & The Taxis"
+    },
+    {
+      "id": "lsn_43",
+      "kind": "member",
+      "placeId": "plc_perth",
+      "city": "Perth",
+      "country": "AU",
+      "lat": -31.95,
+      "lng": 115.86,
+      "track": {
+        "id": "trk_model-assembly-femi-and-2018-1",
+        "title": "Model Assembly",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 364,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 47,
+      "label": "Model Assembly · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_44",
+      "kind": "member",
+      "placeId": "plc_ho-chi-minh-city",
+      "city": "Ho Chi Minh City",
+      "country": "VN",
+      "lat": 10.82,
+      "lng": 106.63,
+      "track": {
+        "id": "trk_bloc-reprise-late-pay-2016-2",
+        "title": "Bloc (Reprise)",
+        "artist": "Late Payphone",
+        "artistSlug": "late-payphone",
+        "durationSec": 444,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 55,
+      "label": "Bloc (Reprise) · Late Payphone"
+    },
+    {
+      "id": "lsn_45",
+      "kind": "member",
+      "placeId": "plc_casablanca",
+      "city": "Casablanca",
+      "country": "MA",
+      "lat": 33.57,
+      "lng": -7.59,
+      "track": {
+        "id": "trk_transit-lullaby-rasmus-s-2020-2",
+        "title": "Transit Lullaby",
+        "artist": "Rasmus Sørensen",
+        "artistSlug": "rasmus-s-rensen",
+        "durationSec": 278,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_string-theory",
+        "slug": "string-theory",
+        "title": "String Theory",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": null,
+      "startedSecAgo": 176,
+      "label": "Transit Lullaby · Rasmus Sørensen"
+    },
+    {
+      "id": "lsn_46",
+      "kind": "member",
+      "placeId": "plc_addis-ababa",
+      "city": "Addis Ababa",
+      "country": "ET",
+      "lat": 9.03,
+      "lng": 38.74,
+      "track": {
+        "id": "trk_no-more-harvests-mateo-mo-2019-4",
+        "title": "No More Harvests",
+        "artist": "Mateo Molinari",
+        "artistSlug": "mateo-molinari",
+        "durationSec": 207,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_the-archive",
+        "slug": "the-archive",
+        "title": "The Archive",
+        "curatorName": "Adé Mensah"
+      },
+      "who": null,
+      "startedSecAgo": 29,
+      "label": "No More Harvests · Mateo Molinari"
+    },
+    {
+      "id": "lsn_47",
+      "kind": "member",
+      "placeId": "plc_havana",
+      "city": "Havana",
+      "country": "CU",
+      "lat": 23.11,
+      "lng": -82.37,
+      "track": {
+        "id": "trk_label-hymn-sadie-bl-2021-3",
+        "title": "Label Hymn",
+        "artist": "Sadie Blackwood",
+        "artistSlug": "sadie-blackwood",
+        "durationSec": 346,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_late-night-heat",
+        "slug": "late-night-heat",
+        "title": "Late Night Heat",
+        "curatorName": "Amara Diallo"
+      },
+      "who": null,
+      "startedSecAgo": 195,
+      "label": "Label Hymn · Sadie Blackwood"
+    },
+    {
+      "id": "lsn_48",
+      "kind": "member",
+      "placeId": "plc_montevideo",
+      "city": "Montevideo",
+      "country": "UY",
+      "lat": -34.9,
+      "lng": -56.16,
+      "track": {
+        "id": "trk_45-rpm-heart",
+        "title": "45 RPM Heart",
+        "artist": "Shellac Jones",
+        "artistSlug": "shellac-jones",
+        "durationSec": 221,
+        "image": "/artwork/album/slow-rotation.jpg"
+      },
+      "playlist": {
+        "id": "pl_cassette-dreams",
+        "slug": "cassette-dreams",
+        "title": "Cassette Dreams",
+        "curatorName": "Haruka Nakagawa"
+      },
+      "who": null,
+      "startedSecAgo": 54,
+      "label": "45 RPM Heart · Shellac Jones"
+    },
+    {
+      "id": "lsn_49",
+      "kind": "member",
+      "placeId": "plc_helsinki",
+      "city": "Helsinki",
+      "country": "FI",
+      "lat": 60.17,
+      "lng": 24.94,
+      "track": {
+        "id": "trk_census-femi-and-2022-0",
+        "title": "Census",
+        "artist": "Femi & The Observatories",
+        "artistSlug": "femi-and-the-observatories",
+        "durationSec": 449,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_tropicalia",
+        "slug": "tropicalia",
+        "title": "Tropicália",
+        "curatorName": "Luana Andrade"
+      },
+      "who": null,
+      "startedSecAgo": 186,
+      "label": "Census · Femi & The Observatories"
+    },
+    {
+      "id": "lsn_50",
+      "kind": "member",
+      "placeId": "plc_edinburgh",
+      "city": "Edinburgh",
+      "country": "GB",
+      "lat": 55.95,
+      "lng": -3.19,
+      "track": {
+        "id": "trk_registry-elegy-the-velv-2024-2",
+        "title": "Registry Elegy",
+        "artist": "The Velvet Ferries",
+        "artistSlug": "the-velvet-ferries",
+        "durationSec": 393,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_jazz-nights",
+        "slug": "jazz-nights",
+        "title": "Jazz Nights",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 211,
+      "label": "Registry Elegy · The Velvet Ferries"
+    },
+    {
+      "id": "lsn_51",
+      "kind": "member",
+      "placeId": "plc_marseille",
+      "city": "Marseille",
+      "country": "FR",
+      "lat": 43.3,
+      "lng": 5.37,
+      "track": {
+        "id": "trk_late-payphone-renata-a-2025-0",
+        "title": "Late Payphone",
+        "artist": "Renata & The Taxis",
+        "artistSlug": "renata-and-the-taxis",
+        "durationSec": 269,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_the-archive",
+        "slug": "the-archive",
+        "title": "The Archive",
+        "curatorName": "Adé Mensah"
+      },
+      "who": null,
+      "startedSecAgo": 228,
+      "label": "Late Payphone · Renata & The Taxis"
+    },
+    {
+      "id": "lsn_52",
+      "kind": "member",
+      "placeId": "plc_milan",
+      "city": "Milan",
+      "country": "IT",
+      "lat": 45.46,
+      "lng": 9.19,
+      "track": {
+        "id": "trk_dust-on-the-needle",
+        "title": "Dust on the Needle",
+        "artist": "The Worn Grooves",
+        "artistSlug": "the-worn-grooves",
+        "durationSec": 252,
+        "image": "/artwork/album/sunday-spins.jpg"
+      },
+      "playlist": {
+        "id": "pl_vinyl-sundays",
+        "slug": "vinyl-sundays",
+        "title": "Vinyl Sundays",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 98,
+      "label": "Dust on the Needle · The Worn Grooves"
+    },
+    {
+      "id": "lsn_53",
+      "kind": "member",
+      "placeId": "plc_barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "lat": 41.39,
+      "lng": 2.17,
+      "track": {
+        "id": "trk_curfew-halvor-l-2017-0",
+        "title": "Curfew",
+        "artist": "Halvor Lindqvist",
+        "artistSlug": "halvor-lindqvist",
+        "durationSec": 373,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_jazz-nights",
+        "slug": "jazz-nights",
+        "title": "Jazz Nights",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 161,
+      "label": "Curfew · Halvor Lindqvist"
+    },
+    {
+      "id": "lsn_54",
+      "kind": "member",
+      "placeId": "plc_kingston",
+      "city": "Kingston",
+      "country": "JM",
+      "lat": 17.97,
+      "lng": -76.79,
+      "track": {
+        "id": "trk_transit-lullaby-rasmus-s-2020-2",
+        "title": "Transit Lullaby",
+        "artist": "Rasmus Sørensen",
+        "artistSlug": "rasmus-s-rensen",
+        "durationSec": 278,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_string-theory",
+        "slug": "string-theory",
+        "title": "String Theory",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": null,
+      "startedSecAgo": 37,
+      "label": "Transit Lullaby · Rasmus Sørensen"
+    },
+    {
+      "id": "lsn_55",
+      "kind": "member",
+      "placeId": "plc_melbourne",
+      "city": "Melbourne",
+      "country": "AU",
+      "lat": -37.81,
+      "lng": 144.96,
+      "track": {
+        "id": "trk_every-registry-the-velv-2024-1",
+        "title": "Every Registry",
+        "artist": "The Velvet Ferries",
+        "artistSlug": "the-velvet-ferries",
+        "durationSec": 504,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_jazz-nights",
+        "slug": "jazz-nights",
+        "title": "Jazz Nights",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 65,
+      "label": "Every Registry · The Velvet Ferries"
+    },
+    {
+      "id": "lsn_56",
+      "kind": "member",
+      "placeId": "plc_berlin",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lng": 13.41,
+      "track": {
+        "id": "trk_small-rooftop-merrick--2022-1",
+        "title": "Small Rooftop",
+        "artist": "Merrick Dark",
+        "artistSlug": "merrick-dark",
+        "durationSec": 215,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_wildflower-days",
+        "slug": "wildflower-days",
+        "title": "Wildflower Days",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 106,
+      "label": "Small Rooftop · Merrick Dark"
+    },
+    {
+      "id": "lsn_57",
+      "kind": "member",
+      "placeId": "plc_lagos",
+      "city": "Lagos",
+      "country": "NG",
+      "lat": 6.52,
+      "lng": 3.38,
+      "track": {
+        "id": "trk_bright-thicket-bloom-2022-1",
+        "title": "Bright Thicket",
+        "artist": "Bloom",
+        "artistSlug": "bloom",
+        "durationSec": 209,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "who": null,
+      "startedSecAgo": 20,
+      "label": "Bright Thicket · Bloom"
+    },
+    {
+      "id": "lsn_58",
+      "kind": "member",
+      "placeId": "plc_detroit",
+      "city": "Detroit",
+      "country": "US",
+      "lat": 42.33,
+      "lng": -83.05,
+      "track": {
+        "id": "trk_annex-lullaby-rhys-ree-2025-3",
+        "title": "Annex Lullaby",
+        "artist": "Rhys Rees",
+        "artistSlug": "rhys-rees",
+        "durationSec": 334,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_midnight-sax",
+        "slug": "midnight-sax",
+        "title": "Midnight Sax",
+        "curatorName": "Marcus Pike"
+      },
+      "who": null,
+      "startedSecAgo": 147,
+      "label": "Annex Lullaby · Rhys Rees"
+    },
+    {
+      "id": "lsn_59",
+      "kind": "member",
+      "placeId": "plc_kyoto",
+      "city": "Kyoto",
+      "country": "JP",
+      "lat": 35.01,
+      "lng": 135.77,
+      "track": {
+        "id": "trk_harbour-lights",
+        "title": "Harbour Lights",
+        "artist": "Jack Hatfield",
+        "artistSlug": "jack-hatfield",
+        "durationSec": 336,
+        "image": null
+      },
+      "playlist": {
+        "id": "pl_golden-hour",
+        "slug": "golden-hour",
+        "title": "Golden Hour",
+        "curatorName": "Sofía Reyes"
+      },
+      "who": null,
+      "startedSecAgo": 107,
+      "label": "Harbour Lights · Jack Hatfield"
+    }
+  ],
+  "places": [
+    {
+      "id": "plc_mexico-city",
+      "city": "Mexico City",
+      "country": "MX",
+      "lat": 19.43,
+      "lng": -99.13
+    },
+    {
+      "id": "plc_accra",
+      "city": "Accra",
+      "country": "GH",
+      "lat": 5.56,
+      "lng": -0.2
+    },
+    {
+      "id": "plc_oslo",
+      "city": "Oslo",
+      "country": "NO",
+      "lat": 59.91,
+      "lng": 10.75
+    },
+    {
+      "id": "plc_philadelphia",
+      "city": "Philadelphia",
+      "country": "US",
+      "lat": 39.95,
+      "lng": -75.17
+    },
+    {
+      "id": "plc_tokyo",
+      "city": "Tokyo",
+      "country": "JP",
+      "lat": 35.68,
+      "lng": 139.69
+    },
+    {
+      "id": "plc_paris",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.86,
+      "lng": 2.35
+    },
+    {
+      "id": "plc_belgrade",
+      "city": "Belgrade",
+      "country": "RS",
+      "lat": 44.79,
+      "lng": 20.46
+    },
+    {
+      "id": "plc_sao-paulo",
+      "city": "São Paulo",
+      "country": "BR",
+      "lat": -23.55,
+      "lng": -46.63
+    },
+    {
+      "id": "plc_london",
+      "city": "London",
+      "country": "GB",
+      "lat": 51.51,
+      "lng": -0.13
+    },
+    {
+      "id": "plc_melbourne",
+      "city": "Melbourne",
+      "country": "AU",
+      "lat": -37.81,
+      "lng": 144.96
+    },
+    {
+      "id": "plc_portland",
+      "city": "Portland",
+      "country": "US",
+      "lat": 45.52,
+      "lng": -122.68
+    },
+    {
+      "id": "plc_bristol",
+      "city": "Bristol",
+      "country": "GB",
+      "lat": 51.45,
+      "lng": -2.59
+    },
+    {
+      "id": "plc_berlin",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lng": 13.41
+    },
+    {
+      "id": "plc_new-york",
+      "city": "New York",
+      "country": "US",
+      "lat": 40.71,
+      "lng": -74.01
+    },
+    {
+      "id": "plc_bogota",
+      "city": "Bogotá",
+      "country": "CO",
+      "lat": 4.71,
+      "lng": -74.07
+    },
+    {
+      "id": "plc_lagos",
+      "city": "Lagos",
+      "country": "NG",
+      "lat": 6.52,
+      "lng": 3.38
+    },
+    {
+      "id": "plc_leeds",
+      "city": "Leeds",
+      "country": "GB",
+      "lat": 53.8,
+      "lng": -1.55
+    },
+    {
+      "id": "plc_missoula",
+      "city": "Missoula",
+      "country": "US",
+      "lat": 46.87,
+      "lng": -113.99
+    },
+    {
+      "id": "plc_whitby",
+      "city": "Whitby",
+      "country": "GB",
+      "lat": 54.49,
+      "lng": -0.61
+    },
+    {
+      "id": "plc_half-moon-bay",
+      "city": "Half Moon Bay",
+      "country": "US",
+      "lat": 37.46,
+      "lng": -122.43
+    },
+    {
+      "id": "plc_sligo",
+      "city": "Sligo",
+      "country": "IE",
+      "lat": 54.27,
+      "lng": -8.47
+    },
+    {
+      "id": "plc_chicago",
+      "city": "Chicago",
+      "country": "US",
+      "lat": 41.88,
+      "lng": -87.63
+    },
+    {
+      "id": "plc_hebden-bridge",
+      "city": "Hebden Bridge",
+      "country": "GB",
+      "lat": 53.74,
+      "lng": -2.01
+    },
+    {
+      "id": "plc_athens-ga",
+      "city": "Athens",
+      "country": "US",
+      "lat": 33.96,
+      "lng": -83.38
+    },
+    {
+      "id": "plc_asheville",
+      "city": "Asheville",
+      "country": "US",
+      "lat": 35.6,
+      "lng": -82.55
+    },
+    {
+      "id": "plc_norwich",
+      "city": "Norwich",
+      "country": "GB",
+      "lat": 52.63,
+      "lng": 1.3
+    },
+    {
+      "id": "plc_montreal",
+      "city": "Montréal",
+      "country": "CA",
+      "lat": 45.5,
+      "lng": -73.57
+    },
+    {
+      "id": "plc_lyon",
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.76,
+      "lng": 4.84
+    },
+    {
+      "id": "plc_sheffield",
+      "city": "Sheffield",
+      "country": "GB",
+      "lat": 53.38,
+      "lng": -1.47
+    },
+    {
+      "id": "plc_memphis",
+      "city": "Memphis",
+      "country": "US",
+      "lat": 35.15,
+      "lng": -90.05
+    },
+    {
+      "id": "plc_detroit",
+      "city": "Detroit",
+      "country": "US",
+      "lat": 42.33,
+      "lng": -83.05
+    },
+    {
+      "id": "plc_brooklyn",
+      "city": "Brooklyn",
+      "country": "US",
+      "lat": 40.68,
+      "lng": -73.94
+    },
+    {
+      "id": "plc_tucson",
+      "city": "Tucson",
+      "country": "US",
+      "lat": 32.22,
+      "lng": -110.97
+    },
+    {
+      "id": "plc_cardiff",
+      "city": "Cardiff",
+      "country": "GB",
+      "lat": 51.48,
+      "lng": -3.18
+    },
+    {
+      "id": "plc_providence",
+      "city": "Providence",
+      "country": "US",
+      "lat": 41.82,
+      "lng": -71.41
+    },
+    {
+      "id": "plc_minneapolis",
+      "city": "Minneapolis",
+      "country": "US",
+      "lat": 44.98,
+      "lng": -93.27
+    },
+    {
+      "id": "plc_toulouse",
+      "city": "Toulouse",
+      "country": "FR",
+      "lat": 43.6,
+      "lng": 1.44
+    },
+    {
+      "id": "plc_glasgow",
+      "city": "Glasgow",
+      "country": "GB",
+      "lat": 55.86,
+      "lng": -4.25
+    },
+    {
+      "id": "plc_nashville",
+      "city": "Nashville",
+      "country": "US",
+      "lat": 36.16,
+      "lng": -86.78
+    },
+    {
+      "id": "plc_rosario",
+      "city": "Rosario",
+      "country": "AR",
+      "lat": -32.94,
+      "lng": -60.64
+    },
+    {
+      "id": "plc_valparaiso",
+      "city": "Valparaíso",
+      "country": "CL",
+      "lat": -33.05,
+      "lng": -71.62
+    },
+    {
+      "id": "plc_belfast",
+      "city": "Belfast",
+      "country": "GB",
+      "lat": 54.6,
+      "lng": -5.93
+    },
+    {
+      "id": "plc_richmond",
+      "city": "Richmond",
+      "country": "US",
+      "lat": 37.54,
+      "lng": -77.44
+    },
+    {
+      "id": "plc_kyoto",
+      "city": "Kyoto",
+      "country": "JP",
+      "lat": 35.01,
+      "lng": 135.77
+    },
+    {
+      "id": "plc_hamburg",
+      "city": "Hamburg",
+      "country": "DE",
+      "lat": 53.55,
+      "lng": 9.99
+    },
+    {
+      "id": "plc_bergen",
+      "city": "Bergen",
+      "country": "NO",
+      "lat": 60.39,
+      "lng": 5.32
+    },
+    {
+      "id": "plc_abidjan",
+      "city": "Abidjan",
+      "country": "CI",
+      "lat": 5.36,
+      "lng": -4.01
+    },
+    {
+      "id": "plc_malmo",
+      "city": "Malmö",
+      "country": "SE",
+      "lat": 55.6,
+      "lng": 13
+    },
+    {
+      "id": "plc_oakland",
+      "city": "Oakland",
+      "country": "US",
+      "lat": 37.8,
+      "lng": -122.27
+    },
+    {
+      "id": "plc_guadalajara",
+      "city": "Guadalajara",
+      "country": "MX",
+      "lat": 20.66,
+      "lng": -103.35
+    },
+    {
+      "id": "plc_novi-sad",
+      "city": "Novi Sad",
+      "country": "RS",
+      "lat": 45.25,
+      "lng": 19.84
+    },
+    {
+      "id": "plc_troms",
+      "city": "Tromsø",
+      "country": "NO",
+      "lat": 69.65,
+      "lng": 18.96
+    },
+    {
+      "id": "plc_lisbon",
+      "city": "Lisbon",
+      "country": "PT",
+      "lat": 38.72,
+      "lng": -9.14
+    },
+    {
+      "id": "plc_nairobi",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lng": 36.82
+    },
+    {
+      "id": "plc_seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "lat": 37.57,
+      "lng": 126.98
+    },
+    {
+      "id": "plc_jakarta",
+      "city": "Jakarta",
+      "country": "ID",
+      "lat": -6.21,
+      "lng": 106.85
+    },
+    {
+      "id": "plc_sydney",
+      "city": "Sydney",
+      "country": "AU",
+      "lat": -33.87,
+      "lng": 151.21
+    },
+    {
+      "id": "plc_auckland",
+      "city": "Auckland",
+      "country": "NZ",
+      "lat": -36.85,
+      "lng": 174.76
+    },
+    {
+      "id": "plc_reykjavik",
+      "city": "Reykjavík",
+      "country": "IS",
+      "lat": 64.15,
+      "lng": -21.94
+    },
+    {
+      "id": "plc_cape-town",
+      "city": "Cape Town",
+      "country": "ZA",
+      "lat": -33.92,
+      "lng": 18.42
+    },
+    {
+      "id": "plc_mumbai",
+      "city": "Mumbai",
+      "country": "IN",
+      "lat": 19.08,
+      "lng": 72.88
+    },
+    {
+      "id": "plc_bangkok",
+      "city": "Bangkok",
+      "country": "TH",
+      "lat": 13.76,
+      "lng": 100.5
+    },
+    {
+      "id": "plc_manila",
+      "city": "Manila",
+      "country": "PH",
+      "lat": 14.6,
+      "lng": 120.98
+    },
+    {
+      "id": "plc_buenos-aires",
+      "city": "Buenos Aires",
+      "country": "AR",
+      "lat": -34.6,
+      "lng": -58.38
+    },
+    {
+      "id": "plc_lima",
+      "city": "Lima",
+      "country": "PE",
+      "lat": -12.05,
+      "lng": -77.04
+    },
+    {
+      "id": "plc_santiago",
+      "city": "Santiago",
+      "country": "CL",
+      "lat": -33.45,
+      "lng": -70.67
+    },
+    {
+      "id": "plc_toronto",
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.65,
+      "lng": -79.38
+    },
+    {
+      "id": "plc_vancouver",
+      "city": "Vancouver",
+      "country": "CA",
+      "lat": 49.28,
+      "lng": -123.12
+    },
+    {
+      "id": "plc_denver",
+      "city": "Denver",
+      "country": "US",
+      "lat": 39.74,
+      "lng": -104.99
+    },
+    {
+      "id": "plc_austin",
+      "city": "Austin",
+      "country": "US",
+      "lat": 30.27,
+      "lng": -97.74
+    },
+    {
+      "id": "plc_miami",
+      "city": "Miami",
+      "country": "US",
+      "lat": 25.76,
+      "lng": -80.19
+    },
+    {
+      "id": "plc_dublin",
+      "city": "Dublin",
+      "country": "IE",
+      "lat": 53.35,
+      "lng": -6.26
+    },
+    {
+      "id": "plc_amsterdam",
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.37,
+      "lng": 4.9
+    },
+    {
+      "id": "plc_copenhagen",
+      "city": "Copenhagen",
+      "country": "DK",
+      "lat": 55.68,
+      "lng": 12.57
+    },
+    {
+      "id": "plc_warsaw",
+      "city": "Warsaw",
+      "country": "PL",
+      "lat": 52.23,
+      "lng": 21.01
+    },
+    {
+      "id": "plc_athens",
+      "city": "Athens",
+      "country": "GR",
+      "lat": 37.98,
+      "lng": 23.73
+    },
+    {
+      "id": "plc_istanbul",
+      "city": "Istanbul",
+      "country": "TR",
+      "lat": 41.01,
+      "lng": 28.98
+    },
+    {
+      "id": "plc_cairo",
+      "city": "Cairo",
+      "country": "EG",
+      "lat": 30.04,
+      "lng": 31.24
+    },
+    {
+      "id": "plc_dakar",
+      "city": "Dakar",
+      "country": "SN",
+      "lat": 14.72,
+      "lng": -17.47
+    },
+    {
+      "id": "plc_johannesburg",
+      "city": "Johannesburg",
+      "country": "ZA",
+      "lat": -26.2,
+      "lng": 28.05
+    },
+    {
+      "id": "plc_delhi",
+      "city": "Delhi",
+      "country": "IN",
+      "lat": 28.61,
+      "lng": 77.21
+    },
+    {
+      "id": "plc_taipei",
+      "city": "Taipei",
+      "country": "TW",
+      "lat": 25.03,
+      "lng": 121.57
+    },
+    {
+      "id": "plc_hong-kong",
+      "city": "Hong Kong",
+      "country": "HK",
+      "lat": 22.32,
+      "lng": 114.17
+    },
+    {
+      "id": "plc_honolulu",
+      "city": "Honolulu",
+      "country": "US",
+      "lat": 21.31,
+      "lng": -157.86
+    },
+    {
+      "id": "plc_anchorage",
+      "city": "Anchorage",
+      "country": "US",
+      "lat": 61.22,
+      "lng": -149.9
+    },
+    {
+      "id": "plc_perth",
+      "city": "Perth",
+      "country": "AU",
+      "lat": -31.95,
+      "lng": 115.86
+    },
+    {
+      "id": "plc_ho-chi-minh-city",
+      "city": "Ho Chi Minh City",
+      "country": "VN",
+      "lat": 10.82,
+      "lng": 106.63
+    },
+    {
+      "id": "plc_casablanca",
+      "city": "Casablanca",
+      "country": "MA",
+      "lat": 33.57,
+      "lng": -7.59
+    },
+    {
+      "id": "plc_addis-ababa",
+      "city": "Addis Ababa",
+      "country": "ET",
+      "lat": 9.03,
+      "lng": 38.74
+    },
+    {
+      "id": "plc_havana",
+      "city": "Havana",
+      "country": "CU",
+      "lat": 23.11,
+      "lng": -82.37
+    },
+    {
+      "id": "plc_montevideo",
+      "city": "Montevideo",
+      "country": "UY",
+      "lat": -34.9,
+      "lng": -56.16
+    },
+    {
+      "id": "plc_helsinki",
+      "city": "Helsinki",
+      "country": "FI",
+      "lat": 60.17,
+      "lng": 24.94
+    },
+    {
+      "id": "plc_edinburgh",
+      "city": "Edinburgh",
+      "country": "GB",
+      "lat": 55.95,
+      "lng": -3.19
+    },
+    {
+      "id": "plc_marseille",
+      "city": "Marseille",
+      "country": "FR",
+      "lat": 43.3,
+      "lng": 5.37
+    },
+    {
+      "id": "plc_milan",
+      "city": "Milan",
+      "country": "IT",
+      "lat": 45.46,
+      "lng": 9.19
+    },
+    {
+      "id": "plc_barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "lat": 41.39,
+      "lng": 2.17
+    },
+    {
+      "id": "plc_kingston",
+      "city": "Kingston",
+      "country": "JM",
+      "lat": 17.97,
+      "lng": -76.79
+    }
+  ]
+}

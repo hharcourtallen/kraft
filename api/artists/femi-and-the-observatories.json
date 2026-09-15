@@ -1,0 +1,400 @@
+{
+  "id": "art_femi-and-the-observatories",
+  "slug": "femi-and-the-observatories",
+  "name": "Femi & The Observatories",
+  "formation": "band",
+  "country": "CI",
+  "hometown": "Abidjan",
+  "geo": {
+    "placeId": "plc_abidjan",
+    "city": "Abidjan",
+    "country": "CI",
+    "lat": 5.36,
+    "lng": -4.01
+  },
+  "region": "west-africa",
+  "genres": [
+    "afrobeat",
+    "funk"
+  ],
+  "primaryGenre": {
+    "slug": "afrobeat",
+    "name": "Afrobeat"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "flagship",
+  "monthlyListeners": 216818,
+  "monthlyListenersLabel": "217K monthly listeners",
+  "followers": 90000,
+  "followersLabel": "90K",
+  "shelfCaption": "Afrobeat · 217K listeners",
+  "verified": true,
+  "active": {
+    "from": 2006,
+    "to": null
+  },
+  "bio": "Formed in Abidjan and still arguing about it. Keeps the count-in, the chair squeak and the false start.",
+  "discography": [
+    "alb_provisional-provision-femi-and-t",
+    "alb_ninth-meridian-femi-and-t",
+    "alb_central-annex-femi-and-t",
+    "alb_new-zoning-femi-and-t",
+    "alb_parallax-femi-and-t",
+    "alb_orbit-and-aphelion-femi-and-t",
+    "alb_transit-and-observatory-femi-and-t",
+    "alb_model-assembly-femi-and-t"
+  ],
+  "popularTrackIds": [
+    "trk_observatory-lullaby-femi-and-2006-0",
+    "trk_public-bureau-femi-and-2007-1",
+    "trk_zoning-femi-and-2006-3",
+    "trk_aphelion-song-femi-and-2006-2",
+    "trk_observatory-instrumental-femi-and-2007-0",
+    "trk_ascension-femi-and-2007-3",
+    "trk_new-assembly-femi-and-2009-1",
+    "trk_ninth-aphelion-femi-and-2011-1",
+    "trk_municipal-depot-femi-and-2009-0",
+    "trk_model-exchange-femi-and-2006-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "afrobeat",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "chrome yellow, deep green, vermilion, black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician in profile against a plain wall. Palette: chrome yellow, deep green, vermilion, black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "afrobeat",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "chrome yellow, deep green, vermilion, black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician leaning on a van, road behind them. Palette: chrome yellow, deep green, vermilion, black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_observatory-lullaby-femi-and-2006-0",
+      "slug": "observatory-lullaby",
+      "title": "Observatory Lullaby",
+      "duration": "6:03",
+      "durationSec": 363,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_model-assembly-femi-and-t",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "3,116,795"
+    },
+    {
+      "id": "trk_public-bureau-femi-and-2007-1",
+      "slug": "public-bureau",
+      "title": "Public Bureau",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null,
+      "playCountLabel": "2,682,163"
+    },
+    {
+      "id": "trk_zoning-femi-and-2006-3",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "5:08",
+      "durationSec": 308,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_model-assembly-femi-and-t",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "1,260,303"
+    },
+    {
+      "id": "trk_aphelion-song-femi-and-2006-2",
+      "slug": "aphelion-song",
+      "title": "Aphelion Song",
+      "duration": "8:04",
+      "durationSec": 484,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_model-assembly-femi-and-t",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "1,143,949"
+    },
+    {
+      "id": "trk_observatory-instrumental-femi-and-2007-0",
+      "slug": "observatory-instrumental",
+      "title": "Observatory (Instrumental)",
+      "duration": "8:00",
+      "durationSec": 480,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null,
+      "playCountLabel": "1,130,515"
+    },
+    {
+      "id": "trk_ascension-femi-and-2007-3",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "5:49",
+      "durationSec": 349,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null,
+      "playCountLabel": "842,922"
+    },
+    {
+      "id": "trk_new-assembly-femi-and-2009-1",
+      "slug": "new-assembly",
+      "title": "New Assembly",
+      "duration": "7:07",
+      "durationSec": 427,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_orbit-and-aphelion-femi-and-t",
+        "title": "Orbit & Aphelion",
+        "slug": "orbit-and-aphelion",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "769,962"
+    },
+    {
+      "id": "trk_ninth-aphelion-femi-and-2011-1",
+      "slug": "ninth-aphelion",
+      "title": "Ninth Aphelion",
+      "duration": "7:08",
+      "durationSec": 428,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "712,482"
+    },
+    {
+      "id": "trk_municipal-depot-femi-and-2009-0",
+      "slug": "municipal-depot",
+      "title": "Municipal Depot",
+      "duration": "5:10",
+      "durationSec": 310,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_orbit-and-aphelion-femi-and-t",
+        "title": "Orbit & Aphelion",
+        "slug": "orbit-and-aphelion",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "705,981"
+    },
+    {
+      "id": "trk_model-exchange-femi-and-2006-1",
+      "slug": "model-exchange",
+      "title": "Model Exchange",
+      "duration": "7:30",
+      "durationSec": 450,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_model-assembly-femi-and-t",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2006
+      },
+      "albumArt": null,
+      "playCountLabel": "661,438"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_provisional-provision-femi-and-t",
+      "slug": "provisional-provision",
+      "title": "Provisional Provision",
+      "subtitle": "2022 · Compilation",
+      "year": 2022,
+      "type": "Compilation",
+      "image": null
+    },
+    {
+      "id": "alb_ninth-meridian-femi-and-t",
+      "slug": "ninth-meridian",
+      "title": "Ninth Meridian",
+      "subtitle": "2018 · Reissue",
+      "year": 2018,
+      "type": "Reissue",
+      "image": null
+    },
+    {
+      "id": "alb_central-annex-femi-and-t",
+      "slug": "central-annex",
+      "title": "Central Annex",
+      "subtitle": "2016 · EP",
+      "year": 2016,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_new-zoning-femi-and-t",
+      "slug": "new-zoning",
+      "title": "New Zoning",
+      "subtitle": "2013 · Album",
+      "year": 2013,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_parallax-femi-and-t",
+      "slug": "parallax",
+      "title": "Parallax",
+      "subtitle": "2011 · Album",
+      "year": 2011,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_orbit-and-aphelion-femi-and-t",
+      "slug": "orbit-and-aphelion",
+      "title": "Orbit & Aphelion",
+      "subtitle": "2009 · EP",
+      "year": 2009,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_transit-and-observatory-femi-and-t",
+      "slug": "transit-and-observatory",
+      "title": "Transit & Observatory",
+      "subtitle": "2007 · Album",
+      "year": 2007,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_model-assembly-femi-and-t",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "subtitle": "2006 · EP",
+      "year": 2006,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-chile",
+      "slug": "chile",
+      "title": "Chile",
+      "image": "/artwork/playlist/country-chile.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Model Assembly",
+      "position": 5,
+      "caption": "Model Assembly is track 5"
+    },
+    {
+      "playlistId": "pl_country-ghana",
+      "slug": "ghana",
+      "title": "Ghana",
+      "image": "/artwork/playlist/country-ghana.png",
+      "curatorId": "cur_ade-mensah",
+      "curatorName": "Adé Mensah",
+      "trackTitle": "Municipal Annex",
+      "position": 1,
+      "caption": "Municipal Annex opens it"
+    }
+  ]
+}

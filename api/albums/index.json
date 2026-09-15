@@ -1,0 +1,6493 @@
+{
+  "albums": [
+    {
+      "id": "alb_flora",
+      "slug": "flora",
+      "title": "Flora",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 10,
+      "durationSec": 2100,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "tracks": [
+        "trk_golden-thread"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/flora.jpg"
+    },
+    {
+      "id": "alb_night-bloom",
+      "slug": "night-bloom",
+      "title": "Night Bloom",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 11,
+      "durationSec": 2695,
+      "durationLabel": "45 min",
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "tracks": [
+        "trk_night-bloom"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/night-bloom.jpg"
+    },
+    {
+      "id": "alb_static-hearts",
+      "slug": "static-hearts",
+      "title": "Static Hearts",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 9,
+      "durationSec": 1602,
+      "durationLabel": "27 min",
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "tracks": [
+        "trk_static-hearts"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/static-hearts.jpg"
+    },
+    {
+      "id": "alb_paper-lanterns",
+      "slug": "paper-lanterns",
+      "title": "Paper Lanterns",
+      "year": 2020,
+      "type": "EP",
+      "subtitle": "2020 · EP",
+      "trackCount": 5,
+      "durationSec": 1160,
+      "durationLabel": "19 min",
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "tracks": [
+        "trk_paper-lanterns"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/paper-lanterns.jpg"
+    },
+    {
+      "id": "alb_blue-hour",
+      "slug": "blue-hour",
+      "title": "Blue Hour",
+      "year": 2018,
+      "type": "Album",
+      "subtitle": "2018 · Album",
+      "trackCount": 8,
+      "durationSec": 2064,
+      "durationLabel": "34 min",
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "tracks": [
+        "trk_blue-hour-motel"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/blue-hour.jpg"
+    },
+    {
+      "id": "alb_bloom",
+      "slug": "bloom",
+      "title": "Bloom",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 10,
+      "durationSec": 3360,
+      "durationLabel": "56 min",
+      "artist": {
+        "id": "art_jack-hatfield",
+        "name": "Jack Hatfield",
+        "slug": "jack-hatfield"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_harbour-lights"
+      ],
+      "nameRisk": {
+        "level": "low",
+        "reason": "Bloom is a well-known Beach House album (2012). Common word, low practical risk, but it is a title people will recognise.",
+        "suggestions": [
+          "Slack Water",
+          "Harbour Work"
+        ]
+      },
+      "image": null
+    },
+    {
+      "id": "alb_quiet-village",
+      "slug": "quiet-village",
+      "title": "Quiet Village",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 9,
+      "durationSec": 2034,
+      "durationLabel": "34 min",
+      "artist": {
+        "id": "art_elara-cove",
+        "name": "Elara Cove",
+        "slug": "elara-cove"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_cassette-weather",
+        "trk_deep-current"
+      ],
+      "nameRisk": {
+        "level": "low",
+        "reason": "Quiet Village is a Martin Denny standard (1959) and a Les Baxter composition.",
+        "suggestions": [
+          "Low Village",
+          "The Quiet Side"
+        ]
+      },
+      "image": null
+    },
+    {
+      "id": "alb_nocturne",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 8,
+      "durationSec": 2120,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_milo-kestrel",
+        "name": "Milo Kestrel",
+        "slug": "milo-kestrel"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz"
+      ],
+      "tracks": [
+        "trk_minor-key"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_wide-open",
+      "slug": "wide-open",
+      "title": "Wide Open",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 11,
+      "durationSec": 2409,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_felix-drift",
+        "name": "Felix Drift",
+        "slug": "felix-drift"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "rock",
+        "americana"
+      ],
+      "tracks": [
+        "trk_open-fields"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_overgrown",
+      "slug": "overgrown",
+      "title": "Overgrown",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 9,
+      "durationSec": 2160,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_keane-sol",
+        "name": "Keane Sol",
+        "slug": "keane-sol"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [],
+      "nameRisk": {
+        "level": "medium",
+        "reason": "Overgrown is James Blake's Mercury Prize-winning 2013 album. Strongly associated.",
+        "suggestions": [
+          "Rootwork",
+          "Gone to Seed",
+          "The Long Grass"
+        ]
+      },
+      "image": null
+    },
+    {
+      "id": "alb_petal-and-dew",
+      "slug": "petal-and-dew",
+      "title": "Petal & Dew",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 8,
+      "durationSec": 1808,
+      "durationLabel": "30 min",
+      "artist": {
+        "id": "art_petal-and-dew",
+        "name": "Petal & Dew",
+        "slug": "petal-and-dew"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_wax-and-wane"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_brass-and-bones",
+      "slug": "brass-and-bones",
+      "title": "Brass & Bones",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 10,
+      "durationSec": 2510,
+      "durationLabel": "42 min",
+      "artist": {
+        "id": "art_dusk-ritual",
+        "name": "Dusk Ritual",
+        "slug": "dusk-ritual"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_bone-and-brass"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_sunday-spins",
+      "slug": "sunday-spins",
+      "title": "Sunday Spins",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 10,
+      "durationSec": 2520,
+      "durationLabel": "42 min",
+      "artist": {
+        "id": "art_the-worn-grooves",
+        "name": "The Worn Grooves",
+        "slug": "the-worn-grooves"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "analog-revival",
+        "americana"
+      ],
+      "tracks": [
+        "trk_dust-on-the-needle"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/sunday-spins.jpg"
+    },
+    {
+      "id": "alb_pressed-memories",
+      "slug": "pressed-memories",
+      "title": "Pressed Memories",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 9,
+      "durationSec": 2052,
+      "durationLabel": "34 min",
+      "artist": {
+        "id": "art_analog-hearts",
+        "name": "Analog Hearts",
+        "slug": "analog-hearts"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "analog-revival",
+        "downtempo"
+      ],
+      "tracks": [
+        "trk_crackle-and-hum"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/pressed-memories.jpg"
+    },
+    {
+      "id": "alb_kitchen-window-light",
+      "slug": "kitchen-window-light",
+      "title": "Kitchen Window Light",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 11,
+      "durationSec": 3311,
+      "durationLabel": "55 min",
+      "artist": {
+        "id": "art_oliver-felt",
+        "name": "Oliver Felt",
+        "slug": "oliver-felt"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "analog-revival",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_breakfast-in-mono"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/kitchen-window-light.jpg"
+    },
+    {
+      "id": "alb_wax-poetic",
+      "slug": "wax-poetic",
+      "title": "Wax Poetic",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 8,
+      "durationSec": 2184,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_spinning-room",
+        "name": "Spinning Room",
+        "slug": "spinning-room"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "analog-revival",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_turntable-daydream"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/wax-poetic.jpg"
+    },
+    {
+      "id": "alb_secondhand-gold",
+      "slug": "secondhand-gold",
+      "title": "Secondhand Gold",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 10,
+      "durationSec": 2360,
+      "durationLabel": "39 min",
+      "artist": {
+        "id": "art_second-hand-sound",
+        "name": "Second Hand Sound",
+        "slug": "second-hand-sound"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "analog-revival",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_paper-sleeves"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/secondhand-gold.jpg"
+    },
+    {
+      "id": "alb_thrift-store-finds",
+      "slug": "thrift-store-finds",
+      "title": "Thrift Store Finds",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 6,
+      "durationSec": 1572,
+      "durationLabel": "26 min",
+      "artist": {
+        "id": "art_margot-and-the-spindles",
+        "name": "Margot & The Spindles",
+        "slug": "margot-and-the-spindles"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "analog-revival",
+        "folk"
+      ],
+      "tracks": [
+        "trk_worn-edges"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/thrift-store-finds.jpg"
+    },
+    {
+      "id": "alb_analog-sundays",
+      "slug": "analog-sundays",
+      "title": "Analog Sundays",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 7,
+      "durationSec": 2618,
+      "durationLabel": "44 min",
+      "artist": {
+        "id": "art_hiss-and-warmth",
+        "name": "Hiss & Warmth",
+        "slug": "hiss-and-warmth"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "analog-revival",
+        "ambient"
+      ],
+      "tracks": [
+        "trk_static-lullaby"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/analog-sundays.jpg"
+    },
+    {
+      "id": "alb_slow-rotation",
+      "slug": "slow-rotation",
+      "title": "Slow Rotation",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 9,
+      "durationSec": 1989,
+      "durationLabel": "33 min",
+      "artist": {
+        "id": "art_shellac-jones",
+        "name": "Shellac Jones",
+        "slug": "shellac-jones"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "analog-revival",
+        "soul"
+      ],
+      "tracks": [
+        "trk_45-rpm-heart"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/slow-rotation.jpg"
+    },
+    {
+      "id": "alb_basement-sessions",
+      "slug": "basement-sessions",
+      "title": "Basement Sessions",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 8,
+      "durationSec": 2384,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_the-dusty-crates",
+        "name": "The Dusty Crates",
+        "slug": "the-dusty-crates"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "analog-revival",
+        "funk"
+      ],
+      "tracks": [
+        "trk_faded-label"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/basement-sessions.jpg"
+    },
+    {
+      "id": "alb_side-b-forever",
+      "slug": "side-b-forever",
+      "title": "Side B Forever",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 10,
+      "durationSec": 3270,
+      "durationLabel": "55 min",
+      "artist": {
+        "id": "art_lead-in-groove",
+        "name": "Lead-In Groove",
+        "slug": "lead-in-groove"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "analog-revival",
+        "downtempo"
+      ],
+      "tracks": [
+        "trk_last-track-home"
+      ],
+      "nameRisk": null,
+      "image": "/artwork/album/side-b-forever.jpg"
+    },
+    {
+      "id": "alb_village-and-alder-rootwork-a",
+      "slug": "village-and-alder",
+      "title": "Village & Alder",
+      "year": 2017,
+      "type": "Single",
+      "subtitle": "2017 · Single",
+      "trackCount": 2,
+      "durationSec": 595,
+      "durationLabel": "10 min",
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_slow-meadow-rootwork-2017-0",
+        "trk_small-ballroom-rootwork-2017-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_midnight-hour-rootwork-a",
+      "slug": "midnight-hour",
+      "title": "Midnight Hour",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 9,
+      "durationSec": 2345,
+      "durationLabel": "39 min",
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_soft-meadow-rootwork-2019-0",
+        "trk_long-barleyfield-rootwork-2019-1",
+        "trk_hedgerow-song-rootwork-2019-2",
+        "trk_husbandry-rootwork-2019-3",
+        "trk_fallow-hedgerow-rootwork-2019-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_commons-rootwork-a",
+      "slug": "commons",
+      "title": "Commons",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 11,
+      "durationSec": 2248,
+      "durationLabel": "37 min",
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_rootwork-rootwork-2023-0",
+        "trk_barleyfield-demo-rootwork-2023-1",
+        "trk_two-hundred-alders-rootwork-2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_neon-underpass-rootwork-a",
+      "slug": "neon-underpass",
+      "title": "Neon Underpass",
+      "year": 2026,
+      "type": "EP",
+      "subtitle": "2026 · EP",
+      "trackCount": 6,
+      "durationSec": 1277,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_orchard-alt-take-rootwork-2026-0",
+        "trk_low-meadow-rootwork-2026-1",
+        "trk_two-hundred-rooftops-rootwork-2026-2",
+        "trk_bright-barleyfield-rootwork-2026-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_tectonics-rust-strat",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "year": 2020,
+      "type": "EP",
+      "subtitle": "2020 · EP",
+      "trackCount": 6,
+      "durationSec": 1500,
+      "durationLabel": "25 min",
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_long-hedgerow-rust-str-2020-0",
+        "trk_cairn-theme-rust-str-2020-1",
+        "trk_quiet-fen-rust-str-2020-2",
+        "trk_seam-demo-rust-str-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_quiet-bloom-rust-strat",
+      "slug": "quiet-bloom",
+      "title": "Quiet Bloom",
+      "year": 2022,
+      "type": "Single",
+      "subtitle": "2022 · Single",
+      "trackCount": 2,
+      "durationSec": 574,
+      "durationLabel": "10 min",
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_long-village-rust-str-2022-0",
+        "trk_fen-hymn-rust-str-2022-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_basalt-kiln-rust-strat",
+      "slug": "basalt-kiln",
+      "title": "Basalt Kiln",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 4,
+      "durationSec": 880,
+      "durationLabel": "15 min",
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_tectonics-rust-str-2023-0",
+        "trk_tectonics-rust-str-2023-1",
+        "trk_bright-common-rust-str-2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_ninth-aphelion-nell-and-t",
+      "slug": "ninth-aphelion",
+      "title": "Ninth Aphelion",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 12,
+      "durationSec": 3504,
+      "durationLabel": "58 min",
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_green-frond-nell-and-2024-0",
+        "trk_fern-dew-nell-and-2024-1",
+        "trk_orbit-song-nell-and-2024-2",
+        "trk_nightblooming-herbarium-nell-and-2024-3",
+        "trk_outer-equinox-nell-and-2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_studies-in-vines-nell-and-t",
+      "slug": "studies-in-vines",
+      "title": "Studies in Vines",
+      "year": 2025,
+      "type": "EP",
+      "subtitle": "2025 · EP",
+      "trackCount": 4,
+      "durationSec": 1272,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_half-a-meridian-nell-and-2025-0",
+        "trk_distant-transit-nell-and-2025-1",
+        "trk_ascension-nell-and-2025-2",
+        "trk_ascension-nell-and-2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_creeping-conservatory-nell-and-t",
+      "slug": "creeping-conservatory",
+      "title": "Creeping Conservatory",
+      "year": 2026,
+      "type": "Single",
+      "subtitle": "2026 · Single",
+      "trackCount": 2,
+      "durationSec": 608,
+      "durationLabel": "10 min",
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_distant-aphelion-nell-and-2026-0",
+        "trk_vine-waltz-nell-and-2026-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rooftop-and-underpass-bridie-sin",
+      "slug": "rooftop-and-underpass",
+      "title": "Rooftop & Underpass",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 10,
+      "durationSec": 2203,
+      "durationLabel": "37 min",
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "rnb"
+      ],
+      "tracks": [
+        "trk_velvet-ferry-bridie-s-2021-0",
+        "trk_last-underpass-bridie-s-2021-1",
+        "trk_two-hundred-marquees-bridie-s-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_wet-conservatory-bridie-sin",
+      "slug": "wet-conservatory",
+      "title": "Wet Conservatory",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 6,
+      "durationSec": 1224,
+      "durationLabel": "20 min",
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "rnb"
+      ],
+      "tracks": [
+        "trk_herbarium-lullaby-bridie-s-2023-0",
+        "trk_creeping-pollen-bridie-s-2023-1",
+        "trk_flora-bridie-s-2023-2",
+        "trk_wet-pollen-bridie-s-2023-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-bloc-delia-holl",
+      "slug": "the-bloc",
+      "title": "The Bloc",
+      "year": 2022,
+      "type": "EP",
+      "subtitle": "2022 · EP",
+      "trackCount": 4,
+      "durationSec": 1487,
+      "durationLabel": "25 min",
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "techno",
+        "electronic"
+      ],
+      "tracks": [
+        "trk_precinct-elegy-delia-ho-2022-0",
+        "trk_sediment-delia-ho-2022-1",
+        "trk_infrastructure-delia-ho-2022-2",
+        "trk_registry-edit-delia-ho-2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_municipal-census-delia-holl",
+      "slug": "municipal-census",
+      "title": "Municipal Census",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 8,
+      "durationSec": 3154,
+      "durationLabel": "53 min",
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "techno",
+        "electronic"
+      ],
+      "tracks": [
+        "trk_census-delia-ho-2023-0",
+        "trk_oxidation-delia-ho-2023-1",
+        "trk_infrastructure-delia-ho-2023-2",
+        "trk_strata-song-delia-ho-2023-3",
+        "trk_zoning-delia-ho-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_oxidation-delia-holl",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 11,
+      "durationSec": 4914,
+      "durationLabel": "1 hr 22 min",
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "techno",
+        "electronic"
+      ],
+      "tracks": [
+        "trk_erosion-delia-ho-2024-0",
+        "trk_rust-strata-delia-ho-2024-1",
+        "trk_rust-cairn-delia-ho-2024-2",
+        "trk_central-depot-delia-ho-2024-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bramble-and-fen-the-neon-u",
+      "slug": "bramble-and-fen",
+      "title": "Bramble & Fen",
+      "year": 2006,
+      "type": "Album",
+      "subtitle": "2006 · Album",
+      "trackCount": 12,
+      "durationSec": 3268,
+      "durationLabel": "54 min",
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_small-ballroom-the-neon-2006-0",
+        "trk_hedgerow-blues-the-neon-2006-1",
+        "trk_low-pasture-the-neon-2006-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_alders-the-neon-u",
+      "slug": "alders",
+      "title": "Alders",
+      "year": 2007,
+      "type": "EP",
+      "subtitle": "2007 · EP",
+      "trackCount": 4,
+      "durationSec": 868,
+      "durationLabel": "14 min",
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_long-fen-the-neon-2007-0",
+        "trk_velvet-motel-the-neon-2007-1",
+        "trk_late-marquee-the-neon-2007-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-the-neon-u",
+      "slug": "fieldwork",
+      "title": "Fieldwork",
+      "year": 2008,
+      "type": "Album",
+      "subtitle": "2008 · Album",
+      "trackCount": 9,
+      "durationSec": 2346,
+      "durationLabel": "39 min",
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_quiet-orchard-the-neon-2008-0",
+        "trk_almanac-the-neon-2008-1",
+        "trk_midnight-ferry-the-neon-2008-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-the-neon-u-2",
+      "slug": "fieldwork-the-neon-underpasses",
+      "title": "Fieldwork",
+      "year": 2014,
+      "type": "Album",
+      "subtitle": "2014 · Album",
+      "trackCount": 8,
+      "durationSec": 1885,
+      "durationLabel": "31 min",
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_hour-elegy-the-neon-2014-0",
+        "trk_neon-hour-the-neon-2014-1",
+        "trk_all-the-pastures-the-neon-2014-2",
+        "trk_hollow-fen-the-neon-2014-3",
+        "trk_blue-motel-the-neon-2014-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-payphone-the-neon-u",
+      "slug": "the-payphone",
+      "title": "The Payphone",
+      "year": 2017,
+      "type": "EP",
+      "subtitle": "2017 · EP",
+      "trackCount": 5,
+      "durationSec": 1340,
+      "durationLabel": "22 min",
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_two-hundred-commons-the-neon-2017-0",
+        "trk_rootwork-the-neon-2017-1",
+        "trk_nocturne-the-neon-2017-2",
+        "trk_half-a-common-the-neon-2017-3",
+        "trk_overgrowth-the-neon-2017-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-ballroom-the-neon-u",
+      "slug": "the-ballroom",
+      "title": "The Ballroom",
+      "year": 2024,
+      "type": "Single",
+      "subtitle": "2024 · Single",
+      "trackCount": 1,
+      "durationSec": 267,
+      "durationLabel": "4 min",
+      "artist": {
+        "id": "art_the-neon-underpasses",
+        "name": "The Neon Underpasses",
+        "slug": "the-neon-underpasses"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_quiet-common-the-neon-2024-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-payphone-blue-ferry",
+      "slug": "velvet-payphone",
+      "title": "Velvet Payphone",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 11,
+      "durationSec": 3014,
+      "durationLabel": "50 min",
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop",
+        "ambient"
+      ],
+      "tracks": [
+        "trk_curfew-blue-fer-2022-0",
+        "trk_blue-taxi-blue-fer-2022-1",
+        "trk_small-marquee-blue-fer-2022-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_taxis-blue-ferry",
+      "slug": "taxis",
+      "title": "Taxis",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 9,
+      "durationSec": 2264,
+      "durationLabel": "38 min",
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop",
+        "ambient"
+      ],
+      "tracks": [
+        "trk_dark-motel-blue-fer-2024-0",
+        "trk_another-boulevard-blue-fer-2024-1",
+        "trk_hour-lullaby-blue-fer-2024-2",
+        "trk_wet-dew-blue-fer-2024-3",
+        "trk_midnight-payphone-blue-fer-2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bloom-lodestar",
+      "slug": "bloom-lodestar",
+      "title": "Bloom",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 6,
+      "durationSec": 1270,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_trawler-march-lodestar-2024-0",
+        "trk_ballast-lodestar-2024-1",
+        "trk_anchorage-instrumental-lodestar-2024-2",
+        "trk_overgrowth-lodestar-2024-3",
+        "trk_bloom-lodestar-2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-marquee-the-velvet",
+      "slug": "the-marquee",
+      "title": "The Marquee",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 11,
+      "durationSec": 3762,
+      "durationLabel": "1 hr 3 min",
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "tracks": [
+        "trk_census-the-velv-2021-0",
+        "trk_nocturne-the-velv-2021-1",
+        "trk_small-underpass-the-velv-2021-2",
+        "trk_small-rooftop-the-velv-2021-3",
+        "trk_provision-the-velv-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_infrastructure-the-velvet",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 9,
+      "durationSec": 3850,
+      "durationLabel": "1 hr 4 min",
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "tracks": [
+        "trk_afterhours-the-velv-2023-0",
+        "trk_late-marquee-the-velv-2023-1",
+        "trk_assembly-live-at-the-roundhouse-the-velv-2023-2",
+        "trk_afterhours-the-velv-2023-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_underpasses-the-velvet",
+      "slug": "underpasses",
+      "title": "Underpasses",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 5,
+      "durationSec": 1865,
+      "durationLabel": "31 min",
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "tracks": [
+        "trk_half-a-marquee-the-velv-2024-0",
+        "trk_every-registry-the-velv-2024-1",
+        "trk_registry-elegy-the-velv-2024-2",
+        "trk_bureau-waltz-the-velv-2024-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_small-afterhours-the-assemb",
+      "slug": "small-afterhours",
+      "title": "Small Afterhours",
+      "year": 2008,
+      "type": "Album",
+      "subtitle": "2008 · Album",
+      "trackCount": 8,
+      "durationSec": 1754,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_midnight-taxi-the-asse-2008-0",
+        "trk_marquee-lullaby-the-asse-2008-1",
+        "trk_twice-the-bureau-the-asse-2008-2",
+        "trk_public-annex-the-asse-2008-3",
+        "trk_dark-boulevard-the-asse-2008-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_late-motel-the-assemb",
+      "slug": "late-motel",
+      "title": "Late Motel",
+      "year": 2010,
+      "type": "Album",
+      "subtitle": "2010 · Album",
+      "trackCount": 11,
+      "durationSec": 2354,
+      "durationLabel": "39 min",
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_bureau-live-at-the-roundhouse-the-asse-2010-0",
+        "trk_payphone-waltz-the-asse-2010-1",
+        "trk_provision-the-asse-2010-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-insomnia-the-assemb",
+      "slug": "velvet-insomnia",
+      "title": "Velvet Insomnia",
+      "year": 2012,
+      "type": "EP",
+      "subtitle": "2012 · EP",
+      "trackCount": 6,
+      "durationSec": 1325,
+      "durationLabel": "22 min",
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_assembly-march-the-asse-2012-0",
+        "trk_provision-the-asse-2012-1",
+        "trk_new-registry-the-asse-2012-2",
+        "trk_new-exchange-the-asse-2012-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_census-the-assemb",
+      "slug": "census",
+      "title": "Census",
+      "year": 2020,
+      "type": "EP",
+      "subtitle": "2020 · EP",
+      "trackCount": 5,
+      "durationSec": 1100,
+      "durationLabel": "18 min",
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_nocturne-the-asse-2020-0",
+        "trk_blue-rooftop-the-asse-2020-1",
+        "trk_infrastructure-the-asse-2020-2",
+        "trk_neon-marquee-the-asse-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bureaus-the-assemb",
+      "slug": "bureaus",
+      "title": "Bureaus",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 12,
+      "durationSec": 2962,
+      "durationLabel": "49 min",
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_insomnia-the-asse-2023-0",
+        "trk_model-terminal-the-asse-2023-1",
+        "trk_half-a-ballroom-the-asse-2023-2",
+        "trk_all-the-registries-the-asse-2023-3",
+        "trk_depot-elegy-the-asse-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-motel-the-assemb",
+      "slug": "velvet-motel",
+      "title": "Velvet Motel",
+      "year": 2026,
+      "type": "Album",
+      "subtitle": "2026 · Album",
+      "trackCount": 9,
+      "durationSec": 2004,
+      "durationLabel": "33 min",
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_model-precinct-the-asse-2026-0",
+        "trk_every-terminal-the-asse-2026-1",
+        "trk_annex-waltz-the-asse-2026-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-dew-nell-wren",
+      "slug": "the-dew",
+      "title": "The Dew",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 10,
+      "durationSec": 2897,
+      "durationLabel": "48 min",
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "shoegaze",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_wet-conservatory-nell-wre-2023-0",
+        "trk_transit-waltz-nell-wre-2023-1",
+        "trk_nightblooming-greenhouse-nell-wre-2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-orbit-nell-wren",
+      "slug": "the-orbit",
+      "title": "The Orbit",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 6,
+      "durationSec": 1882,
+      "durationLabel": "31 min",
+      "artist": {
+        "id": "art_nell-wren",
+        "name": "Nell Wren",
+        "slug": "nell-wren"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "shoegaze",
+        "post-punk"
+      ],
+      "tracks": [
+        "trk_two-hundred-observatories-nell-wre-2024-0",
+        "trk_zenith-nell-wre-2024-1",
+        "trk_frond-hymn-nell-wre-2024-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_green-dew-merrick-an",
+      "slug": "green-dew",
+      "title": "Green Dew",
+      "year": 2009,
+      "type": "Album",
+      "subtitle": "2009 · Album",
+      "trackCount": 8,
+      "durationSec": 1766,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_chlorophyll-merrick--2009-0",
+        "trk_boulevard-lullaby-merrick--2009-1",
+        "trk_marquee-elegy-merrick--2009-2",
+        "trk_hour-elegy-merrick--2009-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_wet-dew-merrick-an",
+      "slug": "wet-dew",
+      "title": "Wet Dew",
+      "year": 2011,
+      "type": "Album",
+      "subtitle": "2011 · Album",
+      "trackCount": 12,
+      "durationSec": 2796,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_nightblooming-frond-merrick--2011-0",
+        "trk_half-a-ballroom-merrick--2011-1",
+        "trk_marquee-lullaby-merrick--2011-2",
+        "trk_nocturne-merrick--2011-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_nightblooming-flora-merrick-an",
+      "slug": "nightblooming-flora",
+      "title": "Nightblooming Flora",
+      "year": 2013,
+      "type": "Single",
+      "subtitle": "2013 · Single",
+      "trackCount": 1,
+      "durationSec": 272,
+      "durationLabel": "5 min",
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_wet-pollen-merrick--2013-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_nightblooming-chlorophyll-merrick-an",
+      "slug": "nightblooming-chlorophyll",
+      "title": "Nightblooming Chlorophyll",
+      "year": 2018,
+      "type": "EP",
+      "subtitle": "2018 · EP",
+      "trackCount": 6,
+      "durationSec": 1480,
+      "durationLabel": "25 min",
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_late-motel-merrick--2018-0",
+        "trk_late-ballroom-merrick--2018-1",
+        "trk_petal-moss-merrick--2018-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-ballroom-merrick-an",
+      "slug": "the-ballroom-merrick-and-the-motels",
+      "title": "The Ballroom",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 9,
+      "durationSec": 2409,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_boulevard-reprise-merrick--2020-0",
+        "trk_afterhours-merrick--2020-1",
+        "trk_photosynthesis-merrick--2020-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_new-provision-mateo-moli",
+      "slug": "new-provision",
+      "title": "New Provision",
+      "year": 2015,
+      "type": "Album",
+      "subtitle": "2015 · Album",
+      "trackCount": 9,
+      "durationSec": 2342,
+      "durationLabel": "39 min",
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "tracks": [
+        "trk_soft-barleyfield-mateo-mo-2015-0",
+        "trk_bright-pasture-mateo-mo-2015-1",
+        "trk_provision-mateo-mo-2015-2",
+        "trk_soft-thicket-mateo-mo-2015-3",
+        "trk_long-meadow-mateo-mo-2015-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_zoning-mateo-moli",
+      "slug": "zoning",
+      "title": "Zoning",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 12,
+      "durationSec": 2933,
+      "durationLabel": "49 min",
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "tracks": [
+        "trk_census-mateo-mo-2019-0",
+        "trk_municipal-depot-mateo-mo-2019-1",
+        "trk_depot-reprise-mateo-mo-2019-2",
+        "trk_model-bloc-mateo-mo-2019-3",
+        "trk_no-more-harvests-mateo-mo-2019-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-pasture-mateo-moli",
+      "slug": "the-pasture",
+      "title": "The Pasture",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 12,
+      "durationSec": 2824,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "tracks": [
+        "trk_provision-mateo-mo-2021-0",
+        "trk_exchange-lullaby-mateo-mo-2021-1",
+        "trk_all-the-precincts-mateo-mo-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-annex-mateo-moli",
+      "slug": "the-annex",
+      "title": "The Annex",
+      "year": 2026,
+      "type": "Single",
+      "subtitle": "2026 · Single",
+      "trackCount": 2,
+      "durationSec": 468,
+      "durationLabel": "8 min",
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "tracks": [
+        "trk_depot-instrumental-mateo-mo-2026-0",
+        "trk_another-bloc-mateo-mo-2026-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_songs-for-blocs-nocturne",
+      "slug": "songs-for-blocs",
+      "title": "Songs for Blocs",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 12,
+      "durationSec": 2628,
+      "durationLabel": "44 min",
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_public-terminal-nocturne-2021-0",
+        "trk_census-nocturne-2021-1",
+        "trk_rooftop-lullaby-nocturne-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-precinct-nocturne",
+      "slug": "the-precinct",
+      "title": "The Precinct",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 10,
+      "durationSec": 2285,
+      "durationLabel": "38 min",
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_ballroom-hymn-nocturne-2025-0",
+        "trk_municipal-assembly-nocturne-2025-1",
+        "trk_nothing-but-underpasses-nocturne-2025-2",
+        "trk_curfew-nocturne-2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rootwork-ballast-an",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "year": 2025,
+      "type": "EP",
+      "subtitle": "2025 · EP",
+      "trackCount": 6,
+      "durationSec": 1402,
+      "durationLabel": "23 min",
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk"
+      ],
+      "tracks": [
+        "trk_drowned-harbour-ballast--2025-0",
+        "trk_fieldwork-ballast--2025-1",
+        "trk_deep-current-ballast--2025-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_low-hedgerow-overgrowth",
+      "slug": "low-hedgerow",
+      "title": "Low Hedgerow",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 9,
+      "durationSec": 2246,
+      "durationLabel": "37 min",
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock"
+      ],
+      "tracks": [
+        "trk_payphone-waltz-overgrow-2021-0",
+        "trk_common-waltz-overgrow-2021-1",
+        "trk_insomnia-overgrow-2021-2",
+        "trk_nocturne-overgrow-2021-3",
+        "trk_bramble-blues-overgrow-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_notes-from-meadows-overgrowth",
+      "slug": "notes-from-meadows",
+      "title": "Notes from Meadows",
+      "year": 2022,
+      "type": "EP",
+      "subtitle": "2022 · EP",
+      "trackCount": 5,
+      "durationSec": 1034,
+      "durationLabel": "17 min",
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock"
+      ],
+      "tracks": [
+        "trk_dark-ferry-overgrow-2022-0",
+        "trk_slow-hedgerow-overgrow-2022-1",
+        "trk_golden-meadow-overgrow-2022-2",
+        "trk_ferry-live-at-the-roundhouse-overgrow-2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_orchards-overgrowth",
+      "slug": "orchards",
+      "title": "Orchards",
+      "year": 2023,
+      "type": "Single",
+      "subtitle": "2023 · Single",
+      "trackCount": 2,
+      "durationSec": 458,
+      "durationLabel": "8 min",
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "rock"
+      ],
+      "tracks": [
+        "trk_another-fen-overgrow-2023-0",
+        "trk_golden-pasture-overgrow-2023-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_fen-and-common-i-a-r",
+      "slug": "fen-and-common",
+      "title": "Fen & Common",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 11,
+      "durationSec": 2932,
+      "durationLabel": "49 min",
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "latin"
+      ],
+      "tracks": [
+        "trk_half-a-rooftop-i-a-r-2025-0",
+        "trk_bloom-i-a-r-2025-1",
+        "trk_husbandry-i-a-r-2025-2",
+        "trk_nocturne-i-a-r-2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_overgrowth-i-a-r",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "year": 2026,
+      "type": "Album",
+      "subtitle": "2026 · Album",
+      "trackCount": 11,
+      "durationSec": 2820,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "latin"
+      ],
+      "tracks": [
+        "trk_overgrowth-i-a-r-2026-0",
+        "trk_rootwork-i-a-r-2026-1",
+        "trk_boulevard-instrumental-i-a-r-2026-2",
+        "trk_common-live-at-the-roundhouse-i-a-r-2026-3",
+        "trk_no-more-taxis-i-a-r-2026-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_annex-and-terminal-rhys-rees",
+      "slug": "annex-and-terminal",
+      "title": "Annex & Terminal",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 8,
+      "durationSec": 2869,
+      "durationLabel": "48 min",
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "jazz"
+      ],
+      "tracks": [
+        "trk_zoning-rhys-ree-2021-0",
+        "trk_public-terminal-rhys-ree-2021-1",
+        "trk_another-taxi-rhys-ree-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_municipal-infrastructure-rhys-rees",
+      "slug": "municipal-infrastructure",
+      "title": "Municipal Infrastructure",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 8,
+      "durationSec": 3120,
+      "durationLabel": "52 min",
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "jazz"
+      ],
+      "tracks": [
+        "trk_assembly-hymn-rhys-ree-2023-0",
+        "trk_new-bureau-rhys-ree-2023-1",
+        "trk_neon-hour-rhys-ree-2023-2",
+        "trk_model-registry-rhys-ree-2023-3",
+        "trk_afterhours-rhys-ree-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_boulevard-and-ballroom-rhys-rees",
+      "slug": "boulevard-and-ballroom",
+      "title": "Boulevard & Ballroom",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 10,
+      "durationSec": 3868,
+      "durationLabel": "1 hr 4 min",
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "jazz"
+      ],
+      "tracks": [
+        "trk_provision-rhys-ree-2025-0",
+        "trk_underpass-song-rhys-ree-2025-1",
+        "trk_twice-the-terminal-rhys-ree-2025-2",
+        "trk_annex-lullaby-rhys-ree-2025-3",
+        "trk_public-bloc-rhys-ree-2025-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_petal-dew-grafting",
+      "slug": "petal-dew",
+      "title": "Petal Dew",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 12,
+      "durationSec": 3162,
+      "durationLabel": "53 min",
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_grafting-grafting-2020-0",
+        "trk_trellis-blues-grafting-2020-1",
+        "trk_nocturne-grafting-2020-2",
+        "trk_conservatory-elegy-grafting-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_letters-from-ferries-grafting",
+      "slug": "letters-from-ferries",
+      "title": "Letters from Ferries",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 4,
+      "durationSec": 987,
+      "durationLabel": "16 min",
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_velvet-taxi-grafting-2021-0",
+        "trk_twice-the-greenhouse-grafting-2021-1",
+        "trk_blue-ballroom-grafting-2021-2",
+        "trk_grafting-grafting-2021-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-nocturne-grafting",
+      "slug": "velvet-nocturne",
+      "title": "Velvet Nocturne",
+      "year": 2026,
+      "type": "EP",
+      "subtitle": "2026 · EP",
+      "trackCount": 6,
+      "durationSec": 1454,
+      "durationLabel": "24 min",
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_grafting-grafting-2026-0",
+        "trk_all-the-ballrooms-grafting-2026-1",
+        "trk_small-motel-grafting-2026-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_wow-and-flutter-sadie-blac",
+      "slug": "wow-and-flutter",
+      "title": "Wow & Flutter",
+      "year": 2019,
+      "type": "EP",
+      "subtitle": "2019 · EP",
+      "trackCount": 5,
+      "durationSec": 1463,
+      "durationLabel": "24 min",
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "downtempo",
+        "ambient"
+      ],
+      "tracks": [
+        "trk_velvet-rooftop-sadie-bl-2019-0",
+        "trk_blue-underpass-sadie-bl-2019-1",
+        "trk_nothing-but-sleeves-sadie-bl-2019-2",
+        "trk_dark-ferry-sadie-bl-2019-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-hour-sadie-blac",
+      "slug": "velvet-hour",
+      "title": "Velvet Hour",
+      "year": 2020,
+      "type": "EP",
+      "subtitle": "2020 · EP",
+      "trackCount": 4,
+      "durationSec": 1226,
+      "durationLabel": "20 min",
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "downtempo",
+        "ambient"
+      ],
+      "tracks": [
+        "trk_curfew-sadie-bl-2020-0",
+        "trk_wow-and-flutter-sadie-bl-2020-1",
+        "trk_taxi-blues-sadie-bl-2020-2",
+        "trk_midnight-marquee-sadie-bl-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_label-and-reel-sadie-blac",
+      "slug": "label-and-reel",
+      "title": "Label & Reel",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 8,
+      "durationSec": 2155,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "genres": [
+        "downtempo",
+        "ambient"
+      ],
+      "tracks": [
+        "trk_pressed-sleeve-sadie-bl-2021-0",
+        "trk_motel-live-at-the-roundhouse-sadie-bl-2021-1",
+        "trk_underpass-hymn-sadie-bl-2021-2",
+        "trk_label-hymn-sadie-bl-2021-3",
+        "trk_nocturne-sadie-bl-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_low-thicket-ren-ishii",
+      "slug": "low-thicket",
+      "title": "Low Thicket",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 8,
+      "durationSec": 1731,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_husbandry-ren-ishi-2020-0",
+        "trk_fallow-thicket-ren-ishi-2020-1",
+        "trk_neon-taxi-ren-ishi-2020-2",
+        "trk_curfew-ren-ishi-2020-3",
+        "trk_afterhours-ren-ishi-2020-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rootwork-ren-ishii",
+      "slug": "rootwork-ren-ishii",
+      "title": "Rootwork",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 5,
+      "durationSec": 1115,
+      "durationLabel": "19 min",
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_soft-fen-ren-ishi-2021-0",
+        "trk_bright-fen-ren-ishi-2021-1",
+        "trk_payphone-blues-ren-ishi-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_husbandry-ren-ishii",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "year": 2023,
+      "type": "Single",
+      "subtitle": "2023 · Single",
+      "trackCount": 1,
+      "durationSec": 288,
+      "durationLabel": "5 min",
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_afterhours-ren-ishi-2023-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rooftops-ren-ishii",
+      "slug": "rooftops",
+      "title": "Rooftops",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 10,
+      "durationSec": 2373,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_marquee-instrumental-ren-ishi-2025-0",
+        "trk_afterhours-ren-ishi-2025-1",
+        "trk_long-village-ren-ishi-2025-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_erosion-til-vogels",
+      "slug": "erosion",
+      "title": "Erosion",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 12,
+      "durationSec": 4968,
+      "durationLabel": "1 hr 23 min",
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "downtempo"
+      ],
+      "tracks": [
+        "trk_solar-orbit-til-voge-2023-0",
+        "trk_orbit-hymn-til-voge-2023-1",
+        "trk_outer-meridian-til-voge-2023-2",
+        "trk_quarry-instrumental-til-voge-2023-3",
+        "trk_solar-meridian-til-voge-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-cairn-til-vogels",
+      "slug": "the-cairn",
+      "title": "The Cairn",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 11,
+      "durationSec": 4165,
+      "durationLabel": "1 hr 9 min",
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "downtempo"
+      ],
+      "tracks": [
+        "trk_zenith-til-voge-2024-0",
+        "trk_sediment-til-voge-2024-1",
+        "trk_seam-march-til-voge-2024-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_equinox-and-transit-rasmus-s-r",
+      "slug": "equinox-and-transit",
+      "title": "Equinox & Transit",
+      "year": 2020,
+      "type": "EP",
+      "subtitle": "2020 · EP",
+      "trackCount": 4,
+      "durationSec": 1109,
+      "durationLabel": "18 min",
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "label": {
+        "id": "lbl_conservatory",
+        "name": "Conservatory Editions"
+      },
+      "genres": [
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_erosion-rasmus-s-2020-0",
+        "trk_meridian-blues-rasmus-s-2020-1",
+        "trk_transit-lullaby-rasmus-s-2020-2",
+        "trk_foundry-instrumental-rasmus-s-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_nocturne-wren-merce",
+      "slug": "nocturne-wren-mercer",
+      "title": "Nocturne",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 9,
+      "durationSec": 2086,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_velvet-ferry-wren-mer-2020-0",
+        "trk_low-thicket-wren-mer-2020-1",
+        "trk_bright-barleyfield-wren-mer-2020-2",
+        "trk_hedgerow-waltz-wren-mer-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_barleyfield-and-meadow-wren-merce",
+      "slug": "barleyfield-and-meadow",
+      "title": "Barleyfield & Meadow",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 6,
+      "durationSec": 1378,
+      "durationLabel": "23 min",
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_barleyfield-lullaby-wren-mer-2021-0",
+        "trk_overgrowth-wren-mer-2021-1",
+        "trk_underpass-hymn-wren-mer-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rooftop-and-underpass-wren-merce",
+      "slug": "rooftop-and-underpass-wren-mercer",
+      "title": "Rooftop & Underpass",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 5,
+      "durationSec": 1229,
+      "durationLabel": "20 min",
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_nothing-but-rooftops-wren-mer-2023-0",
+        "trk_two-hundred-motels-wren-mer-2023-1",
+        "trk_curfew-wren-mer-2023-2",
+        "trk_fallow-barleyfield-wren-mer-2023-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-wren-merce",
+      "slug": "fieldwork-wren-mercer",
+      "title": "Fieldwork",
+      "year": 2026,
+      "type": "Album",
+      "subtitle": "2026 · Album",
+      "trackCount": 11,
+      "durationSec": 2274,
+      "durationLabel": "38 min",
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_husbandry-wren-mer-2026-0",
+        "trk_thicket-edit-wren-mer-2026-1",
+        "trk_afterhours-wren-mer-2026-2",
+        "trk_thicket-march-wren-mer-2026-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_motels-zoning-and",
+      "slug": "motels",
+      "title": "Motels",
+      "year": 2016,
+      "type": "Album",
+      "subtitle": "2016 · Album",
+      "trackCount": 11,
+      "durationSec": 2809,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_nothing-but-precincts-zoning-a-2016-0",
+        "trk_blue-payphone-zoning-a-2016-1",
+        "trk_bureau-live-at-the-roundhouse-zoning-a-2016-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_late-afterhours-zoning-and",
+      "slug": "late-afterhours",
+      "title": "Late Afterhours",
+      "year": 2017,
+      "type": "Album",
+      "subtitle": "2017 · Album",
+      "trackCount": 8,
+      "durationSec": 1843,
+      "durationLabel": "31 min",
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_bloc-hymn-zoning-a-2017-0",
+        "trk_bloc-hymn-zoning-a-2017-1",
+        "trk_dark-ferry-zoning-a-2017-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_precincts-zoning-and",
+      "slug": "precincts",
+      "title": "Precincts",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 8,
+      "durationSec": 1755,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_every-rooftop-zoning-a-2020-0",
+        "trk_small-boulevard-zoning-a-2020-1",
+        "trk_taxi-elegy-zoning-a-2020-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_public-exchange-zoning-and",
+      "slug": "public-exchange",
+      "title": "Public Exchange",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 12,
+      "durationSec": 2913,
+      "durationLabel": "49 min",
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_registry-elegy-zoning-a-2022-0",
+        "trk_blue-rooftop-zoning-a-2022-1",
+        "trk_boulevard-reprise-zoning-a-2022-2",
+        "trk_new-bureau-zoning-a-2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_small-insomnia-zoning-and",
+      "slug": "small-insomnia",
+      "title": "Small Insomnia",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 4,
+      "durationSec": 835,
+      "durationLabel": "14 min",
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_nocturne-zoning-a-2024-0",
+        "trk_motel-demo-zoning-a-2024-1",
+        "trk_insomnia-zoning-a-2024-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_model-assembly-femi-and-t",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "year": 2006,
+      "type": "EP",
+      "subtitle": "2006 · EP",
+      "trackCount": 5,
+      "durationSec": 2006,
+      "durationLabel": "33 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_observatory-lullaby-femi-and-2006-0",
+        "trk_model-exchange-femi-and-2006-1",
+        "trk_aphelion-song-femi-and-2006-2",
+        "trk_zoning-femi-and-2006-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_transit-and-observatory-femi-and-t",
+      "slug": "transit-and-observatory",
+      "title": "Transit & Observatory",
+      "year": 2007,
+      "type": "Album",
+      "subtitle": "2007 · Album",
+      "trackCount": 12,
+      "durationSec": 5162,
+      "durationLabel": "1 hr 26 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_observatory-instrumental-femi-and-2007-0",
+        "trk_public-bureau-femi-and-2007-1",
+        "trk_municipal-terminal-femi-and-2007-2",
+        "trk_ascension-femi-and-2007-3",
+        "trk_municipal-annex-femi-and-2007-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_orbit-and-aphelion-femi-and-t",
+      "slug": "orbit-and-aphelion",
+      "title": "Orbit & Aphelion",
+      "year": 2009,
+      "type": "EP",
+      "subtitle": "2009 · EP",
+      "trackCount": 4,
+      "durationSec": 1525,
+      "durationLabel": "25 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_municipal-depot-femi-and-2009-0",
+        "trk_new-assembly-femi-and-2009-1",
+        "trk_outer-equinox-femi-and-2009-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_parallax-femi-and-t",
+      "slug": "parallax",
+      "title": "Parallax",
+      "year": 2011,
+      "type": "Album",
+      "subtitle": "2011 · Album",
+      "trackCount": 12,
+      "durationSec": 5167,
+      "durationLabel": "1 hr 26 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_another-meridian-femi-and-2011-0",
+        "trk_ninth-aphelion-femi-and-2011-1",
+        "trk_provision-femi-and-2011-2",
+        "trk_total-meridian-femi-and-2011-3",
+        "trk_municipal-bloc-femi-and-2011-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_new-zoning-femi-and-t",
+      "slug": "new-zoning",
+      "title": "New Zoning",
+      "year": 2013,
+      "type": "Album",
+      "subtitle": "2013 · Album",
+      "trackCount": 11,
+      "durationSec": 3850,
+      "durationLabel": "1 hr 4 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_orbit-lullaby-femi-and-2013-0",
+        "trk_nothing-but-blocs-femi-and-2013-1",
+        "trk_model-assembly-femi-and-2013-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_central-annex-femi-and-t",
+      "slug": "central-annex",
+      "title": "Central Annex",
+      "year": 2016,
+      "type": "EP",
+      "subtitle": "2016 · EP",
+      "trackCount": 4,
+      "durationSec": 1764,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_census-femi-and-2016-0",
+        "trk_new-depot-femi-and-2016-1",
+        "trk_nothing-but-transits-femi-and-2016-2",
+        "trk_public-assembly-femi-and-2016-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_ninth-meridian-femi-and-t",
+      "slug": "ninth-meridian",
+      "title": "Ninth Meridian",
+      "year": 2018,
+      "type": "Reissue",
+      "subtitle": "2018 · Reissue",
+      "trackCount": 8,
+      "durationSec": 3440,
+      "durationLabel": "57 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_zenith-femi-and-2018-0",
+        "trk_model-assembly-femi-and-2018-1",
+        "trk_precinct-elegy-femi-and-2018-2",
+        "trk_terminal-lullaby-femi-and-2018-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_provisional-provision-femi-and-t",
+      "slug": "provisional-provision",
+      "title": "Provisional Provision",
+      "year": 2022,
+      "type": "Compilation",
+      "subtitle": "2022 · Compilation",
+      "trackCount": 16,
+      "durationSec": 6232,
+      "durationLabel": "1 hr 44 min",
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "tracks": [
+        "trk_census-femi-and-2022-0",
+        "trk_ninth-corona-femi-and-2022-1",
+        "trk_census-femi-and-2022-2",
+        "trk_outer-aphelion-femi-and-2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_neon-rooftop-greer-blac",
+      "slug": "neon-rooftop",
+      "title": "Neon Rooftop",
+      "year": 2018,
+      "type": "Album",
+      "subtitle": "2018 · Album",
+      "trackCount": 12,
+      "durationSec": 2776,
+      "durationLabel": "46 min",
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_midnight-ballroom-greer-bl-2018-0",
+        "trk_model-terminal-greer-bl-2018-1",
+        "trk_registry-lullaby-greer-bl-2018-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_provision-greer-blac",
+      "slug": "provision",
+      "title": "Provision",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 9,
+      "durationSec": 1861,
+      "durationLabel": "31 min",
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_annex-hymn-greer-bl-2020-0",
+        "trk_model-bloc-greer-bl-2020-1",
+        "trk_last-ferry-greer-bl-2020-2",
+        "trk_neon-motel-greer-bl-2020-3",
+        "trk_curfew-greer-bl-2020-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_taxis-greer-blac",
+      "slug": "taxis-greer-blackwood",
+      "title": "Taxis",
+      "year": 2021,
+      "type": "Single",
+      "subtitle": "2021 · Single",
+      "trackCount": 2,
+      "durationSec": 472,
+      "durationLabel": "8 min",
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_rooftop-march-greer-bl-2021-0",
+        "trk_all-the-precincts-greer-bl-2021-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_deep-fathom-the-shoals",
+      "slug": "deep-fathom",
+      "title": "Deep Fathom",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 8,
+      "durationSec": 1698,
+      "durationLabel": "28 min",
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_tidal-sound-the-shoa-2019-0",
+        "trk_two-hundred-commons-the-shoa-2019-1",
+        "trk_two-hundred-estuaries-the-shoa-2019-2",
+        "trk_fieldwork-the-shoa-2019-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_letters-from-fens-the-shoals",
+      "slug": "letters-from-fens",
+      "title": "Letters from Fens",
+      "year": 2020,
+      "type": "EP",
+      "subtitle": "2020 · EP",
+      "trackCount": 4,
+      "durationSec": 1087,
+      "durationLabel": "18 min",
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_ballast-the-shoa-2020-0",
+        "trk_breakwater-march-the-shoa-2020-1",
+        "trk_another-village-the-shoa-2020-2",
+        "trk_tidal-fathom-the-shoa-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_almanac-the-shoals",
+      "slug": "almanac",
+      "title": "Almanac",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 5,
+      "durationSec": 1178,
+      "durationLabel": "20 min",
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_soft-barleyfield-the-shoa-2021-0",
+        "trk_long-barleyfield-the-shoa-2021-1",
+        "trk_wild-bramble-the-shoa-2021-2",
+        "trk_cove-waltz-the-shoa-2021-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-harvest-the-shoals",
+      "slug": "the-harvest",
+      "title": "The Harvest",
+      "year": 2023,
+      "type": "Single",
+      "subtitle": "2023 · Single",
+      "trackCount": 2,
+      "durationSec": 446,
+      "durationLabel": "7 min",
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_golden-bramble-the-shoa-2023-0",
+        "trk_ballast-the-shoa-2023-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_hollow-rootwork-the-shoals",
+      "slug": "hollow-rootwork",
+      "title": "Hollow Rootwork",
+      "year": 2026,
+      "type": "Live",
+      "subtitle": "2026 · Live",
+      "trackCount": 10,
+      "durationSec": 2076,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_quiet-village-the-shoa-2026-0",
+        "trk_another-meadow-the-shoa-2026-1",
+        "trk_all-the-currents-the-shoa-2026-2",
+        "trk_nothing-but-estuaries-the-shoa-2026-3",
+        "trk_long-common-the-shoa-2026-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_village-and-bramble-small-payp",
+      "slug": "village-and-bramble",
+      "title": "Village & Bramble",
+      "year": 2019,
+      "type": "EP",
+      "subtitle": "2019 · EP",
+      "trackCount": 4,
+      "durationSec": 901,
+      "durationLabel": "15 min",
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_slow-common-small-pa-2019-0",
+        "trk_small-payphone-small-pa-2019-1",
+        "trk_another-meadow-small-pa-2019-2",
+        "trk_almanac-small-pa-2019-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_soft-husbandry-small-payp",
+      "slug": "soft-husbandry",
+      "title": "Soft Husbandry",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 5,
+      "durationSec": 1251,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_soft-fen-small-pa-2021-0",
+        "trk_hollow-common-small-pa-2021-1",
+        "trk_half-a-common-small-pa-2021-2",
+        "trk_rooftop-song-small-pa-2021-3",
+        "trk_nocturne-small-pa-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_nocturne-small-payp",
+      "slug": "nocturne-small-payphone",
+      "title": "Nocturne",
+      "year": 2022,
+      "type": "Single",
+      "subtitle": "2022 · Single",
+      "trackCount": 1,
+      "durationSec": 201,
+      "durationLabel": "3 min",
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_small-marquee-small-pa-2022-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-motel-small-payp",
+      "slug": "the-motel",
+      "title": "The Motel",
+      "year": 2024,
+      "type": "Compilation",
+      "subtitle": "2024 · Compilation",
+      "trackCount": 16,
+      "durationSec": 3456,
+      "durationLabel": "58 min",
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_quiet-pasture-small-pa-2024-0",
+        "trk_all-the-thickets-small-pa-2024-1",
+        "trk_two-hundred-thickets-small-pa-2024-2",
+        "trk_every-bramble-small-pa-2024-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_tectonics-opal-and-t",
+      "slug": "tectonics-opal-and-the-villages",
+      "title": "Tectonics",
+      "year": 2009,
+      "type": "Album",
+      "subtitle": "2009 · Album",
+      "trackCount": 12,
+      "durationSec": 2848,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "tracks": [
+        "trk_erosion-opal-and-2009-0",
+        "trk_seam-theme-opal-and-2009-1",
+        "trk_two-hundred-meadows-opal-and-2009-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_slate-tectonics-opal-and-t",
+      "slug": "slate-tectonics",
+      "title": "Slate Tectonics",
+      "year": 2014,
+      "type": "EP",
+      "subtitle": "2014 · EP",
+      "trackCount": 5,
+      "durationSec": 1272,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "tracks": [
+        "trk_bloom-opal-and-2014-0",
+        "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+        "trk_quarry-reprise-opal-and-2014-2",
+        "trk_bright-meadow-opal-and-2014-3",
+        "trk_twice-the-barleyfield-opal-and-2014-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-opal-and-t",
+      "slug": "fieldwork-opal-and-the-villages",
+      "title": "Fieldwork",
+      "year": 2015,
+      "type": "Album",
+      "subtitle": "2015 · Album",
+      "trackCount": 8,
+      "durationSec": 2147,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "tracks": [
+        "trk_sediment-opal-and-2015-0",
+        "trk_slow-alder-opal-and-2015-1",
+        "trk_golden-alder-opal-and-2015-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rootwork-opal-and-t",
+      "slug": "rootwork-opal-and-the-villages",
+      "title": "Rootwork",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 12,
+      "durationSec": 3144,
+      "durationLabel": "52 min",
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "tracks": [
+        "trk_rootwork-opal-and-2019-0",
+        "trk_fallow-meadow-opal-and-2019-1",
+        "trk_bright-meadow-opal-and-2019-2",
+        "trk_golden-barleyfield-opal-and-2019-3",
+        "trk_bloom-opal-and-2019-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_slow-fieldwork-opal-and-t",
+      "slug": "slow-fieldwork",
+      "title": "Slow Fieldwork",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 10,
+      "durationSec": 2822,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "tracks": [
+        "trk_sediment-opal-and-2023-0",
+        "trk_iron-bedrock-opal-and-2023-1",
+        "trk_rootwork-opal-and-2023-2",
+        "trk_bright-hedgerow-opal-and-2023-3",
+        "trk_rootwork-opal-and-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_music-for-seams-opal-and-t",
+      "slug": "music-for-seams",
+      "title": "Music for Seams",
+      "year": 2025,
+      "type": "EP",
+      "subtitle": "2025 · EP",
+      "trackCount": 4,
+      "durationSec": 957,
+      "durationLabel": "16 min",
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "tracks": [
+        "trk_erosion-opal-and-2025-0",
+        "trk_long-fen-opal-and-2025-1",
+        "trk_seam-hymn-opal-and-2025-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_fallow-common-antonella-",
+      "slug": "fallow-common",
+      "title": "Fallow Common",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 12,
+      "durationSec": 2660,
+      "durationLabel": "44 min",
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_long-village-antonell-2023-0",
+        "trk_small-underpass-antonell-2023-1",
+        "trk_fallow-orchard-antonell-2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-thicket-antonella-",
+      "slug": "the-thicket",
+      "title": "The Thicket",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 9,
+      "durationSec": 2453,
+      "durationLabel": "41 min",
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic"
+      ],
+      "tracks": [
+        "trk_dark-marquee-antonell-2024-0",
+        "trk_alder-waltz-antonell-2024-1",
+        "trk_rooftop-demo-antonell-2024-2",
+        "trk_curfew-antonell-2024-3",
+        "trk_neon-boulevard-antonell-2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_ninth-observatory-the-green-",
+      "slug": "ninth-observatory",
+      "title": "Ninth Observatory",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 9,
+      "durationSec": 4991,
+      "durationLabel": "1 hr 23 min",
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "spiritual-jazz",
+        "jazz"
+      ],
+      "tracks": [
+        "trk_chlorophyll-the-gree-2023-0",
+        "trk_solar-transit-the-gree-2023-1",
+        "trk_every-meridian-the-gree-2023-2",
+        "trk_solar-equinox-the-gree-2023-3",
+        "trk_pollen-elegy-the-gree-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-observatory-the-green-",
+      "slug": "the-observatory",
+      "title": "The Observatory",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 9,
+      "durationSec": 3654,
+      "durationLabel": "1 hr 1 min",
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "spiritual-jazz",
+        "jazz"
+      ],
+      "tracks": [
+        "trk_parallax-the-gree-2024-0",
+        "trk_outer-observatory-the-gree-2024-1",
+        "trk_two-hundred-fronds-the-gree-2024-2",
+        "trk_moss-waltz-the-gree-2024-3",
+        "trk_wet-greenhouse-the-gree-2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_green-frond-the-green-",
+      "slug": "green-frond",
+      "title": "Green Frond",
+      "year": 2025,
+      "type": "EP",
+      "subtitle": "2025 · EP",
+      "trackCount": 5,
+      "durationSec": 2261,
+      "durationLabel": "38 min",
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "spiritual-jazz",
+        "jazz"
+      ],
+      "tracks": [
+        "trk_solar-observatory-the-gree-2025-0",
+        "trk_wet-pollen-the-gree-2025-1",
+        "trk_photosynthesis-the-gree-2025-2",
+        "trk_nothing-but-transits-the-gree-2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-hour-sanne-midn",
+      "slug": "velvet-hour-sanne-midnight",
+      "title": "Velvet Hour",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 10,
+      "durationSec": 2518,
+      "durationLabel": "42 min",
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "genres": [
+        "electronic",
+        "downtempo"
+      ],
+      "tracks": [
+        "trk_midnight-underpass-sanne-mi-2025-0",
+        "trk_dark-underpass-sanne-mi-2025-1",
+        "trk_wild-hedgerow-sanne-mi-2025-2",
+        "trk_afterhours-sanne-mi-2025-3",
+        "trk_bloom-sanne-mi-2025-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bloom-sadie-and-",
+      "slug": "bloom-sadie-and-the-villages",
+      "title": "Bloom",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 9,
+      "durationSec": 2079,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_cairn-demo-sadie-an-2020-0",
+        "trk_tectonics-sadie-an-2020-1",
+        "trk_copper-cairn-sadie-an-2020-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_harvests-sadie-and-",
+      "slug": "harvests",
+      "title": "Harvests",
+      "year": 2021,
+      "type": "Single",
+      "subtitle": "2021 · Single",
+      "trackCount": 2,
+      "durationSec": 543,
+      "durationLabel": "9 min",
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_almanac-sadie-an-2021-0",
+        "trk_half-a-strata-sadie-an-2021-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_pastures-sadie-and-",
+      "slug": "pastures",
+      "title": "Pastures",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 12,
+      "durationSec": 2840,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_barleyfield-blues-sadie-an-2022-0",
+        "trk_sediment-sadie-an-2022-1",
+        "trk_bedrock-blues-sadie-an-2022-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_meadows-sadie-and-",
+      "slug": "meadows",
+      "title": "Meadows",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 9,
+      "durationSec": 2225,
+      "durationLabel": "37 min",
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "americana"
+      ],
+      "tracks": [
+        "trk_slow-common-sadie-an-2025-0",
+        "trk_strata-blues-sadie-an-2025-1",
+        "trk_bramble-reprise-sadie-an-2025-2",
+        "trk_long-hedgerow-sadie-an-2025-3",
+        "trk_wild-thicket-sadie-an-2025-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bloom-bloom",
+      "slug": "bloom-bloom",
+      "title": "Bloom",
+      "year": 2016,
+      "type": "Album",
+      "subtitle": "2016 · Album",
+      "trackCount": 11,
+      "durationSec": 2299,
+      "durationLabel": "38 min",
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_thicket-song-bloom-2016-0",
+        "trk_another-estuary-bloom-2016-1",
+        "trk_almanac-bloom-2016-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rootwork-bloom",
+      "slug": "rootwork-bloom",
+      "title": "Rootwork",
+      "year": 2017,
+      "type": "Album",
+      "subtitle": "2017 · Album",
+      "trackCount": 12,
+      "durationSec": 2160,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_thicket-hymn-bloom-2017-0",
+        "trk_no-more-fathoms-bloom-2017-1",
+        "trk_all-the-orchards-bloom-2017-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_grey-estuary-bloom",
+      "slug": "grey-estuary",
+      "title": "Grey Estuary",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 12,
+      "durationSec": 2849,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_slow-harvest-bloom-2022-0",
+        "trk_bright-thicket-bloom-2022-1",
+        "trk_ballast-bloom-2022-2",
+        "trk_long-meadow-bloom-2022-3",
+        "trk_another-barleyfield-bloom-2022-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_tectonics-the-slate-",
+      "slug": "tectonics-the-slate-stratas",
+      "title": "Tectonics",
+      "year": 2017,
+      "type": "EP",
+      "subtitle": "2017 · EP",
+      "trackCount": 5,
+      "durationSec": 1053,
+      "durationLabel": "18 min",
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "rock"
+      ],
+      "tracks": [
+        "trk_municipal-bloc-the-slat-2017-0",
+        "trk_bloc-waltz-the-slat-2017-1",
+        "trk_public-registry-the-slat-2017-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_zoning-the-slate-",
+      "slug": "zoning-the-slate-stratas",
+      "title": "Zoning",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 8,
+      "durationSec": 1675,
+      "durationLabel": "28 min",
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "rock"
+      ],
+      "tracks": [
+        "trk_precinct-march-the-slat-2021-0",
+        "trk_chalk-strata-the-slat-2021-1",
+        "trk_half-an-aggregate-the-slat-2021-2",
+        "trk_half-a-quarry-the-slat-2021-3",
+        "trk_half-an-assembly-the-slat-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_copper-oxidation-the-slate-",
+      "slug": "copper-oxidation",
+      "title": "Copper Oxidation",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 9,
+      "durationSec": 1892,
+      "durationLabel": "32 min",
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "rock"
+      ],
+      "tracks": [
+        "trk_limestone-seam-the-slat-2023-0",
+        "trk_every-bloc-the-slat-2023-1",
+        "trk_seam-lullaby-the-slat-2023-2",
+        "trk_census-the-slat-2023-3",
+        "trk_limestone-strata-the-slat-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_golden-harvest-petra-ilic",
+      "slug": "golden-harvest",
+      "title": "Golden Harvest",
+      "year": 2015,
+      "type": "Album",
+      "subtitle": "2015 · Album",
+      "trackCount": 10,
+      "durationSec": 2177,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_harbour-lullaby-petra-il-2015-0",
+        "trk_cove-march-petra-il-2015-1",
+        "trk_fallow-meadow-petra-il-2015-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_hollow-fieldwork-petra-ilic",
+      "slug": "hollow-fieldwork",
+      "title": "Hollow Fieldwork",
+      "year": 2016,
+      "type": "EP",
+      "subtitle": "2016 · EP",
+      "trackCount": 6,
+      "durationSec": 1245,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_cold-lighthouse-petra-il-2016-0",
+        "trk_bloom-petra-il-2016-1",
+        "trk_orchard-waltz-petra-il-2016-2",
+        "trk_every-thicket-petra-il-2016-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_drowned-harbour-petra-ilic",
+      "slug": "drowned-harbour",
+      "title": "Drowned Harbour",
+      "year": 2017,
+      "type": "Album",
+      "subtitle": "2017 · Album",
+      "trackCount": 12,
+      "durationSec": 3290,
+      "durationLabel": "55 min",
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_ballast-petra-il-2017-0",
+        "trk_hollow-bramble-petra-il-2017-1",
+        "trk_twice-the-meadow-petra-il-2017-2",
+        "trk_far-current-petra-il-2017-3",
+        "trk_driftwood-petra-il-2017-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_meadows-petra-ilic",
+      "slug": "meadows-petra-ilic",
+      "title": "Meadows",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 12,
+      "durationSec": 2537,
+      "durationLabel": "42 min",
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_fallow-alder-petra-il-2019-0",
+        "trk_golden-alder-petra-il-2019-1",
+        "trk_north-lighthouse-petra-il-2019-2",
+        "trk_harbour-reprise-petra-il-2019-3",
+        "trk_salt-shoal-petra-il-2019-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_shoals-petra-ilic",
+      "slug": "shoals",
+      "title": "Shoals",
+      "year": 2021,
+      "type": "Compilation",
+      "subtitle": "2021 · Compilation",
+      "trackCount": 17,
+      "durationSec": 3686,
+      "durationLabel": "1 hr 1 min",
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "tracks": [
+        "trk_slow-pasture-petra-il-2021-0",
+        "trk_almanac-petra-il-2021-1",
+        "trk_village-hymn-petra-il-2021-2",
+        "trk_ballast-petra-il-2021-3",
+        "trk_grey-estuary-petra-il-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_ferries-imogen-sin",
+      "slug": "ferries",
+      "title": "Ferries",
+      "year": 2008,
+      "type": "Album",
+      "subtitle": "2008 · Album",
+      "trackCount": 9,
+      "durationSec": 2104,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_census-imogen-s-2008-0",
+        "trk_annex-alt-take-imogen-s-2008-1",
+        "trk_census-imogen-s-2008-2",
+        "trk_dark-motel-imogen-s-2008-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-hour-imogen-sin",
+      "slug": "the-hour",
+      "title": "The Hour",
+      "year": 2009,
+      "type": "Album",
+      "subtitle": "2009 · Album",
+      "trackCount": 8,
+      "durationSec": 1757,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_municipal-terminal-imogen-s-2009-0",
+        "trk_public-assembly-imogen-s-2009-1",
+        "trk_central-assembly-imogen-s-2009-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_exchanges-imogen-sin",
+      "slug": "exchanges",
+      "title": "Exchanges",
+      "year": 2011,
+      "type": "EP",
+      "subtitle": "2011 · EP",
+      "trackCount": 6,
+      "durationSec": 1343,
+      "durationLabel": "22 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_nothing-but-boulevards-imogen-s-2011-0",
+        "trk_another-ballroom-imogen-s-2011-1",
+        "trk_depot-live-at-the-roundhouse-imogen-s-2011-2",
+        "trk_exchange-elegy-imogen-s-2011-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_payphone-and-underpass-imogen-sin",
+      "slug": "payphone-and-underpass",
+      "title": "Payphone & Underpass",
+      "year": 2015,
+      "type": "Reissue",
+      "subtitle": "2015 · Reissue",
+      "trackCount": 12,
+      "durationSec": 2410,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_census-imogen-s-2015-0",
+        "trk_model-precinct-imogen-s-2015-1",
+        "trk_nocturne-imogen-s-2015-2",
+        "trk_central-terminal-imogen-s-2015-3",
+        "trk_public-assembly-imogen-s-2015-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_neon-hour-imogen-sin",
+      "slug": "neon-hour",
+      "title": "Neon Hour",
+      "year": 2017,
+      "type": "Album",
+      "subtitle": "2017 · Album",
+      "trackCount": 10,
+      "durationSec": 2444,
+      "durationLabel": "41 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_ballroom-reprise-imogen-s-2017-0",
+        "trk_model-terminal-imogen-s-2017-1",
+        "trk_census-imogen-s-2017-2",
+        "trk_new-depot-imogen-s-2017-3",
+        "trk_no-more-assemblies-imogen-s-2017-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_curfew-imogen-sin",
+      "slug": "curfew",
+      "title": "Curfew",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 10,
+      "durationSec": 2307,
+      "durationLabel": "38 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_zoning-imogen-s-2021-0",
+        "trk_infrastructure-imogen-s-2021-1",
+        "trk_rooftop-instrumental-imogen-s-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_exchange-and-assembly-imogen-sin",
+      "slug": "exchange-and-assembly",
+      "title": "Exchange & Assembly",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 6,
+      "durationSec": 1538,
+      "durationLabel": "26 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_insomnia-imogen-s-2023-0",
+        "trk_no-more-precincts-imogen-s-2023-1",
+        "trk_taxi-hymn-imogen-s-2023-2",
+        "trk_zoning-imogen-s-2023-3",
+        "trk_exchange-demo-imogen-s-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_registries-imogen-sin",
+      "slug": "registries",
+      "title": "Registries",
+      "year": 2026,
+      "type": "EP",
+      "subtitle": "2026 · EP",
+      "trackCount": 4,
+      "durationSec": 839,
+      "durationLabel": "14 min",
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_no-more-boulevards-imogen-s-2026-0",
+        "trk_model-exchange-imogen-s-2026-1",
+        "trk_ferry-reprise-imogen-s-2026-2",
+        "trk_all-the-hours-imogen-s-2026-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-ferry-merrick-da",
+      "slug": "velvet-ferry",
+      "title": "Velvet Ferry",
+      "year": 2019,
+      "type": "EP",
+      "subtitle": "2019 · EP",
+      "trackCount": 4,
+      "durationSec": 905,
+      "durationLabel": "15 min",
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "rnb",
+        "funk"
+      ],
+      "tracks": [
+        "trk_flora-merrick--2019-0",
+        "trk_afterhours-merrick--2019-1",
+        "trk_neon-payphone-merrick--2019-2",
+        "trk_wet-herbarium-merrick--2019-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_boulevard-and-taxi-merrick-da",
+      "slug": "boulevard-and-taxi",
+      "title": "Boulevard & Taxi",
+      "year": 2020,
+      "type": "Single",
+      "subtitle": "2020 · Single",
+      "trackCount": 2,
+      "durationSec": 376,
+      "durationLabel": "6 min",
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "rnb",
+        "funk"
+      ],
+      "tracks": [
+        "trk_creeping-pollen-merrick--2020-0",
+        "trk_late-underpass-merrick--2020-1"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_last-curfew-merrick-da",
+      "slug": "last-curfew",
+      "title": "Last Curfew",
+      "year": 2022,
+      "type": "Album",
+      "subtitle": "2022 · Album",
+      "trackCount": 10,
+      "durationSec": 2065,
+      "durationLabel": "34 min",
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "rnb",
+        "funk"
+      ],
+      "tracks": [
+        "trk_last-boulevard-merrick--2022-0",
+        "trk_small-rooftop-merrick--2022-1",
+        "trk_small-taxi-merrick--2022-2",
+        "trk_twice-the-conservatory-merrick--2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_herbaria-merrick-da",
+      "slug": "herbaria",
+      "title": "Herbaria",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 6,
+      "durationSec": 1289,
+      "durationLabel": "21 min",
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "rnb",
+        "funk"
+      ],
+      "tracks": [
+        "trk_every-vine-merrick--2024-0",
+        "trk_curfew-merrick--2024-1",
+        "trk_conservatory-blues-merrick--2024-2",
+        "trk_nocturne-merrick--2024-3",
+        "trk_moss-hymn-merrick--2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_municipal-infrastructure-late-payph",
+      "slug": "municipal-infrastructure-late-payphone",
+      "title": "Municipal Infrastructure",
+      "year": 2016,
+      "type": "EP",
+      "subtitle": "2016 · EP",
+      "trackCount": 4,
+      "durationSec": 1353,
+      "durationLabel": "23 min",
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "soul"
+      ],
+      "tracks": [
+        "trk_provisional-registry-late-pay-2016-0",
+        "trk_marquee-demo-late-pay-2016-1",
+        "trk_bloc-reprise-late-pay-2016-2",
+        "trk_afterhours-late-pay-2016-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_central-depot-late-payph",
+      "slug": "central-depot",
+      "title": "Central Depot",
+      "year": 2017,
+      "type": "Album",
+      "subtitle": "2017 · Album",
+      "trackCount": 9,
+      "durationSec": 3591,
+      "durationLabel": "60 min",
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "soul"
+      ],
+      "tracks": [
+        "trk_twice-the-registry-late-pay-2017-0",
+        "trk_last-hour-late-pay-2017-1",
+        "trk_new-registry-late-pay-2017-2",
+        "trk_nocturne-late-pay-2017-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_curfew-late-payph",
+      "slug": "curfew-late-payphone",
+      "title": "Curfew",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 8,
+      "durationSec": 3776,
+      "durationLabel": "1 hr 3 min",
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "soul"
+      ],
+      "tracks": [
+        "trk_velvet-boulevard-late-pay-2019-0",
+        "trk_dark-ballroom-late-pay-2019-1",
+        "trk_census-late-pay-2019-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_underpasses-late-payph",
+      "slug": "underpasses-late-payphone",
+      "title": "Underpasses",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 10,
+      "durationSec": 3653,
+      "durationLabel": "1 hr 1 min",
+      "artist": {
+        "id": "art_late-payphone",
+        "name": "Late Payphone",
+        "slug": "late-payphone"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "soul"
+      ],
+      "tracks": [
+        "trk_taxi-theme-late-pay-2023-0",
+        "trk_central-bloc-late-pay-2023-1",
+        "trk_dark-rooftop-late-pay-2023-2",
+        "trk_blue-ballroom-late-pay-2023-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-taxi-central-de",
+      "slug": "the-taxi",
+      "title": "The Taxi",
+      "year": 2016,
+      "type": "Album",
+      "subtitle": "2016 · Album",
+      "trackCount": 12,
+      "durationSec": 2808,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_all-the-assemblies-central--2016-0",
+        "trk_two-hundred-registries-central--2016-1",
+        "trk_taxi-march-central--2016-2",
+        "trk_terminal-elegy-central--2016-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_payphones-central-de",
+      "slug": "payphones",
+      "title": "Payphones",
+      "year": 2017,
+      "type": "EP",
+      "subtitle": "2017 · EP",
+      "trackCount": 5,
+      "durationSec": 1087,
+      "durationLabel": "18 min",
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_provision-central--2017-0",
+        "trk_exchange-demo-central--2017-1",
+        "trk_underpass-lullaby-central--2017-2",
+        "trk_nocturne-central--2017-3",
+        "trk_provision-central--2017-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_precinct-and-depot-central-de",
+      "slug": "precinct-and-depot",
+      "title": "Precinct & Depot",
+      "year": 2019,
+      "type": "Album",
+      "subtitle": "2019 · Album",
+      "trackCount": 9,
+      "durationSec": 2160,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_curfew-central--2019-0",
+        "trk_municipal-bloc-central--2019-1",
+        "trk_central-terminal-central--2019-2",
+        "trk_central-bureau-central--2019-3",
+        "trk_census-central--2019-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_motel-and-taxi-central-de",
+      "slug": "motel-and-taxi",
+      "title": "Motel & Taxi",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 4,
+      "durationSec": 979,
+      "durationLabel": "16 min",
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_boulevard-hymn-central--2021-0",
+        "trk_terminal-elegy-central--2021-1",
+        "trk_velvet-rooftop-central--2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-payphone-central-de",
+      "slug": "the-payphone-central-depot",
+      "title": "The Payphone",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 5,
+      "durationSec": 1180,
+      "durationLabel": "20 min",
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_census-central--2024-0",
+        "trk_public-precinct-central--2024-1",
+        "trk_central-precinct-central--2024-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_boulevards-the-ballro",
+      "slug": "boulevards",
+      "title": "Boulevards",
+      "year": 2008,
+      "type": "Album",
+      "subtitle": "2008 · Album",
+      "trackCount": 9,
+      "durationSec": 1719,
+      "durationLabel": "29 min",
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "hip-hop"
+      ],
+      "tracks": [
+        "trk_infrastructure-the-ball-2008-0",
+        "trk_two-hundred-ferries-the-ball-2008-1",
+        "trk_afterhours-the-ball-2008-2",
+        "trk_dark-hour-the-ball-2008-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_dark-taxi-the-ballro",
+      "slug": "dark-taxi",
+      "title": "Dark Taxi",
+      "year": 2010,
+      "type": "EP",
+      "subtitle": "2010 · EP",
+      "trackCount": 5,
+      "durationSec": 933,
+      "durationLabel": "16 min",
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "hip-hop"
+      ],
+      "tracks": [
+        "trk_central-terminal-the-ball-2010-0",
+        "trk_underpass-hymn-the-ball-2010-1",
+        "trk_hour-demo-the-ball-2010-2",
+        "trk_provisional-assembly-the-ball-2010-3",
+        "trk_rooftop-elegy-the-ball-2010-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-payphone-the-ballro",
+      "slug": "the-payphone-the-ballroom-orchestra",
+      "title": "The Payphone",
+      "year": 2012,
+      "type": "Album",
+      "subtitle": "2012 · Album",
+      "trackCount": 10,
+      "durationSec": 1938,
+      "durationLabel": "32 min",
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "hip-hop"
+      ],
+      "tracks": [
+        "trk_late-payphone-the-ball-2012-0",
+        "trk_another-payphone-the-ball-2012-1",
+        "trk_provisional-annex-the-ball-2012-2",
+        "trk_small-ferry-the-ball-2012-3",
+        "trk_insomnia-the-ball-2012-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-underpass-the-ballro",
+      "slug": "velvet-underpass",
+      "title": "Velvet Underpass",
+      "year": 2015,
+      "type": "Album",
+      "subtitle": "2015 · Album",
+      "trackCount": 8,
+      "durationSec": 1696,
+      "durationLabel": "28 min",
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "hip-hop"
+      ],
+      "tracks": [
+        "trk_central-registry-the-ball-2015-0",
+        "trk_velvet-boulevard-the-ball-2015-1",
+        "trk_zoning-the-ball-2015-2",
+        "trk_zoning-the-ball-2015-3",
+        "trk_another-marquee-the-ball-2015-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_new-bureau-the-ballro",
+      "slug": "new-bureau",
+      "title": "New Bureau",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 8,
+      "durationSec": 1528,
+      "durationLabel": "25 min",
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "hip-hop"
+      ],
+      "tracks": [
+        "trk_rooftop-waltz-the-ball-2021-0",
+        "trk_provision-the-ball-2021-1",
+        "trk_municipal-registry-the-ball-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_provisional-infrastructure-the-ballro",
+      "slug": "provisional-infrastructure",
+      "title": "Provisional Infrastructure",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 8,
+      "durationSec": 1531,
+      "durationLabel": "26 min",
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "genres": [
+        "hip-hop"
+      ],
+      "tracks": [
+        "trk_marquee-theme-the-ball-2024-0",
+        "trk_afterhours-the-ball-2024-1",
+        "trk_provisional-assembly-the-ball-2024-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_zoning-cass-and-t",
+      "slug": "zoning-cass-and-the-terminals",
+      "title": "Zoning",
+      "year": 2021,
+      "type": "EP",
+      "subtitle": "2021 · EP",
+      "trackCount": 5,
+      "durationSec": 1442,
+      "durationLabel": "24 min",
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "label": {
+        "id": "lbl_harmattan",
+        "name": "Harmattan Sound"
+      },
+      "genres": [
+        "funk",
+        "jazz"
+      ],
+      "tracks": [
+        "trk_small-hour-cass-and-2021-0",
+        "trk_central-exchange-cass-and-2021-1",
+        "trk_bloc-lullaby-cass-and-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-rooftop-cass-and-t",
+      "slug": "the-rooftop",
+      "title": "The Rooftop",
+      "year": 2022,
+      "type": "Single",
+      "subtitle": "2022 · Single",
+      "trackCount": 1,
+      "durationSec": 316,
+      "durationLabel": "5 min",
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "label": {
+        "id": "lbl_harmattan",
+        "name": "Harmattan Sound"
+      },
+      "genres": [
+        "funk",
+        "jazz"
+      ],
+      "tracks": [
+        "trk_every-bureau-cass-and-2022-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-boulevard-cass-and-t",
+      "slug": "the-boulevard",
+      "title": "The Boulevard",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 11,
+      "durationSec": 3333,
+      "durationLabel": "56 min",
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "label": {
+        "id": "lbl_harmattan",
+        "name": "Harmattan Sound"
+      },
+      "genres": [
+        "funk",
+        "jazz"
+      ],
+      "tracks": [
+        "trk_zoning-cass-and-2023-0",
+        "trk_provisional-exchange-cass-and-2023-1",
+        "trk_neon-taxi-cass-and-2023-2",
+        "trk_bloc-reprise-cass-and-2023-3",
+        "trk_rooftop-instrumental-cass-and-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bloc-and-registry-halvor-lin",
+      "slug": "bloc-and-registry",
+      "title": "Bloc & Registry",
+      "year": 2014,
+      "type": "Album",
+      "subtitle": "2014 · Album",
+      "trackCount": 10,
+      "durationSec": 4156,
+      "durationLabel": "1 hr 9 min",
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_central-registry-halvor-l-2014-0",
+        "trk_municipal-exchange-halvor-l-2014-1",
+        "trk_insomnia-halvor-l-2014-2",
+        "trk_two-hundred-terminals-halvor-l-2014-3",
+        "trk_precinct-waltz-halvor-l-2014-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_depots-halvor-lin",
+      "slug": "depots",
+      "title": "Depots",
+      "year": 2016,
+      "type": "Album",
+      "subtitle": "2016 · Album",
+      "trackCount": 9,
+      "durationSec": 3753,
+      "durationLabel": "1 hr 3 min",
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_underpass-edit-halvor-l-2016-0",
+        "trk_taxi-march-halvor-l-2016-1",
+        "trk_bloc-live-at-the-roundhouse-halvor-l-2016-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-marquee-halvor-lin",
+      "slug": "velvet-marquee",
+      "title": "Velvet Marquee",
+      "year": 2017,
+      "type": "EP",
+      "subtitle": "2017 · EP",
+      "trackCount": 6,
+      "durationSec": 2108,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_curfew-halvor-l-2017-0",
+        "trk_provisional-bureau-halvor-l-2017-1",
+        "trk_last-underpass-halvor-l-2017-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_model-infrastructure-halvor-lin",
+      "slug": "model-infrastructure",
+      "title": "Model Infrastructure",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 11,
+      "durationSec": 4359,
+      "durationLabel": "1 hr 13 min",
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_assembly-hymn-halvor-l-2020-0",
+        "trk_nocturne-halvor-l-2020-1",
+        "trk_half-a-ferry-halvor-l-2020-2",
+        "trk_zoning-halvor-l-2020-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_cairns-elliot-cra",
+      "slug": "cairns",
+      "title": "Cairns",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 10,
+      "durationSec": 2128,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_strata-waltz-elliot-c-2023-0",
+        "trk_limestone-kiln-elliot-c-2023-1",
+        "trk_nothing-but-precincts-elliot-c-2023-2",
+        "trk_limestone-bedrock-elliot-c-2023-3",
+        "trk_limestone-aggregate-elliot-c-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_model-assembly-elliot-cra",
+      "slug": "model-assembly-elliot-crane",
+      "title": "Model Assembly",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 12,
+      "durationSec": 2667,
+      "durationLabel": "44 min",
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_limestone-quarry-elliot-c-2025-0",
+        "trk_annex-lullaby-elliot-c-2025-1",
+        "trk_sediment-elliot-c-2025-2",
+        "trk_oxidation-elliot-c-2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_depots-provisiona",
+      "slug": "depots-provisional-exchange",
+      "title": "Depots",
+      "year": 2016,
+      "type": "Album",
+      "subtitle": "2016 · Album",
+      "trackCount": 10,
+      "durationSec": 1935,
+      "durationLabel": "32 min",
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_every-taxi-provisio-2016-0",
+        "trk_curfew-provisio-2016-1",
+        "trk_insomnia-provisio-2016-2",
+        "trk_annex-reprise-provisio-2016-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-exchange-provisiona",
+      "slug": "the-exchange",
+      "title": "The Exchange",
+      "year": 2017,
+      "type": "Album",
+      "subtitle": "2017 · Album",
+      "trackCount": 12,
+      "durationSec": 2776,
+      "durationLabel": "46 min",
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_model-assembly-provisio-2017-0",
+        "trk_municipal-exchange-provisio-2017-1",
+        "trk_census-provisio-2017-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_infrastructure-provisiona",
+      "slug": "infrastructure-provisional-exchange",
+      "title": "Infrastructure",
+      "year": 2018,
+      "type": "Album",
+      "subtitle": "2018 · Album",
+      "trackCount": 12,
+      "durationSec": 2769,
+      "durationLabel": "46 min",
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_half-an-assembly-provisio-2018-0",
+        "trk_twice-the-rooftop-provisio-2018-1",
+        "trk_blue-underpass-provisio-2018-2",
+        "trk_midnight-payphone-provisio-2018-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_late-nocturne-provisiona",
+      "slug": "late-nocturne",
+      "title": "Late Nocturne",
+      "year": 2022,
+      "type": "EP",
+      "subtitle": "2022 · EP",
+      "trackCount": 4,
+      "durationSec": 875,
+      "durationLabel": "15 min",
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_provisional-precinct-provisio-2022-0",
+        "trk_ferry-lullaby-provisio-2022-1",
+        "trk_zoning-provisio-2022-2",
+        "trk_ballroom-live-at-the-roundhouse-provisio-2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_rust-tectonics-the-barley",
+      "slug": "rust-tectonics",
+      "title": "Rust Tectonics",
+      "year": 2020,
+      "type": "Album",
+      "subtitle": "2020 · Album",
+      "trackCount": 12,
+      "durationSec": 2806,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "americana",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_aggregate-march-the-barl-2020-0",
+        "trk_oxidation-the-barl-2020-1",
+        "trk_erosion-the-barl-2020-2",
+        "trk_almanac-the-barl-2020-3",
+        "trk_sediment-the-barl-2020-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_wild-almanac-the-barley",
+      "slug": "wild-almanac",
+      "title": "Wild Almanac",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 11,
+      "durationSec": 2728,
+      "durationLabel": "45 min",
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "americana",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_rootwork-the-barl-2021-0",
+        "trk_seam-hymn-the-barl-2021-1",
+        "trk_erosion-the-barl-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-quarry-the-barley",
+      "slug": "the-quarry",
+      "title": "The Quarry",
+      "year": 2022,
+      "type": "EP",
+      "subtitle": "2022 · EP",
+      "trackCount": 6,
+      "durationSec": 1680,
+      "durationLabel": "28 min",
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "americana",
+        "analog-revival"
+      ],
+      "tracks": [
+        "trk_bright-fen-the-barl-2022-0",
+        "trk_overgrowth-the-barl-2022-1",
+        "trk_husbandry-the-barl-2022-2",
+        "trk_chalk-strata-the-barl-2022-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bureaus-curfew",
+      "slug": "bureaus-curfew",
+      "title": "Bureaus",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 4,
+      "durationSec": 1681,
+      "durationLabel": "28 min",
+      "artist": {
+        "id": "art_curfew",
+        "name": "Curfew",
+        "slug": "curfew"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "genres": [
+        "jazz",
+        "funk"
+      ],
+      "tracks": [
+        "trk_half-a-payphone-curfew-2023-0",
+        "trk_census-curfew-2023-1",
+        "trk_small-marquee-curfew-2023-2",
+        "trk_provisional-precinct-curfew-2023-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_bedrock-and-foundry-tobias-tot",
+      "slug": "bedrock-and-foundry",
+      "title": "Bedrock & Foundry",
+      "year": 2024,
+      "type": "EP",
+      "subtitle": "2024 · EP",
+      "trackCount": 6,
+      "durationSec": 3023,
+      "durationLabel": "50 min",
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_tectonics-tobias-t-2024-0",
+        "trk_basalt-cairn-tobias-t-2024-1",
+        "trk_basalt-bedrock-tobias-t-2024-2",
+        "trk_solar-corona-tobias-t-2024-3",
+        "trk_total-observatory-tobias-t-2024-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_cairns-tobias-tot",
+      "slug": "cairns-tobias-total",
+      "title": "Cairns",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 8,
+      "durationSec": 3904,
+      "durationLabel": "1 hr 5 min",
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "dream-pop"
+      ],
+      "tracks": [
+        "trk_slate-aggregate-tobias-t-2025-0",
+        "trk_observatory-waltz-tobias-t-2025-1",
+        "trk_foundry-lullaby-tobias-t-2025-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_limestone-bedrock-redshift",
+      "slug": "limestone-bedrock",
+      "title": "Limestone Bedrock",
+      "year": 2016,
+      "type": "Album",
+      "subtitle": "2016 · Album",
+      "trackCount": 8,
+      "durationSec": 4059,
+      "durationLabel": "1 hr 8 min",
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_zenith-redshift-2016-0",
+        "trk_twice-the-seam-redshift-2016-1",
+        "trk_sediment-redshift-2016-2",
+        "trk_ninth-meridian-redshift-2016-3",
+        "trk_quarry-song-redshift-2016-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_solar-ascension-redshift",
+      "slug": "solar-ascension",
+      "title": "Solar Ascension",
+      "year": 2018,
+      "type": "EP",
+      "subtitle": "2018 · EP",
+      "trackCount": 4,
+      "durationSec": 2436,
+      "durationLabel": "41 min",
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_observatory-theme-redshift-2018-0",
+        "trk_distant-observatory-redshift-2018-1",
+        "trk_solar-equinox-redshift-2018-2",
+        "trk_limestone-kiln-redshift-2018-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_iron-kiln-redshift",
+      "slug": "iron-kiln",
+      "title": "Iron Kiln",
+      "year": 2022,
+      "type": "Single",
+      "subtitle": "2022 · Single",
+      "trackCount": 1,
+      "durationSec": 599,
+      "durationLabel": "10 min",
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "genres": [
+        "ambient",
+        "modern-composition"
+      ],
+      "tracks": [
+        "trk_equinox-blues-redshift-2022-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_provisional-census-nell-hollo",
+      "slug": "provisional-census",
+      "title": "Provisional Census",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 12,
+      "durationSec": 2116,
+      "durationLabel": "35 min",
+      "artist": {
+        "id": "art_nell-hollowell",
+        "name": "Nell Hollowell",
+        "slug": "nell-hollowell"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_oxidation-nell-hol-2023-0",
+        "trk_model-bloc-nell-hol-2023-1",
+        "trk_limestone-seam-nell-hol-2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_depots-nell-hollo",
+      "slug": "depots-nell-hollowell",
+      "title": "Depots",
+      "year": 2025,
+      "type": "Single",
+      "subtitle": "2025 · Single",
+      "trackCount": 1,
+      "durationSec": 255,
+      "durationLabel": "4 min",
+      "artist": {
+        "id": "art_nell-hollowell",
+        "name": "Nell Hollowell",
+        "slug": "nell-hollowell"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_model-registry-nell-hol-2025-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_seam-and-foundry-the-outer-",
+      "slug": "seam-and-foundry",
+      "title": "Seam & Foundry",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 6,
+      "durationSec": 3191,
+      "durationLabel": "53 min",
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "label": {
+        "id": "lbl_conservatory",
+        "name": "Conservatory Editions"
+      },
+      "genres": [
+        "ambient"
+      ],
+      "tracks": [
+        "trk_rust-quarry-the-oute-2023-0",
+        "trk_copper-seam-the-oute-2023-1",
+        "trk_limestone-seam-the-oute-2023-2",
+        "trk_oxidation-the-oute-2023-3",
+        "trk_tectonics-the-oute-2023-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_sediment-the-outer-",
+      "slug": "sediment",
+      "title": "Sediment",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 11,
+      "durationSec": 5130,
+      "durationLabel": "1 hr 26 min",
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "label": {
+        "id": "lbl_conservatory",
+        "name": "Conservatory Editions"
+      },
+      "genres": [
+        "ambient"
+      ],
+      "tracks": [
+        "trk_oxidation-the-oute-2025-0",
+        "trk_parallax-the-oute-2025-1",
+        "trk_oxidation-the-oute-2025-2",
+        "trk_ninth-corona-the-oute-2025-3",
+        "trk_iron-quarry-the-oute-2025-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_overgrowth-renata-and",
+      "slug": "overgrowth-renata-and-the-taxis",
+      "title": "Overgrowth",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 10,
+      "durationSec": 2380,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "latin",
+        "funk"
+      ],
+      "tracks": [
+        "trk_soft-hedgerow-renata-a-2021-0",
+        "trk_village-waltz-renata-a-2021-1",
+        "trk_long-harvest-renata-a-2021-2",
+        "trk_curfew-renata-a-2021-3",
+        "trk_no-more-orchards-renata-a-2021-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_brambles-renata-and",
+      "slug": "brambles",
+      "title": "Brambles",
+      "year": 2023,
+      "type": "Single",
+      "subtitle": "2023 · Single",
+      "trackCount": 1,
+      "durationSec": 194,
+      "durationLabel": "3 min",
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "latin",
+        "funk"
+      ],
+      "tracks": [
+        "trk_hour-march-renata-a-2023-0"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_the-payphone-renata-and",
+      "slug": "the-payphone-renata-and-the-taxis",
+      "title": "The Payphone",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 8,
+      "durationSec": 1963,
+      "durationLabel": "33 min",
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "genres": [
+        "latin",
+        "funk"
+      ],
+      "tracks": [
+        "trk_late-payphone-renata-a-2025-0",
+        "trk_last-ballroom-renata-a-2025-1",
+        "trk_fallow-pasture-renata-a-2025-2",
+        "trk_insomnia-renata-a-2025-3",
+        "trk_midnight-ballroom-renata-a-2025-4"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_motels-merrick-mu",
+      "slug": "motels-merrick-municipal",
+      "title": "Motels",
+      "year": 2023,
+      "type": "Album",
+      "subtitle": "2023 · Album",
+      "trackCount": 11,
+      "durationSec": 2398,
+      "durationLabel": "40 min",
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_assembly-lullaby-merrick--2023-0",
+        "trk_all-the-registries-merrick--2023-1",
+        "trk_curfew-merrick--2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_velvet-motel-merrick-mu",
+      "slug": "velvet-motel-merrick-municipal",
+      "title": "Velvet Motel",
+      "year": 2024,
+      "type": "Album",
+      "subtitle": "2024 · Album",
+      "trackCount": 10,
+      "durationSec": 2163,
+      "durationLabel": "36 min",
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_curfew-merrick--2024-0",
+        "trk_nocturne-merrick--2024-1",
+        "trk_exchange-lullaby-merrick--2024-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_provision-merrick-mu",
+      "slug": "provision-merrick-municipal",
+      "title": "Provision",
+      "year": 2025,
+      "type": "EP",
+      "subtitle": "2025 · EP",
+      "trackCount": 4,
+      "durationSec": 875,
+      "durationLabel": "15 min",
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_new-assembly-merrick--2025-0",
+        "trk_nothing-but-taxis-merrick--2025-1",
+        "trk_model-terminal-merrick--2025-2",
+        "trk_underpass-waltz-merrick--2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_neon-ballroom-bridie-vel",
+      "slug": "neon-ballroom",
+      "title": "Neon Ballroom",
+      "year": 2021,
+      "type": "Album",
+      "subtitle": "2021 · Album",
+      "trackCount": 12,
+      "durationSec": 2832,
+      "durationLabel": "47 min",
+      "artist": {
+        "id": "art_bridie-velvet",
+        "name": "Bridie Velvet",
+        "slug": "bridie-velvet"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_rooftop-waltz-bridie-v-2021-0",
+        "trk_twice-the-ballroom-bridie-v-2021-1",
+        "trk_twice-the-ballroom-bridie-v-2021-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_neon-payphone-bridie-vel",
+      "slug": "neon-payphone",
+      "title": "Neon Payphone",
+      "year": 2023,
+      "type": "EP",
+      "subtitle": "2023 · EP",
+      "trackCount": 4,
+      "durationSec": 851,
+      "durationLabel": "14 min",
+      "artist": {
+        "id": "art_bridie-velvet",
+        "name": "Bridie Velvet",
+        "slug": "bridie-velvet"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_nothing-but-taxis-bridie-v-2023-0",
+        "trk_midnight-rooftop-bridie-v-2023-1",
+        "trk_half-a-motel-bridie-v-2023-2"
+      ],
+      "nameRisk": null,
+      "image": null
+    },
+    {
+      "id": "alb_curfew-bridie-vel",
+      "slug": "curfew-bridie-velvet",
+      "title": "Curfew",
+      "year": 2025,
+      "type": "Album",
+      "subtitle": "2025 · Album",
+      "trackCount": 8,
+      "durationSec": 1936,
+      "durationLabel": "32 min",
+      "artist": {
+        "id": "art_bridie-velvet",
+        "name": "Bridie Velvet",
+        "slug": "bridie-velvet"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "genres": [
+        "indie-rock"
+      ],
+      "tracks": [
+        "trk_census-bridie-v-2025-0",
+        "trk_every-annex-bridie-v-2025-1",
+        "trk_nocturne-bridie-v-2025-2",
+        "trk_provisional-terminal-bridie-v-2025-3"
+      ],
+      "nameRisk": null,
+      "image": null
+    }
+  ]
+}

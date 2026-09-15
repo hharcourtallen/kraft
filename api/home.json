@@ -1,0 +1,132 @@
+{
+  "user": {
+    "id": "usr_sofia-reyes",
+    "displayName": "Sofía Reyes",
+    "plan": "Studio"
+  },
+  "title": "This week on the shelf",
+  "subtitle": "9 lists updated by people you follow",
+  "shelf": [
+    {
+      "playlistId": "pl_garden-sessions",
+      "curatorId": "cur_ingrid-halvorsen",
+      "note": "Ambient for daylight. No drone longer than the kettle takes; this is a list to do something else to.",
+      "updated": "2026-08-22",
+      "updatedLabel": "3 days ago"
+    },
+    {
+      "playlistId": "pl_the-archive",
+      "curatorId": "cur_ade-mensah",
+      "note": "Forty tracks of Accra and Lagos crate finds. The liner notes are longer than some of the songs, on purpose.",
+      "updated": "2026-08-20",
+      "updatedLabel": "5 days ago"
+    },
+    {
+      "playlistId": "pl_late-night-heat",
+      "curatorId": "cur_amara-diallo",
+      "note": "Made for the drive home after the drive home. Nothing here asks for your full attention until the third song, and then it takes it.",
+      "updated": "2026-08-19",
+      "updatedLabel": "6 days ago"
+    },
+    {
+      "playlistId": "pl_jazz-nights",
+      "curatorId": "cur_marcus-pike",
+      "note": "Small rooms, late sets, the count-in left in. If you can hear the bassist breathe, it made the cut.",
+      "updated": "2026-08-18",
+      "updatedLabel": "1 week ago"
+    },
+    {
+      "playlistId": "pl_cassette-dreams",
+      "curatorId": "cur_haruka-nakagawa",
+      "note": "Shoegaze and dream pop that still hisses. I kept the ones where the tape is part of the song, not a filter on top of it.",
+      "updated": "2026-08-11",
+      "updatedLabel": "2 weeks ago"
+    },
+    {
+      "playlistId": "pl_poolside",
+      "curatorId": "cur_luana-andrade",
+      "note": "Cumbia, bossa, and things that move at the speed of a Sunday. Play it loud enough that the neighbours ask.",
+      "updated": "2026-08-04",
+      "updatedLabel": "3 weeks ago"
+    },
+    {
+      "playlistId": "pl_tropicalia",
+      "curatorId": "cur_luana-andrade",
+      "note": "The Rio pressings and the Bogotá ones side by side. You can tell them apart by the hiss, and now so can you.",
+      "updated": "2026-07-14",
+      "updatedLabel": "14 Jul"
+    },
+    {
+      "playlistId": "pl_string-theory",
+      "curatorId": "cur_ingrid-halvorsen",
+      "note": "Modern composition for strings, mostly. Two of these were recorded in the same church, eleven years apart. You can hear the roof.",
+      "updated": "2026-06-28",
+      "updatedLabel": "28 Jun"
+    },
+    {
+      "playlistId": "pl_midnight-sax",
+      "curatorId": "cur_marcus-pike",
+      "note": "Ballads only. I put this together for a friend who couldn't sleep and it has outlived the insomnia.",
+      "updated": "2026-05-09",
+      "updatedLabel": "9 May"
+    }
+  ],
+  "continue": {
+    "trackId": "trk_dust-on-the-needle",
+    "contextType": "playlist",
+    "contextId": "pl_vinyl-sundays",
+    "positionSec": 107,
+    "positionLabel": "1:47"
+  },
+  "scenes": [
+    "scn_analog-revival",
+    "scn_blue-hour",
+    "scn_hedgerow"
+  ],
+  "live": [
+    {
+      "curatorId": "cur_ade-mensah",
+      "playlistId": "pl_the-archive"
+    },
+    {
+      "curatorId": "cur_ingrid-halvorsen",
+      "playlistId": "pl_garden-sessions"
+    },
+    {
+      "curatorId": "cur_marcus-pike",
+      "playlistId": "pl_jazz-nights"
+    },
+    {
+      "curatorId": "cur_haruka-nakagawa",
+      "playlistId": "pl_cassette-dreams"
+    },
+    {
+      "curatorId": "cur_teo-marchand",
+      "playlistId": "pl_poolside"
+    },
+    {
+      "curatorId": "cur_luana-andrade",
+      "playlistId": "pl_tropicalia"
+    },
+    {
+      "curatorId": "cur_amara-diallo",
+      "playlistId": "pl_late-night-heat"
+    }
+  ],
+  "countries": {
+    "title": "Around the world",
+    "subtitle": "One list per country, picked by someone who knows it",
+    "playlistIds": [
+      "pl_country-united-states",
+      "pl_country-spain",
+      "pl_country-mexico",
+      "pl_country-japan",
+      "pl_country-argentina",
+      "pl_country-chile",
+      "pl_country-brazil",
+      "pl_country-france",
+      "pl_country-ghana",
+      "pl_country-norway"
+    ]
+  }
+}

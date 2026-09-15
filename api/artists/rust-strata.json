@@ -1,0 +1,317 @@
+{
+  "id": "art_rust-strata",
+  "slug": "rust-strata",
+  "name": "Rust Strata",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Tucson, AZ",
+  "geo": {
+    "placeId": "plc_tucson",
+    "city": "Tucson",
+    "country": "US",
+    "lat": 32.22,
+    "lng": -110.97
+  },
+  "region": "us",
+  "genres": [
+    "americana"
+  ],
+  "primaryGenre": {
+    "slug": "americana",
+    "name": "Americana"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "tail",
+  "monthlyListeners": 539,
+  "monthlyListenersLabel": "539 monthly listeners",
+  "followers": 222,
+  "followersLabel": "222",
+  "shelfCaption": "Americana · 539 listeners",
+  "verified": true,
+  "active": {
+    "from": 2020,
+    "to": null
+  },
+  "bio": "Americana band from Tucson, AZ. Everything is cut in a single take or not at all. Answers every interview question with a different lie.",
+  "discography": [
+    "alb_basalt-kiln-rust-strat",
+    "alb_quiet-bloom-rust-strat",
+    "alb_tectonics-rust-strat"
+  ],
+  "popularTrackIds": [
+    "trk_long-hedgerow-rust-str-2020-0",
+    "trk_quiet-fen-rust-str-2020-2",
+    "trk_long-village-rust-str-2022-0",
+    "trk_fen-hymn-rust-str-2022-1",
+    "trk_cairn-theme-rust-str-2020-1",
+    "trk_tectonics-rust-str-2023-0",
+    "trk_tectonics-rust-str-2023-1",
+    "trk_seam-demo-rust-str-2020-3",
+    "trk_bright-common-rust-str-2023-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2023,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "hand-tinted photograph, colour applied over monochrome",
+        "composition": "centred, formal, symmetrical",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2023 press image deliberately styled after 1955-1979. Medium: hand-tinted photograph, colour applied over monochrome. Subject: a musician holding their instrument case, deadpan. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: centred, formal, symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202023%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20hand-tinted%20photograph%2C%20colour%20applied%20over%20monochrome.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20centred%2C%20formal%2C%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2023,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2023 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician walking away down a wet street, back to camera. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202023%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_long-hedgerow-rust-str-2020-0",
+      "slug": "long-hedgerow",
+      "title": "Long Hedgerow",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "7,348"
+    },
+    {
+      "id": "trk_quiet-fen-rust-str-2020-2",
+      "slug": "quiet-fen",
+      "title": "Quiet Fen",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "3,980"
+    },
+    {
+      "id": "trk_long-village-rust-str-2022-0",
+      "slug": "long-village",
+      "title": "Long Village",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_quiet-bloom-rust-strat",
+        "title": "Quiet Bloom",
+        "slug": "quiet-bloom",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "3,893"
+    },
+    {
+      "id": "trk_fen-hymn-rust-str-2022-1",
+      "slug": "fen-hymn",
+      "title": "Fen Hymn",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_quiet-bloom-rust-strat",
+        "title": "Quiet Bloom",
+        "slug": "quiet-bloom",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "2,454"
+    },
+    {
+      "id": "trk_cairn-theme-rust-str-2020-1",
+      "slug": "cairn-theme",
+      "title": "Cairn Theme",
+      "duration": "5:04",
+      "durationSec": 304,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "1,906"
+    },
+    {
+      "id": "trk_tectonics-rust-str-2023-0",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_basalt-kiln-rust-strat",
+        "title": "Basalt Kiln",
+        "slug": "basalt-kiln",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "1,711"
+    },
+    {
+      "id": "trk_tectonics-rust-str-2023-1",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_basalt-kiln-rust-strat",
+        "title": "Basalt Kiln",
+        "slug": "basalt-kiln",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "1,096"
+    },
+    {
+      "id": "trk_seam-demo-rust-str-2020-3",
+      "slug": "seam-demo",
+      "title": "Seam (Demo)",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "606"
+    },
+    {
+      "id": "trk_bright-common-rust-str-2023-2",
+      "slug": "bright-common",
+      "title": "Bright Common",
+      "duration": "4:34",
+      "durationSec": 274,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_basalt-kiln-rust-strat",
+        "title": "Basalt Kiln",
+        "slug": "basalt-kiln",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "470"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_basalt-kiln-rust-strat",
+      "slug": "basalt-kiln",
+      "title": "Basalt Kiln",
+      "subtitle": "2023 · EP",
+      "year": 2023,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_quiet-bloom-rust-strat",
+      "slug": "quiet-bloom",
+      "title": "Quiet Bloom",
+      "subtitle": "2022 · Single",
+      "year": 2022,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_tectonics-rust-strat",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "subtitle": "2020 · EP",
+      "year": 2020,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Long Hedgerow",
+      "position": 7,
+      "caption": "Long Hedgerow is track 7"
+    }
+  ]
+}

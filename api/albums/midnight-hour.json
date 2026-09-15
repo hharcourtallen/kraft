@@ -1,0 +1,48 @@
+{
+  "id": "alb_midnight-hour-rootwork-a",
+  "slug": "midnight-hour",
+  "title": "Midnight Hour",
+  "year": 2019,
+  "type": "Album",
+  "subtitle": "2019 · Album",
+  "trackCount": 9,
+  "durationSec": 2345,
+  "durationLabel": "39 min",
+  "artist": {
+    "id": "art_rootwork-and-bloom",
+    "name": "Rootwork & Bloom",
+    "slug": "rootwork-and-bloom"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "genres": [
+    "electronic"
+  ],
+  "tracks": [
+    "trk_soft-meadow-rootwork-2019-0",
+    "trk_long-barleyfield-rootwork-2019-1",
+    "trk_hedgerow-song-rootwork-2019-2",
+    "trk_husbandry-rootwork-2019-3",
+    "trk_fallow-hedgerow-rootwork-2019-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "electronic",
+      "year": 2019,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "interlocking extruded shapes",
+      "palette": "ultramarine, silver, black, one acid highlight"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: interlocking extruded shapes. Palette: ultramarine, silver, black, one acid highlight. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20interlocking%20extruded%20shapes.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

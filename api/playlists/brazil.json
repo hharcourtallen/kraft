@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-brazil",
+  "slug": "brazil",
+  "title": "Brazil",
+  "description": null,
+  "note": "Home. São Paulo is concrete and rain and somebody’s speaker on a balcony; this is what is usually coming out of it.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "BR",
+  "subtitle": "Luana Andrade",
+  "curator": {
+    "id": "cur_luana-andrade",
+    "name": "Luana Andrade",
+    "city": "São Paulo"
+  },
+  "trackCount": 12,
+  "durationSec": 3027,
+  "durationLabel": "50 min",
+  "metaLine": "12 tracks · 50 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 24300,
+  "followersLabel": "24K",
+  "updated": "2026-07-24",
+  "moods": [],
+  "genres": [
+    "bossa",
+    "latin",
+    "cumbia"
+  ],
+  "trackIds": [
+    "trk_bright-pasture-mateo-mo-2015-1",
+    "trk_long-meadow-mateo-mo-2015-4",
+    "trk_no-more-orchards-renata-a-2021-4",
+    "trk_no-more-taxis-i-a-r-2026-4",
+    "trk_nocturne-i-a-r-2025-3",
+    "trk_soft-hedgerow-renata-a-2021-0",
+    "trk_no-more-harvests-mateo-mo-2019-4",
+    "trk_bloom-i-a-r-2025-1",
+    "trk_soft-thicket-mateo-mo-2015-3",
+    "trk_census-mateo-mo-2019-0",
+    "trk_long-harvest-renata-a-2021-2",
+    "trk_all-the-precincts-mateo-mo-2021-2"
+  ],
+  "tracks": [
+    {
+      "id": "trk_bright-pasture-mateo-mo-2015-1",
+      "slug": "bright-pasture",
+      "title": "Bright Pasture",
+      "duration": "4:08",
+      "durationSec": 248,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-meadow-mateo-mo-2015-4",
+      "slug": "long-meadow",
+      "title": "Long Meadow",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_no-more-orchards-renata-a-2021-4",
+      "slug": "no-more-orchards",
+      "title": "No More Orchards",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_no-more-taxis-i-a-r-2026-4",
+      "slug": "no-more-taxis",
+      "title": "No More Taxis",
+      "duration": "3:47",
+      "durationSec": 227,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nocturne-i-a-r-2025-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_soft-hedgerow-renata-a-2021-0",
+      "slug": "soft-hedgerow",
+      "title": "Soft Hedgerow",
+      "duration": "5:02",
+      "durationSec": 302,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_no-more-harvests-mateo-mo-2019-4",
+      "slug": "no-more-harvests",
+      "title": "No More Harvests",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-i-a-r-2025-1",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_soft-thicket-mateo-mo-2015-3",
+      "slug": "soft-thicket",
+      "title": "Soft Thicket",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-mateo-mo-2019-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-harvest-renata-a-2021-2",
+      "slug": "long-harvest",
+      "title": "Long Harvest",
+      "duration": "4:06",
+      "durationSec": 246,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_all-the-precincts-mateo-mo-2021-2",
+      "slug": "all-the-precincts",
+      "title": "All the Precincts",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-pasture-mateo-moli",
+        "title": "The Pasture",
+        "slug": "the-pasture",
+        "year": 2021
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-brazil.png",
+    "direction": {
+      "genre": "bossa",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a beach horizon reduced to bands",
+      "palette": "sand, sea green, sun yellow, white"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a beach horizon reduced to bands. Palette: sand, sea green, sun yellow, white. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20beach%20horizon%20reduced%20to%20bands.%20Palette%3A%20sand%2C%20sea%20green%2C%20sun%20yellow%2C%20white.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "24 Jul"
+}

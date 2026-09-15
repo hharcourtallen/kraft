@@ -1,0 +1,287 @@
+/* Marketing / Homepage — Stage final. 88px margins, 1264 content, 128 between sections. */
+.wl {
+  min-height: 100%;
+  background: var(--color-bg);
+  color: var(--color-text);
+}
+
+.wl a { color: inherit; }
+
+.wl-nav {
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  z-index: 2;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 72px;
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 88px;
+  box-sizing: border-box;
+  color: #fafafa;
+}
+
+.wl-nav .logo { color: #fafafa; }
+.wl-nav .logo svg { color: #fafafa; }
+
+.wl-links {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-8);
+}
+
+.wl-footer .wl-links { gap: var(--spacing-6); }
+
+.wl-btn {
+  display: inline-flex;
+  align-items: center;
+  height: 44px;
+  padding: 0 var(--spacing-5);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-inverse);
+  color: var(--color-text-inverse);
+  font-size: var(--text-sm);
+  font-weight: var(--font-weight-medium);
+}
+
+.wl-nav .wl-btn, .wl-hero .wl-btn { background: #fafafa; color: #0c0d0e; }
+.wl-btn--sm { height: 32px; padding: 0 var(--spacing-3); }
+
+/* Hero: full bleed, the photo, one line, one button, the record. */
+.wl-hero {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  min-height: 800px;
+  background-color: var(--color-well);
+  background-size: cover;
+  background-position: 50% 30%;
+  color: #fafafa;
+}
+
+.wl-hero::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(180deg, oklch(0% 0 0 / 35%) 0%, oklch(0% 0 0 / 0%) 30%, oklch(0% 0 0 / 0%) 45%, oklch(12.8% 0.010 323 / 92%) 100%);
+}
+
+.wl-hero-body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-10);
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+  padding: 0 88px 48px;
+  box-sizing: border-box;
+}
+
+.wl-hero-top {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.wl-hero-copy { display: flex; flex-direction: column; gap: var(--spacing-4); }
+.wl-hero-copy p { margin: 0; color: #e6e6e6; }
+
+.wl-statement {
+  margin: 0;
+  font-size: 56px;
+  line-height: 60px;
+  letter-spacing: var(--tracking-snug);
+  font-weight: var(--font-weight-normal);
+  max-width: 720px;
+}
+
+.wl-actions { display: flex; align-items: center; gap: var(--spacing-5); }
+.wl-dim { color: #e6e6e6; }
+
+.wl-now { display: flex; flex-direction: column; gap: var(--spacing-3); }
+.wl-now-head { display: flex; align-items: center; justify-content: space-between; }
+.wl-now-track { display: flex; align-items: center; gap: var(--spacing-4); }
+.wl-now-track > div { display: flex; flex-direction: column; gap: var(--spacing-0-5); }
+
+.wl-play {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 48px;
+  height: 48px;
+  border-radius: var(--radius-full);
+  background: #fafafa;
+  color: #0c0d0e;
+  flex-shrink: 0;
+}
+
+.wl-live { display: flex; align-items: center; gap: var(--spacing-2); }
+.wl-live .led { display: inline-block; width: 6px; height: 6px; border-radius: 9999px; background: var(--color-accent-core); box-shadow: 0 0 4px 1px oklch(78% .140 257.5 / 90%), 0 0 9px 3px oklch(61% .125 257.5 / 70%); }
+
+/* Notes pinned to moments: avatar, tick, label, above the strip. */
+.wl-pins { position: relative; height: 56px; width: 100%; }
+.wl-pin { position: absolute; top: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; width: 24px; margin-left: -12px; }
+.wl-pin-tick { width: 2px; height: 24px; border-radius: 1px; background: var(--color-accent); }
+.wl-pin--alt { top: 20px; }
+.wl-pin--alt .wl-pin-tick { height: 8px; }
+.wl-pin-label { position: absolute; left: 34px; top: 3px; white-space: nowrap; color: #e6e6e6; }
+.wl-times { display: flex; justify-content: space-between; width: 100%; }
+
+/* Sections */
+.wl-section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-10);
+  width: min(1264px, 100% - 176px);
+  margin: 0 auto;
+  padding-top: 128px;
+}
+
+.wl-head { display: flex; align-items: flex-end; justify-content: space-between; }
+.wl-head > div { display: flex; flex-direction: column; gap: var(--spacing-1); }
+.wl-head h2, .wl-section h2, .wl-head p { margin: 0; }
+.wl-section h2 { font-weight: var(--font-weight-normal); letter-spacing: var(--tracking-normal); }
+
+.wl-people { display: flex; justify-content: space-between; }
+.wl-person { display: flex; flex-direction: column; align-items: center; gap: var(--spacing-3); width: 128px; text-align: center; }
+.wl-person .t-sm { margin-top: calc(var(--spacing-3) * -1 + var(--spacing-0-5)); }
+
+.wl-activity { display: flex; flex-direction: column; }
+.wl-act { display: flex; align-items: center; gap: var(--spacing-4); min-height: 60px; border-bottom: 1px solid var(--color-line-subtle); }
+.wl-act:last-child { border-bottom: 0; }
+.wl-act-text { flex: 1 1 0; }
+.wl-act-text a { font-weight: var(--font-weight-medium); }
+.wl-act-when { width: 120px; text-align: right; }
+
+.wl-scenes { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--spacing-4); }
+.wl-scene { height: 180px; }
+
+.wl-three { display: flex; gap: var(--spacing-8); }
+.wl-thing { display: flex; flex-direction: column; gap: var(--spacing-3); flex: 1 1 0; padding-top: var(--spacing-5); border-top: 1px solid var(--color-line); }
+
+
+.wl-close { align-items: flex-start; gap: var(--spacing-6); }
+.wl-close-line { font-size: var(--text-2xl); line-height: var(--leading-2xl); letter-spacing: var(--tracking-snug); }
+
+.wl-footer { width: min(1264px, 100% - 176px); margin: 0 auto; padding: 128px 0 48px; display: flex; flex-direction: column; gap: var(--spacing-6); }
+.wl-footer-row { display: flex; align-items: center; justify-content: space-between; padding-top: var(--spacing-6); border-top: 1px solid var(--color-line-subtle); }
+.wl-disclaimer { margin: 0; max-width: 824px; }
+
+/* Buttons are links here; keep their inverse text over the `.wl a` inherit rule. */
+.wl a.wl-btn { color: var(--color-text-inverse); }
+.wl-nav a.wl-btn, .wl-hero a.wl-btn { color: #0c0d0e; }
+
+/* Split sections: 408 lead, 32 gap, the rest. */
+.wl-split { flex-direction: row; align-items: flex-start; gap: var(--spacing-8); }
+.wl-split-lead { display: flex; flex-direction: column; gap: var(--spacing-4); width: 408px; flex-shrink: 0; }
+.wl-split-lead p { margin: 0; max-width: 360px; }
+.wl-split .wl-activity { flex: 1 1 0; }
+.wl-act-type { width: 56px; flex-shrink: 0; }
+
+.wl-what { padding-top: 112px; }
+.wl-what-line { width: 408px; flex-shrink: 0; margin: 0; font-size: var(--text-2xl); line-height: var(--leading-2xl); letter-spacing: var(--tracking-snug); font-weight: var(--font-weight-normal); }
+.wl-number-n { font-size: var(--text-3xl); line-height: 44px; letter-spacing: var(--tracking-snug); font-weight: var(--font-weight-normal); }
+.wl-members { margin: 0; }
+
+/* What this is, as a bento: 400 / 400 / 432 columns, 176 rows, the statement spans 2×2. */
+.wl-bento {
+  display: grid;
+  grid-template-columns: 400fr 400fr 432fr;
+  grid-template-rows: repeat(3, 176px);
+  gap: var(--spacing-4);
+}
+.wl-tile {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  padding: var(--spacing-6);
+  border-radius: var(--radius-lg);
+  background: var(--color-surface);
+  border: 1px solid var(--color-line-subtle);
+  min-width: 0;
+}
+.wl-tile--statement { grid-column: 1 / 3; grid-row: 1 / 3; padding: 28px; }
+.wl-tile--statement .wl-what-line { width: auto; max-width: 640px; font-size: var(--text-3xl); line-height: 44px; }
+.wl-tile--statement p { margin: 0; max-width: 720px; }
+.wl-tile-copy { display: flex; flex-direction: column; gap: var(--spacing-3); }
+.wl-tile--albums { grid-column: 3; grid-row: 1; }
+.wl-tile--curators { grid-column: 3; grid-row: 2; }
+.wl-tile--members { grid-column: 1; grid-row: 3; }
+.wl-tile--notes { grid-column: 3; grid-row: 3; }
+.wl-tile-head { display: flex; align-items: center; justify-content: space-between; }
+.wl-tile-num { display: flex; flex-direction: column; gap: var(--spacing-1); }
+.wl-portraits { display: flex; gap: var(--spacing-1); }
+.wl-tile .wl-live { gap: var(--spacing-2); }
+.wl-tile .wave { cursor: default; }
+
+/* Statement tile: six real covers do the talking. */
+.wl-covers { display: flex; gap: var(--spacing-2); }
+.wl-covers .cover { flex: 1 1 0; max-width: 120px; aspect-ratio: 1; border-radius: var(--radius-md); }
+
+/* New follows: three members joined by hairlines. */
+.wl-tile--follows { grid-column: 2; grid-row: 3; }
+.wl-pair, .wl-pair-item { display: flex; align-items: center; gap: 6px; }
+.wl-pair-item i { display: block; width: 20px; height: 1px; background: var(--color-line); }
+
+/* This week: the objects themselves, not a log. A list update owns its replies. */
+.wl-feed { display: flex; flex-direction: column; gap: var(--spacing-4); flex: 1 1 0; min-width: 0; }
+.wl-card, .wl-feed-row { background: var(--color-surface); border: 1px solid var(--color-line-subtle); border-radius: var(--radius-lg); }
+.wl-card { display: flex; flex-direction: column; gap: var(--spacing-4); padding: var(--spacing-5); }
+.wl-card-head { display: flex; align-items: center; gap: 14px; }
+.wl-card-cover { width: 48px; height: 48px; border-radius: var(--radius-md); flex-shrink: 0; }
+.wl-card-text { display: flex; flex-direction: column; gap: var(--spacing-1); flex: 1 1 0; min-width: 0; }
+.wl-card-meta { display: flex; align-items: center; gap: var(--spacing-2); }
+.wl-card-when { width: 96px; text-align: right; flex-shrink: 0; }
+.wl-card-note { margin: 0; max-width: 720px; }
+.wl-card .wave { cursor: default; }
+.wl-reply { display: flex; align-items: center; gap: 10px; }
+.wl-feed-row { display: flex; align-items: center; gap: 14px; padding: var(--spacing-4) var(--spacing-5); }
+.wl-row-text { display: flex; flex-direction: column; gap: var(--spacing-0-5); flex: 1 1 0; min-width: 0; }
+.wl-row-text a, .wl-card-meta a { font-weight: var(--font-weight-medium); }
+.wl-row-cover { width: 40px; height: 40px; border-radius: var(--radius-md); flex-shrink: 0; }
+
+/* Below 1320 the tiles get narrow: labels stay on one line and the portraits overlap instead of wrapping. */
+.wl-tile-head > .t-sm { white-space: nowrap; }
+@media (max-width: 1320px) {
+  .wl-portraits { gap: 0; }
+  .wl-portraits > * + * { margin-left: -6px; }
+  .wl-portraits .avatar { box-shadow: 0 0 0 2px var(--color-surface); }
+}
+
+/* Globe hero: the statement on the left, the globe rising out of the top-right of the
+   centred 1440 column and bleeding off the edges. */
+.wl-hero--globe {
+  justify-content: center;
+  min-height: 800px;
+  overflow: hidden;
+  /* A night globe wants night around it, in both modes. */
+  background: oklch(12.8% 0.010 323);
+  background-image: radial-gradient(900px 700px at calc(50% + 300px) 35%, oklch(30% 0.06 257.5 / 55%), transparent 70%);
+}
+.wl-hero--globe::before { display: none; }
+.wl-hero--globe .wl-hero-body { padding-bottom: 0; }
+.wl-hero--globe .wl-hero-copy { gap: var(--spacing-6); max-width: 560px; }
+.wl-hero--globe .wl-actions { gap: var(--spacing-5); }
+.wl-globe-wrap {
+  position: absolute;
+  left: calc(50% - 200px);
+  top: -300px;
+  width: 1400px;
+  height: 1400px;
+  pointer-events: auto;
+}
+
+/* On the shelf this week: 194px covers in a row that scrolls past the column edge. */
+.wl-shelf { display: flex; gap: var(--spacing-5); overflow-x: auto; scrollbar-width: none; margin-right: -88px; padding-right: 88px; }
+.wl-shelf::-webkit-scrollbar { display: none; }
+.wl-shelf-item { display: flex; flex-direction: column; gap: var(--spacing-0-5); width: 194px; flex-shrink: 0; }
+.wl-shelf-item .t-base { margin-top: var(--spacing-2); }
+.wl-shelf-cover { width: 194px; height: 194px; border-radius: var(--radius-md); }
+
+/* Around the world: five country cards across the column, caption beneath. */
+.wl-world { display: flex; justify-content: space-between; }
+.wl-world-item { display: flex; flex-direction: column; gap: var(--spacing-2); width: 215px; }

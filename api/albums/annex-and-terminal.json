@@ -1,0 +1,46 @@
+{
+  "id": "alb_annex-and-terminal-rhys-rees",
+  "slug": "annex-and-terminal",
+  "title": "Annex & Terminal",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 8,
+  "durationSec": 2869,
+  "durationLabel": "48 min",
+  "artist": {
+    "id": "art_rhys-rees",
+    "name": "Rhys Rees",
+    "slug": "rhys-rees"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "jazz"
+  ],
+  "tracks": [
+    "trk_zoning-rhys-ree-2021-0",
+    "trk_public-terminal-rhys-ree-2021-1",
+    "trk_another-taxi-rhys-ree-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "three offset rectangles",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: three offset rectangles. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20three%20offset%20rectangles.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

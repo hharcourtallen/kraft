@@ -1,0 +1,48 @@
+{
+  "id": "alb_overgrowth-i-a-r",
+  "slug": "overgrowth",
+  "title": "Overgrowth",
+  "year": 2026,
+  "type": "Album",
+  "subtitle": "2026 · Album",
+  "trackCount": 11,
+  "durationSec": 2820,
+  "durationLabel": "47 min",
+  "artist": {
+    "id": "art_i-a-r",
+    "name": "I.A.R.",
+    "slug": "i-a-r"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "genres": [
+    "latin"
+  ],
+  "tracks": [
+    "trk_overgrowth-i-a-r-2026-0",
+    "trk_rootwork-i-a-r-2026-1",
+    "trk_boulevard-instrumental-i-a-r-2026-2",
+    "trk_common-live-at-the-roundhouse-i-a-r-2026-3",
+    "trk_no-more-taxis-i-a-r-2026-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "latin",
+      "year": 2026,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "modernist graphic design in flat cut-paper shapes",
+      "composition": "strict grid, large flat colour fields",
+      "abstract": true,
+      "subject": "painted shutters",
+      "palette": "terracotta, cobalt, marigold, whitewash"
+    },
+    "prompt": "Album cover artwork, square format. A 2026 sleeve deliberately styled after 1955-1979. Medium: modernist graphic design in flat cut-paper shapes. Not a depiction — an abstract composition that only distantly evokes painted shutters. Palette: terracotta, cobalt, marigold, whitewash. Composition: strict grid, large flat colour fields. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202026%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20modernist%20graphic%20design%20in%20flat%20cut-paper%20shapes.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20painted%20shutters.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20strict%20grid%2C%20large%20flat%20colour%20fields.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

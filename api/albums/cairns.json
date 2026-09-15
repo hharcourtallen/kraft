@@ -1,0 +1,49 @@
+{
+  "id": "alb_cairns-elliot-cra",
+  "slug": "cairns",
+  "title": "Cairns",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 10,
+  "durationSec": 2128,
+  "durationLabel": "35 min",
+  "artist": {
+    "id": "art_elliot-crane",
+    "name": "Elliot Crane",
+    "slug": "elliot-crane"
+  },
+  "label": {
+    "id": "lbl_ferry-lane",
+    "name": "Ferry Lane"
+  },
+  "genres": [
+    "post-punk",
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_strata-waltz-elliot-c-2023-0",
+    "trk_limestone-kiln-elliot-c-2023-1",
+    "trk_nothing-but-precincts-elliot-c-2023-2",
+    "trk_limestone-bedrock-elliot-c-2023-3",
+    "trk_limestone-aggregate-elliot-c-2023-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "post-punk",
+      "year": 2023,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a single black rectangle offset on a field",
+      "palette": "cold grey with one hard accent, two colours only"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a single black rectangle offset on a field. Palette: cold grey with one hard accent, two colours only. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20single%20black%20rectangle%20offset%20on%20a%20field.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "alb_bloom-bloom",
+  "slug": "bloom-bloom",
+  "title": "Bloom",
+  "year": 2016,
+  "type": "Album",
+  "subtitle": "2016 · Album",
+  "trackCount": 11,
+  "durationSec": 2299,
+  "durationLabel": "38 min",
+  "artist": {
+    "id": "art_bloom",
+    "name": "Bloom",
+    "slug": "bloom"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_thicket-song-bloom-2016-0",
+    "trk_another-estuary-bloom-2016-1",
+    "trk_almanac-bloom-2016-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2016,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "desaturated minimal photograph, cool cast, lots of empty space",
+      "composition": "subject small and off-centre, vast negative space",
+      "abstract": false,
+      "subject": "overlapping circles in earth pigment",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2016 sleeve deliberately styled after 2000-2014. Medium: desaturated minimal photograph, cool cast, lots of empty space. Subject: overlapping circles in earth pigment. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: subject small and off-centre, vast negative space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202016%20sleeve%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20desaturated%20minimal%20photograph%2C%20cool%20cast%2C%20lots%20of%20empty%20space.%20Subject%3A%20overlapping%20circles%20in%20earth%20pigment.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20subject%20small%20and%20off-centre%2C%20vast%20negative%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

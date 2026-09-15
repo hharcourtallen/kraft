@@ -1,0 +1,82 @@
+{
+  "id": "cur_ingrid-halvorsen",
+  "slug": "ingrid-halvorsen",
+  "name": "Ingrid Halvorsen",
+  "beat": [
+    "ambient",
+    "modern-composition",
+    "experimental"
+  ],
+  "beatLabel": "Ambient · Modern Composition · Experimental",
+  "city": "Oslo",
+  "geo": {
+    "placeId": "plc_oslo",
+    "city": "Oslo",
+    "country": "NO",
+    "lat": 59.91,
+    "lng": 10.75
+  },
+  "since": 2019,
+  "bio": "Former concert-hall programmer. Sequences ambient records the way other people sequence arguments.",
+  "kicker": "Curator · Oslo · since 2019",
+  "listCount": 28,
+  "listIds": [
+    "pl_garden-sessions",
+    "pl_string-theory",
+    "pl_country-norway"
+  ],
+  "followers": 47900,
+  "followersLabel": "48K",
+  "follows": [
+    "cur_haruka-nakagawa",
+    "cur_teo-marchand"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_garden-sessions",
+    "slug": "garden-sessions",
+    "title": "Garden Sessions",
+    "curatorName": "Ingrid Halvorsen"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_garden-sessions",
+      "playlistTitle": "Garden Sessions",
+      "note": "Ambient for daylight. No drone longer than the kettle takes; this is a list to do something else to.",
+      "updated": "2026-08-22",
+      "updatedLabel": "3 days ago"
+    },
+    {
+      "playlistId": "pl_country-norway",
+      "playlistTitle": "Norway",
+      "note": "Oslo in the blue hour, which in winter is most of the afternoon. Rasmus, Halvor and Zoning & Census are all neighbours.",
+      "updated": "2026-07-07",
+      "updatedLabel": "7 Jul"
+    },
+    {
+      "playlistId": "pl_string-theory",
+      "playlistTitle": "String Theory",
+      "note": "Modern composition for strings, mostly. Two of these were recorded in the same church, eleven years apart. You can hear the roof.",
+      "updated": "2026-06-28",
+      "updatedLabel": "28 Jun"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/ingrid-halvorsen.jpg",
+      "direction": {
+        "genre": "ambient",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a record collector in their thirties in front of a wall of shelves",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a record collector in their thirties in front of a wall of shelves. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20record%20collector%20in%20their%20thirties%20in%20front%20of%20a%20wall%20of%20shelves.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

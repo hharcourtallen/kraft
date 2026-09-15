@@ -1,0 +1,49 @@
+{
+  "id": "alb_zoning-the-slate-",
+  "slug": "zoning-the-slate-stratas",
+  "title": "Zoning",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 8,
+  "durationSec": 1675,
+  "durationLabel": "28 min",
+  "artist": {
+    "id": "art_the-slate-stratas",
+    "name": "The Slate Stratas",
+    "slug": "the-slate-stratas"
+  },
+  "label": {
+    "id": "lbl_ferry-lane",
+    "name": "Ferry Lane"
+  },
+  "genres": [
+    "post-punk",
+    "rock"
+  ],
+  "tracks": [
+    "trk_precinct-march-the-slat-2021-0",
+    "trk_chalk-strata-the-slat-2021-1",
+    "trk_half-an-aggregate-the-slat-2021-2",
+    "trk_half-a-quarry-the-slat-2021-3",
+    "trk_half-an-assembly-the-slat-2021-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "post-punk",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "industrial signage geometry",
+      "palette": "cold grey with one hard accent, two colours only"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: industrial signage geometry. Palette: cold grey with one hard accent, two colours only. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20industrial%20signage%20geometry.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

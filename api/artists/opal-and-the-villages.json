@@ -1,0 +1,380 @@
+{
+  "id": "art_opal-and-the-villages",
+  "slug": "opal-and-the-villages",
+  "name": "Opal & The Villages",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Oakland, CA",
+  "geo": {
+    "placeId": "plc_oakland",
+    "city": "Oakland",
+    "country": "US",
+    "lat": 37.8,
+    "lng": -122.27
+  },
+  "region": "us",
+  "genres": [
+    "americana",
+    "folk"
+  ],
+  "primaryGenre": {
+    "slug": "americana",
+    "name": "Americana"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "working",
+  "monthlyListeners": 4701,
+  "monthlyListenersLabel": "4.7K monthly listeners",
+  "followers": 2717,
+  "followersLabel": "2.7K",
+  "shelfCaption": "Americana · 4.7K listeners",
+  "verified": false,
+  "active": {
+    "from": 2009,
+    "to": null
+  },
+  "bio": "Oakland, CA band, working since 2009. Tunes down, plays quietly, and mics the room rather than the instrument.",
+  "discography": [
+    "alb_music-for-seams-opal-and-t",
+    "alb_slow-fieldwork-opal-and-t",
+    "alb_rootwork-opal-and-t",
+    "alb_fieldwork-opal-and-t",
+    "alb_slate-tectonics-opal-and-t",
+    "alb_tectonics-opal-and-t"
+  ],
+  "popularTrackIds": [
+    "trk_sediment-opal-and-2015-0",
+    "trk_erosion-opal-and-2009-0",
+    "trk_seam-theme-opal-and-2009-1",
+    "trk_bloom-opal-and-2014-0",
+    "trk_two-hundred-meadows-opal-and-2009-2",
+    "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+    "trk_fallow-meadow-opal-and-2019-1",
+    "trk_rootwork-opal-and-2019-0",
+    "trk_slow-alder-opal-and-2015-1",
+    "trk_quarry-reprise-opal-and-2014-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician in their late twenties looking just past the camera. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2025,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "duotone photograph printed over a flat solid colour block",
+        "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2025 press image deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: a band of three standing far apart in an empty car park. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202025%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_sediment-opal-and-2015-0",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_fieldwork-opal-and-t",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "69,761"
+    },
+    {
+      "id": "trk_erosion-opal-and-2009-0",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_tectonics-opal-and-t",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "68,280"
+    },
+    {
+      "id": "trk_seam-theme-opal-and-2009-1",
+      "slug": "seam-theme",
+      "title": "Seam Theme",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_tectonics-opal-and-t",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "63,999"
+    },
+    {
+      "id": "trk_bloom-opal-and-2014-0",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "50,470"
+    },
+    {
+      "id": "trk_two-hundred-meadows-opal-and-2009-2",
+      "slug": "two-hundred-meadows",
+      "title": "Two Hundred Meadows",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_tectonics-opal-and-t",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "24,741"
+    },
+    {
+      "id": "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+      "slug": "quarry-live-at-the-roundhouse",
+      "title": "Quarry (Live at the Roundhouse)",
+      "duration": "2:53",
+      "durationSec": 173,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "21,676"
+    },
+    {
+      "id": "trk_fallow-meadow-opal-and-2019-1",
+      "slug": "fallow-meadow",
+      "title": "Fallow Meadow",
+      "duration": "4:47",
+      "durationSec": 287,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "19,568"
+    },
+    {
+      "id": "trk_rootwork-opal-and-2019-0",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "19,019"
+    },
+    {
+      "id": "trk_slow-alder-opal-and-2015-1",
+      "slug": "slow-alder",
+      "title": "Slow Alder",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_fieldwork-opal-and-t",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "9,840"
+    },
+    {
+      "id": "trk_quarry-reprise-opal-and-2014-2",
+      "slug": "quarry-reprise",
+      "title": "Quarry (Reprise)",
+      "duration": "5:02",
+      "durationSec": 302,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "9,573"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_music-for-seams-opal-and-t",
+      "slug": "music-for-seams",
+      "title": "Music for Seams",
+      "subtitle": "2025 · EP",
+      "year": 2025,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_slow-fieldwork-opal-and-t",
+      "slug": "slow-fieldwork",
+      "title": "Slow Fieldwork",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_rootwork-opal-and-t",
+      "slug": "rootwork-opal-and-the-villages",
+      "title": "Rootwork",
+      "subtitle": "2019 · Album",
+      "year": 2019,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_fieldwork-opal-and-t",
+      "slug": "fieldwork-opal-and-the-villages",
+      "title": "Fieldwork",
+      "subtitle": "2015 · Album",
+      "year": 2015,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_slate-tectonics-opal-and-t",
+      "slug": "slate-tectonics",
+      "title": "Slate Tectonics",
+      "subtitle": "2014 · EP",
+      "year": 2014,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_tectonics-opal-and-t",
+      "slug": "tectonics-opal-and-the-villages",
+      "title": "Tectonics",
+      "subtitle": "2009 · Album",
+      "year": 2009,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-mexico",
+      "slug": "mexico",
+      "title": "Mexico",
+      "image": "/artwork/playlist/country-mexico.png",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Rootwork",
+      "position": 6,
+      "caption": "Rootwork is track 6"
+    },
+    {
+      "playlistId": "pl_country-france",
+      "slug": "france",
+      "title": "France",
+      "image": "/artwork/playlist/country-france.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Golden Alder",
+      "position": 4,
+      "caption": "Golden Alder is track 4"
+    }
+  ]
+}

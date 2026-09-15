@@ -1,0 +1,264 @@
+{
+  "id": "pl_vinyl-sundays",
+  "slug": "vinyl-sundays",
+  "title": "Vinyl Sundays",
+  "description": "Warm, nostalgic, lo-fi, analog warmth, lazy weekend mornings. Special for sundays and winter.",
+  "note": "I've been building this one since we launched. It is the closest thing Kraft has to a house style: tape hiss, room mics, and nothing that sounds finished.",
+  "notePin": {
+    "trackId": "trk_dust-on-the-needle",
+    "sec": 38,
+    "trackTitle": "Dust on the Needle",
+    "label": "0:38",
+    "note": "I've been building this one since we launched. It is the closest thing Kraft has to a house style: tape hiss, room mics, and nothing that sounds finished.",
+    "curatorName": "Sofía Reyes",
+    "curatorImage": "/artwork/curator/sofia-reyes.jpg"
+  },
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Sofía Reyes",
+  "curator": {
+    "id": "cur_sofia-reyes",
+    "name": "Sofía Reyes",
+    "city": "Mexico City"
+  },
+  "trackCount": 10,
+  "durationSec": 2772,
+  "durationLabel": "46 min",
+  "metaLine": "10 tracks · 46 min",
+  "libraryLine": "List · 10 songs",
+  "followers": 84210,
+  "followersLabel": "84K",
+  "updated": "2026-08-16",
+  "moods": [
+    "sunday-morning",
+    "chill"
+  ],
+  "genres": [
+    "analog-revival"
+  ],
+  "trackIds": [
+    "trk_dust-on-the-needle",
+    "trk_crackle-and-hum",
+    "trk_breakfast-in-mono",
+    "trk_turntable-daydream",
+    "trk_paper-sleeves",
+    "trk_worn-edges",
+    "trk_static-lullaby",
+    "trk_45-rpm-heart",
+    "trk_faded-label",
+    "trk_last-track-home"
+  ],
+  "tracks": [
+    {
+      "id": "trk_dust-on-the-needle",
+      "slug": "dust-on-the-needle",
+      "title": "Dust on the Needle",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_the-worn-grooves",
+        "name": "The Worn Grooves",
+        "slug": "the-worn-grooves"
+      },
+      "album": {
+        "id": "alb_sunday-spins",
+        "title": "Sunday Spins",
+        "slug": "sunday-spins",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/sunday-spins.jpg"
+    },
+    {
+      "id": "trk_crackle-and-hum",
+      "slug": "crackle-and-hum",
+      "title": "Crackle & Hum",
+      "duration": "3:48",
+      "durationSec": 228,
+      "artist": {
+        "id": "art_analog-hearts",
+        "name": "Analog Hearts",
+        "slug": "analog-hearts"
+      },
+      "album": {
+        "id": "alb_pressed-memories",
+        "title": "Pressed Memories",
+        "slug": "pressed-memories",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/pressed-memories.jpg"
+    },
+    {
+      "id": "trk_breakfast-in-mono",
+      "slug": "breakfast-in-mono",
+      "title": "Breakfast in Mono",
+      "duration": "5:01",
+      "durationSec": 301,
+      "artist": {
+        "id": "art_oliver-felt",
+        "name": "Oliver Felt",
+        "slug": "oliver-felt"
+      },
+      "album": {
+        "id": "alb_kitchen-window-light",
+        "title": "Kitchen Window Light",
+        "slug": "kitchen-window-light",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/kitchen-window-light.jpg"
+    },
+    {
+      "id": "trk_turntable-daydream",
+      "slug": "turntable-daydream",
+      "title": "Turntable Daydream",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_spinning-room",
+        "name": "Spinning Room",
+        "slug": "spinning-room"
+      },
+      "album": {
+        "id": "alb_wax-poetic",
+        "title": "Wax Poetic",
+        "slug": "wax-poetic",
+        "year": 2022
+      },
+      "albumArt": "/artwork/album/wax-poetic.jpg"
+    },
+    {
+      "id": "trk_paper-sleeves",
+      "slug": "paper-sleeves",
+      "title": "Paper Sleeves",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_second-hand-sound",
+        "name": "Second Hand Sound",
+        "slug": "second-hand-sound"
+      },
+      "album": {
+        "id": "alb_secondhand-gold",
+        "title": "Secondhand Gold",
+        "slug": "secondhand-gold",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/secondhand-gold.jpg"
+    },
+    {
+      "id": "trk_worn-edges",
+      "slug": "worn-edges",
+      "title": "Worn Edges",
+      "duration": "4:22",
+      "durationSec": 262,
+      "artist": {
+        "id": "art_margot-and-the-spindles",
+        "name": "Margot & The Spindles",
+        "slug": "margot-and-the-spindles"
+      },
+      "album": {
+        "id": "alb_thrift-store-finds",
+        "title": "Thrift Store Finds",
+        "slug": "thrift-store-finds",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/thrift-store-finds.jpg"
+    },
+    {
+      "id": "trk_static-lullaby",
+      "slug": "static-lullaby",
+      "title": "Static Lullaby",
+      "duration": "6:14",
+      "durationSec": 374,
+      "artist": {
+        "id": "art_hiss-and-warmth",
+        "name": "Hiss & Warmth",
+        "slug": "hiss-and-warmth"
+      },
+      "album": {
+        "id": "alb_analog-sundays",
+        "title": "Analog Sundays",
+        "slug": "analog-sundays",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/analog-sundays.jpg"
+    },
+    {
+      "id": "trk_45-rpm-heart",
+      "slug": "45-rpm-heart",
+      "title": "45 RPM Heart",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_shellac-jones",
+        "name": "Shellac Jones",
+        "slug": "shellac-jones"
+      },
+      "album": {
+        "id": "alb_slow-rotation",
+        "title": "Slow Rotation",
+        "slug": "slow-rotation",
+        "year": 2022
+      },
+      "albumArt": "/artwork/album/slow-rotation.jpg"
+    },
+    {
+      "id": "trk_faded-label",
+      "slug": "faded-label",
+      "title": "Faded Label",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_the-dusty-crates",
+        "name": "The Dusty Crates",
+        "slug": "the-dusty-crates"
+      },
+      "album": {
+        "id": "alb_basement-sessions",
+        "title": "Basement Sessions",
+        "slug": "basement-sessions",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/basement-sessions.jpg"
+    },
+    {
+      "id": "trk_last-track-home",
+      "slug": "last-track-home",
+      "title": "Last Track Home",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_lead-in-groove",
+        "name": "Lead-In Groove",
+        "slug": "lead-in-groove"
+      },
+      "album": {
+        "id": "alb_side-b-forever",
+        "title": "Side B Forever",
+        "slug": "side-b-forever",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/side-b-forever.jpg"
+    }
+  ],
+  "resolvedTrackCount": 10,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/vinyl-sundays.jpg",
+    "direction": {
+      "genre": "analog-revival",
+      "year": 2026,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "photographic composite with soft shadow layering, magazine retouching",
+      "composition": "subject cut out and floated over a flat field",
+      "abstract": false,
+      "subject": "a cassette with a handwritten label",
+      "palette": "yellowed cream, faded brown, dust grey, warm amber"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2026 cover deliberately styled after 2000-2014. Medium: photographic composite with soft shadow layering, magazine retouching. Subject: a cassette with a handwritten label. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: subject cut out and floated over a flat field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202026%20cover%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20photographic%20composite%20with%20soft%20shadow%20layering%2C%20magazine%20retouching.%20Subject%3A%20a%20cassette%20with%20a%20handwritten%20label.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20subject%20cut%20out%20and%20floated%20over%20a%20flat%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "1 week ago"
+}

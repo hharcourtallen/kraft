@@ -1,0 +1,151 @@
+.cur-hero {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-8);
+}
+
+.cur-hero .avatar {
+  flex-shrink: 0;
+}
+
+.cur-hero-text {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+}
+
+.cur-hero-lines {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+}
+
+.cur-name {
+  margin: 0;
+  font-weight: var(--font-weight-display-medium);
+  letter-spacing: var(--tracking-tight);
+}
+
+.cur-bio {
+  margin: 0;
+  max-width: 640px;
+}
+
+.cur-actions {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+}
+
+.cur-more {
+  width: 32px;
+  height: 32px;
+  background: var(--color-surface);
+  border: 1px solid var(--color-line);
+  color: var(--color-text);
+}
+
+.cur-columns {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-8);
+}
+
+.cur-col {
+  width: 560px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-6);
+}
+
+.note {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+  padding-bottom: var(--spacing-6);
+  border-bottom: 1px solid var(--color-line-subtle);
+}
+
+.note p {
+  margin: 0;
+}
+
+.note-head {
+  display: flex;
+  align-items: baseline;
+  gap: var(--spacing-2);
+}
+
+.also {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+  padding-top: var(--spacing-2);
+}
+
+.also h2 {
+  margin: 0;
+}
+
+.also-row {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  height: 52px;
+}
+
+.also-text {
+  flex: 1 1 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}
+
+.cur-lists {
+  display: flex;
+  gap: var(--spacing-6);
+}
+
+.cur-list {
+  width: 148px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}
+
+.cur-list-cover {
+  width: 148px;
+  height: 148px;
+  border-radius: var(--radius-md);
+  margin-bottom: var(--spacing-1);
+}
+
+.cur-archive {
+  width: 148px;
+  height: 148px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: var(--spacing-1);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 1px solid var(--color-line-subtle);
+}
+
+.cur-archive-n {
+  font-weight: var(--font-weight-display-medium);
+}
+
+.beat {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+  padding: var(--spacing-4);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 1px solid var(--color-line-subtle);
+}

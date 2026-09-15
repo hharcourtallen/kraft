@@ -1,0 +1,222 @@
+.section {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-6);
+}
+
+.section-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.section-head h2,
+.section-head p {
+  margin: 0;
+}
+
+.section-head > div {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}
+
+/* Continue bar */
+.continue {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-4);
+  height: 64px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 1px solid var(--color-line-subtle);
+}
+
+.continue-text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+  width: 320px;
+  flex-shrink: 0;
+}
+
+.continue-progress {
+  flex: 1 1 0;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+}
+
+.continue-progress > span {
+  width: 28px;
+  flex-shrink: 0;
+}
+
+.continue-progress > span:first-child {
+  text-align: right;
+}
+
+.continue-track {
+  flex: 1 1 0;
+  height: 3px;
+}
+
+.continue-fill {
+  background: var(--color-text);
+}
+
+.btn-inverse {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  height: 32px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-inverse);
+  color: var(--color-text-inverse);
+  font-size: var(--text-sm);
+  font-weight: var(--font-weight-medium);
+  flex-shrink: 0;
+}
+
+/* Shelf */
+.shelf {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 560px));
+  gap: var(--spacing-8);
+}
+
+.shelf-item {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-4);
+}
+
+.shelf-cover {
+  width: 112px;
+  height: 112px;
+  border-radius: var(--radius-md);
+}
+
+.shelf-body {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-2);
+  min-width: 0;
+}
+
+.shelf-body p {
+  margin: 0;
+}
+
+.shelf-meta {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+}
+
+/* Scenes */
+.scenes {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: var(--spacing-8);
+}
+
+.scene {
+  position: relative;
+  height: 160px;
+  border-radius: var(--radius-md);
+  background-color: var(--color-well);
+  background-size: cover;
+  background-position: 50%;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+}
+
+.scene::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(0deg, oklch(0% 0 0 / 70%) 0%, oklch(0% 0 0 / 0%) 100%);
+}
+
+.scene-text {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+  padding: var(--spacing-4);
+  color: var(--color-neutral-0);
+}
+
+.scene-text .t-xs {
+  color: var(--color-neutral-200);
+}
+
+/* Light mode does not repaint scene text: it sits on a scrim, so it stays
+   neutral-0 / neutral-200 in both modes (same rule as the canvas). */
+[data-mode='light'] .scene-text {
+  color: #fafafa;
+}
+
+[data-mode='light'] .scene-text .t-xs {
+  color: #e6e6e6;
+}
+
+/* Who's on right now — Paper: Home / Who's on */
+.live {
+  display: flex;
+  gap: var(--spacing-10);
+}
+
+.live-item {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  white-space: nowrap;
+}
+
+.live-text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}
+
+/* Around the world — country lists. Five across the column on a 19px gap (the
+   canvas row: 5 × 215 + 4 × 19 = 1152), the rest scroll sideways. The cover is
+   the exported country card; it is white in every mode, so light mode gives it
+   a hairline to hold its edge. */
+.world {
+  display: grid;
+  grid-auto-flow: column;
+  grid-auto-columns: calc((100% - 4 * 19px) / 5);
+  gap: 19px;
+  overflow-x: auto;
+  scroll-snap-type: x mandatory;
+  scrollbar-width: none;
+}
+
+.world-item {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-3);
+  scroll-snap-align: start;
+}
+
+.world-cover {
+  width: 100%;
+  aspect-ratio: 1;
+  border-radius: var(--radius-md);
+}
+
+[data-mode='light'] .world-cover {
+  box-shadow: inset 0 0 0 1px var(--color-line);
+}
+
+.world-text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}

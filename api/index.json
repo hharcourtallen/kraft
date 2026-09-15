@@ -1,0 +1,48 @@
+{
+  "name": "Kraft",
+  "version": "0.2.0",
+  "generatedFrom": "data/*.json",
+  "canon": {
+    "subscribers": 2400000,
+    "monthlyActive": 1680000,
+    "catalogueAlbums": 41200,
+    "curatingMembers": 1240,
+    "foundedYear": 2019,
+    "currentYear": 2026
+  },
+  "today": "2026-08-25",
+  "disclaimer": "Kraft is a fictional product. Every artist, release, track, label and curator is invented. Any resemblance to a real recording is unintended.",
+  "counts": {
+    "artists": 73,
+    "albums": 208,
+    "tracks": 724,
+    "playlists": 23,
+    "genres": 29,
+    "curators": 9,
+    "scenes": 7,
+    "notes": 22,
+    "places": 97,
+    "listening": 59,
+    "countries": 16
+  },
+  "endpoints": [
+    "/home.json",
+    "/explore.json",
+    "/library.json",
+    "/search.json",
+    "/player.json",
+    "/genres.json",
+    "/scenes.json",
+    "/globe.json",
+    "/countries.json",
+    "/curators/index.json",
+    "/curators/{slug}.json",
+    "/artists/index.json",
+    "/artists/{slug}.json",
+    "/albums/index.json",
+    "/albums/{slug}.json",
+    "/playlists/index.json",
+    "/playlists/{slug}.json",
+    "/tracks/index.json"
+  ]
+}

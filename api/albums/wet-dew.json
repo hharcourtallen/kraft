@@ -1,0 +1,47 @@
+{
+  "id": "alb_wet-dew-merrick-an",
+  "slug": "wet-dew",
+  "title": "Wet Dew",
+  "year": 2011,
+  "type": "Album",
+  "subtitle": "2011 · Album",
+  "trackCount": 12,
+  "durationSec": 2796,
+  "durationLabel": "47 min",
+  "artist": {
+    "id": "art_merrick-and-the-motels",
+    "name": "Merrick & The Motels",
+    "slug": "merrick-and-the-motels"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_nightblooming-frond-merrick--2011-0",
+    "trk_half-a-ballroom-merrick--2011-1",
+    "trk_marquee-lullaby-merrick--2011-2",
+    "trk_nocturne-merrick--2011-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2011,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "glossy CGI render with ray-traced reflections and studio HDRI lighting",
+      "composition": "single hero object floating on a smooth gradient ground",
+      "abstract": false,
+      "subject": "hair underwater",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: glossy CGI render with ray-traced reflections and studio HDRI lighting. Subject: hair underwater. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: single hero object floating on a smooth gradient ground. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20glossy%20CGI%20render%20with%20ray-traced%20reflections%20and%20studio%20HDRI%20lighting.%20Subject%3A%20hair%20underwater.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20single%20hero%20object%20floating%20on%20a%20smooth%20gradient%20ground.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

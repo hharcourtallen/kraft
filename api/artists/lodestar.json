@@ -1,0 +1,214 @@
+{
+  "id": "art_lodestar",
+  "slug": "lodestar",
+  "name": "Lodestar",
+  "formation": "solo",
+  "country": "FR",
+  "hometown": "Toulouse",
+  "geo": {
+    "placeId": "plc_toulouse",
+    "city": "Toulouse",
+    "country": "FR",
+    "lat": 43.6,
+    "lng": 1.44
+  },
+  "region": "france",
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "tail",
+  "monthlyListeners": 471,
+  "monthlyListenersLabel": "471 monthly listeners",
+  "followers": 156,
+  "followersLabel": "156",
+  "shelfCaption": "Folk · 471 listeners",
+  "verified": false,
+  "active": {
+    "from": 2024,
+    "to": null
+  },
+  "bio": "A multi-instrumentalist making folk about the coast. Writes at dawn, because that is when the house is quiet. Answers every interview question with a different lie.",
+  "discography": [
+    "alb_bloom-lodestar"
+  ],
+  "popularTrackIds": [
+    "trk_anchorage-instrumental-lodestar-2024-2",
+    "trk_trawler-march-lodestar-2024-0",
+    "trk_ballast-lodestar-2024-1",
+    "trk_overgrowth-lodestar-2024-3",
+    "trk_bloom-lodestar-2024-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in their late twenties looking just past the camera. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2024,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2024 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician walking away down a wet street, back to camera. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202024%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_anchorage-instrumental-lodestar-2024-2",
+      "slug": "anchorage-instrumental",
+      "title": "Anchorage (Instrumental)",
+      "duration": "2:53",
+      "durationSec": 173,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "2,701"
+    },
+    {
+      "id": "trk_trawler-march-lodestar-2024-0",
+      "slug": "trawler-march",
+      "title": "Trawler March",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "2,609"
+    },
+    {
+      "id": "trk_ballast-lodestar-2024-1",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "2,246"
+    },
+    {
+      "id": "trk_overgrowth-lodestar-2024-3",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "814"
+    },
+    {
+      "id": "trk_bloom-lodestar-2024-4",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "2:44",
+      "durationSec": 164,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "637"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_bloom-lodestar",
+      "slug": "bloom-lodestar",
+      "title": "Bloom",
+      "subtitle": "2024 · EP",
+      "year": 2024,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-france",
+      "slug": "france",
+      "title": "France",
+      "image": "/artwork/playlist/country-france.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Trawler March",
+      "position": 2,
+      "caption": "Trawler March is track 2"
+    }
+  ]
+}

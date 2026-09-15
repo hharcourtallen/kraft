@@ -1,0 +1,46 @@
+{
+  "id": "alb_rooftop-and-underpass-bridie-sin",
+  "slug": "rooftop-and-underpass",
+  "title": "Rooftop & Underpass",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 10,
+  "durationSec": 2203,
+  "durationLabel": "37 min",
+  "artist": {
+    "id": "art_bridie-sinclair",
+    "name": "Bridie Sinclair",
+    "slug": "bridie-sinclair"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "rnb"
+  ],
+  "tracks": [
+    "trk_velvet-ferry-bridie-s-2021-0",
+    "trk_last-underpass-bridie-s-2021-1",
+    "trk_two-hundred-marquees-bridie-s-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rnb",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "a satin ribbon coiled",
+      "palette": "ivory, champagne, deep plum, silver"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: a satin ribbon coiled. Palette: ivory, champagne, deep plum, silver. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20satin%20ribbon%20coiled.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

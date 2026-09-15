@@ -1,0 +1,47 @@
+{
+  "id": "alb_letters-from-ferries-grafting",
+  "slug": "letters-from-ferries",
+  "title": "Letters from Ferries",
+  "year": 2021,
+  "type": "EP",
+  "subtitle": "2021 · EP",
+  "trackCount": 4,
+  "durationSec": 987,
+  "durationLabel": "16 min",
+  "artist": {
+    "id": "art_grafting",
+    "name": "Grafting",
+    "slug": "grafting"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_velvet-taxi-grafting-2021-0",
+    "trk_twice-the-greenhouse-grafting-2021-1",
+    "trk_blue-ballroom-grafting-2021-2",
+    "trk_grafting-grafting-2021-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "hair underwater",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: hair underwater. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20hair%20underwater.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

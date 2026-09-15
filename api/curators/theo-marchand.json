@@ -1,0 +1,74 @@
+{
+  "id": "cur_teo-marchand",
+  "slug": "theo-marchand",
+  "name": "Théo Marchand",
+  "beat": [
+    "house",
+    "techno",
+    "electronic"
+  ],
+  "beatLabel": "House · Techno · Electronic",
+  "city": "Paris",
+  "geo": {
+    "placeId": "plc_paris",
+    "city": "Paris",
+    "country": "FR",
+    "lat": 48.86,
+    "lng": 2.35
+  },
+  "since": 2020,
+  "bio": "Twelve years behind a booth. Now argues that a good playlist is just a set with the applause taken out.",
+  "kicker": "Curator · Paris · since 2020",
+  "listCount": 37,
+  "listIds": [
+    "pl_country-spain",
+    "pl_country-france"
+  ],
+  "followers": 55600,
+  "followersLabel": "56K",
+  "follows": [
+    "cur_nadia-ilic",
+    "cur_ingrid-halvorsen"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_poolside",
+    "slug": "poolside",
+    "title": "Poolside",
+    "curatorName": "Luana Andrade"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_country-france",
+      "playlistTitle": "France",
+      "note": "Paris is not all house music, whatever my other lists say. Margot & The Spindles and Lodestar live twenty minutes from me.",
+      "updated": "2026-07-15",
+      "updatedLabel": "15 Jul"
+    },
+    {
+      "playlistId": "pl_country-spain",
+      "playlistTitle": "Spain",
+      "note": "Barcelona at seven in the morning, when the clubs let out onto the beach. I go every June and come back with this.",
+      "updated": "2026-07-03",
+      "updatedLabel": "3 Jul"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/teo-marchand.jpg",
+      "direction": {
+        "genre": "house",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a record collector in their thirties in front of a wall of shelves",
+        "palette": "electric blue, chrome, hot orange, black"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a record collector in their thirties in front of a wall of shelves. Palette: electric blue, chrome, hot orange, black. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20record%20collector%20in%20their%20thirties%20in%20front%20of%20a%20wall%20of%20shelves.%20Palette%3A%20electric%20blue%2C%20chrome%2C%20hot%20orange%2C%20black.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

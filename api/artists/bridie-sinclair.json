@@ -1,0 +1,253 @@
+{
+  "id": "art_bridie-sinclair",
+  "slug": "bridie-sinclair",
+  "name": "Bridie Sinclair",
+  "formation": "solo",
+  "country": "GB",
+  "hometown": "Cardiff",
+  "geo": {
+    "placeId": "plc_cardiff",
+    "city": "Cardiff",
+    "country": "GB",
+    "lat": 51.48,
+    "lng": -3.18
+  },
+  "region": "uk",
+  "genres": [
+    "rnb"
+  ],
+  "primaryGenre": {
+    "slug": "rnb",
+    "name": "R&B"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "tier": "established",
+  "monthlyListeners": 30180,
+  "monthlyListenersLabel": "30K monthly listeners",
+  "followers": 11472,
+  "followersLabel": "11K",
+  "shelfCaption": "R&B · 30K listeners",
+  "verified": false,
+  "active": {
+    "from": 2021,
+    "to": null
+  },
+  "bio": "A bandleader making r&b about botany. Writes on the bass and lets the rest follow. Answers every interview question with a different lie.",
+  "discography": [
+    "alb_wet-conservatory-bridie-sin",
+    "alb_rooftop-and-underpass-bridie-sin"
+  ],
+  "popularTrackIds": [
+    "trk_velvet-ferry-bridie-s-2021-0",
+    "trk_last-underpass-bridie-s-2021-1",
+    "trk_two-hundred-marquees-bridie-s-2021-2",
+    "trk_creeping-pollen-bridie-s-2023-1",
+    "trk_herbarium-lullaby-bridie-s-2023-0",
+    "trk_flora-bridie-s-2023-2",
+    "trk_wet-pollen-bridie-s-2023-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "rnb",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "ivory, champagne, deep plum, silver"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: ivory, champagne, deep plum, silver. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "rnb",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "ivory, champagne, deep plum, silver"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician leaning on a van, road behind them. Palette: ivory, champagne, deep plum, silver. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_velvet-ferry-bridie-s-2021-0",
+      "slug": "velvet-ferry",
+      "title": "Velvet Ferry",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-bridie-sin",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "335,647"
+    },
+    {
+      "id": "trk_last-underpass-bridie-s-2021-1",
+      "slug": "last-underpass",
+      "title": "Last Underpass",
+      "duration": "4:00",
+      "durationSec": 240,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-bridie-sin",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "265,808"
+    },
+    {
+      "id": "trk_two-hundred-marquees-bridie-s-2021-2",
+      "slug": "two-hundred-marquees",
+      "title": "Two Hundred Marquees",
+      "duration": "3:10",
+      "durationSec": 190,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-bridie-sin",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "263,671"
+    },
+    {
+      "id": "trk_creeping-pollen-bridie-s-2023-1",
+      "slug": "creeping-pollen",
+      "title": "Creeping Pollen",
+      "duration": "3:08",
+      "durationSec": 188,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_wet-conservatory-bridie-sin",
+        "title": "Wet Conservatory",
+        "slug": "wet-conservatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "130,889"
+    },
+    {
+      "id": "trk_herbarium-lullaby-bridie-s-2023-0",
+      "slug": "herbarium-lullaby",
+      "title": "Herbarium Lullaby",
+      "duration": "2:50",
+      "durationSec": 170,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_wet-conservatory-bridie-sin",
+        "title": "Wet Conservatory",
+        "slug": "wet-conservatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "100,261"
+    },
+    {
+      "id": "trk_flora-bridie-s-2023-2",
+      "slug": "flora",
+      "title": "Flora",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_wet-conservatory-bridie-sin",
+        "title": "Wet Conservatory",
+        "slug": "wet-conservatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "78,925"
+    },
+    {
+      "id": "trk_wet-pollen-bridie-s-2023-3",
+      "slug": "wet-pollen",
+      "title": "Wet Pollen",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_bridie-sinclair",
+        "name": "Bridie Sinclair",
+        "slug": "bridie-sinclair"
+      },
+      "album": {
+        "id": "alb_wet-conservatory-bridie-sin",
+        "title": "Wet Conservatory",
+        "slug": "wet-conservatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "58,605"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_wet-conservatory-bridie-sin",
+      "slug": "wet-conservatory",
+      "title": "Wet Conservatory",
+      "subtitle": "2023 · EP",
+      "year": 2023,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_rooftop-and-underpass-bridie-sin",
+      "slug": "rooftop-and-underpass",
+      "title": "Rooftop & Underpass",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

@@ -1,0 +1,958 @@
+{
+  "genres": [
+    {
+      "slug": "indie-rock",
+      "name": "Indie Rock",
+      "share": 0.115,
+      "browse": true,
+      "browseLabel": "Indie",
+      "parent": null,
+      "shareNormalized": 0.1045,
+      "artistCount": 15,
+      "estimatedAlbums": 4305,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "indie-rock",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "an empty stage after load-out",
+          "palette": "flash white, cheap yellow, dark green, exit-sign red"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes an empty stage after load-out. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20an%20empty%20stage%20after%20load-out.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "folk",
+      "name": "Folk",
+      "share": 0.092,
+      "browse": true,
+      "parent": null,
+      "shareNormalized": 0.0836,
+      "artistCount": 10,
+      "estimatedAlbums": 3444,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "folk",
+          "year": 2026,
+          "era": "heritage",
+          "eraLabel": "1955-1979",
+          "isPeriodHomage": true,
+          "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+          "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+          "abstract": false,
+          "subject": "a lone figure at the edge of a winter field",
+          "palette": "desaturated ochre, moss green, bone white, overcast grey"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a lone figure at the edge of a winter field. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20lone%20figure%20at%20the%20edge%20of%20a%20winter%20field.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "jazz",
+      "name": "Jazz",
+      "share": 0.086,
+      "browse": true,
+      "parent": null,
+      "shareNormalized": 0.0782,
+      "artistCount": 8,
+      "estimatedAlbums": 3222,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "jazz",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+          "composition": "extreme crop, subject pressed against the frame",
+          "abstract": false,
+          "subject": "a rehearsal room chair and stand",
+          "palette": "deep navy or oxblood with cream, one flat colour block"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a rehearsal room chair and stand. Palette: deep navy or oxblood with cream, one flat colour block. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20rehearsal%20room%20chair%20and%20stand.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "ambient",
+      "name": "Ambient",
+      "share": 0.071,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0645,
+      "artistCount": 7,
+      "estimatedAlbums": 2657,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "ambient",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+          "composition": "object dead centre, hard directional shadow, seamless backdrop",
+          "abstract": false,
+          "subject": "frost on glass",
+          "palette": "pale ice blue, warm grey, faint pink, near-white"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: frost on glass. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20frost%20on%20glass.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "dream-pop",
+      "name": "Dream Pop",
+      "share": 0.062,
+      "browse": false,
+      "parent": "indie-rock",
+      "shareNormalized": 0.0564,
+      "artistCount": 9,
+      "estimatedAlbums": 2324,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "dream-pop",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "a bloom of coloured smoke",
+          "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a bloom of coloured smoke. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20bloom%20of%20coloured%20smoke.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "electronic",
+      "name": "Electronic",
+      "share": 0.058,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0527,
+      "artistCount": 6,
+      "estimatedAlbums": 2171,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "electronic",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+          "composition": "extreme crop, subject pressed against the frame",
+          "abstract": false,
+          "subject": "an oscilloscope waveform",
+          "palette": "ultramarine, silver, black, one acid highlight"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: an oscilloscope waveform. Palette: ultramarine, silver, black, one acid highlight. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20an%20oscilloscope%20waveform.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "house",
+      "name": "House",
+      "share": 0.049,
+      "browse": false,
+      "parent": "electronic",
+      "shareNormalized": 0.0445,
+      "artistCount": 0,
+      "estimatedAlbums": 1833,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "house",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "a chrome sphere",
+          "palette": "electric blue, chrome, hot orange, black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a chrome sphere. Palette: electric blue, chrome, hot orange, black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20chrome%20sphere.%20Palette%3A%20electric%20blue%2C%20chrome%2C%20hot%20orange%2C%20black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "hip-hop",
+      "name": "Hip-Hop",
+      "share": 0.047,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0427,
+      "artistCount": 1,
+      "estimatedAlbums": 1759,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "hip-hop",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "3D render with soft global illumination and matte clay materials",
+          "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+          "abstract": false,
+          "subject": "a fire escape from below",
+          "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: 3D render with soft global illumination and matte clay materials. Subject: a fire escape from below. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20fire%20escape%20from%20below.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "soul",
+      "name": "Soul",
+      "share": 0.044,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.04,
+      "artistCount": 2,
+      "estimatedAlbums": 1648,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "soul",
+          "year": 2026,
+          "era": "heritage",
+          "eraLabel": "1955-1979",
+          "isPeriodHomage": true,
+          "medium": "hand-tinted photograph, colour applied over monochrome",
+          "composition": "centred, formal, symmetrical",
+          "abstract": false,
+          "subject": "a single rose on fabric",
+          "palette": "warm brown, gold, deep burgundy, cream"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1955-1979. Medium: hand-tinted photograph, colour applied over monochrome. Subject: a single rose on fabric. Palette: warm brown, gold, deep burgundy, cream. Composition: centred, formal, symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20hand-tinted%20photograph%2C%20colour%20applied%20over%20monochrome.%20Subject%3A%20a%20single%20rose%20on%20fabric.%20Palette%3A%20warm%20brown%2C%20gold%2C%20deep%20burgundy%2C%20cream.%20Composition%3A%20centred%2C%20formal%2C%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "post-punk",
+      "name": "Post-Punk",
+      "share": 0.041,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0373,
+      "artistCount": 6,
+      "estimatedAlbums": 1537,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "post-punk",
+          "year": 2026,
+          "era": "classic",
+          "eraLabel": "1980-1999",
+          "isPeriodHomage": true,
+          "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+          "composition": "snapshot framing, subject centred, background falling away",
+          "abstract": false,
+          "subject": "a severe architectural corner",
+          "palette": "cold grey with one hard accent, two colours only"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: a severe architectural corner. Palette: cold grey with one hard accent, two colours only. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20a%20severe%20architectural%20corner.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "americana",
+      "name": "Americana",
+      "share": 0.038,
+      "browse": false,
+      "parent": "folk",
+      "shareNormalized": 0.0345,
+      "artistCount": 6,
+      "estimatedAlbums": 1421,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "americana",
+          "year": 2026,
+          "era": "classic",
+          "eraLabel": "1980-1999",
+          "isPeriodHomage": true,
+          "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+          "composition": "snapshot framing, subject centred, background falling away",
+          "abstract": false,
+          "subject": "telephone poles receding into heat haze",
+          "palette": "dust red, faded turquoise, cream, asphalt grey"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: telephone poles receding into heat haze. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20telephone%20poles%20receding%20into%20heat%20haze.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "singer-songwriter",
+      "name": "Singer-Songwriter",
+      "share": 0.036,
+      "browse": false,
+      "parent": "folk",
+      "shareNormalized": 0.0327,
+      "artistCount": 7,
+      "estimatedAlbums": 1347,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "singer-songwriter",
+          "year": 2026,
+          "era": "heritage",
+          "eraLabel": "1955-1979",
+          "isPeriodHomage": true,
+          "medium": "painted illustration in gouache on board, visible brush texture",
+          "composition": "flat poster illustration, no perspective, filled frame",
+          "abstract": false,
+          "subject": "a hand resting on a table",
+          "palette": "warm greyscale with sepia in the shadows, one muted accent"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1955-1979. Medium: painted illustration in gouache on board, visible brush texture. Subject: a hand resting on a table. Palette: warm greyscale with sepia in the shadows, one muted accent. Composition: flat poster illustration, no perspective, filled frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20painted%20illustration%20in%20gouache%20on%20board%2C%20visible%20brush%20texture.%20Subject%3A%20a%20hand%20resting%20on%20a%20table.%20Palette%3A%20warm%20greyscale%20with%20sepia%20in%20the%20shadows%2C%20one%20muted%20accent.%20Composition%3A%20flat%20poster%20illustration%2C%20no%20perspective%2C%20filled%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "techno",
+      "name": "Techno",
+      "share": 0.033,
+      "browse": false,
+      "parent": "electronic",
+      "shareNormalized": 0.03,
+      "artistCount": 1,
+      "estimatedAlbums": 1236,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "techno",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+          "composition": "object dead centre, hard directional shadow, seamless backdrop",
+          "abstract": false,
+          "subject": "a machined aluminium surface",
+          "palette": "gunmetal, black, one cold accent — cyan or acid green"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a machined aluminium surface. Palette: gunmetal, black, one cold accent — cyan or acid green. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20machined%20aluminium%20surface.%20Palette%3A%20gunmetal%2C%20black%2C%20one%20cold%20accent%20%E2%80%94%20cyan%20or%20acid%20green.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "latin",
+      "name": "Latin",
+      "share": 0.031,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0282,
+      "artistCount": 3,
+      "estimatedAlbums": 1162,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "latin",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "3D render with soft global illumination and matte clay materials",
+          "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+          "abstract": false,
+          "subject": "papel picado geometry",
+          "palette": "terracotta, cobalt, marigold, whitewash"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: 3D render with soft global illumination and matte clay materials. Subject: papel picado geometry. Palette: terracotta, cobalt, marigold, whitewash. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20papel%20picado%20geometry.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "rnb",
+      "name": "R&B",
+      "share": 0.029,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0264,
+      "artistCount": 2,
+      "estimatedAlbums": 1088,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "rnb",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "digital collage of cut-out photography over scanned paper texture",
+          "composition": "layered and deliberately flat, elements overlapping at odd scales",
+          "abstract": false,
+          "subject": "a portrait behind wet glass",
+          "palette": "ivory, champagne, deep plum, silver"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a portrait behind wet glass. Palette: ivory, champagne, deep plum, silver. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20portrait%20behind%20wet%20glass.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "shoegaze",
+      "name": "Shoegaze",
+      "share": 0.026,
+      "browse": false,
+      "parent": "indie-rock",
+      "shareNormalized": 0.0236,
+      "artistCount": 3,
+      "estimatedAlbums": 972,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "shoegaze",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "sculptural or textile object photographed under raking light",
+          "composition": "tactile, close, shallow depth of field",
+          "abstract": false,
+          "subject": "a motion-blurred crowd",
+          "palette": "washed pink, acid white, cool grey-green"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: sculptural or textile object photographed under raking light. Subject: a motion-blurred crowd. Palette: washed pink, acid white, cool grey-green. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20motion-blurred%20crowd.%20Palette%3A%20washed%20pink%2C%20acid%20white%2C%20cool%20grey-green.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "downtempo",
+      "name": "Downtempo",
+      "share": 0.024,
+      "browse": false,
+      "parent": "electronic",
+      "shareNormalized": 0.0218,
+      "artistCount": 5,
+      "estimatedAlbums": 898,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "downtempo",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+          "composition": "bold flat shapes, limited palette, halftone texture throughout",
+          "abstract": true,
+          "subject": "an empty swimming pool",
+          "palette": "sodium orange, wet black, muddy green"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes an empty swimming pool. Palette: sodium orange, wet black, muddy green. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20an%20empty%20swimming%20pool.%20Palette%3A%20sodium%20orange%2C%20wet%20black%2C%20muddy%20green.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "funk",
+      "name": "Funk",
+      "share": 0.022,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.02,
+      "artistCount": 6,
+      "estimatedAlbums": 824,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "funk",
+          "year": 2026,
+          "era": "heritage",
+          "eraLabel": "1955-1979",
+          "isPeriodHomage": true,
+          "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+          "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+          "abstract": false,
+          "subject": "a platform boot at low angle",
+          "palette": "hot pink, gold, purple, deep orange"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a platform boot at low angle. Palette: hot pink, gold, purple, deep orange. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20platform%20boot%20at%20low%20angle.%20Palette%3A%20hot%20pink%2C%20gold%2C%20purple%2C%20deep%20orange.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "spiritual-jazz",
+      "name": "Spiritual Jazz",
+      "share": 0.019,
+      "browse": false,
+      "parent": "jazz",
+      "shareNormalized": 0.0173,
+      "artistCount": 2,
+      "estimatedAlbums": 713,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "spiritual-jazz",
+          "year": 2026,
+          "era": "classic",
+          "eraLabel": "1980-1999",
+          "isPeriodHomage": true,
+          "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+          "composition": "snapshot framing, subject centred, background falling away",
+          "abstract": false,
+          "subject": "a figure with arms raised in silhouette",
+          "palette": "saffron, deep indigo, burnt orange, gold"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: a figure with arms raised in silhouette. Palette: saffron, deep indigo, burnt orange, gold. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20a%20figure%20with%20arms%20raised%20in%20silhouette.%20Palette%3A%20saffron%2C%20deep%20indigo%2C%20burnt%20orange%2C%20gold.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "modern-composition",
+      "name": "Modern Composition",
+      "share": 0.018,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0164,
+      "artistCount": 3,
+      "estimatedAlbums": 676,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "modern-composition",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "a thin black line bisecting white",
+          "palette": "white, graphite, one muted accent"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a thin black line bisecting white. Palette: white, graphite, one muted accent. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20thin%20black%20line%20bisecting%20white.%20Palette%3A%20white%2C%20graphite%2C%20one%20muted%20accent.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "afrobeat",
+      "name": "Afrobeat",
+      "share": 0.016,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0145,
+      "artistCount": 1,
+      "estimatedAlbums": 597,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "afrobeat",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "a crowd of dancers as pattern",
+          "palette": "chrome yellow, deep green, vermilion, black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a crowd of dancers as pattern. Palette: chrome yellow, deep green, vermilion, black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20crowd%20of%20dancers%20as%20pattern.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "bossa",
+      "name": "Bossa Nova",
+      "share": 0.014,
+      "browse": false,
+      "parent": "latin",
+      "shareNormalized": 0.0127,
+      "artistCount": 0,
+      "estimatedAlbums": 523,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "bossa",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "abstract shapes suggesting waves",
+          "palette": "sand, sea green, sun yellow, white"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes abstract shapes suggesting waves. Palette: sand, sea green, sun yellow, white. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20abstract%20shapes%20suggesting%20waves.%20Palette%3A%20sand%2C%20sea%20green%2C%20sun%20yellow%2C%20white.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "dub",
+      "name": "Dub",
+      "share": 0.013,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0118,
+      "artistCount": 0,
+      "estimatedAlbums": 486,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "dub",
+          "year": 2026,
+          "era": "classic",
+          "eraLabel": "1980-1999",
+          "isPeriodHomage": true,
+          "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+          "composition": "snapshot framing, subject centred, background falling away",
+          "abstract": false,
+          "subject": "a sound system stack",
+          "palette": "green, gold, red and black, printed slightly off-register"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: a sound system stack. Palette: green, gold, red and black, printed slightly off-register. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20a%20sound%20system%20stack.%20Palette%3A%20green%2C%20gold%2C%20red%20and%20black%2C%20printed%20slightly%20off-register.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "cumbia",
+      "name": "Cumbia",
+      "share": 0.012,
+      "browse": false,
+      "parent": "latin",
+      "shareNormalized": 0.0109,
+      "artistCount": 1,
+      "estimatedAlbums": 449,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "cumbia",
+          "year": 2026,
+          "era": "digital",
+          "eraLabel": "2000-2014",
+          "isPeriodHomage": true,
+          "medium": "HDR photograph with heavy clarity and saturated local contrast",
+          "composition": "wide view, deep depth of field, everything sharp",
+          "abstract": false,
+          "subject": "dancers as flat repeating pattern",
+          "palette": "hot orange, turquoise, lime, magenta"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 2000-2014. Medium: HDR photograph with heavy clarity and saturated local contrast. Subject: dancers as flat repeating pattern. Palette: hot orange, turquoise, lime, magenta. Composition: wide view, deep depth of field, everything sharp. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20HDR%20photograph%20with%20heavy%20clarity%20and%20saturated%20local%20contrast.%20Subject%3A%20dancers%20as%20flat%20repeating%20pattern.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20wide%20view%2C%20deep%20depth%20of%20field%2C%20everything%20sharp.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "analog-revival",
+      "name": "Analog Revival",
+      "share": 0.011,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.01,
+      "artistCount": 12,
+      "estimatedAlbums": 412,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "analog-revival",
+          "year": 2026,
+          "era": "heritage",
+          "eraLabel": "1955-1979",
+          "isPeriodHomage": true,
+          "medium": "modernist graphic design in flat cut-paper shapes",
+          "composition": "strict grid, large flat colour fields",
+          "abstract": true,
+          "subject": "a faded paper inner sleeve",
+          "palette": "yellowed cream, faded brown, dust grey, warm amber"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1955-1979. Medium: modernist graphic design in flat cut-paper shapes. Not a depiction — an abstract composition that only distantly evokes a faded paper inner sleeve. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: strict grid, large flat colour fields. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20modernist%20graphic%20design%20in%20flat%20cut-paper%20shapes.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20faded%20paper%20inner%20sleeve.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20strict%20grid%2C%20large%20flat%20colour%20fields.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "experimental",
+      "name": "Experimental",
+      "share": 0.01,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0091,
+      "artistCount": 0,
+      "estimatedAlbums": 375,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "experimental",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "pure noise resolving into structure",
+          "palette": "monochrome with one chemical stain of colour"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes pure noise resolving into structure. Palette: monochrome with one chemical stain of colour. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20pure%20noise%20resolving%20into%20structure.%20Palette%3A%20monochrome%20with%20one%20chemical%20stain%20of%20colour.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "punk",
+      "name": "Punk",
+      "share": 0.009,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0082,
+      "artistCount": 0,
+      "estimatedAlbums": 338,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "punk",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "sculptural or textile object photographed under raking light",
+          "composition": "tactile, close, shallow depth of field",
+          "abstract": false,
+          "subject": "crude geometric ransom shapes",
+          "palette": "pure black, newsprint white, one screaming spot colour"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: sculptural or textile object photographed under raking light. Subject: crude geometric ransom shapes. Palette: pure black, newsprint white, one screaming spot colour. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20crude%20geometric%20ransom%20shapes.%20Palette%3A%20pure%20black%2C%20newsprint%20white%2C%20one%20screaming%20spot%20colour.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "metal",
+      "name": "Metal",
+      "share": 0.008,
+      "browse": false,
+      "parent": null,
+      "shareNormalized": 0.0073,
+      "artistCount": 0,
+      "estimatedAlbums": 301,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "metal",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+          "composition": "bold flat shapes, limited palette, halftone texture throughout",
+          "abstract": true,
+          "subject": "a burning geometric sigil",
+          "palette": "obsidian, blood red, cold silver, sulphur"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes a burning geometric sigil. Palette: obsidian, blood red, cold silver, sulphur. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20burning%20geometric%20sigil.%20Palette%3A%20obsidian%2C%20blood%20red%2C%20cold%20silver%2C%20sulphur.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "rock",
+      "name": "Rock",
+      "share": 0.066,
+      "browse": true,
+      "parent": null,
+      "shareNormalized": 0.06,
+      "artistCount": 5,
+      "estimatedAlbums": 2472,
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "rock",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "a bold diagonal split of two colours",
+          "palette": "oxblood, smoke grey, brass, hard black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a bold diagonal split of two colours. Palette: oxblood, smoke grey, brass, hard black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20bold%20diagonal%20split%20of%20two%20colours.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    }
+  ],
+  "browseCategories": [
+    {
+      "slug": "folk",
+      "label": "Folk",
+      "kind": "genre",
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "folk",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+          "composition": "bold flat shapes, limited palette, halftone texture throughout",
+          "abstract": true,
+          "subject": "an empty wooden chair in a bare room",
+          "palette": "desaturated ochre, moss green, bone white, overcast grey"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes an empty wooden chair in a bare room. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20an%20empty%20wooden%20chair%20in%20a%20bare%20room.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "jazz",
+      "label": "Jazz",
+      "kind": "genre",
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "jazz",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "smoke in a stage light",
+          "palette": "deep navy or oxblood with cream, one flat colour block"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes smoke in a stage light. Palette: deep navy or oxblood with cream, one flat colour block. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20smoke%20in%20a%20stage%20light.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "indie-rock",
+      "label": "Indie",
+      "kind": "genre",
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "indie-rock",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "3D render with soft global illumination and matte clay materials",
+          "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+          "abstract": false,
+          "subject": "an empty stage after load-out",
+          "palette": "flash white, cheap yellow, dark green, exit-sign red"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: 3D render with soft global illumination and matte clay materials. Subject: an empty stage after load-out. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20an%20empty%20stage%20after%20load-out.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "rock",
+      "label": "Rock",
+      "kind": "genre",
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "rock",
+          "year": 2026,
+          "era": "classic",
+          "eraLabel": "1980-1999",
+          "isPeriodHomage": true,
+          "medium": "airbrushed illustration with glossy highlights and gradient blends",
+          "composition": "monumental centred subject, low horizon, dramatic scale",
+          "abstract": false,
+          "subject": "a drum kit lit from one side",
+          "palette": "oxblood, smoke grey, brass, hard black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1980-1999. Medium: airbrushed illustration with glossy highlights and gradient blends. Subject: a drum kit lit from one side. Palette: oxblood, smoke grey, brass, hard black. Composition: monumental centred subject, low horizon, dramatic scale. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20airbrushed%20illustration%20with%20glossy%20highlights%20and%20gradient%20blends.%20Subject%3A%20a%20drum%20kit%20lit%20from%20one%20side.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20monumental%20centred%20subject%2C%20low%20horizon%2C%20dramatic%20scale.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "chill",
+      "label": "Chill",
+      "kind": "mood",
+      "genres": [
+        "ambient",
+        "downtempo",
+        "bossa"
+      ],
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "ambient",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "frost on glass",
+          "palette": "pale ice blue, warm grey, faint pink, near-white"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes frost on glass. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20frost%20on%20glass.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "slug": "new-releases",
+      "label": "New releases",
+      "kind": "feed",
+      "window": "90d",
+      "artwork": {
+        "image": null,
+        "direction": {
+          "genre": "ambient",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "3D render with soft global illumination and matte clay materials",
+          "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+          "abstract": false,
+          "subject": "a horizon that is almost not there",
+          "palette": "pale ice blue, warm grey, faint pink, near-white"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: 3D render with soft global illumination and matte clay materials. Subject: a horizon that is almost not there. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20horizon%20that%20is%20almost%20not%20there.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    }
+  ],
+  "moods": [
+    {
+      "slug": "chill",
+      "label": "Chill"
+    },
+    {
+      "slug": "late-night",
+      "label": "Late night"
+    },
+    {
+      "slug": "focus",
+      "label": "Focus"
+    },
+    {
+      "slug": "sunday-morning",
+      "label": "Sunday morning"
+    },
+    {
+      "slug": "driving",
+      "label": "Driving"
+    },
+    {
+      "slug": "heartbreak",
+      "label": "Heartbreak"
+    },
+    {
+      "slug": "euphoric",
+      "label": "Euphoric"
+    }
+  ]
+}

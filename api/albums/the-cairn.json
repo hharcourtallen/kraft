@@ -1,0 +1,47 @@
+{
+  "id": "alb_the-cairn-til-vogels",
+  "slug": "the-cairn",
+  "title": "The Cairn",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 11,
+  "durationSec": 4165,
+  "durationLabel": "1 hr 9 min",
+  "artist": {
+    "id": "art_til-vogelsang",
+    "name": "Til Vogelsang",
+    "slug": "til-vogelsang"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "ambient",
+    "downtempo"
+  ],
+  "tracks": [
+    "trk_zenith-til-voge-2024-0",
+    "trk_sediment-til-voge-2024-1",
+    "trk_seam-march-til-voge-2024-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "ambient",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "frost on glass",
+      "palette": "pale ice blue, warm grey, faint pink, near-white"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: frost on glass. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20frost%20on%20glass.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

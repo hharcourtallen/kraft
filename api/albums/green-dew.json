@@ -1,0 +1,47 @@
+{
+  "id": "alb_green-dew-merrick-an",
+  "slug": "green-dew",
+  "title": "Green Dew",
+  "year": 2009,
+  "type": "Album",
+  "subtitle": "2009 · Album",
+  "trackCount": 8,
+  "durationSec": 1766,
+  "durationLabel": "29 min",
+  "artist": {
+    "id": "art_merrick-and-the-motels",
+    "name": "Merrick & The Motels",
+    "slug": "merrick-and-the-motels"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_chlorophyll-merrick--2009-0",
+    "trk_boulevard-lullaby-merrick--2009-1",
+    "trk_marquee-elegy-merrick--2009-2",
+    "trk_hour-elegy-merrick--2009-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2009,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "HDR photograph with heavy clarity and saturated local contrast",
+      "composition": "wide view, deep depth of field, everything sharp",
+      "abstract": false,
+      "subject": "a figure dissolving into fog",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: HDR photograph with heavy clarity and saturated local contrast. Subject: a figure dissolving into fog. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: wide view, deep depth of field, everything sharp. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20HDR%20photograph%20with%20heavy%20clarity%20and%20saturated%20local%20contrast.%20Subject%3A%20a%20figure%20dissolving%20into%20fog.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20wide%20view%2C%20deep%20depth%20of%20field%2C%20everything%20sharp.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "alb_motel-and-taxi-central-de",
+  "slug": "motel-and-taxi",
+  "title": "Motel & Taxi",
+  "year": 2021,
+  "type": "EP",
+  "subtitle": "2021 · EP",
+  "trackCount": 4,
+  "durationSec": 979,
+  "durationLabel": "16 min",
+  "artist": {
+    "id": "art_central-depot",
+    "name": "Central Depot",
+    "slug": "central-depot"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_boulevard-hymn-central--2021-0",
+    "trk_terminal-elegy-central--2021-1",
+    "trk_velvet-rooftop-central--2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "sculptural or textile object photographed under raking light",
+      "composition": "tactile, close, shallow depth of field",
+      "abstract": false,
+      "subject": "a car park at night",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: sculptural or textile object photographed under raking light. Subject: a car park at night. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20car%20park%20at%20night.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

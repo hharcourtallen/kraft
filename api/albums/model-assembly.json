@@ -1,0 +1,48 @@
+{
+  "id": "alb_model-assembly-femi-and-t",
+  "slug": "model-assembly",
+  "title": "Model Assembly",
+  "year": 2006,
+  "type": "EP",
+  "subtitle": "2006 · EP",
+  "trackCount": 5,
+  "durationSec": 2006,
+  "durationLabel": "33 min",
+  "artist": {
+    "id": "art_femi-and-the-observatories",
+    "name": "Femi & The Observatories",
+    "slug": "femi-and-the-observatories"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "afrobeat",
+    "funk"
+  ],
+  "tracks": [
+    "trk_observatory-lullaby-femi-and-2006-0",
+    "trk_model-exchange-femi-and-2006-1",
+    "trk_aphelion-song-femi-and-2006-2",
+    "trk_zoning-femi-and-2006-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2006,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "clean vector illustration, flat colour, no texture, crisp edges",
+      "composition": "centred emblem, generous margin, perfectly symmetrical",
+      "abstract": false,
+      "subject": "a crowd of dancers as pattern",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: clean vector illustration, flat colour, no texture, crisp edges. Subject: a crowd of dancers as pattern. Palette: chrome yellow, deep green, vermilion, black. Composition: centred emblem, generous margin, perfectly symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20clean%20vector%20illustration%2C%20flat%20colour%2C%20no%20texture%2C%20crisp%20edges.%20Subject%3A%20a%20crowd%20of%20dancers%20as%20pattern.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20centred%20emblem%2C%20generous%20margin%2C%20perfectly%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

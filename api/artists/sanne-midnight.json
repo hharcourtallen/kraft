@@ -1,0 +1,214 @@
+{
+  "id": "art_sanne-midnight",
+  "slug": "sanne-midnight",
+  "name": "Sanne Midnight",
+  "formation": "solo",
+  "country": "DE",
+  "hometown": "Hamburg",
+  "geo": {
+    "placeId": "plc_hamburg",
+    "city": "Hamburg",
+    "country": "DE",
+    "lat": 53.55,
+    "lng": 9.99
+  },
+  "region": "germany",
+  "genres": [
+    "electronic",
+    "downtempo"
+  ],
+  "primaryGenre": {
+    "slug": "electronic",
+    "name": "Electronic"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2152,
+  "monthlyListenersLabel": "2.2K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Electronic · 2.2K listeners",
+  "verified": true,
+  "active": {
+    "from": 2025,
+    "to": 2026
+  },
+  "bio": "Hamburg producer, working since 2025. Records the mistakes and arranges around them.",
+  "discography": [
+    "alb_velvet-hour-sanne-midn"
+  ],
+  "popularTrackIds": [
+    "trk_wild-hedgerow-sanne-mi-2025-2",
+    "trk_bloom-sanne-mi-2025-4",
+    "trk_afterhours-sanne-mi-2025-3",
+    "trk_midnight-underpass-sanne-mi-2025-0",
+    "trk_dark-underpass-sanne-mi-2025-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "electronic",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "ultramarine, silver, black, one acid highlight"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in their late twenties looking just past the camera. Palette: ultramarine, silver, black, one acid highlight. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "electronic",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "ultramarine, silver, black, one acid highlight"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: ultramarine, silver, black, one acid highlight. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_wild-hedgerow-sanne-mi-2025-2",
+      "slug": "wild-hedgerow",
+      "title": "Wild Hedgerow",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "5,205"
+    },
+    {
+      "id": "trk_bloom-sanne-mi-2025-4",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,608"
+    },
+    {
+      "id": "trk_afterhours-sanne-mi-2025-3",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "5:08",
+      "durationSec": 308,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,212"
+    },
+    {
+      "id": "trk_midnight-underpass-sanne-mi-2025-0",
+      "slug": "midnight-underpass",
+      "title": "Midnight Underpass",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,593"
+    },
+    {
+      "id": "trk_dark-underpass-sanne-mi-2025-1",
+      "slug": "dark-underpass",
+      "title": "Dark Underpass",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,223"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_velvet-hour-sanne-midn",
+      "slug": "velvet-hour-sanne-midnight",
+      "title": "Velvet Hour",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Dark Underpass",
+      "position": 3,
+      "caption": "Dark Underpass is track 3"
+    }
+  ]
+}

@@ -1,0 +1,103 @@
+{
+  "$comment": "The signed-in persona used across every artboard. NOTE: the demo user shares a name with curator Sofía Reyes — in canon they are the same person, which is why her playlists carry her byline in the sidebar. `following` is the social graph: curators and artists you follow, lists you saved that are not your own. `library` is what shows in Library.",
+  "users": [
+    {
+      "id": "usr_sofia-reyes",
+      "displayName": "Sofía Reyes",
+      "handle": "sofia",
+      "isCurator": true,
+      "curatorId": "cur_sofia-reyes",
+      "plan": "Studio",
+      "memberSince": "2019-11-02",
+      "country": "MX",
+      "library": {
+        "playlistIds": [
+          "pl_vinyl-sundays",
+          "pl_late-night-heat",
+          "pl_golden-hour",
+          "pl_wildflower-days",
+          "pl_cassette-dreams",
+          "pl_poolside",
+          "pl_garden-sessions",
+          "pl_string-theory",
+          "pl_jazz-nights",
+          "pl_tropicalia",
+          "pl_midnight-sax",
+          "pl_the-archive"
+        ],
+        "albumIds": [
+          "alb_bloom",
+          "alb_flora",
+          "alb_quiet-village",
+          "alb_nocturne",
+          "alb_wide-open",
+          "alb_overgrown",
+          "alb_petal-and-dew",
+          "alb_brass-and-bones"
+        ],
+        "artistIds": [
+          "art_jack-hatfield",
+          "art_zaya-blue",
+          "art_elara-cove",
+          "art_milo-kestrel",
+          "art_dusk-ritual",
+          "art_felix-drift"
+        ]
+      },
+      "recentSearches": [
+        {
+          "type": "artist",
+          "id": "art_zaya-blue"
+        },
+        {
+          "type": "track",
+          "id": "trk_golden-thread"
+        },
+        {
+          "type": "album",
+          "id": "alb_brass-and-bones"
+        }
+      ],
+      "player": {
+        "trackId": "trk_dust-on-the-needle",
+        "contextType": "playlist",
+        "contextId": "pl_vinyl-sundays",
+        "positionSec": 107,
+        "state": "playing",
+        "volume": 0.8,
+        "shuffle": false,
+        "repeat": "off"
+      },
+      "following": {
+        "curatorIds": [
+          "cur_ade-mensah",
+          "cur_ingrid-halvorsen",
+          "cur_marcus-pike",
+          "cur_haruka-nakagawa",
+          "cur_luana-andrade",
+          "cur_amara-diallo",
+          "cur_teo-marchand"
+        ],
+        "artistIds": [
+          "art_jack-hatfield",
+          "art_zaya-blue",
+          "art_elara-cove",
+          "art_milo-kestrel",
+          "art_dusk-ritual",
+          "art_felix-drift"
+        ],
+        "playlistIds": [
+          "pl_late-night-heat",
+          "pl_cassette-dreams",
+          "pl_poolside",
+          "pl_garden-sessions",
+          "pl_string-theory",
+          "pl_jazz-nights",
+          "pl_tropicalia",
+          "pl_midnight-sax",
+          "pl_the-archive"
+        ]
+      }
+    }
+  ]
+}

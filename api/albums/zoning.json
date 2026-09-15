@@ -1,0 +1,49 @@
+{
+  "id": "alb_zoning-mateo-moli",
+  "slug": "zoning",
+  "title": "Zoning",
+  "year": 2019,
+  "type": "Album",
+  "subtitle": "2019 · Album",
+  "trackCount": 12,
+  "durationSec": 2933,
+  "durationLabel": "49 min",
+  "artist": {
+    "id": "art_mateo-molinari",
+    "name": "Mateo Molinari",
+    "slug": "mateo-molinari"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "genres": [
+    "cumbia",
+    "latin"
+  ],
+  "tracks": [
+    "trk_census-mateo-mo-2019-0",
+    "trk_municipal-depot-mateo-mo-2019-1",
+    "trk_depot-reprise-mateo-mo-2019-2",
+    "trk_model-bloc-mateo-mo-2019-3",
+    "trk_no-more-harvests-mateo-mo-2019-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "cumbia",
+      "year": 2019,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "dancers as flat repeating pattern",
+      "palette": "hot orange, turquoise, lime, magenta"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: dancers as flat repeating pattern. Palette: hot orange, turquoise, lime, magenta. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20dancers%20as%20flat%20repeating%20pattern.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

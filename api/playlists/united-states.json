@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-united-states",
+  "slug": "united-states",
+  "title": "United States",
+  "description": null,
+  "note": "Philadelphia to Portland by way of every basement with a piano in it. Mostly what I play a friend who says they do not like jazz.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "US",
+  "subtitle": "Marcus Pike",
+  "curator": {
+    "id": "cur_marcus-pike",
+    "name": "Marcus Pike",
+    "city": "Philadelphia"
+  },
+  "trackCount": 12,
+  "durationSec": 3333,
+  "durationLabel": "56 min",
+  "metaLine": "12 tracks · 56 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 18400,
+  "followersLabel": "18K",
+  "updated": "2026-07-22",
+  "moods": [],
+  "genres": [
+    "jazz",
+    "soul",
+    "americana"
+  ],
+  "trackIds": [
+    "trk_golden-thread",
+    "trk_night-bloom",
+    "trk_minor-key",
+    "trk_open-fields",
+    "trk_dust-on-the-needle",
+    "trk_crackle-and-hum",
+    "trk_long-hedgerow-rust-str-2020-0",
+    "trk_assembly-hymn-rhys-ree-2023-0",
+    "trk_every-bureau-cass-and-2022-0",
+    "trk_registry-elegy-the-velv-2024-2",
+    "trk_long-village-rust-str-2022-0",
+    "trk_copper-cairn-sadie-an-2020-2"
+  ],
+  "tracks": [
+    {
+      "id": "trk_golden-thread",
+      "slug": "golden-thread",
+      "title": "Golden Thread",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_flora",
+        "title": "Flora",
+        "slug": "flora",
+        "year": 2025
+      },
+      "albumArt": "/artwork/album/flora.jpg"
+    },
+    {
+      "id": "trk_night-bloom",
+      "slug": "night-bloom",
+      "title": "Night Bloom",
+      "duration": "4:05",
+      "durationSec": 245,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_night-bloom",
+        "title": "Night Bloom",
+        "slug": "night-bloom",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/night-bloom.jpg"
+    },
+    {
+      "id": "trk_minor-key",
+      "slug": "minor-key",
+      "title": "Minor Key",
+      "duration": "4:25",
+      "durationSec": 265,
+      "artist": {
+        "id": "art_milo-kestrel",
+        "name": "Milo Kestrel",
+        "slug": "milo-kestrel"
+      },
+      "album": {
+        "id": "alb_nocturne",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_open-fields",
+      "slug": "open-fields",
+      "title": "Open Fields",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_felix-drift",
+        "name": "Felix Drift",
+        "slug": "felix-drift"
+      },
+      "album": {
+        "id": "alb_wide-open",
+        "title": "Wide Open",
+        "slug": "wide-open",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dust-on-the-needle",
+      "slug": "dust-on-the-needle",
+      "title": "Dust on the Needle",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_the-worn-grooves",
+        "name": "The Worn Grooves",
+        "slug": "the-worn-grooves"
+      },
+      "album": {
+        "id": "alb_sunday-spins",
+        "title": "Sunday Spins",
+        "slug": "sunday-spins",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/sunday-spins.jpg"
+    },
+    {
+      "id": "trk_crackle-and-hum",
+      "slug": "crackle-and-hum",
+      "title": "Crackle & Hum",
+      "duration": "3:48",
+      "durationSec": 228,
+      "artist": {
+        "id": "art_analog-hearts",
+        "name": "Analog Hearts",
+        "slug": "analog-hearts"
+      },
+      "album": {
+        "id": "alb_pressed-memories",
+        "title": "Pressed Memories",
+        "slug": "pressed-memories",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/pressed-memories.jpg"
+    },
+    {
+      "id": "trk_long-hedgerow-rust-str-2020-0",
+      "slug": "long-hedgerow",
+      "title": "Long Hedgerow",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_tectonics-rust-strat",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_assembly-hymn-rhys-ree-2023-0",
+      "slug": "assembly-hymn",
+      "title": "Assembly Hymn",
+      "duration": "7:26",
+      "durationSec": 446,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_every-bureau-cass-and-2022-0",
+      "slug": "every-bureau",
+      "title": "Every Bureau",
+      "duration": "5:16",
+      "durationSec": 316,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-rooftop-cass-and-t",
+        "title": "The Rooftop",
+        "slug": "the-rooftop",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_registry-elegy-the-velv-2024-2",
+      "slug": "registry-elegy",
+      "title": "Registry Elegy",
+      "duration": "6:33",
+      "durationSec": 393,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-village-rust-str-2022-0",
+      "slug": "long-village",
+      "title": "Long Village",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_rust-strata",
+        "name": "Rust Strata",
+        "slug": "rust-strata"
+      },
+      "album": {
+        "id": "alb_quiet-bloom-rust-strat",
+        "title": "Quiet Bloom",
+        "slug": "quiet-bloom",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_copper-cairn-sadie-an-2020-2",
+      "slug": "copper-cairn",
+      "title": "Copper Cairn",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-united-states.png",
+    "direction": {
+      "genre": "jazz",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "a rehearsal room chair and stand",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a rehearsal room chair and stand. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20rehearsal%20room%20chair%20and%20stand.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "22 Jul"
+}

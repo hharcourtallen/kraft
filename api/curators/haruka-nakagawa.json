@@ -1,0 +1,74 @@
+{
+  "id": "cur_haruka-nakagawa",
+  "slug": "haruka-nakagawa",
+  "name": "Haruka Nakagawa",
+  "beat": [
+    "shoegaze",
+    "dream-pop",
+    "downtempo"
+  ],
+  "beatLabel": "Shoegaze · Dream Pop · Downtempo",
+  "city": "Tokyo",
+  "geo": {
+    "placeId": "plc_tokyo",
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lng": 139.69
+  },
+  "since": 2022,
+  "bio": "Writes about records the way people write about weather — constantly, and with feeling.",
+  "kicker": "Curator · Tokyo · since 2022",
+  "listCount": 24,
+  "listIds": [
+    "pl_cassette-dreams",
+    "pl_country-japan"
+  ],
+  "followers": 39800,
+  "followersLabel": "40K",
+  "follows": [
+    "cur_ingrid-halvorsen",
+    "cur_sofia-reyes"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_cassette-dreams",
+    "slug": "cassette-dreams",
+    "title": "Cassette Dreams",
+    "curatorName": "Haruka Nakagawa"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_cassette-dreams",
+      "playlistTitle": "Cassette Dreams",
+      "note": "Shoegaze and dream pop that still hisses. I kept the ones where the tape is part of the song, not a filter on top of it.",
+      "updated": "2026-08-11",
+      "updatedLabel": "2 weeks ago"
+    },
+    {
+      "playlistId": "pl_country-japan",
+      "playlistTitle": "Japan",
+      "note": "Tokyo after the last train. Ren Ishii and Redshift are from here; the rest is what I hear in the taxi home.",
+      "updated": "2026-07-10",
+      "updatedLabel": "10 Jul"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/haruka-nakagawa.jpg",
+      "direction": {
+        "genre": "shoegaze",
+        "year": 2026,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a record collector in their thirties in front of a wall of shelves",
+        "palette": "washed pink, acid white, cool grey-green"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2026 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a record collector in their thirties in front of a wall of shelves. Palette: washed pink, acid white, cool grey-green. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202026%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20record%20collector%20in%20their%20thirties%20in%20front%20of%20a%20wall%20of%20shelves.%20Palette%3A%20washed%20pink%2C%20acid%20white%2C%20cool%20grey-green.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

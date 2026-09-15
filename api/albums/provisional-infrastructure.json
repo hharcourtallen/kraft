@@ -1,0 +1,46 @@
+{
+  "id": "alb_provisional-infrastructure-the-ballro",
+  "slug": "provisional-infrastructure",
+  "title": "Provisional Infrastructure",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 8,
+  "durationSec": 1531,
+  "durationLabel": "26 min",
+  "artist": {
+    "id": "art_the-ballroom-orchestra",
+    "name": "The Ballroom Orchestra",
+    "slug": "the-ballroom-orchestra"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "hip-hop"
+  ],
+  "tracks": [
+    "trk_marquee-theme-the-ball-2024-0",
+    "trk_afterhours-the-ball-2024-1",
+    "trk_provisional-assembly-the-ball-2024-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "hip-hop",
+      "year": 2024,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "hand-tinted photograph, colour applied over monochrome",
+      "composition": "centred, formal, symmetrical",
+      "abstract": false,
+      "subject": "a subway platform",
+      "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+    },
+    "prompt": "Album cover artwork, square format. A 2024 sleeve deliberately styled after 1955-1979. Medium: hand-tinted photograph, colour applied over monochrome. Subject: a subway platform. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: centred, formal, symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202024%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20hand-tinted%20photograph%2C%20colour%20applied%20over%20monochrome.%20Subject%3A%20a%20subway%20platform.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20centred%2C%20formal%2C%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

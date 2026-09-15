@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+.vercel/
+
+# app build output and the copies sync-data.mjs makes of api/ and public/artwork/
+app/dist/
+app/public/api/
+app/public/artwork/

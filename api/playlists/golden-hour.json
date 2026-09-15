@@ -1,0 +1,55 @@
+{
+  "id": "pl_golden-hour",
+  "slug": "golden-hour",
+  "title": "Golden Hour",
+  "description": "The forty minutes before the light goes. Nothing urgent, nothing sad.",
+  "note": "Records that sound like the last hour of light. I sequence this one backwards, brightest last.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Sofía Reyes",
+  "curator": {
+    "id": "cur_sofia-reyes",
+    "name": "Sofía Reyes",
+    "city": "Mexico City"
+  },
+  "trackCount": 20,
+  "durationSec": 4800,
+  "durationLabel": "1 hr 20 min",
+  "metaLine": "20 tracks · 1 hr 20 min",
+  "libraryLine": "List · 20 songs",
+  "followers": 129440,
+  "followersLabel": "129K",
+  "updated": "2026-08-21",
+  "moods": [
+    "chill"
+  ],
+  "genres": [
+    "folk",
+    "bossa",
+    "dream-pop"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 20,
+  "artwork": {
+    "image": "/artwork/playlist/golden-hour.jpg",
+    "direction": {
+      "genre": "folk",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "an empty wooden chair in a bare room",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: 3D render with soft global illumination and matte clay materials. Subject: an empty wooden chair in a bare room. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20an%20empty%20wooden%20chair%20in%20a%20bare%20room.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "4 days ago"
+}

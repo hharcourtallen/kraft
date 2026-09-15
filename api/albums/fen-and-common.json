@@ -1,0 +1,47 @@
+{
+  "id": "alb_fen-and-common-i-a-r",
+  "slug": "fen-and-common",
+  "title": "Fen & Common",
+  "year": 2025,
+  "type": "Album",
+  "subtitle": "2025 · Album",
+  "trackCount": 11,
+  "durationSec": 2932,
+  "durationLabel": "49 min",
+  "artist": {
+    "id": "art_i-a-r",
+    "name": "I.A.R.",
+    "slug": "i-a-r"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "genres": [
+    "latin"
+  ],
+  "tracks": [
+    "trk_half-a-rooftop-i-a-r-2025-0",
+    "trk_bloom-i-a-r-2025-1",
+    "trk_husbandry-i-a-r-2025-2",
+    "trk_nocturne-i-a-r-2025-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "latin",
+      "year": 2025,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "a ceramic vessel",
+      "palette": "terracotta, cobalt, marigold, whitewash"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a ceramic vessel. Palette: terracotta, cobalt, marigold, whitewash. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20ceramic%20vessel.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

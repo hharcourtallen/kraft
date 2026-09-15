@@ -1,0 +1,44 @@
+{
+  "id": "alb_nocturne",
+  "slug": "nocturne",
+  "title": "Nocturne",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 8,
+  "durationSec": 2120,
+  "durationLabel": "35 min",
+  "artist": {
+    "id": "art_milo-kestrel",
+    "name": "Milo Kestrel",
+    "slug": "milo-kestrel"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "genres": [
+    "jazz"
+  ],
+  "tracks": [
+    "trk_minor-key"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2023,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "early digital compositing with visible layer edges, chrome and lens flare",
+      "composition": "stacked geometric arcs, central emblem",
+      "abstract": false,
+      "subject": "a brass bell in extreme close-up",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 1980-1999. Medium: early digital compositing with visible layer edges, chrome and lens flare. Subject: a brass bell in extreme close-up. Palette: deep navy or oxblood with cream, one flat colour block. Composition: stacked geometric arcs, central emblem. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20early%20digital%20compositing%20with%20visible%20layer%20edges%2C%20chrome%20and%20lens%20flare.%20Subject%3A%20a%20brass%20bell%20in%20extreme%20close-up.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20stacked%20geometric%20arcs%2C%20central%20emblem.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

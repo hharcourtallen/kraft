@@ -1,0 +1,17 @@
+{
+  "$comment": "Fictional labels. Real catalogues cluster by label — an artist's imprint tells you as much as their genre. Labels give the generator a way to make scenes cohere.",
+  "labels": [
+    { "id": "lbl_hedgerow", "name": "Hedgerow Records", "founded": 1998, "city": "Bristol", "genres": ["folk", "americana", "singer-songwriter"], "size": "indie" },
+    { "id": "lbl_blue-hour", "name": "Blue Hour", "founded": 2011, "city": "Portland", "genres": ["dream-pop", "shoegaze", "indie-rock"], "size": "indie" },
+    { "id": "lbl_strata-nine", "name": "Strata Nine", "founded": 2004, "city": "Berlin", "genres": ["techno", "electronic", "experimental"], "size": "indie" },
+    { "id": "lbl_ferry-lane", "name": "Ferry Lane", "founded": 1987, "city": "Glasgow", "genres": ["post-punk", "punk", "indie-rock"], "size": "indie" },
+    { "id": "lbl_sable-note", "name": "Sable Note", "founded": 1961, "city": "New York", "genres": ["jazz", "spiritual-jazz", "soul"], "size": "heritage" },
+    { "id": "lbl_conservatory", "name": "Conservatory Editions", "founded": 2009, "city": "Oslo", "genres": ["ambient", "modern-composition"], "size": "boutique" },
+    { "id": "lbl_tropico-alto", "name": "Trópico Alto", "founded": 1974, "city": "Bogotá", "genres": ["cumbia", "latin", "funk"], "size": "heritage" },
+    { "id": "lbl_harmattan", "name": "Harmattan Sound", "founded": 1978, "city": "Lagos", "genres": ["afrobeat", "funk", "dub"], "size": "heritage" },
+    { "id": "lbl_second-pressing", "name": "Second Pressing", "founded": 2016, "city": "Melbourne", "genres": ["analog-revival", "downtempo"], "size": "boutique" },
+    { "id": "lbl_marquee-hill", "name": "Marquee Hill", "founded": 1994, "city": "London", "genres": ["rnb", "hip-hop", "soul"], "size": "major-adjacent" },
+    { "id": "lbl_praia-azul", "name": "Praia Azul", "founded": 1966, "city": "Rio de Janeiro", "genres": ["bossa", "latin"], "size": "heritage" },
+    { "id": "lbl_self-released", "name": "Self-released", "founded": null, "city": null, "genres": [], "size": "none" }
+  ]
+}

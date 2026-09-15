@@ -1,0 +1,49 @@
+/* Waveform v2 — layers stack in one box; each layer is one colour, so a theme
+   or a tone only has to restyle the layer, never the bars. */
+.wave {
+  position: relative;
+  flex-shrink: 0;
+  cursor: pointer;
+}
+
+.wave-layer {
+  position: absolute;
+  left: 0;
+  top: 0;
+  display: block;
+}
+
+.wave-grid { fill: var(--color-line); }
+.wave-off  { fill: var(--color-track); }
+.wave-on   { fill: var(--color-text); }
+
+.wave-head {
+  position: absolute;
+  top: -4px;
+  width: 1px;
+  height: calc(100% + 8px);
+  background: var(--color-text);
+}
+
+.wave-pin {
+  position: absolute;
+  top: 0;
+  width: 2px;
+  height: 100%;
+  margin-left: -1px;
+  border-radius: 1px;
+  background: var(--color-accent);
+}
+
+/* The note pinned under a waveform. */
+.pinned {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+}
+
+/* On a photograph the layers are white, not the tokens. */
+.wave--photo .wave-grid { fill: oklch(100% 0 0 / 14%); }
+.wave--photo .wave-off  { fill: oklch(100% 0 0 / 32%); }
+.wave--photo .wave-on   { fill: #fafafa; }
+.wave--photo .wave-head { background: #fafafa; }

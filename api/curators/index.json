@@ -1,0 +1,359 @@
+{
+  "curators": [
+    {
+      "id": "cur_sofia-reyes",
+      "slug": "sofia-reyes",
+      "name": "Sofía Reyes",
+      "beat": [
+        "analog-revival",
+        "folk",
+        "bossa"
+      ],
+      "beatLabel": "Analog Revival · Folk · Bossa Nova",
+      "city": "Mexico City",
+      "geo": {
+        "placeId": "plc_mexico-city",
+        "city": "Mexico City",
+        "country": "MX",
+        "lat": 19.43,
+        "lng": -99.13
+      },
+      "since": 2019,
+      "kicker": "Curator · Mexico City · since 2019",
+      "listCount": 41,
+      "listIds": [
+        "pl_vinyl-sundays",
+        "pl_golden-hour",
+        "pl_wildflower-days",
+        "pl_country-mexico"
+      ],
+      "followers": 84200,
+      "followersLabel": "84K",
+      "follows": [
+        "cur_ade-mensah",
+        "cur_luana-andrade",
+        "cur_marcus-pike"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_golden-hour",
+        "slug": "golden-hour",
+        "title": "Golden Hour",
+        "curatorName": "Sofía Reyes"
+      },
+      "image": "/artwork/curator/sofia-reyes.jpg"
+    },
+    {
+      "id": "cur_ade-mensah",
+      "slug": "ade-mensah",
+      "name": "Adé Mensah",
+      "beat": [
+        "afrobeat",
+        "funk",
+        "dub"
+      ],
+      "beatLabel": "Afrobeat · Funk · Dub",
+      "city": "Accra",
+      "geo": {
+        "placeId": "plc_accra",
+        "city": "Accra",
+        "country": "GH",
+        "lat": 5.56,
+        "lng": -0.2
+      },
+      "since": 2020,
+      "kicker": "Curator · Accra · since 2020",
+      "listCount": 33,
+      "listIds": [
+        "pl_the-archive",
+        "pl_country-ghana"
+      ],
+      "followers": 61400,
+      "followersLabel": "61K",
+      "follows": [
+        "cur_amara-diallo",
+        "cur_luana-andrade"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_the-archive",
+        "slug": "the-archive",
+        "title": "The Archive",
+        "curatorName": "Adé Mensah"
+      },
+      "image": "/artwork/curator/ade-mensah.jpg"
+    },
+    {
+      "id": "cur_ingrid-halvorsen",
+      "slug": "ingrid-halvorsen",
+      "name": "Ingrid Halvorsen",
+      "beat": [
+        "ambient",
+        "modern-composition",
+        "experimental"
+      ],
+      "beatLabel": "Ambient · Modern Composition · Experimental",
+      "city": "Oslo",
+      "geo": {
+        "placeId": "plc_oslo",
+        "city": "Oslo",
+        "country": "NO",
+        "lat": 59.91,
+        "lng": 10.75
+      },
+      "since": 2019,
+      "kicker": "Curator · Oslo · since 2019",
+      "listCount": 28,
+      "listIds": [
+        "pl_garden-sessions",
+        "pl_string-theory",
+        "pl_country-norway"
+      ],
+      "followers": 47900,
+      "followersLabel": "48K",
+      "follows": [
+        "cur_haruka-nakagawa",
+        "cur_teo-marchand"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_garden-sessions",
+        "slug": "garden-sessions",
+        "title": "Garden Sessions",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "image": "/artwork/curator/ingrid-halvorsen.jpg"
+    },
+    {
+      "id": "cur_marcus-pike",
+      "slug": "marcus-pike",
+      "name": "Marcus Pike",
+      "beat": [
+        "jazz",
+        "spiritual-jazz",
+        "soul"
+      ],
+      "beatLabel": "Jazz · Spiritual Jazz · Soul",
+      "city": "Philadelphia",
+      "geo": {
+        "placeId": "plc_philadelphia",
+        "city": "Philadelphia",
+        "country": "US",
+        "lat": 39.95,
+        "lng": -75.17
+      },
+      "since": 2021,
+      "kicker": "Curator · Philadelphia · since 2021",
+      "listCount": 52,
+      "listIds": [
+        "pl_jazz-nights",
+        "pl_midnight-sax",
+        "pl_country-united-states"
+      ],
+      "followers": 73100,
+      "followersLabel": "73K",
+      "follows": [
+        "cur_sofia-reyes",
+        "cur_ade-mensah"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_jazz-nights",
+        "slug": "jazz-nights",
+        "title": "Jazz Nights",
+        "curatorName": "Marcus Pike"
+      },
+      "image": "/artwork/curator/marcus-pike.jpg"
+    },
+    {
+      "id": "cur_haruka-nakagawa",
+      "slug": "haruka-nakagawa",
+      "name": "Haruka Nakagawa",
+      "beat": [
+        "shoegaze",
+        "dream-pop",
+        "downtempo"
+      ],
+      "beatLabel": "Shoegaze · Dream Pop · Downtempo",
+      "city": "Tokyo",
+      "geo": {
+        "placeId": "plc_tokyo",
+        "city": "Tokyo",
+        "country": "JP",
+        "lat": 35.68,
+        "lng": 139.69
+      },
+      "since": 2022,
+      "kicker": "Curator · Tokyo · since 2022",
+      "listCount": 24,
+      "listIds": [
+        "pl_cassette-dreams",
+        "pl_country-japan"
+      ],
+      "followers": 39800,
+      "followersLabel": "40K",
+      "follows": [
+        "cur_ingrid-halvorsen",
+        "cur_sofia-reyes"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_cassette-dreams",
+        "slug": "cassette-dreams",
+        "title": "Cassette Dreams",
+        "curatorName": "Haruka Nakagawa"
+      },
+      "image": "/artwork/curator/haruka-nakagawa.jpg"
+    },
+    {
+      "id": "cur_teo-marchand",
+      "slug": "theo-marchand",
+      "name": "Théo Marchand",
+      "beat": [
+        "house",
+        "techno",
+        "electronic"
+      ],
+      "beatLabel": "House · Techno · Electronic",
+      "city": "Paris",
+      "geo": {
+        "placeId": "plc_paris",
+        "city": "Paris",
+        "country": "FR",
+        "lat": 48.86,
+        "lng": 2.35
+      },
+      "since": 2020,
+      "kicker": "Curator · Paris · since 2020",
+      "listCount": 37,
+      "listIds": [
+        "pl_country-spain",
+        "pl_country-france"
+      ],
+      "followers": 55600,
+      "followersLabel": "56K",
+      "follows": [
+        "cur_nadia-ilic",
+        "cur_ingrid-halvorsen"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_poolside",
+        "slug": "poolside",
+        "title": "Poolside",
+        "curatorName": "Luana Andrade"
+      },
+      "image": "/artwork/curator/teo-marchand.jpg"
+    },
+    {
+      "id": "cur_nadia-ilic",
+      "slug": "nadia-ilic",
+      "name": "Nadia Ilić",
+      "beat": [
+        "post-punk",
+        "punk",
+        "indie-rock"
+      ],
+      "beatLabel": "Post-Punk · Punk · Indie Rock",
+      "city": "Belgrade",
+      "geo": {
+        "placeId": "plc_belgrade",
+        "city": "Belgrade",
+        "country": "RS",
+        "lat": 44.79,
+        "lng": 20.46
+      },
+      "since": 2023,
+      "kicker": "Curator · Belgrade · since 2023",
+      "listCount": 19,
+      "listIds": [],
+      "followers": 21300,
+      "followersLabel": "21K",
+      "follows": [
+        "cur_teo-marchand"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_string-theory",
+        "slug": "string-theory",
+        "title": "String Theory",
+        "curatorName": "Ingrid Halvorsen"
+      },
+      "image": "/artwork/curator/nadia-ilic.jpg"
+    },
+    {
+      "id": "cur_luana-andrade",
+      "slug": "luana-andrade",
+      "name": "Luana Andrade",
+      "beat": [
+        "latin",
+        "cumbia",
+        "bossa"
+      ],
+      "beatLabel": "Latin · Cumbia · Bossa Nova",
+      "city": "São Paulo",
+      "geo": {
+        "placeId": "plc_sao-paulo",
+        "city": "São Paulo",
+        "country": "BR",
+        "lat": -23.55,
+        "lng": -46.63
+      },
+      "since": 2021,
+      "kicker": "Curator · São Paulo · since 2021",
+      "listCount": 31,
+      "listIds": [
+        "pl_poolside",
+        "pl_tropicalia",
+        "pl_country-argentina",
+        "pl_country-chile",
+        "pl_country-brazil"
+      ],
+      "followers": 58700,
+      "followersLabel": "59K",
+      "follows": [
+        "cur_sofia-reyes",
+        "cur_ade-mensah"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_tropicalia",
+        "slug": "tropicalia",
+        "title": "Tropicália",
+        "curatorName": "Luana Andrade"
+      },
+      "image": "/artwork/curator/luana-andrade.jpg"
+    },
+    {
+      "id": "cur_amara-diallo",
+      "slug": "amara-diallo",
+      "name": "Amara Diallo",
+      "beat": [
+        "rnb",
+        "hip-hop",
+        "soul"
+      ],
+      "beatLabel": "R&B · Hip-Hop · Soul",
+      "city": "London",
+      "geo": {
+        "placeId": "plc_london",
+        "city": "London",
+        "country": "GB",
+        "lat": 51.51,
+        "lng": -0.13
+      },
+      "since": 2022,
+      "kicker": "Curator · London · since 2022",
+      "listCount": 26,
+      "listIds": [
+        "pl_late-night-heat"
+      ],
+      "followers": 66200,
+      "followersLabel": "66K",
+      "follows": [
+        "cur_ade-mensah",
+        "cur_marcus-pike"
+      ],
+      "nowPlaying": {
+        "playlistId": "pl_late-night-heat",
+        "slug": "late-night-heat",
+        "title": "Late Night Heat",
+        "curatorName": "Amara Diallo"
+      },
+      "image": "/artwork/curator/amara-diallo.jpg"
+    }
+  ],
+  "total": 1240
+}

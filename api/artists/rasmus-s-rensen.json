@@ -1,0 +1,192 @@
+{
+  "id": "art_rasmus-s-rensen",
+  "slug": "rasmus-s-rensen",
+  "name": "Rasmus Sørensen",
+  "formation": "solo",
+  "country": "NO",
+  "hometown": "Oslo",
+  "geo": {
+    "placeId": "plc_oslo",
+    "city": "Oslo",
+    "country": "NO",
+    "lat": 59.91,
+    "lng": 10.75
+  },
+  "region": "nordic",
+  "genres": [
+    "modern-composition"
+  ],
+  "primaryGenre": {
+    "slug": "modern-composition",
+    "name": "Modern Composition"
+  },
+  "label": {
+    "id": "lbl_conservatory",
+    "name": "Conservatory Editions"
+  },
+  "tier": "working",
+  "monthlyListeners": 4936,
+  "monthlyListenersLabel": "4.9K monthly listeners",
+  "followers": 1921,
+  "followersLabel": "1.9K",
+  "shelfCaption": "Modern Composition · 4.9K listeners",
+  "verified": false,
+  "active": {
+    "from": 2020,
+    "to": 2024
+  },
+  "bio": "Rasmus Sørensen has been an Oslo fixture since 2020. Writes for the specific players, never for the instrument. Plays the same borrowed instrument on every album. Stopped releasing in 2024.",
+  "discography": [
+    "alb_equinox-and-transit-rasmus-s-r"
+  ],
+  "popularTrackIds": [
+    "trk_meridian-blues-rasmus-s-2020-1",
+    "trk_erosion-rasmus-s-2020-0",
+    "trk_transit-lullaby-rasmus-s-2020-2",
+    "trk_foundry-instrumental-rasmus-s-2020-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "modern-composition",
+        "year": 2020,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "white, graphite, one muted accent"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in profile against a plain wall. Palette: white, graphite, one muted accent. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20white%2C%20graphite%2C%20one%20muted%20accent.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "modern-composition",
+        "year": 2020,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "white, graphite, one muted accent"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a band of three standing far apart in an empty car park. Palette: white, graphite, one muted accent. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20white%2C%20graphite%2C%20one%20muted%20accent.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_meridian-blues-rasmus-s-2020-1",
+      "slug": "meridian-blues",
+      "title": "Meridian Blues",
+      "duration": "4:45",
+      "durationSec": 285,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "107,439"
+    },
+    {
+      "id": "trk_erosion-rasmus-s-2020-0",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "59,647"
+    },
+    {
+      "id": "trk_transit-lullaby-rasmus-s-2020-2",
+      "slug": "transit-lullaby",
+      "title": "Transit Lullaby",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "26,545"
+    },
+    {
+      "id": "trk_foundry-instrumental-rasmus-s-2020-3",
+      "slug": "foundry-instrumental",
+      "title": "Foundry (Instrumental)",
+      "duration": "4:42",
+      "durationSec": 282,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "8,426"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_equinox-and-transit-rasmus-s-r",
+      "slug": "equinox-and-transit",
+      "title": "Equinox & Transit",
+      "subtitle": "2020 · EP",
+      "year": 2020,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Erosion",
+      "position": 1,
+      "caption": "Erosion opens it"
+    }
+  ]
+}

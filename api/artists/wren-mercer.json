@@ -1,0 +1,336 @@
+{
+  "id": "art_wren-mercer",
+  "slug": "wren-mercer",
+  "name": "Wren Mercer",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Detroit, MI",
+  "geo": {
+    "placeId": "plc_detroit",
+    "city": "Detroit",
+    "country": "US",
+    "lat": 42.33,
+    "lng": -83.05
+  },
+  "region": "us",
+  "genres": [
+    "singer-songwriter"
+  ],
+  "primaryGenre": {
+    "slug": "singer-songwriter",
+    "name": "Singer-Songwriter"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "established",
+  "monthlyListeners": 56691,
+  "monthlyListenersLabel": "57K monthly listeners",
+  "followers": 19651,
+  "followersLabel": "20K",
+  "shelfCaption": "Singer-Songwriter · 57K listeners",
+  "verified": false,
+  "active": {
+    "from": 2020,
+    "to": null
+  },
+  "bio": "Wren Mercer has been a Detroit, MI fixture since 2020. Writes at dawn, because that is when the house is quiet.",
+  "discography": [
+    "alb_fieldwork-wren-merce",
+    "alb_rooftop-and-underpass-wren-merce",
+    "alb_barleyfield-and-meadow-wren-merce",
+    "alb_nocturne-wren-merce"
+  ],
+  "popularTrackIds": [
+    "trk_barleyfield-lullaby-wren-mer-2021-0",
+    "trk_velvet-ferry-wren-mer-2020-0",
+    "trk_bright-barleyfield-wren-mer-2020-2",
+    "trk_low-thicket-wren-mer-2020-1",
+    "trk_overgrowth-wren-mer-2021-1",
+    "trk_underpass-hymn-wren-mer-2021-2",
+    "trk_two-hundred-motels-wren-mer-2023-1",
+    "trk_fallow-barleyfield-wren-mer-2023-3",
+    "trk_hedgerow-waltz-wren-mer-2020-3",
+    "trk_nothing-but-rooftops-wren-mer-2023-0"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "singer-songwriter",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "warm greyscale with sepia in the shadows, one muted accent"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: warm greyscale with sepia in the shadows, one muted accent. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20warm%20greyscale%20with%20sepia%20in%20the%20shadows%2C%20one%20muted%20accent.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "singer-songwriter",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "warm greyscale with sepia in the shadows, one muted accent"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician walking away down a wet street, back to camera. Palette: warm greyscale with sepia in the shadows, one muted accent. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20warm%20greyscale%20with%20sepia%20in%20the%20shadows%2C%20one%20muted%20accent.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_barleyfield-lullaby-wren-mer-2021-0",
+      "slug": "barleyfield-lullaby",
+      "title": "Barleyfield Lullaby",
+      "duration": "4:03",
+      "durationSec": 243,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_barleyfield-and-meadow-wren-merce",
+        "title": "Barleyfield & Meadow",
+        "slug": "barleyfield-and-meadow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "821,974"
+    },
+    {
+      "id": "trk_velvet-ferry-wren-mer-2020-0",
+      "slug": "velvet-ferry",
+      "title": "Velvet Ferry",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_nocturne-wren-merce",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "560,223"
+    },
+    {
+      "id": "trk_bright-barleyfield-wren-mer-2020-2",
+      "slug": "bright-barleyfield",
+      "title": "Bright Barleyfield",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_nocturne-wren-merce",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "437,281"
+    },
+    {
+      "id": "trk_low-thicket-wren-mer-2020-1",
+      "slug": "low-thicket",
+      "title": "Low Thicket",
+      "duration": "3:11",
+      "durationSec": 191,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_nocturne-wren-merce",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "350,675"
+    },
+    {
+      "id": "trk_overgrowth-wren-mer-2021-1",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "3:12",
+      "durationSec": 192,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_barleyfield-and-meadow-wren-merce",
+        "title": "Barleyfield & Meadow",
+        "slug": "barleyfield-and-meadow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "266,498"
+    },
+    {
+      "id": "trk_underpass-hymn-wren-mer-2021-2",
+      "slug": "underpass-hymn",
+      "title": "Underpass Hymn",
+      "duration": "4:14",
+      "durationSec": 254,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_barleyfield-and-meadow-wren-merce",
+        "title": "Barleyfield & Meadow",
+        "slug": "barleyfield-and-meadow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "194,460"
+    },
+    {
+      "id": "trk_two-hundred-motels-wren-mer-2023-1",
+      "slug": "two-hundred-motels",
+      "title": "Two Hundred Motels",
+      "duration": "4:04",
+      "durationSec": 244,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "139,771"
+    },
+    {
+      "id": "trk_fallow-barleyfield-wren-mer-2023-3",
+      "slug": "fallow-barleyfield",
+      "title": "Fallow Barleyfield",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "124,444"
+    },
+    {
+      "id": "trk_hedgerow-waltz-wren-mer-2020-3",
+      "slug": "hedgerow-waltz",
+      "title": "Hedgerow Waltz",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_nocturne-wren-merce",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "124,231"
+    },
+    {
+      "id": "trk_nothing-but-rooftops-wren-mer-2023-0",
+      "slug": "nothing-but-rooftops",
+      "title": "Nothing but Rooftops",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_wren-mercer",
+        "name": "Wren Mercer",
+        "slug": "wren-mercer"
+      },
+      "album": {
+        "id": "alb_rooftop-and-underpass-wren-merce",
+        "title": "Rooftop & Underpass",
+        "slug": "rooftop-and-underpass",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "117,128"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_fieldwork-wren-merce",
+      "slug": "fieldwork-wren-mercer",
+      "title": "Fieldwork",
+      "subtitle": "2026 · Album",
+      "year": 2026,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_rooftop-and-underpass-wren-merce",
+      "slug": "rooftop-and-underpass-wren-mercer",
+      "title": "Rooftop & Underpass",
+      "subtitle": "2023 · EP",
+      "year": 2023,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_barleyfield-and-meadow-wren-merce",
+      "slug": "barleyfield-and-meadow",
+      "title": "Barleyfield & Meadow",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_nocturne-wren-merce",
+      "slug": "nocturne-wren-mercer",
+      "title": "Nocturne",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

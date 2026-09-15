@@ -1,0 +1,486 @@
+{
+  "$comment": "Who is playing what, where, right now — the bright dots on the globe. Curators sit in their own city on the list they are playing; members are anonymous and only carry a place. Feeds api/globe.json. A sample, not a census: the count on the globe comes from CANON, not from the length of this array.",
+  "listening": [
+    {
+      "id": "lsn_01",
+      "kind": "curator",
+      "curatorId": "cur_sofia-reyes",
+      "placeId": "plc_mexico-city",
+      "playlistId": "pl_golden-hour",
+      "trackId": "trk_exchange-demo-imogen-s-2023-4",
+      "startedSecAgo": 223
+    },
+    {
+      "id": "lsn_02",
+      "kind": "curator",
+      "curatorId": "cur_ade-mensah",
+      "placeId": "plc_accra",
+      "playlistId": "pl_the-archive",
+      "trackId": "trk_nocturne-merrick--2024-3",
+      "startedSecAgo": 228
+    },
+    {
+      "id": "lsn_03",
+      "kind": "curator",
+      "curatorId": "cur_ingrid-halvorsen",
+      "placeId": "plc_oslo",
+      "playlistId": "pl_garden-sessions",
+      "trackId": "trk_erosion-opal-and-2025-0",
+      "startedSecAgo": 122
+    },
+    {
+      "id": "lsn_04",
+      "kind": "curator",
+      "curatorId": "cur_marcus-pike",
+      "placeId": "plc_philadelphia",
+      "playlistId": "pl_jazz-nights",
+      "trackId": "trk_new-registry-late-pay-2017-2",
+      "startedSecAgo": 114
+    },
+    {
+      "id": "lsn_05",
+      "kind": "curator",
+      "curatorId": "cur_haruka-nakagawa",
+      "placeId": "plc_tokyo",
+      "playlistId": "pl_cassette-dreams",
+      "trackId": "trk_blue-ballroom-grafting-2021-2",
+      "startedSecAgo": 141
+    },
+    {
+      "id": "lsn_06",
+      "kind": "curator",
+      "curatorId": "cur_teo-marchand",
+      "placeId": "plc_paris",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_new-depot-femi-and-2016-1",
+      "startedSecAgo": 220
+    },
+    {
+      "id": "lsn_07",
+      "kind": "curator",
+      "curatorId": "cur_nadia-ilic",
+      "placeId": "plc_belgrade",
+      "playlistId": "pl_string-theory",
+      "trackId": "trk_equinox-blues-redshift-2022-0",
+      "startedSecAgo": 138
+    },
+    {
+      "id": "lsn_08",
+      "kind": "curator",
+      "curatorId": "cur_luana-andrade",
+      "placeId": "plc_sao-paulo",
+      "playlistId": "pl_tropicalia",
+      "trackId": "trk_zoning-femi-and-2006-3",
+      "startedSecAgo": 75
+    },
+    {
+      "id": "lsn_09",
+      "kind": "curator",
+      "curatorId": "cur_amara-diallo",
+      "placeId": "plc_london",
+      "playlistId": "pl_late-night-heat",
+      "trackId": "trk_label-hymn-sadie-bl-2021-3",
+      "startedSecAgo": 160
+    },
+    {
+      "id": "lsn_10",
+      "kind": "member",
+      "placeId": "plc_lisbon",
+      "playlistId": "pl_tropicalia",
+      "trackId": "trk_bloc-lullaby-cass-and-2021-2",
+      "startedSecAgo": 155
+    },
+    {
+      "id": "lsn_11",
+      "kind": "member",
+      "placeId": "plc_nairobi",
+      "playlistId": "pl_tropicalia",
+      "trackId": "trk_last-ballroom-renata-a-2025-1",
+      "startedSecAgo": 221
+    },
+    {
+      "id": "lsn_12",
+      "kind": "member",
+      "placeId": "plc_seoul",
+      "playlistId": "pl_wildflower-days",
+      "trackId": "trk_wax-and-wane",
+      "startedSecAgo": 220
+    },
+    {
+      "id": "lsn_13",
+      "kind": "member",
+      "placeId": "plc_jakarta",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_zoning-cass-and-2023-0",
+      "startedSecAgo": 12
+    },
+    {
+      "id": "lsn_14",
+      "kind": "member",
+      "placeId": "plc_sydney",
+      "playlistId": "pl_wildflower-days",
+      "trackId": "trk_copper-cairn-sadie-an-2020-2",
+      "startedSecAgo": 176
+    },
+    {
+      "id": "lsn_15",
+      "kind": "member",
+      "placeId": "plc_auckland",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_model-assembly-femi-and-2018-1",
+      "startedSecAgo": 94
+    },
+    {
+      "id": "lsn_16",
+      "kind": "member",
+      "placeId": "plc_reykjavik",
+      "playlistId": "pl_late-night-heat",
+      "trackId": "trk_census-late-pay-2019-2",
+      "startedSecAgo": 104
+    },
+    {
+      "id": "lsn_17",
+      "kind": "member",
+      "placeId": "plc_cape-town",
+      "playlistId": "pl_late-night-heat",
+      "trackId": "trk_cassette-weather",
+      "startedSecAgo": 67
+    },
+    {
+      "id": "lsn_18",
+      "kind": "member",
+      "placeId": "plc_mumbai",
+      "playlistId": "pl_garden-sessions",
+      "trackId": "trk_ballast-petra-il-2021-3",
+      "startedSecAgo": 82
+    },
+    {
+      "id": "lsn_19",
+      "kind": "member",
+      "placeId": "plc_bangkok",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_neon-hour-rhys-ree-2023-2",
+      "startedSecAgo": 11
+    },
+    {
+      "id": "lsn_20",
+      "kind": "member",
+      "placeId": "plc_manila",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_twice-the-terminal-rhys-ree-2025-2",
+      "startedSecAgo": 192
+    },
+    {
+      "id": "lsn_21",
+      "kind": "member",
+      "placeId": "plc_buenos-aires",
+      "playlistId": "pl_golden-hour",
+      "trackId": "trk_paper-lanterns",
+      "startedSecAgo": 6
+    },
+    {
+      "id": "lsn_22",
+      "kind": "member",
+      "placeId": "plc_lima",
+      "playlistId": "pl_wildflower-days",
+      "trackId": "trk_every-bloc-the-slat-2023-1",
+      "startedSecAgo": 33
+    },
+    {
+      "id": "lsn_23",
+      "kind": "member",
+      "placeId": "plc_santiago",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_new-bureau-rhys-ree-2023-1",
+      "startedSecAgo": 132
+    },
+    {
+      "id": "lsn_24",
+      "kind": "member",
+      "placeId": "plc_toronto",
+      "playlistId": "pl_golden-hour",
+      "trackId": "trk_no-more-fathoms-bloom-2017-1",
+      "startedSecAgo": 165
+    },
+    {
+      "id": "lsn_25",
+      "kind": "member",
+      "placeId": "plc_vancouver",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_hour-march-renata-a-2023-0",
+      "startedSecAgo": 230
+    },
+    {
+      "id": "lsn_26",
+      "kind": "member",
+      "placeId": "plc_denver",
+      "playlistId": "pl_string-theory",
+      "trackId": "trk_moss-waltz-the-gree-2024-3",
+      "startedSecAgo": 188
+    },
+    {
+      "id": "lsn_27",
+      "kind": "member",
+      "placeId": "plc_austin",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_quarry-reprise-opal-and-2014-2",
+      "startedSecAgo": 138
+    },
+    {
+      "id": "lsn_28",
+      "kind": "member",
+      "placeId": "plc_miami",
+      "playlistId": "pl_golden-hour",
+      "trackId": "trk_fallow-thicket-ren-ishi-2020-1",
+      "startedSecAgo": 182
+    },
+    {
+      "id": "lsn_29",
+      "kind": "member",
+      "placeId": "plc_dublin",
+      "playlistId": "pl_wildflower-days",
+      "trackId": "trk_half-a-strata-sadie-an-2021-1",
+      "startedSecAgo": 178
+    },
+    {
+      "id": "lsn_30",
+      "kind": "member",
+      "placeId": "plc_amsterdam",
+      "playlistId": "pl_cassette-dreams",
+      "trackId": "trk_nocturne-merrick--2011-3",
+      "startedSecAgo": 227
+    },
+    {
+      "id": "lsn_31",
+      "kind": "member",
+      "placeId": "plc_copenhagen",
+      "playlistId": "pl_late-night-heat",
+      "trackId": "trk_small-rooftop-merrick--2022-1",
+      "startedSecAgo": 189
+    },
+    {
+      "id": "lsn_32",
+      "kind": "member",
+      "placeId": "plc_warsaw",
+      "playlistId": "pl_garden-sessions",
+      "trackId": "trk_total-observatory-tobias-t-2024-4",
+      "startedSecAgo": 163
+    },
+    {
+      "id": "lsn_33",
+      "kind": "member",
+      "placeId": "plc_athens",
+      "playlistId": "pl_cassette-dreams",
+      "trackId": "trk_45-rpm-heart",
+      "startedSecAgo": 11
+    },
+    {
+      "id": "lsn_34",
+      "kind": "member",
+      "placeId": "plc_istanbul",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_small-marquee-curfew-2023-2",
+      "startedSecAgo": 71
+    },
+    {
+      "id": "lsn_35",
+      "kind": "member",
+      "placeId": "plc_cairo",
+      "playlistId": "pl_wildflower-days",
+      "trackId": "trk_sediment-the-barl-2020-4",
+      "startedSecAgo": 204
+    },
+    {
+      "id": "lsn_36",
+      "kind": "member",
+      "placeId": "plc_dakar",
+      "playlistId": "pl_vinyl-sundays",
+      "trackId": "trk_faded-label",
+      "startedSecAgo": 29
+    },
+    {
+      "id": "lsn_37",
+      "kind": "member",
+      "placeId": "plc_johannesburg",
+      "playlistId": "pl_vinyl-sundays",
+      "trackId": "trk_faded-label",
+      "startedSecAgo": 128
+    },
+    {
+      "id": "lsn_38",
+      "kind": "member",
+      "placeId": "plc_delhi",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_census-femi-and-2022-2",
+      "startedSecAgo": 119
+    },
+    {
+      "id": "lsn_39",
+      "kind": "member",
+      "placeId": "plc_taipei",
+      "playlistId": "pl_the-archive",
+      "trackId": "trk_census-femi-and-2022-0",
+      "startedSecAgo": 103
+    },
+    {
+      "id": "lsn_40",
+      "kind": "member",
+      "placeId": "plc_hong-kong",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_model-assembly-femi-and-2018-1",
+      "startedSecAgo": 180
+    },
+    {
+      "id": "lsn_41",
+      "kind": "member",
+      "placeId": "plc_honolulu",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_village-hymn-petra-il-2021-2",
+      "startedSecAgo": 210
+    },
+    {
+      "id": "lsn_42",
+      "kind": "member",
+      "placeId": "plc_anchorage",
+      "playlistId": "pl_tropicalia",
+      "trackId": "trk_no-more-orchards-renata-a-2021-4",
+      "startedSecAgo": 52
+    },
+    {
+      "id": "lsn_43",
+      "kind": "member",
+      "placeId": "plc_perth",
+      "playlistId": "pl_poolside",
+      "trackId": "trk_model-assembly-femi-and-2018-1",
+      "startedSecAgo": 47
+    },
+    {
+      "id": "lsn_44",
+      "kind": "member",
+      "placeId": "plc_ho-chi-minh-city",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_bloc-reprise-late-pay-2016-2",
+      "startedSecAgo": 55
+    },
+    {
+      "id": "lsn_45",
+      "kind": "member",
+      "placeId": "plc_casablanca",
+      "playlistId": "pl_string-theory",
+      "trackId": "trk_transit-lullaby-rasmus-s-2020-2",
+      "startedSecAgo": 176
+    },
+    {
+      "id": "lsn_46",
+      "kind": "member",
+      "placeId": "plc_addis-ababa",
+      "playlistId": "pl_the-archive",
+      "trackId": "trk_no-more-harvests-mateo-mo-2019-4",
+      "startedSecAgo": 29
+    },
+    {
+      "id": "lsn_47",
+      "kind": "member",
+      "placeId": "plc_havana",
+      "playlistId": "pl_late-night-heat",
+      "trackId": "trk_label-hymn-sadie-bl-2021-3",
+      "startedSecAgo": 195
+    },
+    {
+      "id": "lsn_48",
+      "kind": "member",
+      "placeId": "plc_montevideo",
+      "playlistId": "pl_cassette-dreams",
+      "trackId": "trk_45-rpm-heart",
+      "startedSecAgo": 54
+    },
+    {
+      "id": "lsn_49",
+      "kind": "member",
+      "placeId": "plc_helsinki",
+      "playlistId": "pl_tropicalia",
+      "trackId": "trk_census-femi-and-2022-0",
+      "startedSecAgo": 186
+    },
+    {
+      "id": "lsn_50",
+      "kind": "member",
+      "placeId": "plc_edinburgh",
+      "playlistId": "pl_jazz-nights",
+      "trackId": "trk_registry-elegy-the-velv-2024-2",
+      "startedSecAgo": 211
+    },
+    {
+      "id": "lsn_51",
+      "kind": "member",
+      "placeId": "plc_marseille",
+      "playlistId": "pl_the-archive",
+      "trackId": "trk_late-payphone-renata-a-2025-0",
+      "startedSecAgo": 228
+    },
+    {
+      "id": "lsn_52",
+      "kind": "member",
+      "placeId": "plc_milan",
+      "playlistId": "pl_vinyl-sundays",
+      "trackId": "trk_dust-on-the-needle",
+      "startedSecAgo": 98
+    },
+    {
+      "id": "lsn_53",
+      "kind": "member",
+      "placeId": "plc_barcelona",
+      "playlistId": "pl_jazz-nights",
+      "trackId": "trk_curfew-halvor-l-2017-0",
+      "startedSecAgo": 161
+    },
+    {
+      "id": "lsn_54",
+      "kind": "member",
+      "placeId": "plc_kingston",
+      "playlistId": "pl_string-theory",
+      "trackId": "trk_transit-lullaby-rasmus-s-2020-2",
+      "startedSecAgo": 37
+    },
+    {
+      "id": "lsn_55",
+      "kind": "member",
+      "placeId": "plc_melbourne",
+      "playlistId": "pl_jazz-nights",
+      "trackId": "trk_every-registry-the-velv-2024-1",
+      "startedSecAgo": 65
+    },
+    {
+      "id": "lsn_56",
+      "kind": "member",
+      "placeId": "plc_berlin",
+      "playlistId": "pl_wildflower-days",
+      "trackId": "trk_small-rooftop-merrick--2022-1",
+      "startedSecAgo": 106
+    },
+    {
+      "id": "lsn_57",
+      "kind": "member",
+      "placeId": "plc_lagos",
+      "playlistId": "pl_garden-sessions",
+      "trackId": "trk_bright-thicket-bloom-2022-1",
+      "startedSecAgo": 20
+    },
+    {
+      "id": "lsn_58",
+      "kind": "member",
+      "placeId": "plc_detroit",
+      "playlistId": "pl_midnight-sax",
+      "trackId": "trk_annex-lullaby-rhys-ree-2025-3",
+      "startedSecAgo": 147
+    },
+    {
+      "id": "lsn_59",
+      "kind": "member",
+      "placeId": "plc_kyoto",
+      "playlistId": "pl_golden-hour",
+      "trackId": "trk_harbour-lights",
+      "startedSecAgo": 107
+    }
+  ]
+}

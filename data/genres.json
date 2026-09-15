@@ -1,0 +1,51 @@
+{
+  "$comment": "Genre taxonomy. `share` is the fraction of the Kraft catalogue in this genre — deliberately power-law, matching how real curated catalogues skew. `browse` marks the six that surface as tiles on the Search screen.",
+  "genres": [
+    { "slug": "indie-rock", "name": "Indie Rock", "share": 0.115, "browse": true, "browseLabel": "Indie", "parent": null },
+    { "slug": "folk", "name": "Folk", "share": 0.092, "browse": true, "parent": null },
+    { "slug": "jazz", "name": "Jazz", "share": 0.086, "browse": true, "parent": null },
+    { "slug": "ambient", "name": "Ambient", "share": 0.071, "browse": false, "parent": null },
+    { "slug": "dream-pop", "name": "Dream Pop", "share": 0.062, "browse": false, "parent": "indie-rock" },
+    { "slug": "electronic", "name": "Electronic", "share": 0.058, "browse": false, "parent": null },
+    { "slug": "house", "name": "House", "share": 0.049, "browse": false, "parent": "electronic" },
+    { "slug": "hip-hop", "name": "Hip-Hop", "share": 0.047, "browse": false, "parent": null },
+    { "slug": "soul", "name": "Soul", "share": 0.044, "browse": false, "parent": null },
+    { "slug": "post-punk", "name": "Post-Punk", "share": 0.041, "browse": false, "parent": null },
+    { "slug": "americana", "name": "Americana", "share": 0.038, "browse": false, "parent": "folk" },
+    { "slug": "singer-songwriter", "name": "Singer-Songwriter", "share": 0.036, "browse": false, "parent": "folk" },
+    { "slug": "techno", "name": "Techno", "share": 0.033, "browse": false, "parent": "electronic" },
+    { "slug": "latin", "name": "Latin", "share": 0.031, "browse": false, "parent": null },
+    { "slug": "rnb", "name": "R&B", "share": 0.029, "browse": false, "parent": null },
+    { "slug": "shoegaze", "name": "Shoegaze", "share": 0.026, "browse": false, "parent": "indie-rock" },
+    { "slug": "downtempo", "name": "Downtempo", "share": 0.024, "browse": false, "parent": "electronic" },
+    { "slug": "funk", "name": "Funk", "share": 0.022, "browse": false, "parent": null },
+    { "slug": "spiritual-jazz", "name": "Spiritual Jazz", "share": 0.019, "browse": false, "parent": "jazz" },
+    { "slug": "modern-composition", "name": "Modern Composition", "share": 0.018, "browse": false, "parent": null },
+    { "slug": "afrobeat", "name": "Afrobeat", "share": 0.016, "browse": false, "parent": null },
+    { "slug": "bossa", "name": "Bossa Nova", "share": 0.014, "browse": false, "parent": "latin" },
+    { "slug": "dub", "name": "Dub", "share": 0.013, "browse": false, "parent": null },
+    { "slug": "cumbia", "name": "Cumbia", "share": 0.012, "browse": false, "parent": "latin" },
+    { "slug": "analog-revival", "name": "Analog Revival", "share": 0.011, "browse": false, "parent": null },
+    { "slug": "experimental", "name": "Experimental", "share": 0.010, "browse": false, "parent": null },
+    { "slug": "punk", "name": "Punk", "share": 0.009, "browse": false, "parent": null },
+    { "slug": "metal", "name": "Metal", "share": 0.008, "browse": false, "parent": null },
+    { "slug": "rock", "name": "Rock", "share": 0.066, "browse": true, "parent": null }
+  ],
+  "browseCategories": [
+    { "slug": "folk", "label": "Folk", "kind": "genre" },
+    { "slug": "jazz", "label": "Jazz", "kind": "genre" },
+    { "slug": "indie-rock", "label": "Indie", "kind": "genre" },
+    { "slug": "rock", "label": "Rock", "kind": "genre" },
+    { "slug": "chill", "label": "Chill", "kind": "mood", "genres": ["ambient", "downtempo", "bossa"] },
+    { "slug": "new-releases", "label": "New releases", "kind": "feed", "window": "90d" }
+  ],
+  "moods": [
+    { "slug": "chill", "label": "Chill" },
+    { "slug": "late-night", "label": "Late night" },
+    { "slug": "focus", "label": "Focus" },
+    { "slug": "sunday-morning", "label": "Sunday morning" },
+    { "slug": "driving", "label": "Driving" },
+    { "slug": "heartbreak", "label": "Heartbreak" },
+    { "slug": "euphoric", "label": "Euphoric" }
+  ]
+}

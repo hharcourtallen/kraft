@@ -1,0 +1,46 @@
+{
+  "id": "alb_pastures-sadie-and-",
+  "slug": "pastures",
+  "title": "Pastures",
+  "year": 2022,
+  "type": "Album",
+  "subtitle": "2022 · Album",
+  "trackCount": 12,
+  "durationSec": 2840,
+  "durationLabel": "47 min",
+  "artist": {
+    "id": "art_sadie-and-the-villages",
+    "name": "Sadie & The Villages",
+    "slug": "sadie-and-the-villages"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "americana"
+  ],
+  "tracks": [
+    "trk_barleyfield-blues-sadie-an-2022-0",
+    "trk_sediment-sadie-an-2022-1",
+    "trk_bedrock-blues-sadie-an-2022-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2022,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "telephone poles receding into heat haze",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes telephone poles receding into heat haze. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20telephone%20poles%20receding%20into%20heat%20haze.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

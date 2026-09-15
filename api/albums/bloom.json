@@ -1,0 +1,52 @@
+{
+  "id": "alb_bloom",
+  "slug": "bloom",
+  "title": "Bloom",
+  "year": 2025,
+  "type": "Album",
+  "subtitle": "2025 · Album",
+  "trackCount": 10,
+  "durationSec": 3360,
+  "durationLabel": "56 min",
+  "artist": {
+    "id": "art_jack-hatfield",
+    "name": "Jack Hatfield",
+    "slug": "jack-hatfield"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_harbour-lights"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2025,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "clean vector illustration, flat colour, no texture, crisp edges",
+      "composition": "centred emblem, generous margin, perfectly symmetrical",
+      "abstract": false,
+      "subject": "an empty wooden chair in a bare room",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2025 sleeve deliberately styled after 2000-2014. Medium: clean vector illustration, flat colour, no texture, crisp edges. Subject: an empty wooden chair in a bare room. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: centred emblem, generous margin, perfectly symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202025%20sleeve%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20clean%20vector%20illustration%2C%20flat%20colour%2C%20no%20texture%2C%20crisp%20edges.%20Subject%3A%20an%20empty%20wooden%20chair%20in%20a%20bare%20room.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20centred%20emblem%2C%20generous%20margin%2C%20perfectly%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": {
+    "level": "low",
+    "reason": "Bloom is a well-known Beach House album (2012). Common word, low practical risk, but it is a title people will recognise.",
+    "suggestions": [
+      "Slack Water",
+      "Harbour Work"
+    ]
+  }
+}

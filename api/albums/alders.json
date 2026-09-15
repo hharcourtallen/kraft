@@ -1,0 +1,47 @@
+{
+  "id": "alb_alders-the-neon-u",
+  "slug": "alders",
+  "title": "Alders",
+  "year": 2007,
+  "type": "EP",
+  "subtitle": "2007 · EP",
+  "trackCount": 4,
+  "durationSec": 868,
+  "durationLabel": "14 min",
+  "artist": {
+    "id": "art_the-neon-underpasses",
+    "name": "The Neon Underpasses",
+    "slug": "the-neon-underpasses"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "rock",
+    "post-punk"
+  ],
+  "tracks": [
+    "trk_long-fen-the-neon-2007-0",
+    "trk_velvet-motel-the-neon-2007-1",
+    "trk_late-marquee-the-neon-2007-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rock",
+      "year": 2007,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "clean vector illustration, flat colour, no texture, crisp edges",
+      "composition": "centred emblem, generous margin, perfectly symmetrical",
+      "abstract": false,
+      "subject": "a leather jacket on a hook",
+      "palette": "oxblood, smoke grey, brass, hard black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: clean vector illustration, flat colour, no texture, crisp edges. Subject: a leather jacket on a hook. Palette: oxblood, smoke grey, brass, hard black. Composition: centred emblem, generous margin, perfectly symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20clean%20vector%20illustration%2C%20flat%20colour%2C%20no%20texture%2C%20crisp%20edges.%20Subject%3A%20a%20leather%20jacket%20on%20a%20hook.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20centred%20emblem%2C%20generous%20margin%2C%20perfectly%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

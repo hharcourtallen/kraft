@@ -1,0 +1,49 @@
+{
+  "id": "alb_exchange-and-assembly-imogen-sin",
+  "slug": "exchange-and-assembly",
+  "title": "Exchange & Assembly",
+  "year": 2023,
+  "type": "EP",
+  "subtitle": "2023 · EP",
+  "trackCount": 6,
+  "durationSec": 1538,
+  "durationLabel": "26 min",
+  "artist": {
+    "id": "art_imogen-sinclair",
+    "name": "Imogen Sinclair",
+    "slug": "imogen-sinclair"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_insomnia-imogen-s-2023-0",
+    "trk_no-more-precincts-imogen-s-2023-1",
+    "trk_taxi-hymn-imogen-s-2023-2",
+    "trk_zoning-imogen-s-2023-3",
+    "trk_exchange-demo-imogen-s-2023-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2023,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+      "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+      "abstract": false,
+      "subject": "a folding table and two chairs",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a folding table and two chairs. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20folding%20table%20and%20two%20chairs.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

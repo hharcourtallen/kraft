@@ -1,0 +1,48 @@
+{
+  "id": "alb_wow-and-flutter-sadie-blac",
+  "slug": "wow-and-flutter",
+  "title": "Wow & Flutter",
+  "year": 2019,
+  "type": "EP",
+  "subtitle": "2019 · EP",
+  "trackCount": 5,
+  "durationSec": 1463,
+  "durationLabel": "24 min",
+  "artist": {
+    "id": "art_sadie-blackwood",
+    "name": "Sadie Blackwood",
+    "slug": "sadie-blackwood"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "genres": [
+    "downtempo",
+    "ambient"
+  ],
+  "tracks": [
+    "trk_velvet-rooftop-sadie-bl-2019-0",
+    "trk_blue-underpass-sadie-bl-2019-1",
+    "trk_nothing-but-sleeves-sadie-bl-2019-2",
+    "trk_dark-ferry-sadie-bl-2019-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "downtempo",
+      "year": 2019,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "a slow horizontal smear",
+      "palette": "sodium orange, wet black, muddy green"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes a slow horizontal smear. Palette: sodium orange, wet black, muddy green. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20slow%20horizontal%20smear.%20Palette%3A%20sodium%20orange%2C%20wet%20black%2C%20muddy%20green.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

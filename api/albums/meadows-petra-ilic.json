@@ -1,0 +1,49 @@
+{
+  "id": "alb_meadows-petra-ilic",
+  "slug": "meadows-petra-ilic",
+  "title": "Meadows",
+  "year": 2019,
+  "type": "Album",
+  "subtitle": "2019 · Album",
+  "trackCount": 12,
+  "durationSec": 2537,
+  "durationLabel": "42 min",
+  "artist": {
+    "id": "art_petra-ilic",
+    "name": "Petra Ilić",
+    "slug": "petra-ilic"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_fallow-alder-petra-il-2019-0",
+    "trk_golden-alder-petra-il-2019-1",
+    "trk_north-lighthouse-petra-il-2019-2",
+    "trk_harbour-reprise-petra-il-2019-3",
+    "trk_salt-shoal-petra-il-2019-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2019,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "overlapping circles in earth pigment",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: overlapping circles in earth pigment. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20overlapping%20circles%20in%20earth%20pigment.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,48 @@
+{
+  "id": "alb_bureaus-curfew",
+  "slug": "bureaus-curfew",
+  "title": "Bureaus",
+  "year": 2023,
+  "type": "EP",
+  "subtitle": "2023 · EP",
+  "trackCount": 4,
+  "durationSec": 1681,
+  "durationLabel": "28 min",
+  "artist": {
+    "id": "art_curfew",
+    "name": "Curfew",
+    "slug": "curfew"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "genres": [
+    "jazz",
+    "funk"
+  ],
+  "tracks": [
+    "trk_half-a-payphone-curfew-2023-0",
+    "trk_census-curfew-2023-1",
+    "trk_small-marquee-curfew-2023-2",
+    "trk_provisional-precinct-curfew-2023-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2023,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+      "composition": "snapshot framing, subject centred, background falling away",
+      "abstract": false,
+      "subject": "three offset rectangles",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: three offset rectangles. Palette: deep navy or oxblood with cream, one flat colour block. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20three%20offset%20rectangles.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

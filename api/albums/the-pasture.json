@@ -1,0 +1,47 @@
+{
+  "id": "alb_the-pasture-mateo-moli",
+  "slug": "the-pasture",
+  "title": "The Pasture",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 12,
+  "durationSec": 2824,
+  "durationLabel": "47 min",
+  "artist": {
+    "id": "art_mateo-molinari",
+    "name": "Mateo Molinari",
+    "slug": "mateo-molinari"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "genres": [
+    "cumbia",
+    "latin"
+  ],
+  "tracks": [
+    "trk_provision-mateo-mo-2021-0",
+    "trk_exchange-lullaby-mateo-mo-2021-1",
+    "trk_all-the-precincts-mateo-mo-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "cumbia",
+      "year": 2021,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "offset lithograph with visible halftone rosette and slight colour misregistration",
+      "composition": "bold flat shapes, wide margins, one dominant form",
+      "abstract": false,
+      "subject": "a bold floral repeat",
+      "palette": "hot orange, turquoise, lime, magenta"
+    },
+    "prompt": "Album cover artwork, square format. A 2021 sleeve deliberately styled after 1955-1979. Medium: offset lithograph with visible halftone rosette and slight colour misregistration. Subject: a bold floral repeat. Palette: hot orange, turquoise, lime, magenta. Composition: bold flat shapes, wide margins, one dominant form. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202021%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20offset%20lithograph%20with%20visible%20halftone%20rosette%20and%20slight%20colour%20misregistration.%20Subject%3A%20a%20bold%20floral%20repeat.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20bold%20flat%20shapes%2C%20wide%20margins%2C%20one%20dominant%20form.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

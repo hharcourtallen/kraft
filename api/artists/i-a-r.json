@@ -1,0 +1,329 @@
+{
+  "id": "art_i-a-r",
+  "slug": "i-a-r",
+  "name": "I.A.R.",
+  "formation": "band",
+  "country": "CL",
+  "hometown": "Valparaíso",
+  "geo": {
+    "placeId": "plc_valparaiso",
+    "city": "Valparaíso",
+    "country": "CL",
+    "lat": -33.05,
+    "lng": -71.62
+  },
+  "region": "latam",
+  "genres": [
+    "latin"
+  ],
+  "primaryGenre": {
+    "slug": "latin",
+    "name": "Latin"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2094,
+  "monthlyListenersLabel": "2.1K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Latin · 2.1K listeners",
+  "verified": false,
+  "active": {
+    "from": 2025,
+    "to": null
+  },
+  "bio": "Formed in Valparaíso and still arguing about it. Percussion first, always, and the melody argues with it.",
+  "discography": [
+    "alb_overgrowth-i-a-r",
+    "alb_fen-and-common-i-a-r"
+  ],
+  "popularTrackIds": [
+    "trk_half-a-rooftop-i-a-r-2025-0",
+    "trk_bloom-i-a-r-2025-1",
+    "trk_overgrowth-i-a-r-2026-0",
+    "trk_husbandry-i-a-r-2025-2",
+    "trk_rootwork-i-a-r-2026-1",
+    "trk_boulevard-instrumental-i-a-r-2026-2",
+    "trk_nocturne-i-a-r-2025-3",
+    "trk_common-live-at-the-roundhouse-i-a-r-2026-3",
+    "trk_no-more-taxis-i-a-r-2026-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "latin",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "terracotta, cobalt, marigold, whitewash"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: terracotta, cobalt, marigold, whitewash. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "latin",
+        "year": 2026,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "terracotta, cobalt, marigold, whitewash"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2026 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a band of three standing far apart in an empty car park. Palette: terracotta, cobalt, marigold, whitewash. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202026%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_half-a-rooftop-i-a-r-2025-0",
+      "slug": "half-a-rooftop",
+      "title": "Half a Rooftop",
+      "duration": "5:15",
+      "durationSec": 315,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "14,915"
+    },
+    {
+      "id": "trk_bloom-i-a-r-2025-1",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "3,257"
+    },
+    {
+      "id": "trk_overgrowth-i-a-r-2026-0",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "2,111"
+    },
+    {
+      "id": "trk_husbandry-i-a-r-2025-2",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,439"
+    },
+    {
+      "id": "trk_rootwork-i-a-r-2026-1",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "827"
+    },
+    {
+      "id": "trk_boulevard-instrumental-i-a-r-2026-2",
+      "slug": "boulevard-instrumental",
+      "title": "Boulevard (Instrumental)",
+      "duration": "4:44",
+      "durationSec": 284,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "701"
+    },
+    {
+      "id": "trk_nocturne-i-a-r-2025-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "570"
+    },
+    {
+      "id": "trk_common-live-at-the-roundhouse-i-a-r-2026-3",
+      "slug": "common-live-at-the-roundhouse",
+      "title": "Common (Live at the Roundhouse)",
+      "duration": "4:25",
+      "durationSec": 265,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "288"
+    },
+    {
+      "id": "trk_no-more-taxis-i-a-r-2026-4",
+      "slug": "no-more-taxis",
+      "title": "No More Taxis",
+      "duration": "3:47",
+      "durationSec": 227,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "194"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_overgrowth-i-a-r",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "subtitle": "2026 · Album",
+      "year": 2026,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_fen-and-common-i-a-r",
+      "slug": "fen-and-common",
+      "title": "Fen & Common",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-argentina",
+      "slug": "argentina",
+      "title": "Argentina",
+      "image": "/artwork/playlist/country-argentina.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Overgrowth",
+      "position": 4,
+      "caption": "Overgrowth is track 4"
+    },
+    {
+      "playlistId": "pl_country-chile",
+      "slug": "chile",
+      "title": "Chile",
+      "image": "/artwork/playlist/country-chile.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Half a Rooftop",
+      "position": 1,
+      "caption": "Half a Rooftop opens it"
+    },
+    {
+      "playlistId": "pl_country-brazil",
+      "slug": "brazil",
+      "title": "Brazil",
+      "image": "/artwork/playlist/country-brazil.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "No More Taxis",
+      "position": 4,
+      "caption": "No More Taxis is track 4"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-argentina",
+  "slug": "argentina",
+  "title": "Argentina",
+  "description": null,
+  "note": "Buenos Aires is a three-hour flight and a completely different Sunday. Mateo Molinari first, always.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "AR",
+  "subtitle": "Luana Andrade",
+  "curator": {
+    "id": "cur_luana-andrade",
+    "name": "Luana Andrade",
+    "city": "São Paulo"
+  },
+  "trackCount": 12,
+  "durationSec": 2883,
+  "durationLabel": "48 min",
+  "metaLine": "12 tracks · 48 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 9800,
+  "followersLabel": "9.8K",
+  "updated": "2026-06-26",
+  "moods": [],
+  "genres": [
+    "cumbia",
+    "latin",
+    "bossa"
+  ],
+  "trackIds": [
+    "trk_soft-barleyfield-mateo-mo-2015-0",
+    "trk_bright-pasture-mateo-mo-2015-1",
+    "trk_model-bloc-mateo-mo-2019-3",
+    "trk_overgrowth-i-a-r-2026-0",
+    "trk_curfew-renata-a-2021-3",
+    "trk_depot-reprise-mateo-mo-2019-2",
+    "trk_late-payphone-renata-a-2025-0",
+    "trk_hour-march-renata-a-2023-0",
+    "trk_midnight-ballroom-renata-a-2025-4",
+    "trk_municipal-depot-mateo-mo-2019-1",
+    "trk_insomnia-renata-a-2025-3",
+    "trk_village-waltz-renata-a-2021-1"
+  ],
+  "tracks": [
+    {
+      "id": "trk_soft-barleyfield-mateo-mo-2015-0",
+      "slug": "soft-barleyfield",
+      "title": "Soft Barleyfield",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-pasture-mateo-mo-2015-1",
+      "slug": "bright-pasture",
+      "title": "Bright Pasture",
+      "duration": "4:08",
+      "durationSec": 248,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-bloc-mateo-mo-2019-3",
+      "slug": "model-bloc",
+      "title": "Model Bloc",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_overgrowth-i-a-r-2026-0",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_overgrowth-i-a-r",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2026
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-renata-a-2021-3",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:19",
+      "durationSec": 199,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_depot-reprise-mateo-mo-2019-2",
+      "slug": "depot-reprise",
+      "title": "Depot (Reprise)",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_late-payphone-renata-a-2025-0",
+      "slug": "late-payphone",
+      "title": "Late Payphone",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_the-payphone-renata-and",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_hour-march-renata-a-2023-0",
+      "slug": "hour-march",
+      "title": "Hour March",
+      "duration": "3:14",
+      "durationSec": 194,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_brambles-renata-and",
+        "title": "Brambles",
+        "slug": "brambles",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_midnight-ballroom-renata-a-2025-4",
+      "slug": "midnight-ballroom",
+      "title": "Midnight Ballroom",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_the-payphone-renata-and",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_municipal-depot-mateo-mo-2019-1",
+      "slug": "municipal-depot",
+      "title": "Municipal Depot",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_insomnia-renata-a-2025-3",
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "duration": "3:10",
+      "durationSec": 190,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_the-payphone-renata-and",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_village-waltz-renata-a-2021-1",
+      "slug": "village-waltz",
+      "title": "Village Waltz",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-argentina.png",
+    "direction": {
+      "genre": "cumbia",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "sculptural or textile object photographed under raking light",
+      "composition": "tactile, close, shallow depth of field",
+      "abstract": false,
+      "subject": "a bold floral repeat",
+      "palette": "hot orange, turquoise, lime, magenta"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: sculptural or textile object photographed under raking light. Subject: a bold floral repeat. Palette: hot orange, turquoise, lime, magenta. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20bold%20floral%20repeat.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "26 Jun"
+}

@@ -1,0 +1,375 @@
+{
+  "scenes": [
+    {
+      "id": "scn_analog-revival",
+      "name": "Analog Revival",
+      "city": "Melbourne",
+      "labelId": "lbl_second-pressing",
+      "genres": [
+        "analog-revival"
+      ],
+      "look": "Tape, room mics, visible wear.",
+      "artistIds": [
+        "art_the-worn-grooves",
+        "art_analog-hearts",
+        "art_oliver-felt",
+        "art_spinning-room",
+        "art_second-hand-sound",
+        "art_margot-and-the-spindles",
+        "art_hiss-and-warmth",
+        "art_shellac-jones",
+        "art_the-dusty-crates",
+        "art_lead-in-groove"
+      ],
+      "placeId": "plc_melbourne",
+      "slug": "analog-revival",
+      "geo": {
+        "placeId": "plc_melbourne",
+        "city": "Melbourne",
+        "country": "AU",
+        "lat": -37.81,
+        "lng": 144.96
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "artistCount": 10,
+      "metaLine": "Melbourne · 10 artists",
+      "artwork": {
+        "image": "/artwork/scene/analog-revival.jpg",
+        "direction": {
+          "genre": "analog-revival",
+          "year": 2026,
+          "era": "classic",
+          "eraLabel": "1980-1999",
+          "isPeriodHomage": true,
+          "medium": "long-exposure photograph with heavy bloom and lens diffusion",
+          "composition": "abstracted, subject barely legible, edge-to-edge softness",
+          "abstract": false,
+          "subject": "ring wear on cardboard",
+          "palette": "yellowed cream, faded brown, dust grey, warm amber"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2026 image deliberately styled after 1980-1999. Medium: long-exposure photograph with heavy bloom and lens diffusion. Subject: ring wear on cardboard. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: abstracted, subject barely legible, edge-to-edge softness. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202026%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20long-exposure%20photograph%20with%20heavy%20bloom%20and%20lens%20diffusion.%20Subject%3A%20ring%20wear%20on%20cardboard.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20abstracted%2C%20subject%20barely%20legible%2C%20edge-to-edge%20softness.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "id": "scn_blue-hour",
+      "name": "Blue Hour",
+      "city": "Portland",
+      "labelId": "lbl_blue-hour",
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "look": "Coastal dream-pop, close-mic vocals.",
+      "artistIds": [
+        "art_zaya-blue",
+        "art_nell-and-the-coronas",
+        "art_blue-ferry",
+        "art_nell-wren",
+        "art_merrick-and-the-motels",
+        "art_grafting"
+      ],
+      "placeId": "plc_portland",
+      "slug": "blue-hour",
+      "geo": {
+        "placeId": "plc_portland",
+        "city": "Portland",
+        "country": "US",
+        "lat": 45.52,
+        "lng": -122.68
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "artistCount": 6,
+      "metaLine": "Portland · 6 artists",
+      "artwork": {
+        "image": "/artwork/scene/blue-hour.jpg",
+        "direction": {
+          "genre": "dream-pop",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "sculptural or textile object photographed under raking light",
+          "composition": "tactile, close, shallow depth of field",
+          "abstract": false,
+          "subject": "light through a curtain",
+          "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: sculptural or textile object photographed under raking light. Subject: light through a curtain. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20light%20through%20a%20curtain.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "id": "scn_hedgerow",
+      "name": "Hedgerow",
+      "city": "Bristol",
+      "labelId": "lbl_hedgerow",
+      "genres": [
+        "folk",
+        "americana",
+        "singer-songwriter"
+      ],
+      "look": "One room, no click.",
+      "artistIds": [
+        "art_jack-hatfield",
+        "art_keane-sol",
+        "art_petal-and-dew",
+        "art_rust-strata",
+        "art_lodestar",
+        "art_ballast-and-lodestar",
+        "art_wren-mercer",
+        "art_the-shoals",
+        "art_opal-and-the-villages",
+        "art_sadie-and-the-villages",
+        "art_bloom",
+        "art_petra-ilic",
+        "art_the-barleyfield-ensemble"
+      ],
+      "placeId": "plc_bristol",
+      "slug": "hedgerow",
+      "geo": {
+        "placeId": "plc_bristol",
+        "city": "Bristol",
+        "country": "GB",
+        "lat": 51.45,
+        "lng": -2.59
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "artistCount": 13,
+      "metaLine": "Bristol · 13 artists",
+      "artwork": {
+        "image": "/artwork/scene/hedgerow.jpg",
+        "direction": {
+          "genre": "folk",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "cut wheat bound with twine",
+          "palette": "desaturated ochre, moss green, bone white, overcast grey"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes cut wheat bound with twine. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20cut%20wheat%20bound%20with%20twine.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "id": "scn_strata-nine",
+      "name": "Strata Nine",
+      "city": "Berlin",
+      "labelId": "lbl_strata-nine",
+      "genres": [
+        "techno",
+        "electronic",
+        "post-punk"
+      ],
+      "look": "Concrete rooms, long decays.",
+      "artistIds": [
+        "art_rootwork-and-bloom",
+        "art_delia-hollis",
+        "art_ren-ishii",
+        "art_small-payphone",
+        "art_antonella-iriarte",
+        "art_sanne-midnight",
+        "art_the-slate-stratas",
+        "art_elliot-crane",
+        "art_nell-hollowell"
+      ],
+      "placeId": "plc_berlin",
+      "slug": "strata-nine",
+      "geo": {
+        "placeId": "plc_berlin",
+        "city": "Berlin",
+        "country": "DE",
+        "lat": 52.52,
+        "lng": 13.41
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "artistCount": 9,
+      "metaLine": "Berlin · 9 artists",
+      "artwork": {
+        "image": "/artwork/scene/strata-nine.jpg",
+        "direction": {
+          "genre": "techno",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "a rubber gasket at macro scale",
+          "palette": "gunmetal, black, one cold accent — cyan or acid green"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a rubber gasket at macro scale. Palette: gunmetal, black, one cold accent — cyan or acid green. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20rubber%20gasket%20at%20macro%20scale.%20Palette%3A%20gunmetal%2C%20black%2C%20one%20cold%20accent%20%E2%80%94%20cyan%20or%20acid%20green.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "id": "scn_sable-note",
+      "name": "Sable Note",
+      "city": "New York",
+      "labelId": "lbl_sable-note",
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "look": "Live to two-track, the count-in kept.",
+      "artistIds": [
+        "art_milo-kestrel",
+        "art_the-velvet-ferries",
+        "art_rhys-rees",
+        "art_the-green-vines",
+        "art_late-payphone",
+        "art_halvor-lindqvist",
+        "art_curfew"
+      ],
+      "placeId": "plc_new-york",
+      "slug": "sable-note",
+      "geo": {
+        "placeId": "plc_new-york",
+        "city": "New York",
+        "country": "US",
+        "lat": 40.71,
+        "lng": -74.01
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "artistCount": 7,
+      "metaLine": "New York · 7 artists",
+      "artwork": {
+        "image": "/artwork/scene/sable-note.jpg",
+        "direction": {
+          "genre": "jazz",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+          "composition": "non-representational, full bleed, edge-to-edge colour",
+          "abstract": true,
+          "subject": "three offset rectangles",
+          "palette": "deep navy or oxblood with cream, one flat colour block"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes three offset rectangles. Palette: deep navy or oxblood with cream, one flat colour block. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20three%20offset%20rectangles.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "id": "scn_tropico-alto",
+      "name": "Trópico Alto",
+      "city": "Bogotá",
+      "labelId": "lbl_tropico-alto",
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "look": "Brass on top, hiss underneath.",
+      "artistIds": [
+        "art_mateo-molinari",
+        "art_i-a-r",
+        "art_renata-and-the-taxis"
+      ],
+      "placeId": "plc_bogota",
+      "slug": "tropico-alto",
+      "geo": {
+        "placeId": "plc_bogota",
+        "city": "Bogotá",
+        "country": "CO",
+        "lat": 4.71,
+        "lng": -74.07
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "artistCount": 3,
+      "metaLine": "Bogotá · 3 artists",
+      "artwork": {
+        "image": "/artwork/scene/tropico-alto.jpg",
+        "direction": {
+          "genre": "cumbia",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "digital collage of cut-out photography over scanned paper texture",
+          "composition": "layered and deliberately flat, elements overlapping at odd scales",
+          "abstract": false,
+          "subject": "a bold floral repeat",
+          "palette": "hot orange, turquoise, lime, magenta"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a bold floral repeat. Palette: hot orange, turquoise, lime, magenta. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20bold%20floral%20repeat.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "id": "scn_harmattan",
+      "name": "Harmattan",
+      "city": "Lagos",
+      "labelId": "lbl_harmattan",
+      "genres": [
+        "afrobeat",
+        "funk",
+        "hip-hop",
+        "rnb"
+      ],
+      "look": "Horn sections and heat.",
+      "artistIds": [
+        "art_bridie-sinclair",
+        "art_femi-and-the-observatories",
+        "art_merrick-dark",
+        "art_the-ballroom-orchestra",
+        "art_cass-and-the-terminals"
+      ],
+      "placeId": "plc_lagos",
+      "slug": "harmattan",
+      "geo": {
+        "placeId": "plc_lagos",
+        "city": "Lagos",
+        "country": "NG",
+        "lat": 6.52,
+        "lng": 3.38
+      },
+      "label": {
+        "id": "lbl_harmattan",
+        "name": "Harmattan Sound"
+      },
+      "artistCount": 5,
+      "metaLine": "Lagos · 5 artists",
+      "artwork": {
+        "image": "/artwork/scene/harmattan.jpg",
+        "direction": {
+          "genre": "afrobeat",
+          "year": 2026,
+          "era": "contemporary",
+          "eraLabel": "2015-present",
+          "isPeriodHomage": false,
+          "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+          "composition": "object dead centre, hard directional shadow, seamless backdrop",
+          "abstract": false,
+          "subject": "repeating adinkra-like geometry",
+          "palette": "chrome yellow, deep green, vermilion, black"
+        },
+        "prompt": "Genre browse tile image, wide, atmospheric, subject small in frame. A 2015-present image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: repeating adinkra-like geometry. Palette: chrome yellow, deep green, vermilion, black. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Genre%20browse%20tile%20image%2C%20wide%2C%20atmospheric%2C%20subject%20small%20in%20frame.%20A%202015-present%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20repeating%20adinkra-like%20geometry.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+      }
+    }
+  ]
+}

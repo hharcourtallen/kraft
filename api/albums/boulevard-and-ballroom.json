@@ -1,0 +1,48 @@
+{
+  "id": "alb_boulevard-and-ballroom-rhys-rees",
+  "slug": "boulevard-and-ballroom",
+  "title": "Boulevard & Ballroom",
+  "year": 2025,
+  "type": "Album",
+  "subtitle": "2025 · Album",
+  "trackCount": 10,
+  "durationSec": 3868,
+  "durationLabel": "1 hr 4 min",
+  "artist": {
+    "id": "art_rhys-rees",
+    "name": "Rhys Rees",
+    "slug": "rhys-rees"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "jazz"
+  ],
+  "tracks": [
+    "trk_provision-rhys-ree-2025-0",
+    "trk_underpass-song-rhys-ree-2025-1",
+    "trk_twice-the-terminal-rhys-ree-2025-2",
+    "trk_annex-lullaby-rhys-ree-2025-3",
+    "trk_public-bloc-rhys-ree-2025-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2025,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "three offset rectangles",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes three offset rectangles. Palette: deep navy or oxblood with cream, one flat colour block. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20three%20offset%20rectangles.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

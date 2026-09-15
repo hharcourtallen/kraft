@@ -1,0 +1,74 @@
+{
+  "id": "cur_ade-mensah",
+  "slug": "ade-mensah",
+  "name": "Adé Mensah",
+  "beat": [
+    "afrobeat",
+    "funk",
+    "dub"
+  ],
+  "beatLabel": "Afrobeat · Funk · Dub",
+  "city": "Accra",
+  "geo": {
+    "placeId": "plc_accra",
+    "city": "Accra",
+    "country": "GH",
+    "lat": 5.56,
+    "lng": -0.2
+  },
+  "since": 2020,
+  "bio": "Crate-digs in Accra and Lagos. Writes the liner notes nobody asked for and everybody reads.",
+  "kicker": "Curator · Accra · since 2020",
+  "listCount": 33,
+  "listIds": [
+    "pl_the-archive",
+    "pl_country-ghana"
+  ],
+  "followers": 61400,
+  "followersLabel": "61K",
+  "follows": [
+    "cur_amara-diallo",
+    "cur_luana-andrade"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_the-archive",
+    "slug": "the-archive",
+    "title": "The Archive",
+    "curatorName": "Adé Mensah"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_the-archive",
+      "playlistTitle": "The Archive",
+      "note": "Forty tracks of Accra and Lagos crate finds. The liner notes are longer than some of the songs, on purpose.",
+      "updated": "2026-08-20",
+      "updatedLabel": "5 days ago"
+    },
+    {
+      "playlistId": "pl_country-ghana",
+      "playlistTitle": "Ghana",
+      "note": "Accra on a Friday: highlife on the radio, afrobeat from the car next to you, dub from somewhere you cannot see.",
+      "updated": "2026-07-20",
+      "updatedLabel": "20 Jul"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/ade-mensah.jpg",
+      "direction": {
+        "genre": "afrobeat",
+        "year": 2026,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a person in a doorway, arms folded, faint smile",
+        "palette": "chrome yellow, deep green, vermilion, black"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2026 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a person in a doorway, arms folded, faint smile. Palette: chrome yellow, deep green, vermilion, black. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202026%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20person%20in%20a%20doorway%2C%20arms%20folded%2C%20faint%20smile.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

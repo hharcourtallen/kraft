@@ -1,0 +1,78 @@
+{
+  "tabs": [
+    {
+      "key": "lists",
+      "label": "Lists",
+      "itemIds": [
+        "pl_vinyl-sundays",
+        "pl_late-night-heat",
+        "pl_golden-hour",
+        "pl_wildflower-days",
+        "pl_cassette-dreams",
+        "pl_poolside",
+        "pl_garden-sessions",
+        "pl_string-theory",
+        "pl_jazz-nights",
+        "pl_tropicalia",
+        "pl_midnight-sax",
+        "pl_the-archive"
+      ]
+    },
+    {
+      "key": "albums",
+      "label": "Albums",
+      "itemIds": [
+        "alb_bloom",
+        "alb_flora",
+        "alb_quiet-village",
+        "alb_nocturne",
+        "alb_wide-open",
+        "alb_overgrown",
+        "alb_petal-and-dew",
+        "alb_brass-and-bones"
+      ]
+    },
+    {
+      "key": "artists",
+      "label": "Artists",
+      "itemIds": [
+        "art_jack-hatfield",
+        "art_zaya-blue",
+        "art_elara-cove",
+        "art_milo-kestrel",
+        "art_dusk-ritual",
+        "art_felix-drift"
+      ]
+    }
+  ],
+  "following": {
+    "curatorIds": [
+      "cur_ade-mensah",
+      "cur_ingrid-halvorsen",
+      "cur_marcus-pike",
+      "cur_haruka-nakagawa",
+      "cur_luana-andrade",
+      "cur_amara-diallo",
+      "cur_teo-marchand"
+    ],
+    "artistIds": [
+      "art_jack-hatfield",
+      "art_zaya-blue",
+      "art_elara-cove",
+      "art_milo-kestrel",
+      "art_dusk-ritual",
+      "art_felix-drift"
+    ],
+    "playlistIds": [
+      "pl_late-night-heat",
+      "pl_cassette-dreams",
+      "pl_poolside",
+      "pl_garden-sessions",
+      "pl_string-theory",
+      "pl_jazz-nights",
+      "pl_tropicalia",
+      "pl_midnight-sax",
+      "pl_the-archive"
+    ]
+  }
+}

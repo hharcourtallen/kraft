@@ -1,0 +1,130 @@
+{
+  "id": "art_shellac-jones",
+  "slug": "shellac-jones",
+  "name": "Shellac Jones",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Memphis, TN",
+  "geo": {
+    "placeId": "plc_memphis",
+    "city": "Memphis",
+    "country": "US",
+    "lat": 35.15,
+    "lng": -90.05
+  },
+  "region": "us-uk",
+  "genres": [
+    "analog-revival",
+    "soul"
+  ],
+  "primaryGenre": {
+    "slug": "analog-revival",
+    "name": "Analog Revival"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2900,
+  "monthlyListenersLabel": "2.9K monthly listeners",
+  "followers": 940,
+  "followersLabel": "940",
+  "shelfCaption": "Analog Revival · 2.9K listeners",
+  "verified": false,
+  "active": {
+    "from": 2019,
+    "to": null
+  },
+  "bio": "Sings like a 45 that has been played a thousand times and survived it.",
+  "discography": [
+    "alb_slow-rotation"
+  ],
+  "popularTrackIds": [
+    "trk_45-rpm-heart"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2022,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2022 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician in profile against a plain wall. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202022%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician leaning on a van, road behind them. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_45-rpm-heart",
+      "slug": "45-rpm-heart",
+      "title": "45 RPM Heart",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_shellac-jones",
+        "name": "Shellac Jones",
+        "slug": "shellac-jones"
+      },
+      "album": {
+        "id": "alb_slow-rotation",
+        "title": "Slow Rotation",
+        "slug": "slow-rotation",
+        "year": 2022
+      },
+      "albumArt": "/artwork/album/slow-rotation.jpg",
+      "playCountLabel": "49,508"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_slow-rotation",
+      "slug": "slow-rotation",
+      "title": "Slow Rotation",
+      "subtitle": "2022 · Album",
+      "year": 2022,
+      "type": "Album",
+      "image": "/artwork/album/slow-rotation.jpg"
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_vinyl-sundays",
+      "slug": "vinyl-sundays",
+      "title": "Vinyl Sundays",
+      "image": "/artwork/playlist/vinyl-sundays.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "45 RPM Heart",
+      "position": 8,
+      "caption": "45 RPM Heart is track 8"
+    }
+  ]
+}

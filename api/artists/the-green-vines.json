@@ -1,0 +1,339 @@
+{
+  "id": "art_the-green-vines",
+  "slug": "the-green-vines",
+  "name": "The Green Vines",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Minneapolis, MN",
+  "geo": {
+    "placeId": "plc_minneapolis",
+    "city": "Minneapolis",
+    "country": "US",
+    "lat": 44.98,
+    "lng": -93.27
+  },
+  "region": "us",
+  "genres": [
+    "spiritual-jazz",
+    "jazz"
+  ],
+  "primaryGenre": {
+    "slug": "spiritual-jazz",
+    "name": "Spiritual Jazz"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "tier": "working",
+  "monthlyListeners": 10178,
+  "monthlyListenersLabel": "10K monthly listeners",
+  "followers": 3456,
+  "followersLabel": "3.5K",
+  "shelfCaption": "Spiritual Jazz · 10K listeners",
+  "verified": false,
+  "active": {
+    "from": 2023,
+    "to": 2025
+  },
+  "bio": "Formed in Minneapolis, MN and still arguing about it. Charts are a page long; the rest is decided on the stand.",
+  "discography": [
+    "alb_green-frond-the-green-",
+    "alb_the-observatory-the-green-",
+    "alb_ninth-observatory-the-green-"
+  ],
+  "popularTrackIds": [
+    "trk_chlorophyll-the-gree-2023-0",
+    "trk_solar-transit-the-gree-2023-1",
+    "trk_parallax-the-gree-2024-0",
+    "trk_every-meridian-the-gree-2023-2",
+    "trk_outer-observatory-the-gree-2024-1",
+    "trk_solar-equinox-the-gree-2023-3",
+    "trk_two-hundred-fronds-the-gree-2024-2",
+    "trk_solar-observatory-the-gree-2025-0",
+    "trk_moss-waltz-the-gree-2024-3",
+    "trk_pollen-elegy-the-gree-2023-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "spiritual-jazz",
+        "year": 2025,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "documentary black-and-white 35mm photograph, coarse grain, printed hard",
+        "composition": "candid framing, subject off-centre, generous empty space",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "saffron, deep indigo, burnt orange, gold"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2025 press image deliberately styled after 1955-1979. Medium: documentary black-and-white 35mm photograph, coarse grain, printed hard. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: saffron, deep indigo, burnt orange, gold. Composition: candid framing, subject off-centre, generous empty space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202025%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20documentary%20black-and-white%2035mm%20photograph%2C%20coarse%20grain%2C%20printed%20hard.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20saffron%2C%20deep%20indigo%2C%20burnt%20orange%2C%20gold.%20Composition%3A%20candid%20framing%2C%20subject%20off-centre%2C%20generous%20empty%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "spiritual-jazz",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "saffron, deep indigo, burnt orange, gold"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: saffron, deep indigo, burnt orange, gold. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20saffron%2C%20deep%20indigo%2C%20burnt%20orange%2C%20gold.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_chlorophyll-the-gree-2023-0",
+      "slug": "chlorophyll",
+      "title": "Chlorophyll",
+      "duration": "9:06",
+      "durationSec": 546,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "76,824"
+    },
+    {
+      "id": "trk_solar-transit-the-gree-2023-1",
+      "slug": "solar-transit",
+      "title": "Solar Transit",
+      "duration": "7:28",
+      "durationSec": 448,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "54,781"
+    },
+    {
+      "id": "trk_parallax-the-gree-2024-0",
+      "slug": "parallax",
+      "title": "Parallax",
+      "duration": "4:40",
+      "durationSec": 280,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "53,533"
+    },
+    {
+      "id": "trk_every-meridian-the-gree-2023-2",
+      "slug": "every-meridian",
+      "title": "Every Meridian",
+      "duration": "9:52",
+      "durationSec": 592,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "49,249"
+    },
+    {
+      "id": "trk_outer-observatory-the-gree-2024-1",
+      "slug": "outer-observatory",
+      "title": "Outer Observatory",
+      "duration": "6:53",
+      "durationSec": 413,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "32,623"
+    },
+    {
+      "id": "trk_solar-equinox-the-gree-2023-3",
+      "slug": "solar-equinox",
+      "title": "Solar Equinox",
+      "duration": "9:57",
+      "durationSec": 597,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "31,585"
+    },
+    {
+      "id": "trk_two-hundred-fronds-the-gree-2024-2",
+      "slug": "two-hundred-fronds",
+      "title": "Two Hundred Fronds",
+      "duration": "6:49",
+      "durationSec": 409,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "25,607"
+    },
+    {
+      "id": "trk_solar-observatory-the-gree-2025-0",
+      "slug": "solar-observatory",
+      "title": "Solar Observatory",
+      "duration": "7:13",
+      "durationSec": 433,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_green-frond-the-green-",
+        "title": "Green Frond",
+        "slug": "green-frond",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "15,317"
+    },
+    {
+      "id": "trk_moss-waltz-the-gree-2024-3",
+      "slug": "moss-waltz",
+      "title": "Moss Waltz",
+      "duration": "8:19",
+      "durationSec": 499,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_the-observatory-the-green-",
+        "title": "The Observatory",
+        "slug": "the-observatory",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "12,819"
+    },
+    {
+      "id": "trk_pollen-elegy-the-gree-2023-4",
+      "slug": "pollen-elegy",
+      "title": "Pollen Elegy",
+      "duration": "9:50",
+      "durationSec": 590,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "8,526"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_green-frond-the-green-",
+      "slug": "green-frond",
+      "title": "Green Frond",
+      "subtitle": "2025 · EP",
+      "year": 2025,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_the-observatory-the-green-",
+      "slug": "the-observatory",
+      "title": "The Observatory",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_ninth-observatory-the-green-",
+      "slug": "ninth-observatory",
+      "title": "Ninth Observatory",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Chlorophyll",
+      "position": 10,
+      "caption": "Chlorophyll is track 10"
+    }
+  ]
+}

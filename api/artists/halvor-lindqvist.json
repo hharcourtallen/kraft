@@ -1,0 +1,349 @@
+{
+  "id": "art_halvor-lindqvist",
+  "slug": "halvor-lindqvist",
+  "name": "Halvor Lindqvist",
+  "formation": "solo",
+  "country": "NO",
+  "hometown": "Tromsø",
+  "geo": {
+    "placeId": "plc_troms",
+    "city": "Tromsø",
+    "country": "NO",
+    "lat": 69.65,
+    "lng": 18.96
+  },
+  "region": "nordic",
+  "genres": [
+    "jazz",
+    "modern-composition"
+  ],
+  "primaryGenre": {
+    "slug": "jazz",
+    "name": "Jazz"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "tier": "working",
+  "monthlyListeners": 17274,
+  "monthlyListenersLabel": "17K monthly listeners",
+  "followers": 6000,
+  "followersLabel": "6K",
+  "shelfCaption": "Jazz · 17K listeners",
+  "verified": true,
+  "active": {
+    "from": 2014,
+    "to": null
+  },
+  "bio": "A bassist making jazz about work. Books the room for two days and uses the first afternoon.",
+  "discography": [
+    "alb_model-infrastructure-halvor-lin",
+    "alb_velvet-marquee-halvor-lin",
+    "alb_depots-halvor-lin",
+    "alb_bloc-and-registry-halvor-lin"
+  ],
+  "popularTrackIds": [
+    "trk_underpass-edit-halvor-l-2016-0",
+    "trk_central-registry-halvor-l-2014-0",
+    "trk_municipal-exchange-halvor-l-2014-1",
+    "trk_curfew-halvor-l-2017-0",
+    "trk_bloc-live-at-the-roundhouse-halvor-l-2016-2",
+    "trk_provisional-bureau-halvor-l-2017-1",
+    "trk_taxi-march-halvor-l-2016-1",
+    "trk_two-hundred-terminals-halvor-l-2014-3",
+    "trk_insomnia-halvor-l-2014-2",
+    "trk_assembly-hymn-halvor-l-2020-0"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2020,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician holding their instrument case, deadpan. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2020,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician walking away down a wet street, back to camera. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_underpass-edit-halvor-l-2016-0",
+      "slug": "underpass-edit",
+      "title": "Underpass (Edit)",
+      "duration": "6:22",
+      "durationSec": 382,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_depots-halvor-lin",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "392,473"
+    },
+    {
+      "id": "trk_central-registry-halvor-l-2014-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "318,316"
+    },
+    {
+      "id": "trk_municipal-exchange-halvor-l-2014-1",
+      "slug": "municipal-exchange",
+      "title": "Municipal Exchange",
+      "duration": "5:43",
+      "durationSec": 343,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "89,675"
+    },
+    {
+      "id": "trk_curfew-halvor-l-2017-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "81,082"
+    },
+    {
+      "id": "trk_bloc-live-at-the-roundhouse-halvor-l-2016-2",
+      "slug": "bloc-live-at-the-roundhouse",
+      "title": "Bloc (Live at the Roundhouse)",
+      "duration": "6:10",
+      "durationSec": 370,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_depots-halvor-lin",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "72,532"
+    },
+    {
+      "id": "trk_provisional-bureau-halvor-l-2017-1",
+      "slug": "provisional-bureau",
+      "title": "Provisional Bureau",
+      "duration": "7:01",
+      "durationSec": 421,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_velvet-marquee-halvor-lin",
+        "title": "Velvet Marquee",
+        "slug": "velvet-marquee",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "56,124"
+    },
+    {
+      "id": "trk_taxi-march-halvor-l-2016-1",
+      "slug": "taxi-march",
+      "title": "Taxi March",
+      "duration": "8:19",
+      "durationSec": 499,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_depots-halvor-lin",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "35,608"
+    },
+    {
+      "id": "trk_two-hundred-terminals-halvor-l-2014-3",
+      "slug": "two-hundred-terminals",
+      "title": "Two Hundred Terminals",
+      "duration": "7:43",
+      "durationSec": 463,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "32,357"
+    },
+    {
+      "id": "trk_insomnia-halvor-l-2014-2",
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "duration": "5:51",
+      "durationSec": 351,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null,
+      "playCountLabel": "29,965"
+    },
+    {
+      "id": "trk_assembly-hymn-halvor-l-2020-0",
+      "slug": "assembly-hymn",
+      "title": "Assembly Hymn",
+      "duration": "8:08",
+      "durationSec": 488,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "25,070"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_model-infrastructure-halvor-lin",
+      "slug": "model-infrastructure",
+      "title": "Model Infrastructure",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_velvet-marquee-halvor-lin",
+      "slug": "velvet-marquee",
+      "title": "Velvet Marquee",
+      "subtitle": "2017 · EP",
+      "year": 2017,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_depots-halvor-lin",
+      "slug": "depots",
+      "title": "Depots",
+      "subtitle": "2016 · Album",
+      "year": 2016,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_bloc-and-registry-halvor-lin",
+      "slug": "bloc-and-registry",
+      "title": "Bloc & Registry",
+      "subtitle": "2014 · Album",
+      "year": 2014,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Central Registry",
+      "position": 5,
+      "caption": "Central Registry is track 5"
+    }
+  ]
+}

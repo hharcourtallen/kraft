@@ -1,0 +1,47 @@
+{
+  "id": "alb_bramble-and-fen-the-neon-u",
+  "slug": "bramble-and-fen",
+  "title": "Bramble & Fen",
+  "year": 2006,
+  "type": "Album",
+  "subtitle": "2006 · Album",
+  "trackCount": 12,
+  "durationSec": 3268,
+  "durationLabel": "54 min",
+  "artist": {
+    "id": "art_the-neon-underpasses",
+    "name": "The Neon Underpasses",
+    "slug": "the-neon-underpasses"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "rock",
+    "post-punk"
+  ],
+  "tracks": [
+    "trk_small-ballroom-the-neon-2006-0",
+    "trk_hedgerow-blues-the-neon-2006-1",
+    "trk_low-pasture-the-neon-2006-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rock",
+      "year": 2006,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "desaturated minimal photograph, cool cast, lots of empty space",
+      "composition": "subject small and off-centre, vast negative space",
+      "abstract": false,
+      "subject": "a leather jacket on a hook",
+      "palette": "oxblood, smoke grey, brass, hard black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: desaturated minimal photograph, cool cast, lots of empty space. Subject: a leather jacket on a hook. Palette: oxblood, smoke grey, brass, hard black. Composition: subject small and off-centre, vast negative space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20desaturated%20minimal%20photograph%2C%20cool%20cast%2C%20lots%20of%20empty%20space.%20Subject%3A%20a%20leather%20jacket%20on%20a%20hook.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20subject%20small%20and%20off-centre%2C%20vast%20negative%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

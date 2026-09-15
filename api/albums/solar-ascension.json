@@ -1,0 +1,48 @@
+{
+  "id": "alb_solar-ascension-redshift",
+  "slug": "solar-ascension",
+  "title": "Solar Ascension",
+  "year": 2018,
+  "type": "EP",
+  "subtitle": "2018 · EP",
+  "trackCount": 4,
+  "durationSec": 2436,
+  "durationLabel": "41 min",
+  "artist": {
+    "id": "art_redshift",
+    "name": "Redshift",
+    "slug": "redshift"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "ambient",
+    "modern-composition"
+  ],
+  "tracks": [
+    "trk_observatory-theme-redshift-2018-0",
+    "trk_distant-observatory-redshift-2018-1",
+    "trk_solar-equinox-redshift-2018-2",
+    "trk_limestone-kiln-redshift-2018-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "ambient",
+      "year": 2018,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "an empty pale sky",
+      "palette": "pale ice blue, warm grey, faint pink, near-white"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: an empty pale sky. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20an%20empty%20pale%20sky.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

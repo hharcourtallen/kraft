@@ -1,0 +1,339 @@
+{
+  "id": "art_the-velvet-ferries",
+  "slug": "the-velvet-ferries",
+  "name": "The Velvet Ferries",
+  "formation": "band",
+  "country": "GB",
+  "hometown": "Glasgow",
+  "geo": {
+    "placeId": "plc_glasgow",
+    "city": "Glasgow",
+    "country": "GB",
+    "lat": 55.86,
+    "lng": -4.25
+  },
+  "region": "uk",
+  "genres": [
+    "jazz",
+    "spiritual-jazz"
+  ],
+  "primaryGenre": {
+    "slug": "jazz",
+    "name": "Jazz"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "working",
+  "monthlyListeners": 6133,
+  "monthlyListenersLabel": "6.1K monthly listeners",
+  "followers": 3388,
+  "followersLabel": "3.4K",
+  "shelfCaption": "Jazz · 6.1K listeners",
+  "verified": false,
+  "active": {
+    "from": 2021,
+    "to": null
+  },
+  "bio": "Formed in Glasgow and still arguing about it. Plays standards like an argument and originals like the last word. Sequences records to be heard in one sitting, and says so on the sleeve.",
+  "discography": [
+    "alb_underpasses-the-velvet",
+    "alb_infrastructure-the-velvet",
+    "alb_the-marquee-the-velvet"
+  ],
+  "popularTrackIds": [
+    "trk_afterhours-the-velv-2023-0",
+    "trk_small-rooftop-the-velv-2021-3",
+    "trk_late-marquee-the-velv-2023-1",
+    "trk_nocturne-the-velv-2021-1",
+    "trk_small-underpass-the-velv-2021-2",
+    "trk_census-the-velv-2021-0",
+    "trk_provision-the-velv-2021-4",
+    "trk_half-a-marquee-the-velv-2024-0",
+    "trk_assembly-live-at-the-roundhouse-the-velv-2023-2",
+    "trk_every-registry-the-velv-2024-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a band of three standing far apart in an empty car park. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_afterhours-the-velv-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "6:46",
+      "durationSec": 406,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "54,096"
+    },
+    {
+      "id": "trk_small-rooftop-the-velv-2021-3",
+      "slug": "small-rooftop",
+      "title": "Small Rooftop",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "38,872"
+    },
+    {
+      "id": "trk_late-marquee-the-velv-2023-1",
+      "slug": "late-marquee",
+      "title": "Late Marquee",
+      "duration": "7:44",
+      "durationSec": 464,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "33,501"
+    },
+    {
+      "id": "trk_nocturne-the-velv-2021-1",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "5:13",
+      "durationSec": 313,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "31,530"
+    },
+    {
+      "id": "trk_small-underpass-the-velv-2021-2",
+      "slug": "small-underpass",
+      "title": "Small Underpass",
+      "duration": "6:13",
+      "durationSec": 373,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "19,787"
+    },
+    {
+      "id": "trk_census-the-velv-2021-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "18,844"
+    },
+    {
+      "id": "trk_provision-the-velv-2021-4",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "8:19",
+      "durationSec": 499,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_the-marquee-the-velvet",
+        "title": "The Marquee",
+        "slug": "the-marquee",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "13,023"
+    },
+    {
+      "id": "trk_half-a-marquee-the-velv-2024-0",
+      "slug": "half-a-marquee",
+      "title": "Half a Marquee",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "11,106"
+    },
+    {
+      "id": "trk_assembly-live-at-the-roundhouse-the-velv-2023-2",
+      "slug": "assembly-live-at-the-roundhouse",
+      "title": "Assembly (Live at the Roundhouse)",
+      "duration": "7:34",
+      "durationSec": 454,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_infrastructure-the-velvet",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "9,976"
+    },
+    {
+      "id": "trk_every-registry-the-velv-2024-1",
+      "slug": "every-registry",
+      "title": "Every Registry",
+      "duration": "8:24",
+      "durationSec": 504,
+      "artist": {
+        "id": "art_the-velvet-ferries",
+        "name": "The Velvet Ferries",
+        "slug": "the-velvet-ferries"
+      },
+      "album": {
+        "id": "alb_underpasses-the-velvet",
+        "title": "Underpasses",
+        "slug": "underpasses",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "8,990"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_underpasses-the-velvet",
+      "slug": "underpasses",
+      "title": "Underpasses",
+      "subtitle": "2024 · EP",
+      "year": 2024,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_infrastructure-the-velvet",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_the-marquee-the-velvet",
+      "slug": "the-marquee",
+      "title": "The Marquee",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Registry Elegy",
+      "position": 10,
+      "caption": "Registry Elegy is track 10"
+    }
+  ]
+}

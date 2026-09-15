@@ -1,0 +1,46 @@
+{
+  "id": "alb_new-bureau-the-ballro",
+  "slug": "new-bureau",
+  "title": "New Bureau",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 8,
+  "durationSec": 1528,
+  "durationLabel": "25 min",
+  "artist": {
+    "id": "art_the-ballroom-orchestra",
+    "name": "The Ballroom Orchestra",
+    "slug": "the-ballroom-orchestra"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "hip-hop"
+  ],
+  "tracks": [
+    "trk_rooftop-waltz-the-ball-2021-0",
+    "trk_provision-the-ball-2021-1",
+    "trk_municipal-registry-the-ball-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "hip-hop",
+      "year": 2021,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "painted illustration in gouache on board, visible brush texture",
+      "composition": "flat poster illustration, no perspective, filled frame",
+      "abstract": false,
+      "subject": "a stoop at dusk",
+      "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+    },
+    "prompt": "Album cover artwork, square format. A 2021 sleeve deliberately styled after 1955-1979. Medium: painted illustration in gouache on board, visible brush texture. Subject: a stoop at dusk. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: flat poster illustration, no perspective, filled frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202021%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20painted%20illustration%20in%20gouache%20on%20board%2C%20visible%20brush%20texture.%20Subject%3A%20a%20stoop%20at%20dusk.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20flat%20poster%20illustration%2C%20no%20perspective%2C%20filled%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

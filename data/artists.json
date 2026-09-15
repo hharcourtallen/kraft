@@ -1,0 +1,1808 @@
+{
+  "$comment": "Hand-authored canon. Every artist that appears on a Paper artboard lives here and MUST NOT be renamed by the generator. `origin: authored` protects them. monthlyListeners are canon-scaled (see CANON.md §Scale) — rank order matches what is currently drawn in the file, magnitudes do not.",
+  "artists": [
+    {
+      "id": "art_dusk-ritual",
+      "name": "Dusk Ritual",
+      "origin": "authored",
+      "formation": "band",
+      "region": "us-uk",
+      "country": "GB",
+      "hometown": "Leeds",
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "labelId": "lbl_ferry-lane",
+      "tier": "flagship",
+      "monthlyListeners": 384000,
+      "followers": 161000,
+      "active": {
+        "from": 2014,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Four-piece built on one repeated bass figure and a room mic. Dusk Ritual make records that sound like the last twenty minutes of a very long night.",
+      "designFileValue": {
+        "monthlyListeners": 5100000
+      },
+      "placeId": "plc_leeds"
+    },
+    {
+      "id": "art_felix-drift",
+      "name": "Felix Drift",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Missoula, MT",
+      "genres": [
+        "rock",
+        "americana"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "flagship",
+      "monthlyListeners": 341000,
+      "followers": 138000,
+      "active": {
+        "from": 2012,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Writes wide, unhurried rock songs about distance. Records live to tape in a converted grain store, band in one room, no click.",
+      "designFileValue": {
+        "monthlyListeners": 4800000
+      },
+      "placeId": "plc_missoula"
+    },
+    {
+      "id": "art_jack-hatfield",
+      "name": "Jack Hatfield",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "GB",
+      "hometown": "Whitby",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "flagship",
+      "monthlyListeners": 268000,
+      "followers": 109000,
+      "active": {
+        "from": 2015,
+        "to": null
+      },
+      "verified": true,
+      "bio": "North-coast folk singer with a guitar tuned down and a boat he keeps meaning to fix. Sings about harbours, weather and staying put.",
+      "designFileValue": {
+        "monthlyListeners": 4200000
+      },
+      "placeId": "plc_whitby"
+    },
+    {
+      "id": "art_zaya-blue",
+      "name": "Zaya Blue",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Half Moon Bay, CA",
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "headline",
+      "monthlyListeners": 231000,
+      "followers": 94000,
+      "active": {
+        "from": 2018,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Dream-pop songwriter from the coast. Zaya Blue layers tape-warm synths over close-mic vocals — songs about botany, distance, and the hour before sunrise.",
+      "designFileValue": {
+        "monthlyListeners": 3800000
+      },
+      "placeId": "plc_half-moon-bay"
+    },
+    {
+      "id": "art_elara-cove",
+      "name": "Elara Cove",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "IE",
+      "hometown": "Sligo",
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "headline",
+      "monthlyListeners": 164000,
+      "followers": 67000,
+      "active": {
+        "from": 2017,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Makes small, exact indie records in a house on the Atlantic side. Every one of them has at least one song about a tape running out.",
+      "designFileValue": {
+        "monthlyListeners": 2900000
+      },
+      "placeId": "plc_sligo"
+    },
+    {
+      "id": "art_milo-kestrel",
+      "name": "Milo Kestrel",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Chicago, IL",
+      "genres": [
+        "jazz"
+      ],
+      "labelId": "lbl_sable-note",
+      "tier": "headline",
+      "monthlyListeners": 112000,
+      "followers": 44000,
+      "active": {
+        "from": 2011,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Pianist and bandleader. Plays standards like he is arguing with them and originals like he already won.",
+      "designFileValue": {
+        "monthlyListeners": 2100000
+      },
+      "placeId": "plc_chicago"
+    },
+    {
+      "id": "art_keane-sol",
+      "name": "Keane Sol",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "GB",
+      "hometown": "Hebden Bridge",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "established",
+      "monthlyListeners": 58000,
+      "followers": 21000,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Fingerpicked, patient, mostly recorded at dawn because that is when the house is quiet.",
+      "placeId": "plc_hebden-bridge"
+    },
+    {
+      "id": "art_petal-and-dew",
+      "name": "Petal & Dew",
+      "origin": "authored",
+      "formation": "duo",
+      "region": "us-uk",
+      "country": "GB",
+      "hometown": "Bristol",
+      "genres": [
+        "folk",
+        "dream-pop"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "established",
+      "monthlyListeners": 41000,
+      "followers": 15000,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Two voices, one harmonium, and a standing rule that nothing gets more than four takes.",
+      "placeId": "plc_bristol"
+    },
+    {
+      "$scene": "Analog Revival — the cast that currently powers the Vinyl Sundays playlist and the Now Playing queue. Absorbed into canon as a coherent scene rather than discarded."
+    },
+    {
+      "id": "art_the-worn-grooves",
+      "name": "The Worn Grooves",
+      "origin": "authored",
+      "formation": "band",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Athens, GA",
+      "genres": [
+        "analog-revival",
+        "americana"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "established",
+      "monthlyListeners": 47000,
+      "followers": 18000,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Named for what happens to a record you actually love. Tracks to quarter-inch tape and refuses to fix the wobble.",
+      "placeId": "plc_athens-ga"
+    },
+    {
+      "id": "art_analog-hearts",
+      "name": "Analog Hearts",
+      "origin": "authored",
+      "formation": "duo",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Asheville, NC",
+      "genres": [
+        "analog-revival",
+        "downtempo"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "working",
+      "monthlyListeners": 14200,
+      "followers": 5100,
+      "active": {
+        "from": 2018,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Husband-and-wife duo working out of a converted garage. Everything runs through one broken spring reverb.",
+      "placeId": "plc_asheville"
+    },
+    {
+      "id": "art_oliver-felt",
+      "name": "Oliver Felt",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "GB",
+      "hometown": "Norwich",
+      "genres": [
+        "analog-revival",
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 9800,
+      "followers": 3400,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Records at the kitchen table before work. You can hear the fridge on two of the albums and he will not remove it.",
+      "placeId": "plc_norwich"
+    },
+    {
+      "id": "art_spinning-room",
+      "name": "Spinning Room",
+      "origin": "authored",
+      "formation": "band",
+      "region": "us-uk",
+      "country": "CA",
+      "hometown": "Montréal",
+      "genres": [
+        "analog-revival",
+        "indie-rock"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "working",
+      "monthlyListeners": 11600,
+      "followers": 4100,
+      "active": {
+        "from": 2017,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Three players, one take, no overdubs. The rule is the band.",
+      "placeId": "plc_montreal"
+    },
+    {
+      "id": "art_second-hand-sound",
+      "name": "Second Hand Sound",
+      "origin": "authored",
+      "formation": "band",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Portland, OR",
+      "genres": [
+        "analog-revival",
+        "indie-rock"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "working",
+      "monthlyListeners": 7900,
+      "followers": 2600,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in the back of a record shop and never entirely left it.",
+      "placeId": "plc_portland"
+    },
+    {
+      "id": "art_margot-and-the-spindles",
+      "name": "Margot & The Spindles",
+      "origin": "authored",
+      "formation": "band",
+      "region": "france",
+      "country": "FR",
+      "hometown": "Lyon",
+      "genres": [
+        "analog-revival",
+        "folk"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 6400,
+      "followers": 2100,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Margot Lelièvre and a rotating cast of whoever is free on a Tuesday.",
+      "placeId": "plc_lyon"
+    },
+    {
+      "id": "art_hiss-and-warmth",
+      "name": "Hiss & Warmth",
+      "origin": "authored",
+      "formation": "duo",
+      "region": "us-uk",
+      "country": "GB",
+      "hometown": "Sheffield",
+      "genres": [
+        "analog-revival",
+        "ambient"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "working",
+      "monthlyListeners": 5200,
+      "followers": 1700,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Two people, four tape machines, and a shared belief that the noise floor is part of the song.",
+      "placeId": "plc_sheffield"
+    },
+    {
+      "id": "art_shellac-jones",
+      "name": "Shellac Jones",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Memphis, TN",
+      "genres": [
+        "analog-revival",
+        "soul"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 2900,
+      "followers": 940,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Sings like a 45 that has been played a thousand times and survived it.",
+      "placeId": "plc_memphis"
+    },
+    {
+      "id": "art_the-dusty-crates",
+      "name": "The Dusty Crates",
+      "origin": "authored",
+      "formation": "band",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "genres": [
+        "analog-revival",
+        "funk"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "tail",
+      "monthlyListeners": 2100,
+      "followers": 680,
+      "active": {
+        "from": 2022,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A basement, a Rhodes, and a drummer who will not be hurried.",
+      "placeId": "plc_detroit"
+    },
+    {
+      "id": "art_lead-in-groove",
+      "name": "Lead-In Groove",
+      "origin": "authored",
+      "formation": "solo",
+      "region": "us-uk",
+      "country": "US",
+      "hometown": "Brooklyn, NY",
+      "genres": [
+        "analog-revival",
+        "downtempo"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 1600,
+      "followers": 520,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Builds tracks entirely from the first two seconds of other records.",
+      "placeId": "plc_brooklyn"
+    },
+    {
+      "id": "art_rootwork-and-bloom",
+      "name": "Rootwork & Bloom",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "duo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "genres": [
+        "electronic"
+      ],
+      "labelId": "lbl_strata-nine",
+      "tier": "tail",
+      "monthlyListeners": 812,
+      "followers": 411,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Detroit, MI duo, working since 2016. Everything is made on hardware, sequenced live, no undo.",
+      "placeId": "plc_detroit"
+    },
+    {
+      "id": "art_rust-strata",
+      "name": "Rust Strata",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "genres": [
+        "americana"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "tail",
+      "monthlyListeners": 539,
+      "followers": 222,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Americana band from Tucson, AZ. Everything is cut in a single take or not at all. Answers every interview question with a different lie.",
+      "placeId": "plc_tucson"
+    },
+    {
+      "id": "art_nell-and-the-coronas",
+      "name": "Nell & The Coronas",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Bristol",
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 923,
+      "followers": 419,
+      "active": {
+        "from": 2024,
+        "to": null
+      },
+      "verified": true,
+      "bio": "A four-piece making shoegaze about weather. Prefers the second take to the good one. Answers every interview question with a different lie.",
+      "placeId": "plc_bristol"
+    },
+    {
+      "id": "art_bridie-sinclair",
+      "name": "Bridie Sinclair",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Cardiff",
+      "genres": [
+        "rnb"
+      ],
+      "labelId": "lbl_marquee-hill",
+      "tier": "established",
+      "monthlyListeners": 30180,
+      "followers": 11472,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A bandleader making r&b about botany. Writes on the bass and lets the rest follow. Answers every interview question with a different lie.",
+      "placeId": "plc_cardiff"
+    },
+    {
+      "id": "art_delia-hollis",
+      "name": "Delia Hollis",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Providence, RI",
+      "genres": [
+        "techno",
+        "electronic"
+      ],
+      "labelId": "lbl_strata-nine",
+      "tier": "tail",
+      "monthlyListeners": 774,
+      "followers": 362,
+      "active": {
+        "from": 2022,
+        "to": 2024
+      },
+      "verified": false,
+      "bio": "Providence, RI live-hardware producer, working since 2022. Everything is made on hardware, sequenced live, no undo. Refuses to release anything under three minutes. Stopped releasing in 2024.",
+      "placeId": "plc_providence"
+    },
+    {
+      "id": "art_the-neon-underpasses",
+      "name": "The Neon Underpasses",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Leeds",
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "established",
+      "monthlyListeners": 19223,
+      "followers": 9514,
+      "active": {
+        "from": 2006,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Rock four-piece from Leeds. Loud in a small room, mixed to sound like it. Has strong opinions about run-out grooves.",
+      "placeId": "plc_leeds"
+    },
+    {
+      "id": "art_blue-ferry",
+      "name": "Blue Ferry",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Minneapolis, MN",
+      "genres": [
+        "dream-pop",
+        "ambient"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "tail",
+      "monthlyListeners": 214,
+      "followers": 90,
+      "active": {
+        "from": 2022,
+        "to": 2025
+      },
+      "verified": false,
+      "bio": "Blue Ferry has been a Minneapolis, MN fixture since 2022. Three amps, no pedals, and a rule against overdubs.",
+      "placeId": "plc_minneapolis"
+    },
+    {
+      "id": "art_lodestar",
+      "name": "Lodestar",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "france",
+      "country": "FR",
+      "hometown": "Toulouse",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "tail",
+      "monthlyListeners": 471,
+      "followers": 156,
+      "active": {
+        "from": 2024,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A multi-instrumentalist making folk about the coast. Writes at dawn, because that is when the house is quiet. Answers every interview question with a different lie.",
+      "placeId": "plc_toulouse"
+    },
+    {
+      "id": "art_the-velvet-ferries",
+      "name": "The Velvet Ferries",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Glasgow",
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 6133,
+      "followers": 3388,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Glasgow and still arguing about it. Plays standards like an argument and originals like the last word. Sequences records to be heard in one sitting, and says so on the sleeve.",
+      "placeId": "plc_glasgow"
+    },
+    {
+      "id": "art_the-assemblies",
+      "name": "The Assemblies",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Athens, GA",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "headline",
+      "monthlyListeners": 141744,
+      "followers": 74927,
+      "active": {
+        "from": 2008,
+        "to": null
+      },
+      "verified": true,
+      "bio": "A band making indie rock about work. Three amps, no pedals, and a rule against overdubs.",
+      "placeId": "plc_athens-ga"
+    },
+    {
+      "id": "art_nell-wren",
+      "name": "Nell Wren",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Sheffield",
+      "genres": [
+        "shoegaze",
+        "post-punk"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "working",
+      "monthlyListeners": 3415,
+      "followers": 1332,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Shoegaze one-person band from Sheffield. Loud in a small room, mixed to sound like it.",
+      "placeId": "plc_sheffield"
+    },
+    {
+      "id": "art_merrick-and-the-motels",
+      "name": "Merrick & The Motels",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Nashville, TN",
+      "genres": [
+        "dream-pop"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "headline",
+      "monthlyListeners": 66896,
+      "followers": 25000,
+      "active": {
+        "from": 2009,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Merrick & The Motels has been a Nashville, TN fixture since 2009. Three amps, no pedals, and a rule against overdubs. Has strong opinions about run-out grooves.",
+      "placeId": "plc_nashville"
+    },
+    {
+      "id": "art_mateo-molinari",
+      "name": "Mateo Molinari",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "latam",
+      "country": "AR",
+      "hometown": "Rosario",
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "labelId": "lbl_tropico-alto",
+      "tier": "headline",
+      "monthlyListeners": 62810,
+      "followers": 25000,
+      "active": {
+        "from": 2015,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Formed in Rosario and still arguing about it. The arrangement is written for dancers, not listeners.",
+      "placeId": "plc_rosario"
+    },
+    {
+      "id": "art_nocturne",
+      "name": "Nocturne",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Cardiff",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "tail",
+      "monthlyListeners": 724,
+      "followers": 210,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "An one-person band making indie rock about leaving. Loud in a small room, mixed to sound like it. Has strong opinions about run-out grooves.",
+      "placeId": "plc_cardiff"
+    },
+    {
+      "id": "art_ballast-and-lodestar",
+      "name": "Ballast & Lodestar",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "duo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Sheffield",
+      "genres": [
+        "folk"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "tail",
+      "monthlyListeners": 2384,
+      "followers": 800,
+      "active": {
+        "from": 2025,
+        "to": 2026
+      },
+      "verified": false,
+      "bio": "Sheffield duo, working since 2025. Records live to tape with the band in one room and no click.",
+      "placeId": "plc_sheffield"
+    },
+    {
+      "id": "art_overgrowth",
+      "name": "Overgrowth",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Portland, OR",
+      "genres": [
+        "rock"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 432,
+      "followers": 217,
+      "active": {
+        "from": 2021,
+        "to": 2026
+      },
+      "verified": false,
+      "bio": "Portland, OR guitarist, working since 2021. Three amps, no pedals, and a rule against overdubs. Has strong opinions about run-out grooves.",
+      "placeId": "plc_portland"
+    },
+    {
+      "id": "art_i-a-r",
+      "name": "I.A.R.",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "latam",
+      "country": "CL",
+      "hometown": "Valparaíso",
+      "genres": [
+        "latin"
+      ],
+      "labelId": "lbl_tropico-alto",
+      "tier": "tail",
+      "monthlyListeners": 2094,
+      "followers": 800,
+      "active": {
+        "from": 2025,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Valparaíso and still arguing about it. Percussion first, always, and the melody argues with it.",
+      "placeId": "plc_valparaiso"
+    },
+    {
+      "id": "art_rhys-rees",
+      "name": "Rhys Rees",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Belfast",
+      "genres": [
+        "jazz"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 330,
+      "followers": 203,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Rhys Rees has been a Belfast fixture since 2021. Plays standards like an argument and originals like the last word. Names every record after a street they no longer live on.",
+      "placeId": "plc_belfast"
+    },
+    {
+      "id": "art_grafting",
+      "name": "Grafting",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Richmond, VA",
+      "genres": [
+        "dream-pop"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "tail",
+      "monthlyListeners": 1775,
+      "followers": 716,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Grafting has been a Richmond, VA fixture since 2020. Records in a rehearsal space at night and keeps the bleed.",
+      "placeId": "plc_richmond"
+    },
+    {
+      "id": "art_sadie-blackwood",
+      "name": "Sadie Blackwood",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "genres": [
+        "downtempo",
+        "ambient"
+      ],
+      "labelId": "lbl_second-pressing",
+      "tier": "tail",
+      "monthlyListeners": 2902,
+      "followers": 800,
+      "active": {
+        "from": 2019,
+        "to": 2021
+      },
+      "verified": true,
+      "bio": "A producer making downtempo about the coast. One synth, one delay, one rule: nothing added after the first pass. Will not tour in summer. Stopped releasing in 2021.",
+      "placeId": "plc_tucson"
+    },
+    {
+      "id": "art_ren-ishii",
+      "name": "Ren Ishii",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "japan",
+      "country": "JP",
+      "hometown": "Kyoto",
+      "genres": [
+        "electronic"
+      ],
+      "labelId": "lbl_strata-nine",
+      "tier": "tail",
+      "monthlyListeners": 1738,
+      "followers": 545,
+      "active": {
+        "from": 2020,
+        "to": 2026
+      },
+      "verified": false,
+      "bio": "Electronic live-hardware producer from Kyoto. Records the mistakes and arranges around them.",
+      "placeId": "plc_kyoto"
+    },
+    {
+      "id": "art_til-vogelsang",
+      "name": "Til Vogelsang",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "germany",
+      "country": "DE",
+      "hometown": "Hamburg",
+      "genres": [
+        "ambient",
+        "downtempo"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 5656,
+      "followers": 2103,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A composer making ambient about other people’s houses. Builds tracks from a single sampled second and refuses to say which.",
+      "placeId": "plc_hamburg"
+    },
+    {
+      "id": "art_rasmus-s-rensen",
+      "name": "Rasmus Sørensen",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "nordic",
+      "country": "NO",
+      "hometown": "Oslo",
+      "genres": [
+        "modern-composition"
+      ],
+      "labelId": "lbl_conservatory",
+      "tier": "working",
+      "monthlyListeners": 4936,
+      "followers": 1921,
+      "active": {
+        "from": 2020,
+        "to": 2024
+      },
+      "verified": false,
+      "bio": "Rasmus Sørensen has been an Oslo fixture since 2020. Writes for the specific players, never for the instrument. Plays the same borrowed instrument on every album. Stopped releasing in 2024.",
+      "placeId": "plc_oslo"
+    },
+    {
+      "id": "art_wren-mercer",
+      "name": "Wren Mercer",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "genres": [
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "established",
+      "monthlyListeners": 56691,
+      "followers": 19651,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Wren Mercer has been a Detroit, MI fixture since 2020. Writes at dawn, because that is when the house is quiet.",
+      "placeId": "plc_detroit"
+    },
+    {
+      "id": "art_zoning-and-census",
+      "name": "Zoning & Census",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "duo",
+      "region": "nordic",
+      "country": "NO",
+      "hometown": "Bergen",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 3043,
+      "followers": 1284,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Zoning & Census has been a Bergen fixture since 2016. Built on one repeated figure and a room mic.",
+      "placeId": "plc_bergen"
+    },
+    {
+      "id": "art_femi-and-the-observatories",
+      "name": "Femi & The Observatories",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "west-africa",
+      "country": "CI",
+      "hometown": "Abidjan",
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "flagship",
+      "monthlyListeners": 216818,
+      "followers": 90000,
+      "active": {
+        "from": 2006,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Formed in Abidjan and still arguing about it. Keeps the count-in, the chair squeak and the false start.",
+      "placeId": "plc_abidjan"
+    },
+    {
+      "id": "art_greer-blackwood",
+      "name": "Greer Blackwood",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Portland, OR",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "established",
+      "monthlyListeners": 58835,
+      "followers": 23026,
+      "active": {
+        "from": 2018,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Portland, OR and still arguing about it. Prefers the second take to the good one. Answers every interview question with a different lie.",
+      "placeId": "plc_portland"
+    },
+    {
+      "id": "art_the-shoals",
+      "name": "The Shoals",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Bristol",
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "working",
+      "monthlyListeners": 4539,
+      "followers": 2077,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Folk five-piece from Bristol. Records live to tape with the band in one room and no click.",
+      "placeId": "plc_bristol"
+    },
+    {
+      "id": "art_small-payphone",
+      "name": "Small Payphone",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "nordic",
+      "country": "SE",
+      "hometown": "Malmö",
+      "genres": [
+        "electronic"
+      ],
+      "labelId": "lbl_strata-nine",
+      "tier": "working",
+      "monthlyListeners": 3970,
+      "followers": 1800,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Malmö and still arguing about it. Treats the mixing desk as the instrument. Has never once repeated a set list.",
+      "placeId": "plc_malmo"
+    },
+    {
+      "id": "art_opal-and-the-villages",
+      "name": "Opal & The Villages",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Oakland, CA",
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "working",
+      "monthlyListeners": 4701,
+      "followers": 2717,
+      "active": {
+        "from": 2009,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Oakland, CA band, working since 2009. Tunes down, plays quietly, and mics the room rather than the instrument.",
+      "placeId": "plc_oakland"
+    },
+    {
+      "id": "art_antonella-iriarte",
+      "name": "Antonella Iriarte",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "latam",
+      "country": "MX",
+      "hometown": "Guadalajara",
+      "genres": [
+        "electronic"
+      ],
+      "labelId": "lbl_strata-nine",
+      "tier": "tail",
+      "monthlyListeners": 2508,
+      "followers": 800,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Electronic live-hardware producer from Guadalajara. One synth, one delay, one rule: nothing added after the first pass.",
+      "placeId": "plc_guadalajara"
+    },
+    {
+      "id": "art_the-green-vines",
+      "name": "The Green Vines",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Minneapolis, MN",
+      "genres": [
+        "spiritual-jazz",
+        "jazz"
+      ],
+      "labelId": "lbl_sable-note",
+      "tier": "working",
+      "monthlyListeners": 10178,
+      "followers": 3456,
+      "active": {
+        "from": 2023,
+        "to": 2025
+      },
+      "verified": false,
+      "bio": "Formed in Minneapolis, MN and still arguing about it. Charts are a page long; the rest is decided on the stand.",
+      "placeId": "plc_minneapolis"
+    },
+    {
+      "id": "art_sanne-midnight",
+      "name": "Sanne Midnight",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "germany",
+      "country": "DE",
+      "hometown": "Hamburg",
+      "genres": [
+        "electronic",
+        "downtempo"
+      ],
+      "labelId": "lbl_strata-nine",
+      "tier": "tail",
+      "monthlyListeners": 2152,
+      "followers": 800,
+      "active": {
+        "from": 2025,
+        "to": 2026
+      },
+      "verified": true,
+      "bio": "Hamburg producer, working since 2025. Records the mistakes and arranges around them.",
+      "placeId": "plc_hamburg"
+    },
+    {
+      "id": "art_sadie-and-the-villages",
+      "name": "Sadie & The Villages",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Nashville, TN",
+      "genres": [
+        "americana"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "tail",
+      "monthlyListeners": 2823,
+      "followers": 800,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Nashville, TN band, working since 2020. Writes at dawn, because that is when the house is quiet.",
+      "placeId": "plc_nashville"
+    },
+    {
+      "id": "art_bloom",
+      "name": "Bloom",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Belfast",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 15472,
+      "followers": 6000,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Belfast band, working since 2016. Half the catalogue was recorded in a kitchen and it shows, deliberately.",
+      "placeId": "plc_belfast"
+    },
+    {
+      "id": "art_the-slate-stratas",
+      "name": "The Slate Stratas",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Bristol",
+      "genres": [
+        "post-punk",
+        "rock"
+      ],
+      "labelId": "lbl_ferry-lane",
+      "tier": "working",
+      "monthlyListeners": 16177,
+      "followers": 6000,
+      "active": {
+        "from": 2017,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Post-punk quartet from Bristol. Writes the drum part first and the words last.",
+      "placeId": "plc_bristol"
+    },
+    {
+      "id": "art_petra-ilic",
+      "name": "Petra Ilić",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "balkans",
+      "country": "RS",
+      "hometown": "Novi Sad",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "labelId": "lbl_hedgerow",
+      "tier": "established",
+      "monthlyListeners": 24238,
+      "followers": 8305,
+      "active": {
+        "from": 2015,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Novi Sad and still arguing about it. Writes at dawn, because that is when the house is quiet.",
+      "placeId": "plc_novi-sad"
+    },
+    {
+      "id": "art_imogen-sinclair",
+      "name": "Imogen Sinclair",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Cardiff",
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 325,
+      "followers": 134,
+      "active": {
+        "from": 2008,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Indie rock one-person band from Cardiff. Three amps, no pedals, and a rule against overdubs. Refuses to release anything under three minutes.",
+      "placeId": "plc_cardiff"
+    },
+    {
+      "id": "art_merrick-dark",
+      "name": "Merrick Dark",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Richmond, VA",
+      "genres": [
+        "rnb",
+        "funk"
+      ],
+      "labelId": "lbl_marquee-hill",
+      "tier": "working",
+      "monthlyListeners": 5151,
+      "followers": 1904,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Richmond, VA and still arguing about it. Cuts the rhythm section live and overdubs nothing but voice.",
+      "placeId": "plc_richmond"
+    },
+    {
+      "id": "art_late-payphone",
+      "name": "Late Payphone",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "genres": [
+        "jazz",
+        "soul"
+      ],
+      "labelId": "lbl_sable-note",
+      "tier": "working",
+      "monthlyListeners": 3662,
+      "followers": 1307,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A quintet making jazz about work. Plays standards like an argument and originals like the last word.",
+      "placeId": "plc_tucson"
+    },
+    {
+      "id": "art_central-depot",
+      "name": "Central Depot",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "working",
+      "monthlyListeners": 7079,
+      "followers": 3239,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Indie rock trio from Tucson, AZ. Records in a rehearsal space at night and keeps the bleed.",
+      "placeId": "plc_tucson"
+    },
+    {
+      "id": "art_the-ballroom-orchestra",
+      "name": "The Ballroom Orchestra",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "collective",
+      "region": "us",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "genres": [
+        "hip-hop"
+      ],
+      "labelId": "lbl_marquee-hill",
+      "tier": "working",
+      "monthlyListeners": 10115,
+      "followers": 3240,
+      "active": {
+        "from": 2008,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A revue making hip-hop about small towns. Cuts the rhythm section live and overdubs nothing but voice. Refuses to release anything under three minutes.",
+      "placeId": "plc_detroit"
+    },
+    {
+      "id": "art_cass-and-the-terminals",
+      "name": "Cass & The Terminals",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "genres": [
+        "funk",
+        "jazz"
+      ],
+      "labelId": "lbl_harmattan",
+      "tier": "tail",
+      "monthlyListeners": 2657,
+      "followers": 800,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Cass & The Terminals has been a Detroit, MI fixture since 2021. Cuts the rhythm section live and overdubs nothing but voice.",
+      "placeId": "plc_detroit"
+    },
+    {
+      "id": "art_halvor-lindqvist",
+      "name": "Halvor Lindqvist",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "nordic",
+      "country": "NO",
+      "hometown": "Tromsø",
+      "genres": [
+        "jazz",
+        "modern-composition"
+      ],
+      "labelId": "lbl_sable-note",
+      "tier": "working",
+      "monthlyListeners": 17274,
+      "followers": 6000,
+      "active": {
+        "from": 2014,
+        "to": null
+      },
+      "verified": true,
+      "bio": "A bassist making jazz about work. Books the room for two days and uses the first afternoon.",
+      "placeId": "plc_troms"
+    },
+    {
+      "id": "art_elliot-crane",
+      "name": "Elliot Crane",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "labelId": "lbl_ferry-lane",
+      "tier": "tail",
+      "monthlyListeners": 2908,
+      "followers": 800,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Tucson, AZ and still arguing about it. Built on one repeated figure and a room mic.",
+      "placeId": "plc_tucson"
+    },
+    {
+      "id": "art_provisional-exchange",
+      "name": "Provisional Exchange",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "us",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "working",
+      "monthlyListeners": 10075,
+      "followers": 5010,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Tucson, AZ and still arguing about it. Three amps, no pedals, and a rule against overdubs.",
+      "placeId": "plc_tucson"
+    },
+    {
+      "id": "art_the-barleyfield-ensemble",
+      "name": "The Barleyfield Ensemble",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "collective",
+      "region": "us",
+      "country": "US",
+      "hometown": "Minneapolis, MN",
+      "genres": [
+        "americana",
+        "analog-revival"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "working",
+      "monthlyListeners": 7572,
+      "followers": 2501,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A collective making americana about weather. Everything is cut in a single take or not at all.",
+      "placeId": "plc_minneapolis"
+    },
+    {
+      "id": "art_curfew",
+      "name": "Curfew",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Providence, RI",
+      "genres": [
+        "jazz",
+        "funk"
+      ],
+      "labelId": "lbl_sable-note",
+      "tier": "working",
+      "monthlyListeners": 3571,
+      "followers": 1670,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A saxophonist making jazz about leaving. Books the room for two days and uses the first afternoon.",
+      "placeId": "plc_providence"
+    },
+    {
+      "id": "art_tobias-total",
+      "name": "Tobias Total",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Providence, RI",
+      "genres": [
+        "ambient",
+        "dream-pop"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "tail",
+      "monthlyListeners": 355,
+      "followers": 121,
+      "active": {
+        "from": 2024,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Providence, RI and still arguing about it. One synth, one delay, one rule: nothing added after the first pass.",
+      "placeId": "plc_providence"
+    },
+    {
+      "id": "art_redshift",
+      "name": "Redshift",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "japan",
+      "country": "JP",
+      "hometown": "Tokyo",
+      "genres": [
+        "ambient",
+        "modern-composition"
+      ],
+      "labelId": "lbl_self-released",
+      "tier": "established",
+      "monthlyListeners": 34082,
+      "followers": 17390,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Redshift has been a Tokyo fixture since 2016. Works in long takes and edits down afterwards.",
+      "placeId": "plc_tokyo"
+    },
+    {
+      "id": "art_nell-hollowell",
+      "name": "Nell Hollowell",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Bristol",
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "labelId": "lbl_ferry-lane",
+      "tier": "tail",
+      "monthlyListeners": 931,
+      "followers": 314,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": true,
+      "bio": "Formed in Bristol and still arguing about it. Built on one repeated figure and a room mic.",
+      "placeId": "plc_bristol"
+    },
+    {
+      "id": "art_the-outer-aphelions",
+      "name": "The Outer Aphelions",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "nordic",
+      "country": "SE",
+      "hometown": "Malmö",
+      "genres": [
+        "ambient"
+      ],
+      "labelId": "lbl_conservatory",
+      "tier": "working",
+      "monthlyListeners": 13765,
+      "followers": 5414,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Ambient project from Malmö. Records the mistakes and arranges around them.",
+      "placeId": "plc_malmo"
+    },
+    {
+      "id": "art_renata-and-the-taxis",
+      "name": "Renata & The Taxis",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "band",
+      "region": "latam",
+      "country": "CL",
+      "hometown": "Valparaíso",
+      "genres": [
+        "latin",
+        "funk"
+      ],
+      "labelId": "lbl_tropico-alto",
+      "tier": "working",
+      "monthlyListeners": 7865,
+      "followers": 3100,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "A band making latin about the coast. Cuts everything live with the band facing each other.",
+      "placeId": "plc_valparaiso"
+    },
+    {
+      "id": "art_merrick-municipal",
+      "name": "Merrick Municipal",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "us",
+      "country": "US",
+      "hometown": "Richmond, VA",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "tail",
+      "monthlyListeners": 1303,
+      "followers": 605,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Formed in Richmond, VA and still arguing about it. Built on one repeated figure and a room mic. Puts the best song last on purpose.",
+      "placeId": "plc_richmond"
+    },
+    {
+      "id": "art_bridie-velvet",
+      "name": "Bridie Velvet",
+      "origin": "generated",
+      "seed": "artistview",
+      "formation": "solo",
+      "region": "uk",
+      "country": "GB",
+      "hometown": "Belfast",
+      "genres": [
+        "indie-rock"
+      ],
+      "labelId": "lbl_blue-hour",
+      "tier": "tail",
+      "monthlyListeners": 189,
+      "followers": 104,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "verified": false,
+      "bio": "Belfast songwriter, working since 2021. Built on one repeated figure and a room mic. Considers the noise floor part of the arrangement.",
+      "placeId": "plc_belfast"
+    }
+  ]
+}

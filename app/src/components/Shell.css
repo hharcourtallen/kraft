@@ -1,0 +1,372 @@
+.shell {
+  display: flex;
+  flex-direction: column;
+  height: 100%;
+  min-width: 1024px;
+  background: var(--color-bg);
+}
+
+.shell-body {
+  display: flex;
+  flex: 1 1 0;
+  min-height: 0;
+}
+
+.shell-main {
+  flex: 1 1 0;
+  min-width: 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-10);
+  padding: var(--spacing-6) var(--spacing-6) var(--spacing-10);
+}
+
+.shell-main--full {
+  padding: 0;
+  gap: 0;
+}
+
+/* Edge-to-edge screens: the canvas is 1440 wide; beyond that the screen sits centred. */
+.shell-main--full > .list-page,
+.shell-main--full > .np {
+  width: 100%;
+  max-width: 1440px;
+  margin: 0 auto;
+}
+
+/* Page column: 1152 on a 1440 canvas, fluid below that, centred in the main
+   column on wider screens so the body never hangs off the sidebar. */
+.page {
+  width: 100%;
+  max-width: 1152px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-10);
+}
+
+/* ---------- Top bar ---------- */
+.topbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--spacing-4);
+  height: 52px;
+  flex-shrink: 0;
+  padding: 0 var(--spacing-5) 0 var(--spacing-4);
+  background: var(--color-surface);
+  border-bottom: 1px solid var(--color-line-subtle);
+}
+
+.topbar-left {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-6);
+  padding: 0 var(--spacing-0-5);
+  flex-shrink: 0;
+}
+
+/* The Kraft lockup, as on the card template: mark and word share one colour,
+   Instrument Sans 600, no tracking, gap ≈ 0.36em. */
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  color: var(--color-text);
+}
+
+.logo svg {
+  width: 16px;
+  height: 16px;
+  color: currentColor;
+}
+
+.logo .display {
+  font-weight: var(--font-weight-display-medium);
+  letter-spacing: 0;
+}
+
+.topbar-nav {
+  display: flex;
+  gap: var(--spacing-1);
+}
+
+.iconbtn {
+  width: 28px;
+  height: 28px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  color: var(--color-text-muted);
+  flex-shrink: 0;
+}
+
+.iconbtn:hover {
+  background: var(--color-hover);
+  color: var(--color-text);
+}
+
+.search {
+  flex: 1 1 0;
+  max-width: 480px;
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  height: 34px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-md);
+  background: var(--color-well);
+  border: 1px solid var(--color-line-strong);
+  color: var(--color-text-subtle);
+}
+
+.search input {
+  flex: 1;
+  min-width: 0;
+  background: none;
+  border: 0;
+  outline: 0;
+  font: inherit;
+  font-size: var(--text-sm);
+  color: var(--color-text);
+}
+
+.search input::placeholder {
+  color: var(--color-text-subtle);
+}
+
+.topbar-right {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  flex-shrink: 0;
+}
+
+.avatar {
+  flex-shrink: 0;
+  border-radius: var(--radius-full);
+  background-color: var(--color-well);
+  background-size: cover;
+  background-position: 50% 18%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: var(--color-text-muted);
+  font-weight: var(--font-weight-medium);
+}
+
+/* ---------- Sidebar ---------- */
+.sidebar {
+  width: 240px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  background: var(--color-surface);
+}
+
+.sidebar-nav {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+  padding: var(--spacing-2) var(--spacing-2) var(--spacing-1);
+}
+
+.navitem {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  height: 36px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-md);
+  color: var(--color-text);
+  font-size: var(--text-sm);
+  letter-spacing: var(--tracking-normal);
+}
+
+.navitem svg {
+  color: var(--color-text-muted);
+}
+
+.navitem:hover {
+  background: var(--color-hover);
+}
+
+.navitem.active {
+  background: var(--color-accent-subtle);
+  font-weight: var(--font-weight-medium);
+}
+
+.navitem.active svg {
+  color: var(--color-text);
+}
+
+.sidebar-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 28px;
+  padding: 0 var(--spacing-4);
+  color: var(--color-text-subtle);
+  font-weight: var(--font-weight-medium);
+  letter-spacing: var(--tracking-normal);
+}
+
+.sidebar-lists {
+  flex: 1 1 0;
+  overflow-y: auto;
+  display: flex;
+  flex-direction: column;
+}
+
+.listrow {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  height: 40px;
+  padding: 0 var(--spacing-4);
+  flex-shrink: 0;
+}
+
+.listrow:first-child {
+  height: 44px;
+}
+
+.listrow:hover {
+  background: var(--color-hover);
+}
+
+.listrow .cover,
+.listrow .liked {
+  width: 32px;
+  height: 32px;
+}
+
+.listrow .liked {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-md);
+  background: var(--color-track);
+  color: var(--color-text);
+  flex-shrink: 0;
+}
+
+.listrow-text {
+  display: flex;
+  flex-direction: column;
+  gap: 1px;
+  min-width: 0;
+}
+
+/* ---------- Player bar ---------- */
+.playerbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-shrink: 0;
+  padding: var(--spacing-6);
+  background: var(--color-surface);
+  border-top: 1px solid var(--color-line-subtle);
+}
+
+.playerbar-info {
+  display: flex;
+  align-items: flex-start;
+  gap: var(--spacing-2);
+  width: 280px;
+}
+
+.playerbar-info .cover {
+  width: 34px;
+  height: 34px;
+}
+
+.transport {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-6);
+  color: var(--color-text-muted);
+}
+
+.transport button {
+  color: var(--color-text-muted);
+  display: flex;
+}
+
+.transport button:hover,
+.transport button[aria-pressed='true'] {
+  color: var(--color-text);
+}
+
+.transport button[aria-pressed='true'] {
+  position: relative;
+}
+
+/* the LED: a dot that only glows in dark mode */
+.transport button[aria-pressed='true']::after {
+  content: '';
+  position: absolute;
+  left: 50%;
+  bottom: -7px;
+  width: 4px;
+  height: 4px;
+  margin-left: -2px;
+  border-radius: var(--radius-full);
+  background: var(--color-led-accent);
+  box-shadow: var(--color-led-glow) var(--color-accent);
+}
+
+.playbtn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: var(--radius-full);
+  background: var(--color-bg-inverse);
+  color: var(--color-text-inverse) !important;
+  width: 40px;
+  height: 40px;
+}
+
+.volume {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  width: 280px;
+  justify-content: flex-end;
+  padding-right: var(--spacing-6);
+  color: var(--color-text-muted);
+}
+
+.track {
+  position: relative;
+  height: 4px;
+  border-radius: var(--radius-full);
+  background: var(--color-track);
+  cursor: pointer;
+}
+
+.track-fill {
+  position: absolute;
+  inset: 0 auto 0 0;
+  border-radius: var(--radius-full);
+  background: var(--color-track-fill);
+}
+
+.volume .track {
+  width: 124px;
+}
+
+.sidebar-foot {
+  margin-top: auto;
+  padding: var(--spacing-3) var(--spacing-4);
+}
+
+/* Settings, pinned under a hairline: a utility, not a place to go. */
+.sidebar-settings {
+  flex-shrink: 0;
+  padding: var(--spacing-2);
+  border-top: 1px solid var(--color-line);
+}

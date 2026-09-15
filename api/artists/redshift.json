@@ -1,0 +1,339 @@
+{
+  "id": "art_redshift",
+  "slug": "redshift",
+  "name": "Redshift",
+  "formation": "band",
+  "country": "JP",
+  "hometown": "Tokyo",
+  "geo": {
+    "placeId": "plc_tokyo",
+    "city": "Tokyo",
+    "country": "JP",
+    "lat": 35.68,
+    "lng": 139.69
+  },
+  "region": "japan",
+  "genres": [
+    "ambient",
+    "modern-composition"
+  ],
+  "primaryGenre": {
+    "slug": "ambient",
+    "name": "Ambient"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "established",
+  "monthlyListeners": 34082,
+  "monthlyListenersLabel": "34K monthly listeners",
+  "followers": 17390,
+  "followersLabel": "17K",
+  "shelfCaption": "Ambient · 34K listeners",
+  "verified": true,
+  "active": {
+    "from": 2016,
+    "to": null
+  },
+  "bio": "Redshift has been a Tokyo fixture since 2016. Works in long takes and edits down afterwards.",
+  "discography": [
+    "alb_iron-kiln-redshift",
+    "alb_solar-ascension-redshift",
+    "alb_limestone-bedrock-redshift"
+  ],
+  "popularTrackIds": [
+    "trk_zenith-redshift-2016-0",
+    "trk_sediment-redshift-2016-2",
+    "trk_equinox-blues-redshift-2022-0",
+    "trk_ninth-meridian-redshift-2016-3",
+    "trk_observatory-theme-redshift-2018-0",
+    "trk_distant-observatory-redshift-2018-1",
+    "trk_twice-the-seam-redshift-2016-1",
+    "trk_solar-equinox-redshift-2018-2",
+    "trk_limestone-kiln-redshift-2018-3",
+    "trk_quarry-song-redshift-2016-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2022,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2022 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202022%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a band of three standing far apart in an empty car park. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_zenith-redshift-2016-0",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "7:54",
+      "durationSec": 474,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "447,377"
+    },
+    {
+      "id": "trk_sediment-redshift-2016-2",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "8:35",
+      "durationSec": 515,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "223,313"
+    },
+    {
+      "id": "trk_equinox-blues-redshift-2022-0",
+      "slug": "equinox-blues",
+      "title": "Equinox Blues",
+      "duration": "9:59",
+      "durationSec": 599,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_iron-kiln-redshift",
+        "title": "Iron Kiln",
+        "slug": "iron-kiln",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "214,476"
+    },
+    {
+      "id": "trk_ninth-meridian-redshift-2016-3",
+      "slug": "ninth-meridian",
+      "title": "Ninth Meridian",
+      "duration": "7:10",
+      "durationSec": 430,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "208,919"
+    },
+    {
+      "id": "trk_observatory-theme-redshift-2018-0",
+      "slug": "observatory-theme",
+      "title": "Observatory Theme",
+      "duration": "9:52",
+      "durationSec": 592,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "204,258"
+    },
+    {
+      "id": "trk_distant-observatory-redshift-2018-1",
+      "slug": "distant-observatory",
+      "title": "Distant Observatory",
+      "duration": "10:31",
+      "durationSec": 631,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "187,287"
+    },
+    {
+      "id": "trk_twice-the-seam-redshift-2016-1",
+      "slug": "twice-the-seam",
+      "title": "Twice the Seam",
+      "duration": "8:58",
+      "durationSec": 538,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "158,433"
+    },
+    {
+      "id": "trk_solar-equinox-redshift-2018-2",
+      "slug": "solar-equinox",
+      "title": "Solar Equinox",
+      "duration": "8:49",
+      "durationSec": 529,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "143,554"
+    },
+    {
+      "id": "trk_limestone-kiln-redshift-2018-3",
+      "slug": "limestone-kiln",
+      "title": "Limestone Kiln",
+      "duration": "11:24",
+      "durationSec": 684,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_solar-ascension-redshift",
+        "title": "Solar Ascension",
+        "slug": "solar-ascension",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "133,782"
+    },
+    {
+      "id": "trk_quarry-song-redshift-2016-4",
+      "slug": "quarry-song",
+      "title": "Quarry Song",
+      "duration": "9:40",
+      "durationSec": 580,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "67,961"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_iron-kiln-redshift",
+      "slug": "iron-kiln",
+      "title": "Iron Kiln",
+      "subtitle": "2022 · Single",
+      "year": 2022,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_solar-ascension-redshift",
+      "slug": "solar-ascension",
+      "title": "Solar Ascension",
+      "subtitle": "2018 · EP",
+      "year": 2018,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_limestone-bedrock-redshift",
+      "slug": "limestone-bedrock",
+      "title": "Limestone Bedrock",
+      "subtitle": "2016 · Album",
+      "year": 2016,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Zenith",
+      "position": 3,
+      "caption": "Zenith is track 3"
+    }
+  ]
+}

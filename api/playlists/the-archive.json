@@ -1,0 +1,54 @@
+{
+  "id": "pl_the-archive",
+  "slug": "the-archive",
+  "title": "The Archive",
+  "description": "Reissues, restorations and records that nearly did not survive.",
+  "note": "Forty tracks of Accra and Lagos crate finds. The liner notes are longer than some of the songs, on purpose.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Adé Mensah",
+  "curator": {
+    "id": "cur_ade-mensah",
+    "name": "Adé Mensah",
+    "city": "Accra"
+  },
+  "trackCount": 40,
+  "durationSec": 9600,
+  "durationLabel": "2 hr 40 min",
+  "metaLine": "40 tracks · 2 hr 40 min",
+  "libraryLine": "List · 40 songs",
+  "followers": 26703,
+  "followersLabel": "27K",
+  "updated": "2026-08-20",
+  "moods": [],
+  "genres": [
+    "afrobeat",
+    "dub",
+    "funk",
+    "cumbia"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 40,
+  "artwork": {
+    "image": "/artwork/playlist/the-archive.jpg",
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+      "composition": "non-representational, full bleed, edge-to-edge colour",
+      "abstract": true,
+      "subject": "a woven textile at macro scale",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a woven textile at macro scale. Palette: chrome yellow, deep green, vermilion, black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20woven%20textile%20at%20macro%20scale.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "5 days ago"
+}

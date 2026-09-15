@@ -1,0 +1,49 @@
+{
+  "id": "alb_rootwork-opal-and-t",
+  "slug": "rootwork-opal-and-the-villages",
+  "title": "Rootwork",
+  "year": 2019,
+  "type": "Album",
+  "subtitle": "2019 · Album",
+  "trackCount": 12,
+  "durationSec": 3144,
+  "durationLabel": "52 min",
+  "artist": {
+    "id": "art_opal-and-the-villages",
+    "name": "Opal & The Villages",
+    "slug": "opal-and-the-villages"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "americana",
+    "folk"
+  ],
+  "tracks": [
+    "trk_rootwork-opal-and-2019-0",
+    "trk_fallow-meadow-opal-and-2019-1",
+    "trk_bright-meadow-opal-and-2019-2",
+    "trk_golden-barleyfield-opal-and-2019-3",
+    "trk_bloom-opal-and-2019-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2019,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "an empty diner parking lot at noon",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: an empty diner parking lot at noon. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20an%20empty%20diner%20parking%20lot%20at%20noon.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

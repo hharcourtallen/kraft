@@ -1,0 +1,359 @@
+{
+  "id": "art_central-depot",
+  "slug": "central-depot",
+  "name": "Central Depot",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Tucson, AZ",
+  "geo": {
+    "placeId": "plc_tucson",
+    "city": "Tucson",
+    "country": "US",
+    "lat": 32.22,
+    "lng": -110.97
+  },
+  "region": "us",
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "working",
+  "monthlyListeners": 7079,
+  "monthlyListenersLabel": "7.1K monthly listeners",
+  "followers": 3239,
+  "followersLabel": "3.2K",
+  "shelfCaption": "Indie Rock · 7.1K listeners",
+  "verified": true,
+  "active": {
+    "from": 2016,
+    "to": null
+  },
+  "bio": "Indie rock trio from Tucson, AZ. Records in a rehearsal space at night and keeps the bleed.",
+  "discography": [
+    "alb_the-payphone-central-de",
+    "alb_motel-and-taxi-central-de",
+    "alb_precinct-and-depot-central-de",
+    "alb_payphones-central-de",
+    "alb_the-taxi-central-de"
+  ],
+  "popularTrackIds": [
+    "trk_provision-central--2017-0",
+    "trk_two-hundred-registries-central--2016-1",
+    "trk_taxi-march-central--2016-2",
+    "trk_boulevard-hymn-central--2021-0",
+    "trk_curfew-central--2019-0",
+    "trk_all-the-assemblies-central--2016-0",
+    "trk_exchange-demo-central--2017-1",
+    "trk_municipal-bloc-central--2019-1",
+    "trk_central-terminal-central--2019-2",
+    "trk_terminal-elegy-central--2016-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician alone on a small stage, one lamp on. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_provision-central--2017-0",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_payphones-central-de",
+        "title": "Payphones",
+        "slug": "payphones",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "97,823"
+    },
+    {
+      "id": "trk_two-hundred-registries-central--2016-1",
+      "slug": "two-hundred-registries",
+      "title": "Two Hundred Registries",
+      "duration": "2:55",
+      "durationSec": 175,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "44,504"
+    },
+    {
+      "id": "trk_taxi-march-central--2016-2",
+      "slug": "taxi-march",
+      "title": "Taxi March",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "44,307"
+    },
+    {
+      "id": "trk_boulevard-hymn-central--2021-0",
+      "slug": "boulevard-hymn",
+      "title": "Boulevard Hymn",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_motel-and-taxi-central-de",
+        "title": "Motel & Taxi",
+        "slug": "motel-and-taxi",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "42,344"
+    },
+    {
+      "id": "trk_curfew-central--2019-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "5:09",
+      "durationSec": 309,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_precinct-and-depot-central-de",
+        "title": "Precinct & Depot",
+        "slug": "precinct-and-depot",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "39,458"
+    },
+    {
+      "id": "trk_all-the-assemblies-central--2016-0",
+      "slug": "all-the-assemblies",
+      "title": "All the Assemblies",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "35,598"
+    },
+    {
+      "id": "trk_exchange-demo-central--2017-1",
+      "slug": "exchange-demo",
+      "title": "Exchange (Demo)",
+      "duration": "3:01",
+      "durationSec": 181,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_payphones-central-de",
+        "title": "Payphones",
+        "slug": "payphones",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "33,369"
+    },
+    {
+      "id": "trk_municipal-bloc-central--2019-1",
+      "slug": "municipal-bloc",
+      "title": "Municipal Bloc",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_precinct-and-depot-central-de",
+        "title": "Precinct & Depot",
+        "slug": "precinct-and-depot",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "26,461"
+    },
+    {
+      "id": "trk_central-terminal-central--2019-2",
+      "slug": "central-terminal",
+      "title": "Central Terminal",
+      "duration": "3:09",
+      "durationSec": 189,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_precinct-and-depot-central-de",
+        "title": "Precinct & Depot",
+        "slug": "precinct-and-depot",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "22,743"
+    },
+    {
+      "id": "trk_terminal-elegy-central--2016-3",
+      "slug": "terminal-elegy",
+      "title": "Terminal Elegy",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_the-taxi-central-de",
+        "title": "The Taxi",
+        "slug": "the-taxi",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "15,389"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-payphone-central-de",
+      "slug": "the-payphone-central-depot",
+      "title": "The Payphone",
+      "subtitle": "2024 · EP",
+      "year": 2024,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_motel-and-taxi-central-de",
+      "slug": "motel-and-taxi",
+      "title": "Motel & Taxi",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_precinct-and-depot-central-de",
+      "slug": "precinct-and-depot",
+      "title": "Precinct & Depot",
+      "subtitle": "2019 · Album",
+      "year": 2019,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_payphones-central-de",
+      "slug": "payphones",
+      "title": "Payphones",
+      "subtitle": "2017 · EP",
+      "year": 2017,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_the-taxi-central-de",
+      "slug": "the-taxi",
+      "title": "The Taxi",
+      "subtitle": "2016 · Album",
+      "year": 2016,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Velvet Rooftop",
+      "position": 11,
+      "caption": "Velvet Rooftop is track 11"
+    }
+  ]
+}

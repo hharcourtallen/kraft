@@ -1,0 +1,326 @@
+{
+  "id": "art_greer-blackwood",
+  "slug": "greer-blackwood",
+  "name": "Greer Blackwood",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Portland, OR",
+  "geo": {
+    "placeId": "plc_portland",
+    "city": "Portland",
+    "country": "US",
+    "lat": 45.52,
+    "lng": -122.68
+  },
+  "region": "us",
+  "genres": [
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "established",
+  "monthlyListeners": 58835,
+  "monthlyListenersLabel": "59K monthly listeners",
+  "followers": 23026,
+  "followersLabel": "23K",
+  "shelfCaption": "Indie Rock · 59K listeners",
+  "verified": false,
+  "active": {
+    "from": 2018,
+    "to": null
+  },
+  "bio": "Formed in Portland, OR and still arguing about it. Prefers the second take to the good one. Answers every interview question with a different lie.",
+  "discography": [
+    "alb_taxis-greer-blac",
+    "alb_provision-greer-blac",
+    "alb_neon-rooftop-greer-blac"
+  ],
+  "popularTrackIds": [
+    "trk_model-terminal-greer-bl-2018-1",
+    "trk_annex-hymn-greer-bl-2020-0",
+    "trk_rooftop-march-greer-bl-2021-0",
+    "trk_midnight-ballroom-greer-bl-2018-0",
+    "trk_model-bloc-greer-bl-2020-1",
+    "trk_registry-lullaby-greer-bl-2018-2",
+    "trk_last-ferry-greer-bl-2020-2",
+    "trk_neon-motel-greer-bl-2020-3",
+    "trk_all-the-precincts-greer-bl-2021-1",
+    "trk_curfew-greer-bl-2020-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2021,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician in profile against a plain wall. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2021,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician leaning on a van, road behind them. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_model-terminal-greer-bl-2018-1",
+      "slug": "model-terminal",
+      "title": "Model Terminal",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_neon-rooftop-greer-blac",
+        "title": "Neon Rooftop",
+        "slug": "neon-rooftop",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "859,165"
+    },
+    {
+      "id": "trk_annex-hymn-greer-bl-2020-0",
+      "slug": "annex-hymn",
+      "title": "Annex Hymn",
+      "duration": "3:19",
+      "durationSec": 199,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "784,650"
+    },
+    {
+      "id": "trk_rooftop-march-greer-bl-2021-0",
+      "slug": "rooftop-march",
+      "title": "Rooftop March",
+      "duration": "3:47",
+      "durationSec": 227,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_taxis-greer-blac",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "558,424"
+    },
+    {
+      "id": "trk_midnight-ballroom-greer-bl-2018-0",
+      "slug": "midnight-ballroom",
+      "title": "Midnight Ballroom",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_neon-rooftop-greer-blac",
+        "title": "Neon Rooftop",
+        "slug": "neon-rooftop",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "557,464"
+    },
+    {
+      "id": "trk_model-bloc-greer-bl-2020-1",
+      "slug": "model-bloc",
+      "title": "Model Bloc",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "306,323"
+    },
+    {
+      "id": "trk_registry-lullaby-greer-bl-2018-2",
+      "slug": "registry-lullaby",
+      "title": "Registry Lullaby",
+      "duration": "3:38",
+      "durationSec": 218,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_neon-rooftop-greer-blac",
+        "title": "Neon Rooftop",
+        "slug": "neon-rooftop",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "301,977"
+    },
+    {
+      "id": "trk_last-ferry-greer-bl-2020-2",
+      "slug": "last-ferry",
+      "title": "Last Ferry",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "265,415"
+    },
+    {
+      "id": "trk_neon-motel-greer-bl-2020-3",
+      "slug": "neon-motel",
+      "title": "Neon Motel",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "158,163"
+    },
+    {
+      "id": "trk_all-the-precincts-greer-bl-2021-1",
+      "slug": "all-the-precincts",
+      "title": "All the Precincts",
+      "duration": "4:05",
+      "durationSec": 245,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_taxis-greer-blac",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "115,831"
+    },
+    {
+      "id": "trk_curfew-greer-bl-2020-4",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_greer-blackwood",
+        "name": "Greer Blackwood",
+        "slug": "greer-blackwood"
+      },
+      "album": {
+        "id": "alb_provision-greer-blac",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "80,264"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_taxis-greer-blac",
+      "slug": "taxis-greer-blackwood",
+      "title": "Taxis",
+      "subtitle": "2021 · Single",
+      "year": 2021,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_provision-greer-blac",
+      "slug": "provision",
+      "title": "Provision",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_neon-rooftop-greer-blac",
+      "slug": "neon-rooftop",
+      "title": "Neon Rooftop",
+      "subtitle": "2018 · Album",
+      "year": 2018,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

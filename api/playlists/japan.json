@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-japan",
+  "slug": "japan",
+  "title": "Japan",
+  "description": null,
+  "note": "Tokyo after the last train. Ren Ishii and Redshift are from here; the rest is what I hear in the taxi home.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "JP",
+  "subtitle": "Haruka Nakagawa",
+  "curator": {
+    "id": "cur_haruka-nakagawa",
+    "name": "Haruka Nakagawa",
+    "city": "Tokyo"
+  },
+  "trackCount": 12,
+  "durationSec": 3937,
+  "durationLabel": "1 hr 6 min",
+  "metaLine": "12 tracks · 1 hr 6 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 16200,
+  "followersLabel": "16K",
+  "updated": "2026-07-10",
+  "moods": [],
+  "genres": [
+    "dream-pop",
+    "downtempo",
+    "ambient"
+  ],
+  "trackIds": [
+    "trk_husbandry-ren-ishi-2020-0",
+    "trk_fallow-thicket-ren-ishi-2020-1",
+    "trk_zenith-redshift-2016-0",
+    "trk_twice-the-seam-redshift-2016-1",
+    "trk_copper-seam-the-oute-2023-1",
+    "trk_census-imogen-s-2015-0",
+    "trk_dark-motel-blue-fer-2024-0",
+    "trk_boulevard-reprise-merrick--2020-0",
+    "trk_curfew-sadie-bl-2020-0",
+    "trk_nothing-but-boulevards-imogen-s-2011-0",
+    "trk_velvet-rooftop-central--2021-2",
+    "trk_another-boulevard-blue-fer-2024-1"
+  ],
+  "tracks": [
+    {
+      "id": "trk_husbandry-ren-ishi-2020-0",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "duration": "5:10",
+      "durationSec": 310,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fallow-thicket-ren-ishi-2020-1",
+      "slug": "fallow-thicket",
+      "title": "Fallow Thicket",
+      "duration": "2:57",
+      "durationSec": 177,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zenith-redshift-2016-0",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "7:54",
+      "durationSec": 474,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_twice-the-seam-redshift-2016-1",
+      "slug": "twice-the-seam",
+      "title": "Twice the Seam",
+      "duration": "8:58",
+      "durationSec": 538,
+      "artist": {
+        "id": "art_redshift",
+        "name": "Redshift",
+        "slug": "redshift"
+      },
+      "album": {
+        "id": "alb_limestone-bedrock-redshift",
+        "title": "Limestone Bedrock",
+        "slug": "limestone-bedrock",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_copper-seam-the-oute-2023-1",
+      "slug": "copper-seam",
+      "title": "Copper Seam",
+      "duration": "9:48",
+      "durationSec": 588,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-imogen-s-2015-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:38",
+      "durationSec": 218,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_payphone-and-underpass-imogen-sin",
+        "title": "Payphone & Underpass",
+        "slug": "payphone-and-underpass",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dark-motel-blue-fer-2024-0",
+      "slug": "dark-motel",
+      "title": "Dark Motel",
+      "duration": "4:22",
+      "durationSec": 262,
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "album": {
+        "id": "alb_taxis-blue-ferry",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_boulevard-reprise-merrick--2020-0",
+      "slug": "boulevard-reprise",
+      "title": "Boulevard (Reprise)",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_the-ballroom-merrick-an",
+        "title": "The Ballroom",
+        "slug": "the-ballroom",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-sadie-bl-2020-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "5:25",
+      "durationSec": 325,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-boulevards-imogen-s-2011-0",
+      "slug": "nothing-but-boulevards",
+      "title": "Nothing but Boulevards",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_exchanges-imogen-sin",
+        "title": "Exchanges",
+        "slug": "exchanges",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_velvet-rooftop-central--2021-2",
+      "slug": "velvet-rooftop",
+      "title": "Velvet Rooftop",
+      "duration": "4:22",
+      "durationSec": 262,
+      "artist": {
+        "id": "art_central-depot",
+        "name": "Central Depot",
+        "slug": "central-depot"
+      },
+      "album": {
+        "id": "alb_motel-and-taxi-central-de",
+        "title": "Motel & Taxi",
+        "slug": "motel-and-taxi",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-boulevard-blue-fer-2024-1",
+      "slug": "another-boulevard",
+      "title": "Another Boulevard",
+      "duration": "5:34",
+      "durationSec": 334,
+      "artist": {
+        "id": "art_blue-ferry",
+        "name": "Blue Ferry",
+        "slug": "blue-ferry"
+      },
+      "album": {
+        "id": "alb_taxis-blue-ferry",
+        "title": "Taxis",
+        "slug": "taxis",
+        "year": 2024
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-japan.png",
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2026,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "airbrushed illustration with glossy highlights and gradient blends",
+      "composition": "monumental centred subject, low horizon, dramatic scale",
+      "abstract": false,
+      "subject": "hair underwater",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2026 cover deliberately styled after 1980-1999. Medium: airbrushed illustration with glossy highlights and gradient blends. Subject: hair underwater. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: monumental centred subject, low horizon, dramatic scale. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202026%20cover%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20airbrushed%20illustration%20with%20glossy%20highlights%20and%20gradient%20blends.%20Subject%3A%20hair%20underwater.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20monumental%20centred%20subject%2C%20low%20horizon%2C%20dramatic%20scale.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "10 Jul"
+}

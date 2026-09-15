@@ -1,0 +1,171 @@
+{
+  "id": "art_ballast-and-lodestar",
+  "slug": "ballast-and-lodestar",
+  "name": "Ballast & Lodestar",
+  "formation": "duo",
+  "country": "GB",
+  "hometown": "Sheffield",
+  "geo": {
+    "placeId": "plc_sheffield",
+    "city": "Sheffield",
+    "country": "GB",
+    "lat": 53.38,
+    "lng": -1.47
+  },
+  "region": "uk",
+  "genres": [
+    "folk"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2384,
+  "monthlyListenersLabel": "2.4K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Folk · 2.4K listeners",
+  "verified": false,
+  "active": {
+    "from": 2025,
+    "to": 2026
+  },
+  "bio": "Sheffield duo, working since 2025. Records live to tape with the band in one room and no click.",
+  "discography": [
+    "alb_rootwork-ballast-an"
+  ],
+  "popularTrackIds": [
+    "trk_fieldwork-ballast--2025-1",
+    "trk_drowned-harbour-ballast--2025-0",
+    "trk_deep-current-ballast--2025-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician alone on a small stage, one lamp on. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_fieldwork-ballast--2025-1",
+      "slug": "fieldwork",
+      "title": "Fieldwork",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "album": {
+        "id": "alb_rootwork-ballast-an",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "6,593"
+    },
+    {
+      "id": "trk_drowned-harbour-ballast--2025-0",
+      "slug": "drowned-harbour",
+      "title": "Drowned Harbour",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "album": {
+        "id": "alb_rootwork-ballast-an",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "3,663"
+    },
+    {
+      "id": "trk_deep-current-ballast--2025-2",
+      "slug": "deep-current",
+      "title": "Deep Current",
+      "duration": "4:09",
+      "durationSec": 249,
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "album": {
+        "id": "alb_rootwork-ballast-an",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "3,075"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_rootwork-ballast-an",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "subtitle": "2025 · EP",
+      "year": 2025,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-mexico",
+      "slug": "mexico",
+      "title": "Mexico",
+      "image": "/artwork/playlist/country-mexico.png",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Fieldwork",
+      "position": 4,
+      "caption": "Fieldwork is track 4"
+    }
+  ]
+}

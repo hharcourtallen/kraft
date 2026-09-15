@@ -1,0 +1,370 @@
+{
+  "id": "art_ren-ishii",
+  "slug": "ren-ishii",
+  "name": "Ren Ishii",
+  "formation": "solo",
+  "country": "JP",
+  "hometown": "Kyoto",
+  "geo": {
+    "placeId": "plc_kyoto",
+    "city": "Kyoto",
+    "country": "JP",
+    "lat": 35.01,
+    "lng": 135.77
+  },
+  "region": "japan",
+  "genres": [
+    "electronic"
+  ],
+  "primaryGenre": {
+    "slug": "electronic",
+    "name": "Electronic"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "tier": "tail",
+  "monthlyListeners": 1738,
+  "monthlyListenersLabel": "1.7K monthly listeners",
+  "followers": 545,
+  "followersLabel": "545",
+  "shelfCaption": "Electronic · 1.7K listeners",
+  "verified": false,
+  "active": {
+    "from": 2020,
+    "to": 2026
+  },
+  "bio": "Electronic live-hardware producer from Kyoto. Records the mistakes and arranges around them.",
+  "discography": [
+    "alb_rooftops-ren-ishii",
+    "alb_husbandry-ren-ishii",
+    "alb_rootwork-ren-ishii",
+    "alb_low-thicket-ren-ishii"
+  ],
+  "popularTrackIds": [
+    "trk_soft-fen-ren-ishi-2021-0",
+    "trk_husbandry-ren-ishi-2020-0",
+    "trk_fallow-thicket-ren-ishi-2020-1",
+    "trk_bright-fen-ren-ishi-2021-1",
+    "trk_afterhours-ren-ishi-2023-0",
+    "trk_neon-taxi-ren-ishi-2020-2",
+    "trk_payphone-blues-ren-ishi-2021-2",
+    "trk_curfew-ren-ishi-2020-3",
+    "trk_marquee-instrumental-ren-ishi-2025-0",
+    "trk_afterhours-ren-ishi-2020-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "electronic",
+        "year": 2025,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "duotone photograph printed over a flat solid colour block",
+        "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "ultramarine, silver, black, one acid highlight"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2025 press image deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: a musician holding their instrument case, deadpan. Palette: ultramarine, silver, black, one acid highlight. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202025%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "electronic",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "ultramarine, silver, black, one acid highlight"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician alone on a small stage, one lamp on. Palette: ultramarine, silver, black, one acid highlight. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_soft-fen-ren-ishi-2021-0",
+      "slug": "soft-fen",
+      "title": "Soft Fen",
+      "duration": "2:32",
+      "durationSec": 152,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_rootwork-ren-ishii",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "29,027"
+    },
+    {
+      "id": "trk_husbandry-ren-ishi-2020-0",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "duration": "5:10",
+      "durationSec": 310,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "26,737"
+    },
+    {
+      "id": "trk_fallow-thicket-ren-ishi-2020-1",
+      "slug": "fallow-thicket",
+      "title": "Fallow Thicket",
+      "duration": "2:57",
+      "durationSec": 177,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "26,483"
+    },
+    {
+      "id": "trk_bright-fen-ren-ishi-2021-1",
+      "slug": "bright-fen",
+      "title": "Bright Fen",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_rootwork-ren-ishii",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "11,778"
+    },
+    {
+      "id": "trk_afterhours-ren-ishi-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "4:48",
+      "durationSec": 288,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_husbandry-ren-ishii",
+        "title": "Husbandry",
+        "slug": "husbandry",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "11,684"
+    },
+    {
+      "id": "trk_neon-taxi-ren-ishi-2020-2",
+      "slug": "neon-taxi",
+      "title": "Neon Taxi",
+      "duration": "3:10",
+      "durationSec": 190,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "8,861"
+    },
+    {
+      "id": "trk_payphone-blues-ren-ishi-2021-2",
+      "slug": "payphone-blues",
+      "title": "Payphone Blues",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_rootwork-ren-ishii",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "8,353"
+    },
+    {
+      "id": "trk_curfew-ren-ishi-2020-3",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "6,183"
+    },
+    {
+      "id": "trk_marquee-instrumental-ren-ishi-2025-0",
+      "slug": "marquee-instrumental",
+      "title": "Marquee (Instrumental)",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_rooftops-ren-ishii",
+        "title": "Rooftops",
+        "slug": "rooftops",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,494"
+    },
+    {
+      "id": "trk_afterhours-ren-ishi-2020-4",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "3:14",
+      "durationSec": 194,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "2,127"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_rooftops-ren-ishii",
+      "slug": "rooftops",
+      "title": "Rooftops",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_husbandry-ren-ishii",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "subtitle": "2023 · Single",
+      "year": 2023,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_rootwork-ren-ishii",
+      "slug": "rootwork-ren-ishii",
+      "title": "Rootwork",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_low-thicket-ren-ishii",
+      "slug": "low-thicket",
+      "title": "Low Thicket",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Payphone Blues",
+      "position": 2,
+      "caption": "Payphone Blues is track 2"
+    },
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Husbandry",
+      "position": 1,
+      "caption": "Husbandry opens it"
+    },
+    {
+      "playlistId": "pl_country-france",
+      "slug": "france",
+      "title": "France",
+      "image": "/artwork/playlist/country-france.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Afterhours",
+      "position": 8,
+      "caption": "Afterhours is track 8"
+    }
+  ]
+}

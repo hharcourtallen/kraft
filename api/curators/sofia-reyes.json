@@ -1,0 +1,91 @@
+{
+  "id": "cur_sofia-reyes",
+  "slug": "sofia-reyes",
+  "name": "Sofía Reyes",
+  "beat": [
+    "analog-revival",
+    "folk",
+    "bossa"
+  ],
+  "beatLabel": "Analog Revival · Folk · Bossa Nova",
+  "city": "Mexico City",
+  "geo": {
+    "placeId": "plc_mexico-city",
+    "city": "Mexico City",
+    "country": "MX",
+    "lat": 19.43,
+    "lng": -99.13
+  },
+  "since": 2019,
+  "bio": "Ran a record shop for eleven years before Kraft. Believes a playlist should end somewhere different from where it started.",
+  "kicker": "Curator · Mexico City · since 2019",
+  "listCount": 41,
+  "listIds": [
+    "pl_vinyl-sundays",
+    "pl_golden-hour",
+    "pl_wildflower-days",
+    "pl_country-mexico"
+  ],
+  "followers": 84200,
+  "followersLabel": "84K",
+  "follows": [
+    "cur_ade-mensah",
+    "cur_luana-andrade",
+    "cur_marcus-pike"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_golden-hour",
+    "slug": "golden-hour",
+    "title": "Golden Hour",
+    "curatorName": "Sofía Reyes"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_golden-hour",
+      "playlistTitle": "Golden Hour",
+      "note": "Records that sound like the last hour of light. I sequence this one backwards, brightest last.",
+      "updated": "2026-08-21",
+      "updatedLabel": "4 days ago"
+    },
+    {
+      "playlistId": "pl_vinyl-sundays",
+      "playlistTitle": "Vinyl Sundays",
+      "note": "I've been building this one since we launched. It is the closest thing Kraft has to a house style: tape hiss, room mics, and nothing that sounds finished.",
+      "updated": "2026-08-16",
+      "updatedLabel": "1 week ago"
+    },
+    {
+      "playlistId": "pl_wildflower-days",
+      "playlistTitle": "Wildflower Days",
+      "note": "Folk that isn't precious about it. Half of these were recorded outdoors and you can hear a dog somewhere.",
+      "updated": "2026-07-30",
+      "updatedLabel": "4 weeks ago"
+    },
+    {
+      "playlistId": "pl_country-mexico",
+      "playlistTitle": "Mexico",
+      "note": "My city the way it sounds from a rooftop in Roma Norte. Antonella Iriarte opens it because she is the reason I moved back.",
+      "updated": "2026-07-18",
+      "updatedLabel": "18 Jul"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/sofia-reyes.jpg",
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2026,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "hand-tinted photograph, colour applied over monochrome",
+        "composition": "centred, formal, symmetrical",
+        "abstract": false,
+        "subject": "a person holding a record sleeve, looking at the camera",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2026 press image deliberately styled after 1955-1979. Medium: hand-tinted photograph, colour applied over monochrome. Subject: a person holding a record sleeve, looking at the camera. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: centred, formal, symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202026%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20hand-tinted%20photograph%2C%20colour%20applied%20over%20monochrome.%20Subject%3A%20a%20person%20holding%20a%20record%20sleeve%2C%20looking%20at%20the%20camera.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20centred%2C%20formal%2C%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

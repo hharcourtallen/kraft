@@ -1,0 +1,48 @@
+{
+  "id": "alb_ninth-meridian-femi-and-t",
+  "slug": "ninth-meridian",
+  "title": "Ninth Meridian",
+  "year": 2018,
+  "type": "Reissue",
+  "subtitle": "2018 · Reissue",
+  "trackCount": 8,
+  "durationSec": 3440,
+  "durationLabel": "57 min",
+  "artist": {
+    "id": "art_femi-and-the-observatories",
+    "name": "Femi & The Observatories",
+    "slug": "femi-and-the-observatories"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "afrobeat",
+    "funk"
+  ],
+  "tracks": [
+    "trk_zenith-femi-and-2018-0",
+    "trk_model-assembly-femi-and-2018-1",
+    "trk_precinct-elegy-femi-and-2018-2",
+    "trk_terminal-lullaby-femi-and-2018-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2018,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a painted portrait",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a painted portrait. Palette: chrome yellow, deep green, vermilion, black. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20painted%20portrait.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

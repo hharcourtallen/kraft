@@ -1,0 +1,56 @@
+{
+  "id": "pl_cassette-dreams",
+  "slug": "cassette-dreams",
+  "title": "Cassette Dreams",
+  "description": "Everything here sounds like it was dubbed twice. That is the point.",
+  "note": "Shoegaze and dream pop that still hisses. I kept the ones where the tape is part of the song, not a filter on top of it.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Haruka Nakagawa",
+  "curator": {
+    "id": "cur_haruka-nakagawa",
+    "name": "Haruka Nakagawa",
+    "city": "Tokyo"
+  },
+  "trackCount": 9,
+  "durationSec": 2160,
+  "durationLabel": "36 min",
+  "metaLine": "9 tracks · 36 min",
+  "libraryLine": "List · 9 songs",
+  "followers": 37605,
+  "followersLabel": "38K",
+  "updated": "2026-08-11",
+  "moods": [
+    "chill",
+    "focus"
+  ],
+  "genres": [
+    "dream-pop",
+    "shoegaze",
+    "analog-revival"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 9,
+  "artwork": {
+    "image": "/artwork/playlist/cassette-dreams.jpg",
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "a bloom of coloured smoke",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a bloom of coloured smoke. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20bloom%20of%20coloured%20smoke.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "2 weeks ago"
+}

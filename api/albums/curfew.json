@@ -1,0 +1,47 @@
+{
+  "id": "alb_curfew-imogen-sin",
+  "slug": "curfew",
+  "title": "Curfew",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 10,
+  "durationSec": 2307,
+  "durationLabel": "38 min",
+  "artist": {
+    "id": "art_imogen-sinclair",
+    "name": "Imogen Sinclair",
+    "slug": "imogen-sinclair"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_zoning-imogen-s-2021-0",
+    "trk_infrastructure-imogen-s-2021-1",
+    "trk_rooftop-instrumental-imogen-s-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "a badly photographed kitchen",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a badly photographed kitchen. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20badly%20photographed%20kitchen.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

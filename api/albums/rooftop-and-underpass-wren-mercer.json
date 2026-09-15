@@ -1,0 +1,47 @@
+{
+  "id": "alb_rooftop-and-underpass-wren-merce",
+  "slug": "rooftop-and-underpass-wren-mercer",
+  "title": "Rooftop & Underpass",
+  "year": 2023,
+  "type": "EP",
+  "subtitle": "2023 · EP",
+  "trackCount": 5,
+  "durationSec": 1229,
+  "durationLabel": "20 min",
+  "artist": {
+    "id": "art_wren-mercer",
+    "name": "Wren Mercer",
+    "slug": "wren-mercer"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_nothing-but-rooftops-wren-mer-2023-0",
+    "trk_two-hundred-motels-wren-mer-2023-1",
+    "trk_curfew-wren-mer-2023-2",
+    "trk_fallow-barleyfield-wren-mer-2023-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "singer-songwriter",
+      "year": 2023,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "early digital compositing with visible layer edges, chrome and lens flare",
+      "composition": "stacked geometric arcs, central emblem",
+      "abstract": false,
+      "subject": "a soft vertical gradient",
+      "palette": "warm greyscale with sepia in the shadows, one muted accent"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 1980-1999. Medium: early digital compositing with visible layer edges, chrome and lens flare. Subject: a soft vertical gradient. Palette: warm greyscale with sepia in the shadows, one muted accent. Composition: stacked geometric arcs, central emblem. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20early%20digital%20compositing%20with%20visible%20layer%20edges%2C%20chrome%20and%20lens%20flare.%20Subject%3A%20a%20soft%20vertical%20gradient.%20Palette%3A%20warm%20greyscale%20with%20sepia%20in%20the%20shadows%2C%20one%20muted%20accent.%20Composition%3A%20stacked%20geometric%20arcs%2C%20central%20emblem.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,370 @@
+{
+  "id": "art_petra-ilic",
+  "slug": "petra-ilic",
+  "name": "Petra Ilić",
+  "formation": "solo",
+  "country": "RS",
+  "hometown": "Novi Sad",
+  "geo": {
+    "placeId": "plc_novi-sad",
+    "city": "Novi Sad",
+    "country": "RS",
+    "lat": 45.25,
+    "lng": 19.84
+  },
+  "region": "balkans",
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "established",
+  "monthlyListeners": 24238,
+  "monthlyListenersLabel": "24K monthly listeners",
+  "followers": 8305,
+  "followersLabel": "8.3K",
+  "shelfCaption": "Folk · 24K listeners",
+  "verified": false,
+  "active": {
+    "from": 2015,
+    "to": null
+  },
+  "bio": "Formed in Novi Sad and still arguing about it. Writes at dawn, because that is when the house is quiet.",
+  "discography": [
+    "alb_shoals-petra-ilic",
+    "alb_meadows-petra-ilic",
+    "alb_drowned-harbour-petra-ilic",
+    "alb_hollow-fieldwork-petra-ilic",
+    "alb_golden-harvest-petra-ilic"
+  ],
+  "popularTrackIds": [
+    "trk_harbour-lullaby-petra-il-2015-0",
+    "trk_ballast-petra-il-2017-0",
+    "trk_cove-march-petra-il-2015-1",
+    "trk_cold-lighthouse-petra-il-2016-0",
+    "trk_bloom-petra-il-2016-1",
+    "trk_fallow-meadow-petra-il-2015-2",
+    "trk_fallow-alder-petra-il-2019-0",
+    "trk_twice-the-meadow-petra-il-2017-2",
+    "trk_orchard-waltz-petra-il-2016-2",
+    "trk_hollow-bramble-petra-il-2017-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2021,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+        "composition": "snapshot framing, subject centred, background falling away",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2021 press image deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: a musician holding their instrument case, deadpan. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202021%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2021,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_harbour-lullaby-petra-il-2015-0",
+      "slug": "harbour-lullaby",
+      "title": "Harbour Lullaby",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_golden-harvest-petra-ilic",
+        "title": "Golden Harvest",
+        "slug": "golden-harvest",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "655,500"
+    },
+    {
+      "id": "trk_ballast-petra-il-2017-0",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "4:38",
+      "durationSec": 278,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "285,421"
+    },
+    {
+      "id": "trk_cove-march-petra-il-2015-1",
+      "slug": "cove-march",
+      "title": "Cove March",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_golden-harvest-petra-ilic",
+        "title": "Golden Harvest",
+        "slug": "golden-harvest",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "233,699"
+    },
+    {
+      "id": "trk_cold-lighthouse-petra-il-2016-0",
+      "slug": "cold-lighthouse",
+      "title": "Cold Lighthouse",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_hollow-fieldwork-petra-ilic",
+        "title": "Hollow Fieldwork",
+        "slug": "hollow-fieldwork",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "201,594"
+    },
+    {
+      "id": "trk_bloom-petra-il-2016-1",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_hollow-fieldwork-petra-ilic",
+        "title": "Hollow Fieldwork",
+        "slug": "hollow-fieldwork",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "176,149"
+    },
+    {
+      "id": "trk_fallow-meadow-petra-il-2015-2",
+      "slug": "fallow-meadow",
+      "title": "Fallow Meadow",
+      "duration": "3:26",
+      "durationSec": 206,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_golden-harvest-petra-ilic",
+        "title": "Golden Harvest",
+        "slug": "golden-harvest",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "159,496"
+    },
+    {
+      "id": "trk_fallow-alder-petra-il-2019-0",
+      "slug": "fallow-alder",
+      "title": "Fallow Alder",
+      "duration": "4:42",
+      "durationSec": 282,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_meadows-petra-ilic",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "157,705"
+    },
+    {
+      "id": "trk_twice-the-meadow-petra-il-2017-2",
+      "slug": "twice-the-meadow",
+      "title": "Twice the Meadow",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "126,147"
+    },
+    {
+      "id": "trk_orchard-waltz-petra-il-2016-2",
+      "slug": "orchard-waltz",
+      "title": "Orchard Waltz",
+      "duration": "2:31",
+      "durationSec": 151,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_hollow-fieldwork-petra-ilic",
+        "title": "Hollow Fieldwork",
+        "slug": "hollow-fieldwork",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "96,000"
+    },
+    {
+      "id": "trk_hollow-bramble-petra-il-2017-1",
+      "slug": "hollow-bramble",
+      "title": "Hollow Bramble",
+      "duration": "4:59",
+      "durationSec": 299,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_drowned-harbour-petra-ilic",
+        "title": "Drowned Harbour",
+        "slug": "drowned-harbour",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "77,150"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_shoals-petra-ilic",
+      "slug": "shoals",
+      "title": "Shoals",
+      "subtitle": "2021 · Compilation",
+      "year": 2021,
+      "type": "Compilation",
+      "image": null
+    },
+    {
+      "id": "alb_meadows-petra-ilic",
+      "slug": "meadows-petra-ilic",
+      "title": "Meadows",
+      "subtitle": "2019 · Album",
+      "year": 2019,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_drowned-harbour-petra-ilic",
+      "slug": "drowned-harbour",
+      "title": "Drowned Harbour",
+      "subtitle": "2017 · Album",
+      "year": 2017,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_hollow-fieldwork-petra-ilic",
+      "slug": "hollow-fieldwork",
+      "title": "Hollow Fieldwork",
+      "subtitle": "2016 · EP",
+      "year": 2016,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_golden-harvest-petra-ilic",
+      "slug": "golden-harvest",
+      "title": "Golden Harvest",
+      "subtitle": "2015 · Album",
+      "year": 2015,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-mexico",
+      "slug": "mexico",
+      "title": "Mexico",
+      "image": "/artwork/playlist/country-mexico.png",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Almanac",
+      "position": 7,
+      "caption": "Almanac is track 7"
+    },
+    {
+      "playlistId": "pl_country-france",
+      "slug": "france",
+      "title": "France",
+      "image": "/artwork/playlist/country-france.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Cove March",
+      "position": 11,
+      "caption": "Cove March is track 11"
+    }
+  ]
+}

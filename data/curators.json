@@ -1,0 +1,187 @@
+{
+  "$comment": "Curation on Kraft is community-driven: any member can shelve a list and write why (brand canon). Nine are named and appear in the product; the rest exist as a count only. Each curator has a beat — this is what makes playlist attribution feel real rather than decorative.",
+  "curators": [
+    {
+      "id": "cur_sofia-reyes",
+      "name": "Sofía Reyes",
+      "beat": [
+        "analog-revival",
+        "folk",
+        "bossa"
+      ],
+      "city": "Mexico City",
+      "since": 2019,
+      "bio": "Ran a record shop for eleven years before Kraft. Believes a playlist should end somewhere different from where it started.",
+      "playlists": 41,
+      "followers": 84200,
+      "follows": [
+        "cur_ade-mensah",
+        "cur_luana-andrade",
+        "cur_marcus-pike"
+      ],
+      "nowPlaying": "pl_golden-hour",
+      "placeId": "plc_mexico-city"
+    },
+    {
+      "id": "cur_ade-mensah",
+      "name": "Adé Mensah",
+      "beat": [
+        "afrobeat",
+        "funk",
+        "dub"
+      ],
+      "city": "Accra",
+      "since": 2020,
+      "bio": "Crate-digs in Accra and Lagos. Writes the liner notes nobody asked for and everybody reads.",
+      "playlists": 33,
+      "followers": 61400,
+      "follows": [
+        "cur_amara-diallo",
+        "cur_luana-andrade"
+      ],
+      "nowPlaying": "pl_the-archive",
+      "placeId": "plc_accra"
+    },
+    {
+      "id": "cur_ingrid-halvorsen",
+      "name": "Ingrid Halvorsen",
+      "beat": [
+        "ambient",
+        "modern-composition",
+        "experimental"
+      ],
+      "city": "Oslo",
+      "since": 2019,
+      "bio": "Former concert-hall programmer. Sequences ambient records the way other people sequence arguments.",
+      "playlists": 28,
+      "followers": 47900,
+      "follows": [
+        "cur_haruka-nakagawa",
+        "cur_teo-marchand"
+      ],
+      "nowPlaying": "pl_garden-sessions",
+      "placeId": "plc_oslo"
+    },
+    {
+      "id": "cur_marcus-pike",
+      "name": "Marcus Pike",
+      "beat": [
+        "jazz",
+        "spiritual-jazz",
+        "soul"
+      ],
+      "city": "Philadelphia",
+      "since": 2021,
+      "bio": "Forty years of Blue Note pressings in a spare room. Has opinions about run-out grooves.",
+      "playlists": 52,
+      "followers": 73100,
+      "follows": [
+        "cur_sofia-reyes",
+        "cur_ade-mensah"
+      ],
+      "nowPlaying": "pl_jazz-nights",
+      "placeId": "plc_philadelphia"
+    },
+    {
+      "id": "cur_haruka-nakagawa",
+      "name": "Haruka Nakagawa",
+      "beat": [
+        "shoegaze",
+        "dream-pop",
+        "downtempo"
+      ],
+      "city": "Tokyo",
+      "since": 2022,
+      "bio": "Writes about records the way people write about weather — constantly, and with feeling.",
+      "playlists": 24,
+      "followers": 39800,
+      "follows": [
+        "cur_ingrid-halvorsen",
+        "cur_sofia-reyes"
+      ],
+      "nowPlaying": "pl_cassette-dreams",
+      "placeId": "plc_tokyo"
+    },
+    {
+      "id": "cur_teo-marchand",
+      "name": "Théo Marchand",
+      "beat": [
+        "house",
+        "techno",
+        "electronic"
+      ],
+      "city": "Paris",
+      "since": 2020,
+      "bio": "Twelve years behind a booth. Now argues that a good playlist is just a set with the applause taken out.",
+      "playlists": 37,
+      "followers": 55600,
+      "follows": [
+        "cur_nadia-ilic",
+        "cur_ingrid-halvorsen"
+      ],
+      "nowPlaying": "pl_poolside",
+      "placeId": "plc_paris"
+    },
+    {
+      "id": "cur_nadia-ilic",
+      "name": "Nadia Ilić",
+      "beat": [
+        "post-punk",
+        "punk",
+        "indie-rock"
+      ],
+      "city": "Belgrade",
+      "since": 2023,
+      "bio": "Fanzine editor turned curator. Sequences for tension, not for comfort.",
+      "playlists": 19,
+      "followers": 21300,
+      "follows": [
+        "cur_teo-marchand"
+      ],
+      "nowPlaying": "pl_string-theory",
+      "placeId": "plc_belgrade"
+    },
+    {
+      "id": "cur_luana-andrade",
+      "name": "Luana Andrade",
+      "beat": [
+        "latin",
+        "cumbia",
+        "bossa"
+      ],
+      "city": "São Paulo",
+      "since": 2021,
+      "bio": "Grew up in her father's rehearsal room. Can tell a Rio pressing from a Bogotá one by the hiss.",
+      "playlists": 31,
+      "followers": 58700,
+      "follows": [
+        "cur_sofia-reyes",
+        "cur_ade-mensah"
+      ],
+      "nowPlaying": "pl_tropicalia",
+      "placeId": "plc_sao-paulo"
+    },
+    {
+      "id": "cur_amara-diallo",
+      "name": "Amara Diallo",
+      "beat": [
+        "rnb",
+        "hip-hop",
+        "soul"
+      ],
+      "city": "London",
+      "since": 2022,
+      "bio": "Started on pirate radio at sixteen. Still sequences like she is filling a two-hour slot.",
+      "playlists": 26,
+      "followers": 66200,
+      "follows": [
+        "cur_ade-mensah",
+        "cur_marcus-pike"
+      ],
+      "nowPlaying": "pl_late-night-heat",
+      "placeId": "plc_london"
+    }
+  ],
+  "totalCurators": 1240,
+  "$note": "totalCurators is brand canon (see CANON.md): members with at least one list on the shelf. The nine named above are the ones with a byline in the product; the rest exist only as a count. Nobody is paid to curate and the product never says otherwise."
+}

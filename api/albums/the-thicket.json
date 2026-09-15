@@ -1,0 +1,48 @@
+{
+  "id": "alb_the-thicket-antonella-",
+  "slug": "the-thicket",
+  "title": "The Thicket",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 9,
+  "durationSec": 2453,
+  "durationLabel": "41 min",
+  "artist": {
+    "id": "art_antonella-iriarte",
+    "name": "Antonella Iriarte",
+    "slug": "antonella-iriarte"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "genres": [
+    "electronic"
+  ],
+  "tracks": [
+    "trk_dark-marquee-antonell-2024-0",
+    "trk_alder-waltz-antonell-2024-1",
+    "trk_rooftop-demo-antonell-2024-2",
+    "trk_curfew-antonell-2024-3",
+    "trk_neon-boulevard-antonell-2024-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "electronic",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "a cable coiled precisely",
+      "palette": "ultramarine, silver, black, one acid highlight"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a cable coiled precisely. Palette: ultramarine, silver, black, one acid highlight. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20cable%20coiled%20precisely.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

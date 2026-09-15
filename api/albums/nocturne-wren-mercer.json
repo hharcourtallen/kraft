@@ -1,0 +1,47 @@
+{
+  "id": "alb_nocturne-wren-merce",
+  "slug": "nocturne-wren-mercer",
+  "title": "Nocturne",
+  "year": 2020,
+  "type": "Album",
+  "subtitle": "2020 · Album",
+  "trackCount": 9,
+  "durationSec": 2086,
+  "durationLabel": "35 min",
+  "artist": {
+    "id": "art_wren-mercer",
+    "name": "Wren Mercer",
+    "slug": "wren-mercer"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_velvet-ferry-wren-mer-2020-0",
+    "trk_low-thicket-wren-mer-2020-1",
+    "trk_bright-barleyfield-wren-mer-2020-2",
+    "trk_hedgerow-waltz-wren-mer-2020-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "singer-songwriter",
+      "year": 2020,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "modernist graphic design in flat cut-paper shapes",
+      "composition": "strict grid, large flat colour fields",
+      "abstract": true,
+      "subject": "a single glass of water",
+      "palette": "warm greyscale with sepia in the shadows, one muted accent"
+    },
+    "prompt": "Album cover artwork, square format. A 2020 sleeve deliberately styled after 1955-1979. Medium: modernist graphic design in flat cut-paper shapes. Not a depiction — an abstract composition that only distantly evokes a single glass of water. Palette: warm greyscale with sepia in the shadows, one muted accent. Composition: strict grid, large flat colour fields. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202020%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20modernist%20graphic%20design%20in%20flat%20cut-paper%20shapes.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20single%20glass%20of%20water.%20Palette%3A%20warm%20greyscale%20with%20sepia%20in%20the%20shadows%2C%20one%20muted%20accent.%20Composition%3A%20strict%20grid%2C%20large%20flat%20colour%20fields.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

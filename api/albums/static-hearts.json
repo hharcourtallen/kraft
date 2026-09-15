@@ -1,0 +1,45 @@
+{
+  "id": "alb_static-hearts",
+  "slug": "static-hearts",
+  "title": "Static Hearts",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 9,
+  "durationSec": 1602,
+  "durationLabel": "27 min",
+  "artist": {
+    "id": "art_zaya-blue",
+    "name": "Zaya Blue",
+    "slug": "zaya-blue"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "dream-pop",
+    "shoegaze"
+  ],
+  "tracks": [
+    "trk_static-hearts"
+  ],
+  "artwork": {
+    "image": "/artwork/album/static-hearts.jpg",
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "a bloom of coloured smoke",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: a bloom of coloured smoke. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20bloom%20of%20coloured%20smoke.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

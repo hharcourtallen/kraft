@@ -1,0 +1,328 @@
+{
+  "id": "art_the-outer-aphelions",
+  "slug": "the-outer-aphelions",
+  "name": "The Outer Aphelions",
+  "formation": "band",
+  "country": "SE",
+  "hometown": "Malmö",
+  "geo": {
+    "placeId": "plc_malmo",
+    "city": "Malmö",
+    "country": "SE",
+    "lat": 55.6,
+    "lng": 13
+  },
+  "region": "nordic",
+  "genres": [
+    "ambient"
+  ],
+  "primaryGenre": {
+    "slug": "ambient",
+    "name": "Ambient"
+  },
+  "label": {
+    "id": "lbl_conservatory",
+    "name": "Conservatory Editions"
+  },
+  "tier": "working",
+  "monthlyListeners": 13765,
+  "monthlyListenersLabel": "14K monthly listeners",
+  "followers": 5414,
+  "followersLabel": "5.4K",
+  "shelfCaption": "Ambient · 14K listeners",
+  "verified": false,
+  "active": {
+    "from": 2023,
+    "to": null
+  },
+  "bio": "Ambient project from Malmö. Records the mistakes and arranges around them.",
+  "discography": [
+    "alb_sediment-the-outer-",
+    "alb_seam-and-foundry-the-outer-"
+  ],
+  "popularTrackIds": [
+    "trk_rust-quarry-the-oute-2023-0",
+    "trk_copper-seam-the-oute-2023-1",
+    "trk_oxidation-the-oute-2023-3",
+    "trk_limestone-seam-the-oute-2023-2",
+    "trk_oxidation-the-oute-2025-0",
+    "trk_tectonics-the-oute-2023-4",
+    "trk_parallax-the-oute-2025-1",
+    "trk_oxidation-the-oute-2025-2",
+    "trk_iron-quarry-the-oute-2025-4",
+    "trk_ninth-corona-the-oute-2025-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a band of three standing far apart in an empty car park. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_rust-quarry-the-oute-2023-0",
+      "slug": "rust-quarry",
+      "title": "Rust Quarry",
+      "duration": "9:06",
+      "durationSec": 546,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "270,068"
+    },
+    {
+      "id": "trk_copper-seam-the-oute-2023-1",
+      "slug": "copper-seam",
+      "title": "Copper Seam",
+      "duration": "9:48",
+      "durationSec": 588,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "103,766"
+    },
+    {
+      "id": "trk_oxidation-the-oute-2023-3",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "9:42",
+      "durationSec": 582,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "36,105"
+    },
+    {
+      "id": "trk_limestone-seam-the-oute-2023-2",
+      "slug": "limestone-seam",
+      "title": "Limestone Seam",
+      "duration": "6:27",
+      "durationSec": 387,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "35,209"
+    },
+    {
+      "id": "trk_oxidation-the-oute-2025-0",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "9:02",
+      "durationSec": 542,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "34,546"
+    },
+    {
+      "id": "trk_tectonics-the-oute-2023-4",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "9:16",
+      "durationSec": 556,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_seam-and-foundry-the-outer-",
+        "title": "Seam & Foundry",
+        "slug": "seam-and-foundry",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "16,878"
+    },
+    {
+      "id": "trk_parallax-the-oute-2025-1",
+      "slug": "parallax",
+      "title": "Parallax",
+      "duration": "7:24",
+      "durationSec": 444,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "15,100"
+    },
+    {
+      "id": "trk_oxidation-the-oute-2025-2",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "7:00",
+      "durationSec": 420,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "4,969"
+    },
+    {
+      "id": "trk_iron-quarry-the-oute-2025-4",
+      "slug": "iron-quarry",
+      "title": "Iron Quarry",
+      "duration": "7:50",
+      "durationSec": 470,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "3,870"
+    },
+    {
+      "id": "trk_ninth-corona-the-oute-2025-3",
+      "slug": "ninth-corona",
+      "title": "Ninth Corona",
+      "duration": "7:36",
+      "durationSec": 456,
+      "artist": {
+        "id": "art_the-outer-aphelions",
+        "name": "The Outer Aphelions",
+        "slug": "the-outer-aphelions"
+      },
+      "album": {
+        "id": "alb_sediment-the-outer-",
+        "title": "Sediment",
+        "slug": "sediment",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "3,744"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_sediment-the-outer-",
+      "slug": "sediment",
+      "title": "Sediment",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_seam-and-foundry-the-outer-",
+      "slug": "seam-and-foundry",
+      "title": "Seam & Foundry",
+      "subtitle": "2023 · EP",
+      "year": 2023,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Copper Seam",
+      "position": 5,
+      "caption": "Copper Seam is track 5"
+    }
+  ]
+}

@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-chile",
+  "slug": "chile",
+  "title": "Chile",
+  "description": null,
+  "note": "Santiago has the Andes at the end of every street, and bands that play like they know it. Start with I.A.R.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "CL",
+  "subtitle": "Luana Andrade",
+  "curator": {
+    "id": "cur_luana-andrade",
+    "name": "Luana Andrade",
+    "city": "São Paulo"
+  },
+  "trackCount": 12,
+  "durationSec": 3747,
+  "durationLabel": "1 hr 2 min",
+  "metaLine": "12 tracks · 1 hr 2 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 7600,
+  "followersLabel": "7.6K",
+  "updated": "2026-06-12",
+  "moods": [],
+  "genres": [
+    "latin",
+    "funk",
+    "cumbia"
+  ],
+  "trackIds": [
+    "trk_half-a-rooftop-i-a-r-2025-0",
+    "trk_bloom-i-a-r-2025-1",
+    "trk_soft-hedgerow-renata-a-2021-0",
+    "trk_village-waltz-renata-a-2021-1",
+    "trk_model-assembly-femi-and-2013-2",
+    "trk_ninth-corona-femi-and-2022-1",
+    "trk_soft-thicket-mateo-mo-2015-3",
+    "trk_curfew-merrick--2024-1",
+    "trk_provisional-precinct-curfew-2023-3",
+    "trk_census-femi-and-2016-0",
+    "trk_late-payphone-renata-a-2025-0",
+    "trk_bright-pasture-mateo-mo-2015-1"
+  ],
+  "tracks": [
+    {
+      "id": "trk_half-a-rooftop-i-a-r-2025-0",
+      "slug": "half-a-rooftop",
+      "title": "Half a Rooftop",
+      "duration": "5:15",
+      "durationSec": 315,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-i-a-r-2025-1",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "3:42",
+      "durationSec": 222,
+      "artist": {
+        "id": "art_i-a-r",
+        "name": "I.A.R.",
+        "slug": "i-a-r"
+      },
+      "album": {
+        "id": "alb_fen-and-common-i-a-r",
+        "title": "Fen & Common",
+        "slug": "fen-and-common",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_soft-hedgerow-renata-a-2021-0",
+      "slug": "soft-hedgerow",
+      "title": "Soft Hedgerow",
+      "duration": "5:02",
+      "durationSec": 302,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_village-waltz-renata-a-2021-1",
+      "slug": "village-waltz",
+      "title": "Village Waltz",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-assembly-femi-and-2013-2",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "duration": "6:45",
+      "durationSec": 405,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_new-zoning-femi-and-t",
+        "title": "New Zoning",
+        "slug": "new-zoning",
+        "year": 2013
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ninth-corona-femi-and-2022-1",
+      "slug": "ninth-corona",
+      "title": "Ninth Corona",
+      "duration": "6:14",
+      "durationSec": 374,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_provisional-provision-femi-and-t",
+        "title": "Provisional Provision",
+        "slug": "provisional-provision",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_soft-thicket-mateo-mo-2015-3",
+      "slug": "soft-thicket",
+      "title": "Soft Thicket",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-merrick--2024-1",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "2:41",
+      "durationSec": 161,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_herbaria-merrick-da",
+        "title": "Herbaria",
+        "slug": "herbaria",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-precinct-curfew-2023-3",
+      "slug": "provisional-precinct",
+      "title": "Provisional Precinct",
+      "duration": "6:34",
+      "durationSec": 394,
+      "artist": {
+        "id": "art_curfew",
+        "name": "Curfew",
+        "slug": "curfew"
+      },
+      "album": {
+        "id": "alb_bureaus-curfew",
+        "title": "Bureaus",
+        "slug": "bureaus",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-femi-and-2016-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "8:26",
+      "durationSec": 506,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_central-annex-femi-and-t",
+        "title": "Central Annex",
+        "slug": "central-annex",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_late-payphone-renata-a-2025-0",
+      "slug": "late-payphone",
+      "title": "Late Payphone",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_the-payphone-renata-and",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-pasture-mateo-mo-2015-1",
+      "slug": "bright-pasture",
+      "title": "Bright Pasture",
+      "duration": "4:08",
+      "durationSec": 248,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-chile.png",
+    "direction": {
+      "genre": "latin",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "papel picado geometry",
+      "palette": "terracotta, cobalt, marigold, whitewash"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes papel picado geometry. Palette: terracotta, cobalt, marigold, whitewash. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20papel%20picado%20geometry.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "12 Jun"
+}

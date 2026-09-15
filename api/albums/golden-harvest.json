@@ -1,0 +1,47 @@
+{
+  "id": "alb_golden-harvest-petra-ilic",
+  "slug": "golden-harvest",
+  "title": "Golden Harvest",
+  "year": 2015,
+  "type": "Album",
+  "subtitle": "2015 · Album",
+  "trackCount": 10,
+  "durationSec": 2177,
+  "durationLabel": "36 min",
+  "artist": {
+    "id": "art_petra-ilic",
+    "name": "Petra Ilić",
+    "slug": "petra-ilic"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_harbour-lullaby-petra-il-2015-0",
+    "trk_cove-march-petra-il-2015-1",
+    "trk_fallow-meadow-petra-il-2015-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2015,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "early digital compositing with visible layer edges, chrome and lens flare",
+      "composition": "stacked geometric arcs, central emblem",
+      "abstract": false,
+      "subject": "cut wheat bound with twine",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015 sleeve deliberately styled after 1980-1999. Medium: early digital compositing with visible layer edges, chrome and lens flare. Subject: cut wheat bound with twine. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: stacked geometric arcs, central emblem. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20early%20digital%20compositing%20with%20visible%20layer%20edges%2C%20chrome%20and%20lens%20flare.%20Subject%3A%20cut%20wheat%20bound%20with%20twine.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20stacked%20geometric%20arcs%2C%20central%20emblem.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

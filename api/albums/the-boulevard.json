@@ -1,0 +1,49 @@
+{
+  "id": "alb_the-boulevard-cass-and-t",
+  "slug": "the-boulevard",
+  "title": "The Boulevard",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 11,
+  "durationSec": 3333,
+  "durationLabel": "56 min",
+  "artist": {
+    "id": "art_cass-and-the-terminals",
+    "name": "Cass & The Terminals",
+    "slug": "cass-and-the-terminals"
+  },
+  "label": {
+    "id": "lbl_harmattan",
+    "name": "Harmattan Sound"
+  },
+  "genres": [
+    "funk",
+    "jazz"
+  ],
+  "tracks": [
+    "trk_zoning-cass-and-2023-0",
+    "trk_provisional-exchange-cass-and-2023-1",
+    "trk_neon-taxi-cass-and-2023-2",
+    "trk_bloc-reprise-cass-and-2023-3",
+    "trk_rooftop-instrumental-cass-and-2023-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "funk",
+      "year": 2023,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+      "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+      "abstract": false,
+      "subject": "a mirrorball fragment",
+      "palette": "hot pink, gold, purple, deep orange"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a mirrorball fragment. Palette: hot pink, gold, purple, deep orange. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20mirrorball%20fragment.%20Palette%3A%20hot%20pink%2C%20gold%2C%20purple%2C%20deep%20orange.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

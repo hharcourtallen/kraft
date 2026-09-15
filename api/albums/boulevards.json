@@ -1,0 +1,47 @@
+{
+  "id": "alb_boulevards-the-ballro",
+  "slug": "boulevards",
+  "title": "Boulevards",
+  "year": 2008,
+  "type": "Album",
+  "subtitle": "2008 · Album",
+  "trackCount": 9,
+  "durationSec": 1719,
+  "durationLabel": "29 min",
+  "artist": {
+    "id": "art_the-ballroom-orchestra",
+    "name": "The Ballroom Orchestra",
+    "slug": "the-ballroom-orchestra"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "hip-hop"
+  ],
+  "tracks": [
+    "trk_infrastructure-the-ball-2008-0",
+    "trk_two-hundred-ferries-the-ball-2008-1",
+    "trk_afterhours-the-ball-2008-2",
+    "trk_dark-hour-the-ball-2008-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "hip-hop",
+      "year": 2008,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "HDR photograph with heavy clarity and saturated local contrast",
+      "composition": "wide view, deep depth of field, everything sharp",
+      "abstract": false,
+      "subject": "a subway platform",
+      "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: HDR photograph with heavy clarity and saturated local contrast. Subject: a subway platform. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: wide view, deep depth of field, everything sharp. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20HDR%20photograph%20with%20heavy%20clarity%20and%20saturated%20local%20contrast.%20Subject%3A%20a%20subway%20platform.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20wide%20view%2C%20deep%20depth%20of%20field%2C%20everything%20sharp.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

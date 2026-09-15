@@ -1,0 +1,45 @@
+{
+  "id": "alb_wax-poetic",
+  "slug": "wax-poetic",
+  "title": "Wax Poetic",
+  "year": 2022,
+  "type": "Album",
+  "subtitle": "2022 · Album",
+  "trackCount": 8,
+  "durationSec": 2184,
+  "durationLabel": "36 min",
+  "artist": {
+    "id": "art_spinning-room",
+    "name": "Spinning Room",
+    "slug": "spinning-room"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "genres": [
+    "analog-revival",
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_turntable-daydream"
+  ],
+  "artwork": {
+    "image": "/artwork/album/wax-poetic.jpg",
+    "direction": {
+      "genre": "analog-revival",
+      "year": 2022,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "desaturated minimal photograph, cool cast, lots of empty space",
+      "composition": "subject small and off-centre, vast negative space",
+      "abstract": false,
+      "subject": "ring wear on cardboard",
+      "palette": "yellowed cream, faded brown, dust grey, warm amber"
+    },
+    "prompt": "Album cover artwork, square format. A 2022 sleeve deliberately styled after 2000-2014. Medium: desaturated minimal photograph, cool cast, lots of empty space. Subject: ring wear on cardboard. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: subject small and off-centre, vast negative space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202022%20sleeve%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20desaturated%20minimal%20photograph%2C%20cool%20cast%2C%20lots%20of%20empty%20space.%20Subject%3A%20ring%20wear%20on%20cardboard.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20subject%20small%20and%20off-centre%2C%20vast%20negative%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

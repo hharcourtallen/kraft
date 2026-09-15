@@ -1,0 +1,48 @@
+{
+  "id": "alb_velvet-ferry-merrick-da",
+  "slug": "velvet-ferry",
+  "title": "Velvet Ferry",
+  "year": 2019,
+  "type": "EP",
+  "subtitle": "2019 · EP",
+  "trackCount": 4,
+  "durationSec": 905,
+  "durationLabel": "15 min",
+  "artist": {
+    "id": "art_merrick-dark",
+    "name": "Merrick Dark",
+    "slug": "merrick-dark"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "rnb",
+    "funk"
+  ],
+  "tracks": [
+    "trk_flora-merrick--2019-0",
+    "trk_afterhours-merrick--2019-1",
+    "trk_neon-payphone-merrick--2019-2",
+    "trk_wet-herbarium-merrick--2019-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rnb",
+      "year": 2019,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "a glass of something cold",
+      "palette": "ivory, champagne, deep plum, silver"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: a glass of something cold. Palette: ivory, champagne, deep plum, silver. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20glass%20of%20something%20cold.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,47 @@
+{
+  "id": "alb_late-nocturne-provisiona",
+  "slug": "late-nocturne",
+  "title": "Late Nocturne",
+  "year": 2022,
+  "type": "EP",
+  "subtitle": "2022 · EP",
+  "trackCount": 4,
+  "durationSec": 875,
+  "durationLabel": "15 min",
+  "artist": {
+    "id": "art_provisional-exchange",
+    "name": "Provisional Exchange",
+    "slug": "provisional-exchange"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_provisional-precinct-provisio-2022-0",
+    "trk_ferry-lullaby-provisio-2022-1",
+    "trk_zoning-provisio-2022-2",
+    "trk_ballroom-live-at-the-roundhouse-provisio-2022-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2022,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "a stack of amplifiers",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: a stack of amplifiers. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20stack%20of%20amplifiers.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

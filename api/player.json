@@ -1,0 +1,64 @@
+{
+  "trackId": "trk_dust-on-the-needle",
+  "contextType": "playlist",
+  "contextId": "pl_vinyl-sundays",
+  "positionSec": 107,
+  "state": "playing",
+  "volume": 0.8,
+  "shuffle": false,
+  "repeat": "off",
+  "positionLabel": "1:47",
+  "track": {
+    "id": "trk_dust-on-the-needle",
+    "slug": "dust-on-the-needle",
+    "title": "Dust on the Needle",
+    "trackNumber": 1,
+    "durationSec": 252,
+    "duration": "4:12",
+    "playCount": 812440,
+    "playCountLabel": "812,440",
+    "playCountCompact": "812K",
+    "artist": {
+      "id": "art_the-worn-grooves",
+      "name": "The Worn Grooves",
+      "slug": "the-worn-grooves"
+    },
+    "album": {
+      "id": "alb_sunday-spins",
+      "title": "Sunday Spins",
+      "slug": "sunday-spins",
+      "year": 2024
+    },
+    "genres": [
+      "analog-revival",
+      "americana"
+    ],
+    "explicit": false,
+    "lossless": {
+      "bitDepth": 24,
+      "sampleRateKhz": 192
+    },
+    "albumArt": "/artwork/album/sunday-spins.jpg"
+  },
+  "context": {
+    "type": "playlist",
+    "id": "pl_vinyl-sundays",
+    "title": "Vinyl Sundays",
+    "curatorName": "Sofía Reyes",
+    "line": "From Vinyl Sundays · Sofía Reyes"
+  },
+  "queue": {
+    "nowPlaying": "trk_dust-on-the-needle",
+    "nextUp": [
+      "trk_crackle-and-hum",
+      "trk_breakfast-in-mono",
+      "trk_turntable-daydream",
+      "trk_paper-sleeves",
+      "trk_worn-edges",
+      "trk_static-lullaby",
+      "trk_45-rpm-heart",
+      "trk_faded-label",
+      "trk_last-track-home"
+    ]
+  }
+}

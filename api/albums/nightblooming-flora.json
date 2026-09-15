@@ -1,0 +1,44 @@
+{
+  "id": "alb_nightblooming-flora-merrick-an",
+  "slug": "nightblooming-flora",
+  "title": "Nightblooming Flora",
+  "year": 2013,
+  "type": "Single",
+  "subtitle": "2013 · Single",
+  "trackCount": 1,
+  "durationSec": 272,
+  "durationLabel": "5 min",
+  "artist": {
+    "id": "art_merrick-and-the-motels",
+    "name": "Merrick & The Motels",
+    "slug": "merrick-and-the-motels"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_wet-pollen-merrick--2013-0"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2013,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+      "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+      "abstract": false,
+      "subject": "overlapping translucent ovals",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2013 sleeve deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: overlapping translucent ovals. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202013%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20overlapping%20translucent%20ovals.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

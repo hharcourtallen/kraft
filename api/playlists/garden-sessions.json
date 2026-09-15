@@ -1,0 +1,64 @@
+{
+  "id": "pl_garden-sessions",
+  "slug": "garden-sessions",
+  "title": "Garden Sessions",
+  "description": "Twenty-five pieces recorded outdoors or pretending to have been.",
+  "note": "Ambient for daylight. No drone longer than the kettle takes; this is a list to do something else to.",
+  "notePin": {
+    "trackId": "trk_orbit-hymn-til-voge-2023-1",
+    "sec": 400,
+    "trackTitle": "Orbit Hymn",
+    "label": "6:40",
+    "note": "Ambient for daylight. No drone longer than the kettle takes; this is a list to do something else to.",
+    "curatorName": "Ingrid Halvorsen",
+    "curatorImage": "/artwork/curator/ingrid-halvorsen.jpg"
+  },
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Ingrid Halvorsen",
+  "curator": {
+    "id": "cur_ingrid-halvorsen",
+    "name": "Ingrid Halvorsen",
+    "city": "Oslo"
+  },
+  "trackCount": 25,
+  "durationSec": 6000,
+  "durationLabel": "1 hr 40 min",
+  "metaLine": "25 tracks · 1 hr 40 min",
+  "libraryLine": "List · 25 songs",
+  "followers": 48117,
+  "followersLabel": "48K",
+  "updated": "2026-08-22",
+  "moods": [
+    "focus",
+    "chill"
+  ],
+  "genres": [
+    "ambient",
+    "modern-composition",
+    "folk"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 25,
+  "artwork": {
+    "image": "/artwork/playlist/garden-sessions.jpg",
+    "direction": {
+      "genre": "ambient",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "a soft field of nothing",
+      "palette": "pale ice blue, warm grey, faint pink, near-white"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a soft field of nothing. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20soft%20field%20of%20nothing.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "3 days ago"
+}

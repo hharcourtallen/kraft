@@ -1,0 +1,326 @@
+{
+  "id": "art_merrick-municipal",
+  "slug": "merrick-municipal",
+  "name": "Merrick Municipal",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Richmond, VA",
+  "geo": {
+    "placeId": "plc_richmond",
+    "city": "Richmond",
+    "country": "US",
+    "lat": 37.54,
+    "lng": -77.44
+  },
+  "region": "us",
+  "genres": [
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "tail",
+  "monthlyListeners": 1303,
+  "monthlyListenersLabel": "1.3K monthly listeners",
+  "followers": 605,
+  "followersLabel": "605",
+  "shelfCaption": "Indie Rock · 1.3K listeners",
+  "verified": false,
+  "active": {
+    "from": 2023,
+    "to": null
+  },
+  "bio": "Formed in Richmond, VA and still arguing about it. Built on one repeated figure and a room mic. Puts the best song last on purpose.",
+  "discography": [
+    "alb_provision-merrick-mu",
+    "alb_velvet-motel-merrick-mu",
+    "alb_motels-merrick-mu"
+  ],
+  "popularTrackIds": [
+    "trk_assembly-lullaby-merrick--2023-0",
+    "trk_curfew-merrick--2024-0",
+    "trk_curfew-merrick--2023-2",
+    "trk_all-the-registries-merrick--2023-1",
+    "trk_new-assembly-merrick--2025-0",
+    "trk_nocturne-merrick--2024-1",
+    "trk_exchange-lullaby-merrick--2024-2",
+    "trk_nothing-but-taxis-merrick--2025-1",
+    "trk_underpass-waltz-merrick--2025-3",
+    "trk_model-terminal-merrick--2025-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_assembly-lullaby-merrick--2023-0",
+      "slug": "assembly-lullaby",
+      "title": "Assembly Lullaby",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_motels-merrick-mu",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "22,041"
+    },
+    {
+      "id": "trk_curfew-merrick--2024-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_velvet-motel-merrick-mu",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "12,946"
+    },
+    {
+      "id": "trk_curfew-merrick--2023-2",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:01",
+      "durationSec": 181,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_motels-merrick-mu",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "5,169"
+    },
+    {
+      "id": "trk_all-the-registries-merrick--2023-1",
+      "slug": "all-the-registries",
+      "title": "All the Registries",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_motels-merrick-mu",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "3,966"
+    },
+    {
+      "id": "trk_new-assembly-merrick--2025-0",
+      "slug": "new-assembly",
+      "title": "New Assembly",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_provision-merrick-mu",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,124"
+    },
+    {
+      "id": "trk_nocturne-merrick--2024-1",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_velvet-motel-merrick-mu",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "2,058"
+    },
+    {
+      "id": "trk_exchange-lullaby-merrick--2024-2",
+      "slug": "exchange-lullaby",
+      "title": "Exchange Lullaby",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_velvet-motel-merrick-mu",
+        "title": "Velvet Motel",
+        "slug": "velvet-motel",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "1,076"
+    },
+    {
+      "id": "trk_nothing-but-taxis-merrick--2025-1",
+      "slug": "nothing-but-taxis",
+      "title": "Nothing but Taxis",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_provision-merrick-mu",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "732"
+    },
+    {
+      "id": "trk_underpass-waltz-merrick--2025-3",
+      "slug": "underpass-waltz",
+      "title": "Underpass Waltz",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_provision-merrick-mu",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "353"
+    },
+    {
+      "id": "trk_model-terminal-merrick--2025-2",
+      "slug": "model-terminal",
+      "title": "Model Terminal",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_merrick-municipal",
+        "name": "Merrick Municipal",
+        "slug": "merrick-municipal"
+      },
+      "album": {
+        "id": "alb_provision-merrick-mu",
+        "title": "Provision",
+        "slug": "provision",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "280"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_provision-merrick-mu",
+      "slug": "provision-merrick-municipal",
+      "title": "Provision",
+      "subtitle": "2025 · EP",
+      "year": 2025,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_velvet-motel-merrick-mu",
+      "slug": "velvet-motel-merrick-municipal",
+      "title": "Velvet Motel",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_motels-merrick-mu",
+      "slug": "motels-merrick-municipal",
+      "title": "Motels",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

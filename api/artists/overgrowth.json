@@ -1,0 +1,326 @@
+{
+  "id": "art_overgrowth",
+  "slug": "overgrowth",
+  "name": "Overgrowth",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Portland, OR",
+  "geo": {
+    "placeId": "plc_portland",
+    "city": "Portland",
+    "country": "US",
+    "lat": 45.52,
+    "lng": -122.68
+  },
+  "region": "us",
+  "genres": [
+    "rock"
+  ],
+  "primaryGenre": {
+    "slug": "rock",
+    "name": "Rock"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 432,
+  "monthlyListenersLabel": "432 monthly listeners",
+  "followers": 217,
+  "followersLabel": "217",
+  "shelfCaption": "Rock · 432 listeners",
+  "verified": false,
+  "active": {
+    "from": 2021,
+    "to": 2026
+  },
+  "bio": "Portland, OR guitarist, working since 2021. Three amps, no pedals, and a rule against overdubs. Has strong opinions about run-out grooves.",
+  "discography": [
+    "alb_orchards-overgrowth",
+    "alb_notes-from-meadows-overgrowth",
+    "alb_low-hedgerow-overgrowth"
+  ],
+  "popularTrackIds": [
+    "trk_dark-ferry-overgrow-2022-0",
+    "trk_payphone-waltz-overgrow-2021-0",
+    "trk_insomnia-overgrow-2021-2",
+    "trk_common-waltz-overgrow-2021-1",
+    "trk_golden-meadow-overgrow-2022-2",
+    "trk_another-fen-overgrow-2023-0",
+    "trk_slow-hedgerow-overgrow-2022-1",
+    "trk_nocturne-overgrow-2021-3",
+    "trk_bramble-blues-overgrow-2021-4",
+    "trk_ferry-live-at-the-roundhouse-overgrow-2022-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "rock",
+        "year": 2023,
+        "era": "digital",
+        "eraLabel": "2000-2014",
+        "isPeriodHomage": true,
+        "medium": "photographic composite with soft shadow layering, magazine retouching",
+        "composition": "subject cut out and floated over a flat field",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "oxblood, smoke grey, brass, hard black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2023 press image deliberately styled after 2000-2014. Medium: photographic composite with soft shadow layering, magazine retouching. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: oxblood, smoke grey, brass, hard black. Composition: subject cut out and floated over a flat field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202023%20press%20image%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20photographic%20composite%20with%20soft%20shadow%20layering%2C%20magazine%20retouching.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20subject%20cut%20out%20and%20floated%20over%20a%20flat%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "rock",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "oxblood, smoke grey, brass, hard black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician leaning on a van, road behind them. Palette: oxblood, smoke grey, brass, hard black. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_dark-ferry-overgrow-2022-0",
+      "slug": "dark-ferry",
+      "title": "Dark Ferry",
+      "duration": "2:51",
+      "durationSec": 171,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "4,314"
+    },
+    {
+      "id": "trk_payphone-waltz-overgrow-2021-0",
+      "slug": "payphone-waltz",
+      "title": "Payphone Waltz",
+      "duration": "5:02",
+      "durationSec": 302,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "3,480"
+    },
+    {
+      "id": "trk_insomnia-overgrow-2021-2",
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "duration": "3:38",
+      "durationSec": 218,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "3,127"
+    },
+    {
+      "id": "trk_common-waltz-overgrow-2021-1",
+      "slug": "common-waltz",
+      "title": "Common Waltz",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "2,938"
+    },
+    {
+      "id": "trk_golden-meadow-overgrow-2022-2",
+      "slug": "golden-meadow",
+      "title": "Golden Meadow",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "2,422"
+    },
+    {
+      "id": "trk_another-fen-overgrow-2023-0",
+      "slug": "another-fen",
+      "title": "Another Fen",
+      "duration": "3:26",
+      "durationSec": 206,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_orchards-overgrowth",
+        "title": "Orchards",
+        "slug": "orchards",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "1,965"
+    },
+    {
+      "id": "trk_slow-hedgerow-overgrow-2022-1",
+      "slug": "slow-hedgerow",
+      "title": "Slow Hedgerow",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "1,683"
+    },
+    {
+      "id": "trk_nocturne-overgrow-2021-3",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "1,508"
+    },
+    {
+      "id": "trk_bramble-blues-overgrow-2021-4",
+      "slug": "bramble-blues",
+      "title": "Bramble Blues",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_low-hedgerow-overgrowth",
+        "title": "Low Hedgerow",
+        "slug": "low-hedgerow",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "1,051"
+    },
+    {
+      "id": "trk_ferry-live-at-the-roundhouse-overgrow-2022-3",
+      "slug": "ferry-live-at-the-roundhouse",
+      "title": "Ferry (Live at the Roundhouse)",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_overgrowth",
+        "name": "Overgrowth",
+        "slug": "overgrowth"
+      },
+      "album": {
+        "id": "alb_notes-from-meadows-overgrowth",
+        "title": "Notes from Meadows",
+        "slug": "notes-from-meadows",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "640"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_orchards-overgrowth",
+      "slug": "orchards",
+      "title": "Orchards",
+      "subtitle": "2023 · Single",
+      "year": 2023,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_notes-from-meadows-overgrowth",
+      "slug": "notes-from-meadows",
+      "title": "Notes from Meadows",
+      "subtitle": "2022 · EP",
+      "year": 2022,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_low-hedgerow-overgrowth",
+      "slug": "low-hedgerow",
+      "title": "Low Hedgerow",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

@@ -1,0 +1,55 @@
+{
+  "id": "pl_midnight-sax",
+  "slug": "midnight-sax",
+  "title": "Midnight Sax",
+  "description": "One instrument, one hour, no apologies.",
+  "note": "Ballads only. I put this together for a friend who couldn't sleep and it has outlived the insomnia.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Marcus Pike",
+  "curator": {
+    "id": "cur_marcus-pike",
+    "name": "Marcus Pike",
+    "city": "Philadelphia"
+  },
+  "trackCount": 14,
+  "durationSec": 3360,
+  "durationLabel": "56 min",
+  "metaLine": "14 tracks · 56 min",
+  "libraryLine": "List · 14 songs",
+  "followers": 33418,
+  "followersLabel": "33K",
+  "updated": "2026-05-09",
+  "moods": [
+    "late-night"
+  ],
+  "genres": [
+    "jazz",
+    "spiritual-jazz",
+    "soul"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 14,
+  "artwork": {
+    "image": "/artwork/playlist/midnight-sax.jpg",
+    "direction": {
+      "genre": "jazz",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "smoke in a stage light",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: smoke in a stage light. Palette: deep navy or oxblood with cream, one flat colour block. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20smoke%20in%20a%20stage%20light.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "9 May"
+}

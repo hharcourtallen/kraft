@@ -1,0 +1,45 @@
+{
+  "id": "alb_blue-hour",
+  "slug": "blue-hour",
+  "title": "Blue Hour",
+  "year": 2018,
+  "type": "Album",
+  "subtitle": "2018 · Album",
+  "trackCount": 8,
+  "durationSec": 2064,
+  "durationLabel": "34 min",
+  "artist": {
+    "id": "art_zaya-blue",
+    "name": "Zaya Blue",
+    "slug": "zaya-blue"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "dream-pop",
+    "shoegaze"
+  ],
+  "tracks": [
+    "trk_blue-hour-motel"
+  ],
+  "artwork": {
+    "image": "/artwork/album/blue-hour.jpg",
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2018,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "hair underwater",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes hair underwater. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20hair%20underwater.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,141 @@
+{
+  "id": "art_lead-in-groove",
+  "slug": "lead-in-groove",
+  "name": "Lead-In Groove",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Brooklyn, NY",
+  "geo": {
+    "placeId": "plc_brooklyn",
+    "city": "Brooklyn",
+    "country": "US",
+    "lat": 40.68,
+    "lng": -73.94
+  },
+  "region": "us-uk",
+  "genres": [
+    "analog-revival",
+    "downtempo"
+  ],
+  "primaryGenre": {
+    "slug": "analog-revival",
+    "name": "Analog Revival"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 1600,
+  "monthlyListenersLabel": "1.6K monthly listeners",
+  "followers": 520,
+  "followersLabel": "520",
+  "shelfCaption": "Analog Revival · 1.6K listeners",
+  "verified": false,
+  "active": {
+    "from": 2021,
+    "to": null
+  },
+  "bio": "Builds tracks entirely from the first two seconds of other records.",
+  "discography": [
+    "alb_side-b-forever"
+  ],
+  "popularTrackIds": [
+    "trk_last-track-home"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2023,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2023 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician in profile against a plain wall. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202023%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2023,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2023 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician walking away down a wet street, back to camera. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202023%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_last-track-home",
+      "slug": "last-track-home",
+      "title": "Last Track Home",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_lead-in-groove",
+        "name": "Lead-In Groove",
+        "slug": "lead-in-groove"
+      },
+      "album": {
+        "id": "alb_side-b-forever",
+        "title": "Side B Forever",
+        "slug": "side-b-forever",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/side-b-forever.jpg",
+      "playCountLabel": "27,310"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_side-b-forever",
+      "slug": "side-b-forever",
+      "title": "Side B Forever",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": "/artwork/album/side-b-forever.jpg"
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_vinyl-sundays",
+      "slug": "vinyl-sundays",
+      "title": "Vinyl Sundays",
+      "image": "/artwork/playlist/vinyl-sundays.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Last Track Home",
+      "position": 10,
+      "caption": "Last Track Home is track 10"
+    },
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Last Track Home",
+      "position": 9,
+      "caption": "Last Track Home is track 9"
+    }
+  ]
+}

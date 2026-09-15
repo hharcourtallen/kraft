@@ -1,0 +1,95 @@
+{
+  "id": "art_keane-sol",
+  "slug": "keane-sol",
+  "name": "Keane Sol",
+  "formation": "solo",
+  "country": "GB",
+  "hometown": "Hebden Bridge",
+  "geo": {
+    "placeId": "plc_hebden-bridge",
+    "city": "Hebden Bridge",
+    "country": "GB",
+    "lat": 53.74,
+    "lng": -2.01
+  },
+  "region": "us-uk",
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "established",
+  "monthlyListeners": 58000,
+  "monthlyListenersLabel": "58K monthly listeners",
+  "followers": 21000,
+  "followersLabel": "21K",
+  "shelfCaption": "Folk · 58K listeners",
+  "verified": true,
+  "active": {
+    "from": 2016,
+    "to": null
+  },
+  "bio": "Fingerpicked, patient, mostly recorded at dawn because that is when the house is quiet.",
+  "discography": [
+    "alb_overgrown"
+  ],
+  "popularTrackIds": [],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician holding their instrument case, deadpan. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2022,
+        "era": "digital",
+        "eraLabel": "2000-2014",
+        "isPeriodHomage": true,
+        "medium": "HDR photograph with heavy clarity and saturated local contrast",
+        "composition": "wide view, deep depth of field, everything sharp",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2022 press image deliberately styled after 2000-2014. Medium: HDR photograph with heavy clarity and saturated local contrast. Subject: a musician walking away down a wet street, back to camera. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: wide view, deep depth of field, everything sharp. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202022%20press%20image%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20HDR%20photograph%20with%20heavy%20clarity%20and%20saturated%20local%20contrast.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20wide%20view%2C%20deep%20depth%20of%20field%2C%20everything%20sharp.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [],
+  "albums": [
+    {
+      "id": "alb_overgrown",
+      "slug": "overgrown",
+      "title": "Overgrown",
+      "subtitle": "2022 · Album",
+      "year": 2022,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

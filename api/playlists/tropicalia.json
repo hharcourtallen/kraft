@@ -1,0 +1,55 @@
+{
+  "id": "pl_tropicalia",
+  "slug": "tropicalia",
+  "title": "Tropicália",
+  "description": "The Brazilian late sixties and everything downstream of it.",
+  "note": "The Rio pressings and the Bogotá ones side by side. You can tell them apart by the hiss, and now so can you.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Luana Andrade",
+  "curator": {
+    "id": "cur_luana-andrade",
+    "name": "Luana Andrade",
+    "city": "São Paulo"
+  },
+  "trackCount": 24,
+  "durationSec": 5760,
+  "durationLabel": "1 hr 36 min",
+  "metaLine": "24 tracks · 1 hr 36 min",
+  "libraryLine": "List · 24 songs",
+  "followers": 71225,
+  "followersLabel": "71K",
+  "updated": "2026-07-14",
+  "moods": [
+    "euphoric"
+  ],
+  "genres": [
+    "bossa",
+    "latin",
+    "funk"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 24,
+  "artwork": {
+    "image": "/artwork/playlist/tropicalia.jpg",
+    "direction": {
+      "genre": "bossa",
+      "year": 2026,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "modernist graphic design in flat cut-paper shapes",
+      "composition": "strict grid, large flat colour fields",
+      "abstract": true,
+      "subject": "a thin horizon line on cream",
+      "palette": "sand, sea green, sun yellow, white"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2026 cover deliberately styled after 1955-1979. Medium: modernist graphic design in flat cut-paper shapes. Not a depiction — an abstract composition that only distantly evokes a thin horizon line on cream. Palette: sand, sea green, sun yellow, white. Composition: strict grid, large flat colour fields. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202026%20cover%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20modernist%20graphic%20design%20in%20flat%20cut-paper%20shapes.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20thin%20horizon%20line%20on%20cream.%20Palette%3A%20sand%2C%20sea%20green%2C%20sun%20yellow%2C%20white.%20Composition%3A%20strict%20grid%2C%20large%20flat%20colour%20fields.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "14 Jul"
+}

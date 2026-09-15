@@ -1,0 +1,256 @@
+{
+  "id": "art_zaya-blue",
+  "slug": "zaya-blue",
+  "name": "Zaya Blue",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Half Moon Bay, CA",
+  "geo": {
+    "placeId": "plc_half-moon-bay",
+    "city": "Half Moon Bay",
+    "country": "US",
+    "lat": 37.46,
+    "lng": -122.43
+  },
+  "region": "us-uk",
+  "genres": [
+    "dream-pop",
+    "shoegaze"
+  ],
+  "primaryGenre": {
+    "slug": "dream-pop",
+    "name": "Dream Pop"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "headline",
+  "monthlyListeners": 231000,
+  "monthlyListenersLabel": "231K monthly listeners",
+  "followers": 94000,
+  "followersLabel": "94K",
+  "shelfCaption": "Dream Pop · 231K listeners",
+  "verified": true,
+  "active": {
+    "from": 2018,
+    "to": null
+  },
+  "bio": "Dream-pop songwriter from the coast. Zaya Blue layers tape-warm synths over close-mic vocals — songs about botany, distance, and the hour before sunrise.",
+  "discography": [
+    "alb_flora",
+    "alb_night-bloom",
+    "alb_static-hearts",
+    "alb_paper-lanterns",
+    "alb_blue-hour"
+  ],
+  "popularTrackIds": [
+    "trk_golden-thread",
+    "trk_night-bloom",
+    "trk_paper-lanterns",
+    "trk_static-hearts",
+    "trk_blue-hour-motel"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/artist/zaya-blue-portrait.jpg",
+      "direction": {
+        "genre": "dream-pop",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician in profile against a plain wall. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": "/artwork/artist/zaya-blue-hero.jpg",
+      "direction": {
+        "genre": "dream-pop",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": {
+    "monthlyListeners": 3800000
+  },
+  "popular": [
+    {
+      "id": "trk_golden-thread",
+      "slug": "golden-thread",
+      "title": "Golden Thread",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_flora",
+        "title": "Flora",
+        "slug": "flora",
+        "year": 2025
+      },
+      "albumArt": "/artwork/album/flora.jpg",
+      "playCountLabel": "3,214,880"
+    },
+    {
+      "id": "trk_night-bloom",
+      "slug": "night-bloom",
+      "title": "Night Bloom",
+      "duration": "4:05",
+      "durationSec": 245,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_night-bloom",
+        "title": "Night Bloom",
+        "slug": "night-bloom",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/night-bloom.jpg",
+      "playCountLabel": "2,731,406"
+    },
+    {
+      "id": "trk_paper-lanterns",
+      "slug": "paper-lanterns",
+      "title": "Paper Lanterns",
+      "duration": "3:52",
+      "durationSec": 232,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_paper-lanterns",
+        "title": "Paper Lanterns",
+        "slug": "paper-lanterns",
+        "year": 2020
+      },
+      "albumArt": "/artwork/album/paper-lanterns.jpg",
+      "playCountLabel": "1,884,215"
+    },
+    {
+      "id": "trk_static-hearts",
+      "slug": "static-hearts",
+      "title": "Static Hearts",
+      "duration": "2:58",
+      "durationSec": 178,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_static-hearts",
+        "title": "Static Hearts",
+        "slug": "static-hearts",
+        "year": 2021
+      },
+      "albumArt": "/artwork/album/static-hearts.jpg",
+      "playCountLabel": "1,507,332"
+    },
+    {
+      "id": "trk_blue-hour-motel",
+      "slug": "blue-hour-motel",
+      "title": "Blue Hour Motel",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_zaya-blue",
+        "name": "Zaya Blue",
+        "slug": "zaya-blue"
+      },
+      "album": {
+        "id": "alb_blue-hour",
+        "title": "Blue Hour",
+        "slug": "blue-hour",
+        "year": 2018
+      },
+      "albumArt": "/artwork/album/blue-hour.jpg",
+      "playCountLabel": "1,092,644"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_flora",
+      "slug": "flora",
+      "title": "Flora",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": "/artwork/album/flora.jpg"
+    },
+    {
+      "id": "alb_night-bloom",
+      "slug": "night-bloom",
+      "title": "Night Bloom",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": "/artwork/album/night-bloom.jpg"
+    },
+    {
+      "id": "alb_static-hearts",
+      "slug": "static-hearts",
+      "title": "Static Hearts",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": "/artwork/album/static-hearts.jpg"
+    },
+    {
+      "id": "alb_paper-lanterns",
+      "slug": "paper-lanterns",
+      "title": "Paper Lanterns",
+      "subtitle": "2020 · EP",
+      "year": 2020,
+      "type": "EP",
+      "image": "/artwork/album/paper-lanterns.jpg"
+    },
+    {
+      "id": "alb_blue-hour",
+      "slug": "blue-hour",
+      "title": "Blue Hour",
+      "subtitle": "2018 · Album",
+      "year": 2018,
+      "type": "Album",
+      "image": "/artwork/album/blue-hour.jpg"
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Golden Thread",
+      "position": 1,
+      "caption": "Golden Thread opens it"
+    }
+  ]
+}

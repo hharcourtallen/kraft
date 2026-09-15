@@ -1,0 +1,48 @@
+{
+  "id": "alb_municipal-infrastructure-rhys-rees",
+  "slug": "municipal-infrastructure",
+  "title": "Municipal Infrastructure",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 8,
+  "durationSec": 3120,
+  "durationLabel": "52 min",
+  "artist": {
+    "id": "art_rhys-rees",
+    "name": "Rhys Rees",
+    "slug": "rhys-rees"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "jazz"
+  ],
+  "tracks": [
+    "trk_assembly-hymn-rhys-ree-2023-0",
+    "trk_new-bureau-rhys-ree-2023-1",
+    "trk_neon-hour-rhys-ree-2023-2",
+    "trk_model-registry-rhys-ree-2023-3",
+    "trk_afterhours-rhys-ree-2023-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2023,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "smoke in a stage light",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes smoke in a stage light. Palette: deep navy or oxblood with cream, one flat colour block. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20smoke%20in%20a%20stage%20light.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

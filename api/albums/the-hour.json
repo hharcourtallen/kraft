@@ -1,0 +1,47 @@
+{
+  "id": "alb_the-hour-imogen-sin",
+  "slug": "the-hour",
+  "title": "The Hour",
+  "year": 2009,
+  "type": "Album",
+  "subtitle": "2009 · Album",
+  "trackCount": 8,
+  "durationSec": 1757,
+  "durationLabel": "29 min",
+  "artist": {
+    "id": "art_imogen-sinclair",
+    "name": "Imogen Sinclair",
+    "slug": "imogen-sinclair"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_municipal-terminal-imogen-s-2009-0",
+    "trk_public-assembly-imogen-s-2009-1",
+    "trk_central-assembly-imogen-s-2009-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2009,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "clean vector illustration, flat colour, no texture, crisp edges",
+      "composition": "centred emblem, generous margin, perfectly symmetrical",
+      "abstract": false,
+      "subject": "a hand-drawn scrawl of shapes",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: clean vector illustration, flat colour, no texture, crisp edges. Subject: a hand-drawn scrawl of shapes. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: centred emblem, generous margin, perfectly symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20clean%20vector%20illustration%2C%20flat%20colour%2C%20no%20texture%2C%20crisp%20edges.%20Subject%3A%20a%20hand-drawn%20scrawl%20of%20shapes.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20centred%20emblem%2C%20generous%20margin%2C%20perfectly%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

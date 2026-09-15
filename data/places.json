@@ -1,0 +1,743 @@
+{
+  "$comment": "Gazetteer for everything with a place: curators, scenes, artist hometowns and the listening-now points on the globe. Coordinates are city centroids (two decimals is plenty for a marker). Ids are plc_<slug>; `aliases` catches the \"City, ST\" form used in artist hometowns.",
+  "places": [
+    {
+      "id": "plc_mexico-city",
+      "city": "Mexico City",
+      "country": "MX",
+      "lat": 19.43,
+      "lng": -99.13
+    },
+    {
+      "id": "plc_accra",
+      "city": "Accra",
+      "country": "GH",
+      "lat": 5.56,
+      "lng": -0.2
+    },
+    {
+      "id": "plc_oslo",
+      "city": "Oslo",
+      "country": "NO",
+      "lat": 59.91,
+      "lng": 10.75
+    },
+    {
+      "id": "plc_philadelphia",
+      "city": "Philadelphia",
+      "country": "US",
+      "lat": 39.95,
+      "lng": -75.17
+    },
+    {
+      "id": "plc_tokyo",
+      "city": "Tokyo",
+      "country": "JP",
+      "lat": 35.68,
+      "lng": 139.69
+    },
+    {
+      "id": "plc_paris",
+      "city": "Paris",
+      "country": "FR",
+      "lat": 48.86,
+      "lng": 2.35
+    },
+    {
+      "id": "plc_belgrade",
+      "city": "Belgrade",
+      "country": "RS",
+      "lat": 44.79,
+      "lng": 20.46
+    },
+    {
+      "id": "plc_sao-paulo",
+      "city": "São Paulo",
+      "country": "BR",
+      "lat": -23.55,
+      "lng": -46.63
+    },
+    {
+      "id": "plc_london",
+      "city": "London",
+      "country": "GB",
+      "lat": 51.51,
+      "lng": -0.13
+    },
+    {
+      "id": "plc_melbourne",
+      "city": "Melbourne",
+      "country": "AU",
+      "lat": -37.81,
+      "lng": 144.96
+    },
+    {
+      "id": "plc_portland",
+      "city": "Portland",
+      "country": "US",
+      "lat": 45.52,
+      "lng": -122.68,
+      "aliases": [
+        "Portland",
+        "Portland, OR"
+      ]
+    },
+    {
+      "id": "plc_bristol",
+      "city": "Bristol",
+      "country": "GB",
+      "lat": 51.45,
+      "lng": -2.59
+    },
+    {
+      "id": "plc_berlin",
+      "city": "Berlin",
+      "country": "DE",
+      "lat": 52.52,
+      "lng": 13.41
+    },
+    {
+      "id": "plc_new-york",
+      "city": "New York",
+      "country": "US",
+      "lat": 40.71,
+      "lng": -74.01
+    },
+    {
+      "id": "plc_bogota",
+      "city": "Bogotá",
+      "country": "CO",
+      "lat": 4.71,
+      "lng": -74.07
+    },
+    {
+      "id": "plc_lagos",
+      "city": "Lagos",
+      "country": "NG",
+      "lat": 6.52,
+      "lng": 3.38
+    },
+    {
+      "id": "plc_leeds",
+      "city": "Leeds",
+      "country": "GB",
+      "lat": 53.8,
+      "lng": -1.55
+    },
+    {
+      "id": "plc_missoula",
+      "city": "Missoula",
+      "country": "US",
+      "lat": 46.87,
+      "lng": -113.99,
+      "aliases": [
+        "Missoula",
+        "Missoula, MT"
+      ]
+    },
+    {
+      "id": "plc_whitby",
+      "city": "Whitby",
+      "country": "GB",
+      "lat": 54.49,
+      "lng": -0.61
+    },
+    {
+      "id": "plc_half-moon-bay",
+      "city": "Half Moon Bay",
+      "country": "US",
+      "lat": 37.46,
+      "lng": -122.43,
+      "aliases": [
+        "Half Moon Bay",
+        "Half Moon Bay, CA"
+      ]
+    },
+    {
+      "id": "plc_sligo",
+      "city": "Sligo",
+      "country": "IE",
+      "lat": 54.27,
+      "lng": -8.47
+    },
+    {
+      "id": "plc_chicago",
+      "city": "Chicago",
+      "country": "US",
+      "lat": 41.88,
+      "lng": -87.63,
+      "aliases": [
+        "Chicago",
+        "Chicago, IL"
+      ]
+    },
+    {
+      "id": "plc_hebden-bridge",
+      "city": "Hebden Bridge",
+      "country": "GB",
+      "lat": 53.74,
+      "lng": -2.01
+    },
+    {
+      "id": "plc_athens-ga",
+      "city": "Athens",
+      "country": "US",
+      "lat": 33.96,
+      "lng": -83.38,
+      "aliases": [
+        "Athens, GA"
+      ]
+    },
+    {
+      "id": "plc_asheville",
+      "city": "Asheville",
+      "country": "US",
+      "lat": 35.6,
+      "lng": -82.55,
+      "aliases": [
+        "Asheville",
+        "Asheville, NC"
+      ]
+    },
+    {
+      "id": "plc_norwich",
+      "city": "Norwich",
+      "country": "GB",
+      "lat": 52.63,
+      "lng": 1.3
+    },
+    {
+      "id": "plc_montreal",
+      "city": "Montréal",
+      "country": "CA",
+      "lat": 45.5,
+      "lng": -73.57
+    },
+    {
+      "id": "plc_lyon",
+      "city": "Lyon",
+      "country": "FR",
+      "lat": 45.76,
+      "lng": 4.84
+    },
+    {
+      "id": "plc_sheffield",
+      "city": "Sheffield",
+      "country": "GB",
+      "lat": 53.38,
+      "lng": -1.47
+    },
+    {
+      "id": "plc_memphis",
+      "city": "Memphis",
+      "country": "US",
+      "lat": 35.15,
+      "lng": -90.05,
+      "aliases": [
+        "Memphis",
+        "Memphis, TN"
+      ]
+    },
+    {
+      "id": "plc_detroit",
+      "city": "Detroit",
+      "country": "US",
+      "lat": 42.33,
+      "lng": -83.05,
+      "aliases": [
+        "Detroit",
+        "Detroit, MI"
+      ]
+    },
+    {
+      "id": "plc_brooklyn",
+      "city": "Brooklyn",
+      "country": "US",
+      "lat": 40.68,
+      "lng": -73.94,
+      "aliases": [
+        "Brooklyn",
+        "Brooklyn, NY"
+      ]
+    },
+    {
+      "id": "plc_tucson",
+      "city": "Tucson",
+      "country": "US",
+      "lat": 32.22,
+      "lng": -110.97,
+      "aliases": [
+        "Tucson",
+        "Tucson, AZ"
+      ]
+    },
+    {
+      "id": "plc_cardiff",
+      "city": "Cardiff",
+      "country": "GB",
+      "lat": 51.48,
+      "lng": -3.18
+    },
+    {
+      "id": "plc_providence",
+      "city": "Providence",
+      "country": "US",
+      "lat": 41.82,
+      "lng": -71.41,
+      "aliases": [
+        "Providence",
+        "Providence, RI"
+      ]
+    },
+    {
+      "id": "plc_minneapolis",
+      "city": "Minneapolis",
+      "country": "US",
+      "lat": 44.98,
+      "lng": -93.27,
+      "aliases": [
+        "Minneapolis",
+        "Minneapolis, MN"
+      ]
+    },
+    {
+      "id": "plc_toulouse",
+      "city": "Toulouse",
+      "country": "FR",
+      "lat": 43.6,
+      "lng": 1.44
+    },
+    {
+      "id": "plc_glasgow",
+      "city": "Glasgow",
+      "country": "GB",
+      "lat": 55.86,
+      "lng": -4.25
+    },
+    {
+      "id": "plc_nashville",
+      "city": "Nashville",
+      "country": "US",
+      "lat": 36.16,
+      "lng": -86.78,
+      "aliases": [
+        "Nashville",
+        "Nashville, TN"
+      ]
+    },
+    {
+      "id": "plc_rosario",
+      "city": "Rosario",
+      "country": "AR",
+      "lat": -32.94,
+      "lng": -60.64
+    },
+    {
+      "id": "plc_valparaiso",
+      "city": "Valparaíso",
+      "country": "CL",
+      "lat": -33.05,
+      "lng": -71.62
+    },
+    {
+      "id": "plc_belfast",
+      "city": "Belfast",
+      "country": "GB",
+      "lat": 54.6,
+      "lng": -5.93
+    },
+    {
+      "id": "plc_richmond",
+      "city": "Richmond",
+      "country": "US",
+      "lat": 37.54,
+      "lng": -77.44,
+      "aliases": [
+        "Richmond",
+        "Richmond, VA"
+      ]
+    },
+    {
+      "id": "plc_kyoto",
+      "city": "Kyoto",
+      "country": "JP",
+      "lat": 35.01,
+      "lng": 135.77
+    },
+    {
+      "id": "plc_hamburg",
+      "city": "Hamburg",
+      "country": "DE",
+      "lat": 53.55,
+      "lng": 9.99
+    },
+    {
+      "id": "plc_bergen",
+      "city": "Bergen",
+      "country": "NO",
+      "lat": 60.39,
+      "lng": 5.32
+    },
+    {
+      "id": "plc_abidjan",
+      "city": "Abidjan",
+      "country": "CI",
+      "lat": 5.36,
+      "lng": -4.01
+    },
+    {
+      "id": "plc_malmo",
+      "city": "Malmö",
+      "country": "SE",
+      "lat": 55.6,
+      "lng": 13
+    },
+    {
+      "id": "plc_oakland",
+      "city": "Oakland",
+      "country": "US",
+      "lat": 37.8,
+      "lng": -122.27,
+      "aliases": [
+        "Oakland",
+        "Oakland, CA"
+      ]
+    },
+    {
+      "id": "plc_guadalajara",
+      "city": "Guadalajara",
+      "country": "MX",
+      "lat": 20.66,
+      "lng": -103.35
+    },
+    {
+      "id": "plc_novi-sad",
+      "city": "Novi Sad",
+      "country": "RS",
+      "lat": 45.25,
+      "lng": 19.84
+    },
+    {
+      "id": "plc_troms",
+      "city": "Tromsø",
+      "country": "NO",
+      "lat": 69.65,
+      "lng": 18.96
+    },
+    {
+      "id": "plc_lisbon",
+      "city": "Lisbon",
+      "country": "PT",
+      "lat": 38.72,
+      "lng": -9.14
+    },
+    {
+      "id": "plc_nairobi",
+      "city": "Nairobi",
+      "country": "KE",
+      "lat": -1.29,
+      "lng": 36.82
+    },
+    {
+      "id": "plc_seoul",
+      "city": "Seoul",
+      "country": "KR",
+      "lat": 37.57,
+      "lng": 126.98
+    },
+    {
+      "id": "plc_jakarta",
+      "city": "Jakarta",
+      "country": "ID",
+      "lat": -6.21,
+      "lng": 106.85
+    },
+    {
+      "id": "plc_sydney",
+      "city": "Sydney",
+      "country": "AU",
+      "lat": -33.87,
+      "lng": 151.21
+    },
+    {
+      "id": "plc_auckland",
+      "city": "Auckland",
+      "country": "NZ",
+      "lat": -36.85,
+      "lng": 174.76
+    },
+    {
+      "id": "plc_reykjavik",
+      "city": "Reykjavík",
+      "country": "IS",
+      "lat": 64.15,
+      "lng": -21.94
+    },
+    {
+      "id": "plc_cape-town",
+      "city": "Cape Town",
+      "country": "ZA",
+      "lat": -33.92,
+      "lng": 18.42
+    },
+    {
+      "id": "plc_mumbai",
+      "city": "Mumbai",
+      "country": "IN",
+      "lat": 19.08,
+      "lng": 72.88
+    },
+    {
+      "id": "plc_bangkok",
+      "city": "Bangkok",
+      "country": "TH",
+      "lat": 13.76,
+      "lng": 100.5
+    },
+    {
+      "id": "plc_manila",
+      "city": "Manila",
+      "country": "PH",
+      "lat": 14.6,
+      "lng": 120.98
+    },
+    {
+      "id": "plc_buenos-aires",
+      "city": "Buenos Aires",
+      "country": "AR",
+      "lat": -34.6,
+      "lng": -58.38
+    },
+    {
+      "id": "plc_lima",
+      "city": "Lima",
+      "country": "PE",
+      "lat": -12.05,
+      "lng": -77.04
+    },
+    {
+      "id": "plc_santiago",
+      "city": "Santiago",
+      "country": "CL",
+      "lat": -33.45,
+      "lng": -70.67
+    },
+    {
+      "id": "plc_toronto",
+      "city": "Toronto",
+      "country": "CA",
+      "lat": 43.65,
+      "lng": -79.38
+    },
+    {
+      "id": "plc_vancouver",
+      "city": "Vancouver",
+      "country": "CA",
+      "lat": 49.28,
+      "lng": -123.12
+    },
+    {
+      "id": "plc_denver",
+      "city": "Denver",
+      "country": "US",
+      "lat": 39.74,
+      "lng": -104.99
+    },
+    {
+      "id": "plc_austin",
+      "city": "Austin",
+      "country": "US",
+      "lat": 30.27,
+      "lng": -97.74
+    },
+    {
+      "id": "plc_miami",
+      "city": "Miami",
+      "country": "US",
+      "lat": 25.76,
+      "lng": -80.19
+    },
+    {
+      "id": "plc_dublin",
+      "city": "Dublin",
+      "country": "IE",
+      "lat": 53.35,
+      "lng": -6.26
+    },
+    {
+      "id": "plc_amsterdam",
+      "city": "Amsterdam",
+      "country": "NL",
+      "lat": 52.37,
+      "lng": 4.9
+    },
+    {
+      "id": "plc_copenhagen",
+      "city": "Copenhagen",
+      "country": "DK",
+      "lat": 55.68,
+      "lng": 12.57
+    },
+    {
+      "id": "plc_warsaw",
+      "city": "Warsaw",
+      "country": "PL",
+      "lat": 52.23,
+      "lng": 21.01
+    },
+    {
+      "id": "plc_athens",
+      "city": "Athens",
+      "country": "GR",
+      "lat": 37.98,
+      "lng": 23.73
+    },
+    {
+      "id": "plc_istanbul",
+      "city": "Istanbul",
+      "country": "TR",
+      "lat": 41.01,
+      "lng": 28.98
+    },
+    {
+      "id": "plc_cairo",
+      "city": "Cairo",
+      "country": "EG",
+      "lat": 30.04,
+      "lng": 31.24
+    },
+    {
+      "id": "plc_dakar",
+      "city": "Dakar",
+      "country": "SN",
+      "lat": 14.72,
+      "lng": -17.47
+    },
+    {
+      "id": "plc_johannesburg",
+      "city": "Johannesburg",
+      "country": "ZA",
+      "lat": -26.2,
+      "lng": 28.05
+    },
+    {
+      "id": "plc_delhi",
+      "city": "Delhi",
+      "country": "IN",
+      "lat": 28.61,
+      "lng": 77.21
+    },
+    {
+      "id": "plc_taipei",
+      "city": "Taipei",
+      "country": "TW",
+      "lat": 25.03,
+      "lng": 121.57
+    },
+    {
+      "id": "plc_hong-kong",
+      "city": "Hong Kong",
+      "country": "HK",
+      "lat": 22.32,
+      "lng": 114.17
+    },
+    {
+      "id": "plc_honolulu",
+      "city": "Honolulu",
+      "country": "US",
+      "lat": 21.31,
+      "lng": -157.86
+    },
+    {
+      "id": "plc_anchorage",
+      "city": "Anchorage",
+      "country": "US",
+      "lat": 61.22,
+      "lng": -149.9
+    },
+    {
+      "id": "plc_perth",
+      "city": "Perth",
+      "country": "AU",
+      "lat": -31.95,
+      "lng": 115.86
+    },
+    {
+      "id": "plc_ho-chi-minh-city",
+      "city": "Ho Chi Minh City",
+      "country": "VN",
+      "lat": 10.82,
+      "lng": 106.63
+    },
+    {
+      "id": "plc_casablanca",
+      "city": "Casablanca",
+      "country": "MA",
+      "lat": 33.57,
+      "lng": -7.59
+    },
+    {
+      "id": "plc_addis-ababa",
+      "city": "Addis Ababa",
+      "country": "ET",
+      "lat": 9.03,
+      "lng": 38.74
+    },
+    {
+      "id": "plc_havana",
+      "city": "Havana",
+      "country": "CU",
+      "lat": 23.11,
+      "lng": -82.37
+    },
+    {
+      "id": "plc_montevideo",
+      "city": "Montevideo",
+      "country": "UY",
+      "lat": -34.9,
+      "lng": -56.16
+    },
+    {
+      "id": "plc_helsinki",
+      "city": "Helsinki",
+      "country": "FI",
+      "lat": 60.17,
+      "lng": 24.94
+    },
+    {
+      "id": "plc_edinburgh",
+      "city": "Edinburgh",
+      "country": "GB",
+      "lat": 55.95,
+      "lng": -3.19
+    },
+    {
+      "id": "plc_marseille",
+      "city": "Marseille",
+      "country": "FR",
+      "lat": 43.3,
+      "lng": 5.37
+    },
+    {
+      "id": "plc_milan",
+      "city": "Milan",
+      "country": "IT",
+      "lat": 45.46,
+      "lng": 9.19
+    },
+    {
+      "id": "plc_barcelona",
+      "city": "Barcelona",
+      "country": "ES",
+      "lat": 41.39,
+      "lng": 2.17
+    },
+    {
+      "id": "plc_kingston",
+      "city": "Kingston",
+      "country": "JM",
+      "lat": 17.97,
+      "lng": -76.79
+    }
+  ]
+}

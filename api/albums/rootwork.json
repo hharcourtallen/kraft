@@ -1,0 +1,46 @@
+{
+  "id": "alb_rootwork-ballast-an",
+  "slug": "rootwork",
+  "title": "Rootwork",
+  "year": 2025,
+  "type": "EP",
+  "subtitle": "2025 · EP",
+  "trackCount": 6,
+  "durationSec": 1402,
+  "durationLabel": "23 min",
+  "artist": {
+    "id": "art_ballast-and-lodestar",
+    "name": "Ballast & Lodestar",
+    "slug": "ballast-and-lodestar"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk"
+  ],
+  "tracks": [
+    "trk_drowned-harbour-ballast--2025-0",
+    "trk_fieldwork-ballast--2025-1",
+    "trk_deep-current-ballast--2025-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2025,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+      "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+      "abstract": false,
+      "subject": "cut wheat bound with twine",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2025 sleeve deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: cut wheat bound with twine. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202025%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20cut%20wheat%20bound%20with%20twine.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

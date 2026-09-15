@@ -1,0 +1,46 @@
+{
+  "id": "alb_neon-rooftop-greer-blac",
+  "slug": "neon-rooftop",
+  "title": "Neon Rooftop",
+  "year": 2018,
+  "type": "Album",
+  "subtitle": "2018 · Album",
+  "trackCount": 12,
+  "durationSec": 2776,
+  "durationLabel": "46 min",
+  "artist": {
+    "id": "art_greer-blackwood",
+    "name": "Greer Blackwood",
+    "slug": "greer-blackwood"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_midnight-ballroom-greer-bl-2018-0",
+    "trk_model-terminal-greer-bl-2018-1",
+    "trk_registry-lullaby-greer-bl-2018-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2018,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+      "composition": "non-representational, full bleed, edge-to-edge colour",
+      "abstract": true,
+      "subject": "a car park at night",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a car park at night. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20car%20park%20at%20night.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

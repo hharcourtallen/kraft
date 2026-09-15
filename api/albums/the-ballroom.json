@@ -1,0 +1,45 @@
+{
+  "id": "alb_the-ballroom-the-neon-u",
+  "slug": "the-ballroom",
+  "title": "The Ballroom",
+  "year": 2024,
+  "type": "Single",
+  "subtitle": "2024 · Single",
+  "trackCount": 1,
+  "durationSec": 267,
+  "durationLabel": "4 min",
+  "artist": {
+    "id": "art_the-neon-underpasses",
+    "name": "The Neon Underpasses",
+    "slug": "the-neon-underpasses"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "rock",
+    "post-punk"
+  ],
+  "tracks": [
+    "trk_quiet-common-the-neon-2024-0"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rock",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+      "composition": "non-representational, full bleed, edge-to-edge colour",
+      "abstract": true,
+      "subject": "a bold diagonal split of two colours",
+      "palette": "oxblood, smoke grey, brass, hard black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a bold diagonal split of two colours. Palette: oxblood, smoke grey, brass, hard black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20bold%20diagonal%20split%20of%20two%20colours.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

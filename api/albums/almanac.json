@@ -1,0 +1,48 @@
+{
+  "id": "alb_almanac-the-shoals",
+  "slug": "almanac",
+  "title": "Almanac",
+  "year": 2021,
+  "type": "EP",
+  "subtitle": "2021 · EP",
+  "trackCount": 5,
+  "durationSec": 1178,
+  "durationLabel": "20 min",
+  "artist": {
+    "id": "art_the-shoals",
+    "name": "The Shoals",
+    "slug": "the-shoals"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk",
+    "analog-revival"
+  ],
+  "tracks": [
+    "trk_soft-barleyfield-the-shoa-2021-0",
+    "trk_long-barleyfield-the-shoa-2021-1",
+    "trk_wild-bramble-the-shoa-2021-2",
+    "trk_cove-waltz-the-shoa-2021-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "overlapping circles in earth pigment",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: overlapping circles in earth pigment. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20overlapping%20circles%20in%20earth%20pigment.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

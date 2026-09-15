@@ -1,0 +1,49 @@
+{
+  "id": "alb_payphones-central-de",
+  "slug": "payphones",
+  "title": "Payphones",
+  "year": 2017,
+  "type": "EP",
+  "subtitle": "2017 · EP",
+  "trackCount": 5,
+  "durationSec": 1087,
+  "durationLabel": "18 min",
+  "artist": {
+    "id": "art_central-depot",
+    "name": "Central Depot",
+    "slug": "central-depot"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_provision-central--2017-0",
+    "trk_exchange-demo-central--2017-1",
+    "trk_underpass-lullaby-central--2017-2",
+    "trk_nocturne-central--2017-3",
+    "trk_provision-central--2017-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2017,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "glossy CGI render with ray-traced reflections and studio HDRI lighting",
+      "composition": "single hero object floating on a smooth gradient ground",
+      "abstract": false,
+      "subject": "a hand-drawn scrawl of shapes",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2017 sleeve deliberately styled after 2000-2014. Medium: glossy CGI render with ray-traced reflections and studio HDRI lighting. Subject: a hand-drawn scrawl of shapes. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: single hero object floating on a smooth gradient ground. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202017%20sleeve%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20glossy%20CGI%20render%20with%20ray-traced%20reflections%20and%20studio%20HDRI%20lighting.%20Subject%3A%20a%20hand-drawn%20scrawl%20of%20shapes.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20single%20hero%20object%20floating%20on%20a%20smooth%20gradient%20ground.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

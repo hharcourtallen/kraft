@@ -1,0 +1,130 @@
+{
+  "id": "art_second-hand-sound",
+  "slug": "second-hand-sound",
+  "name": "Second Hand Sound",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Portland, OR",
+  "geo": {
+    "placeId": "plc_portland",
+    "city": "Portland",
+    "country": "US",
+    "lat": 45.52,
+    "lng": -122.68
+  },
+  "region": "us-uk",
+  "genres": [
+    "analog-revival",
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "analog-revival",
+    "name": "Analog Revival"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "tier": "working",
+  "monthlyListeners": 7900,
+  "monthlyListenersLabel": "7.9K monthly listeners",
+  "followers": 2600,
+  "followersLabel": "2.6K",
+  "shelfCaption": "Analog Revival · 7.9K listeners",
+  "verified": false,
+  "active": {
+    "from": 2019,
+    "to": null
+  },
+  "bio": "Formed in the back of a record shop and never entirely left it.",
+  "discography": [
+    "alb_secondhand-gold"
+  ],
+  "popularTrackIds": [
+    "trk_paper-sleeves"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2023,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2023 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician in profile against a plain wall. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202023%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2023,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "hard-flash colour photograph, deep black shadow, slight over-exposure",
+        "composition": "snapshot framing, subject centred, background falling away",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2023 press image deliberately styled after 1980-1999. Medium: hard-flash colour photograph, deep black shadow, slight over-exposure. Subject: a musician walking away down a wet street, back to camera. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: snapshot framing, subject centred, background falling away. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202023%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20hard-flash%20colour%20photograph%2C%20deep%20black%20shadow%2C%20slight%20over-exposure.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20snapshot%20framing%2C%20subject%20centred%2C%20background%20falling%20away.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_paper-sleeves",
+      "slug": "paper-sleeves",
+      "title": "Paper Sleeves",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_second-hand-sound",
+        "name": "Second Hand Sound",
+        "slug": "second-hand-sound"
+      },
+      "album": {
+        "id": "alb_secondhand-gold",
+        "title": "Secondhand Gold",
+        "slug": "secondhand-gold",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/secondhand-gold.jpg",
+      "playCountLabel": "134,870"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_secondhand-gold",
+      "slug": "secondhand-gold",
+      "title": "Secondhand Gold",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": "/artwork/album/secondhand-gold.jpg"
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_vinyl-sundays",
+      "slug": "vinyl-sundays",
+      "title": "Vinyl Sundays",
+      "image": "/artwork/playlist/vinyl-sundays.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Paper Sleeves",
+      "position": 5,
+      "caption": "Paper Sleeves is track 5"
+    }
+  ]
+}

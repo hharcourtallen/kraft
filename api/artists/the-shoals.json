@@ -1,0 +1,359 @@
+{
+  "id": "art_the-shoals",
+  "slug": "the-shoals",
+  "name": "The Shoals",
+  "formation": "band",
+  "country": "GB",
+  "hometown": "Bristol",
+  "geo": {
+    "placeId": "plc_bristol",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.45,
+    "lng": -2.59
+  },
+  "region": "uk",
+  "genres": [
+    "folk",
+    "analog-revival"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "working",
+  "monthlyListeners": 4539,
+  "monthlyListenersLabel": "4.5K monthly listeners",
+  "followers": 2077,
+  "followersLabel": "2.1K",
+  "shelfCaption": "Folk · 4.5K listeners",
+  "verified": false,
+  "active": {
+    "from": 2019,
+    "to": null
+  },
+  "bio": "Folk five-piece from Bristol. Records live to tape with the band in one room and no click.",
+  "discography": [
+    "alb_hollow-rootwork-the-shoals",
+    "alb_the-harvest-the-shoals",
+    "alb_almanac-the-shoals",
+    "alb_letters-from-fens-the-shoals",
+    "alb_deep-fathom-the-shoals"
+  ],
+  "popularTrackIds": [
+    "trk_tidal-sound-the-shoa-2019-0",
+    "trk_two-hundred-commons-the-shoa-2019-1",
+    "trk_ballast-the-shoa-2020-0",
+    "trk_soft-barleyfield-the-shoa-2021-0",
+    "trk_breakwater-march-the-shoa-2020-1",
+    "trk_two-hundred-estuaries-the-shoa-2019-2",
+    "trk_golden-bramble-the-shoa-2023-0",
+    "trk_tidal-fathom-the-shoa-2020-3",
+    "trk_long-barleyfield-the-shoa-2021-1",
+    "trk_fieldwork-the-shoa-2019-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician holding their instrument case, deadpan. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2026,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2026 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202026%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_tidal-sound-the-shoa-2019-0",
+      "slug": "tidal-sound",
+      "title": "Tidal Sound",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_deep-fathom-the-shoals",
+        "title": "Deep Fathom",
+        "slug": "deep-fathom",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "112,801"
+    },
+    {
+      "id": "trk_two-hundred-commons-the-shoa-2019-1",
+      "slug": "two-hundred-commons",
+      "title": "Two Hundred Commons",
+      "duration": "3:05",
+      "durationSec": 185,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_deep-fathom-the-shoals",
+        "title": "Deep Fathom",
+        "slug": "deep-fathom",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "41,735"
+    },
+    {
+      "id": "trk_ballast-the-shoa-2020-0",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "3:56",
+      "durationSec": 236,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "41,232"
+    },
+    {
+      "id": "trk_soft-barleyfield-the-shoa-2021-0",
+      "slug": "soft-barleyfield",
+      "title": "Soft Barleyfield",
+      "duration": "3:36",
+      "durationSec": 216,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_almanac-the-shoals",
+        "title": "Almanac",
+        "slug": "almanac",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "36,101"
+    },
+    {
+      "id": "trk_breakwater-march-the-shoa-2020-1",
+      "slug": "breakwater-march",
+      "title": "Breakwater March",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "31,461"
+    },
+    {
+      "id": "trk_two-hundred-estuaries-the-shoa-2019-2",
+      "slug": "two-hundred-estuaries",
+      "title": "Two Hundred Estuaries",
+      "duration": "4:06",
+      "durationSec": 246,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_deep-fathom-the-shoals",
+        "title": "Deep Fathom",
+        "slug": "deep-fathom",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "28,990"
+    },
+    {
+      "id": "trk_golden-bramble-the-shoa-2023-0",
+      "slug": "golden-bramble",
+      "title": "Golden Bramble",
+      "duration": "3:17",
+      "durationSec": 197,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_the-harvest-the-shoals",
+        "title": "The Harvest",
+        "slug": "the-harvest",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "16,057"
+    },
+    {
+      "id": "trk_tidal-fathom-the-shoa-2020-3",
+      "slug": "tidal-fathom",
+      "title": "Tidal Fathom",
+      "duration": "5:38",
+      "durationSec": 338,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_letters-from-fens-the-shoals",
+        "title": "Letters from Fens",
+        "slug": "letters-from-fens",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "15,812"
+    },
+    {
+      "id": "trk_long-barleyfield-the-shoa-2021-1",
+      "slug": "long-barleyfield",
+      "title": "Long Barleyfield",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_almanac-the-shoals",
+        "title": "Almanac",
+        "slug": "almanac",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "12,148"
+    },
+    {
+      "id": "trk_fieldwork-the-shoa-2019-3",
+      "slug": "fieldwork",
+      "title": "Fieldwork",
+      "duration": "3:24",
+      "durationSec": 204,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_deep-fathom-the-shoals",
+        "title": "Deep Fathom",
+        "slug": "deep-fathom",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "9,507"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_hollow-rootwork-the-shoals",
+      "slug": "hollow-rootwork",
+      "title": "Hollow Rootwork",
+      "subtitle": "2026 · Live",
+      "year": 2026,
+      "type": "Live",
+      "image": null
+    },
+    {
+      "id": "alb_the-harvest-the-shoals",
+      "slug": "the-harvest",
+      "title": "The Harvest",
+      "subtitle": "2023 · Single",
+      "year": 2023,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_almanac-the-shoals",
+      "slug": "almanac",
+      "title": "Almanac",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_letters-from-fens-the-shoals",
+      "slug": "letters-from-fens",
+      "title": "Letters from Fens",
+      "subtitle": "2020 · EP",
+      "year": 2020,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_deep-fathom-the-shoals",
+      "slug": "deep-fathom",
+      "title": "Deep Fathom",
+      "subtitle": "2019 · Album",
+      "year": 2019,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-france",
+      "slug": "france",
+      "title": "France",
+      "image": "/artwork/playlist/country-france.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Cove Waltz",
+      "position": 10,
+      "caption": "Cove Waltz is track 10"
+    }
+  ]
+}

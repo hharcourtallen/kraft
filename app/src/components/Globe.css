@@ -1,0 +1,100 @@
+/* Globe hero markers. The dot is the one thing on the page that emits light, so it may
+   glow; the cards are dark pills. Layout is DOM-in-globe: keep everything absolute and
+   anchored on the dot so globe.gl can move the whole marker. */
+.gl-globe { position: relative; }
+.gl-globe canvas { display: block; }
+
+.gl-marker {
+  position: relative;
+  width: 10px;
+  height: 10px;
+  transition: opacity 300ms;
+  filter: brightness(calc(0.55 + 0.45 * var(--near, 1)));
+}
+
+/* --- idle: the pulse. Amplitude follows --near (set every 120ms from the camera angle). */
+.gl-dot {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 10px;
+  height: 10px;
+  border-radius: 9999px;
+  background: var(--color-accent-core);
+  box-shadow: 0 0 6px 2px oklch(78% .140 257.5 / 80%), 0 0 16px 5px oklch(61% .125 257.5 / 45%);
+  cursor: pointer;
+  animation: gl-pulse var(--dur, 3s) ease-in-out var(--delay, 0s) infinite alternate;
+}
+@keyframes gl-pulse {
+  from { opacity: calc(1 - 0.45 * var(--near, 0)); transform: scale(calc(1 - 0.12 * var(--near, 0))); }
+  to   { opacity: 1; transform: scale(calc(1 + 0.24 * var(--near, 0))); }
+}
+@media (prefers-reduced-motion: reduce) { .gl-dot { animation: none; } }
+
+/* curators wear a ring */
+.gl-marker--curator .gl-dot::after {
+  content: '';
+  position: absolute;
+  left: -5px;
+  top: -5px;
+  width: 18px;
+  height: 18px;
+  border-radius: 9999px;
+  border: 1px solid oklch(97% .030 257.5 / 50%);
+}
+
+/* --- hover: the peek pill */
+.gl-marker:hover .gl-dot, .gl-marker.is-open .gl-dot { animation-play-state: paused; opacity: 1; transform: scale(1.3); }
+.gl-marker:hover, .gl-marker.is-open { filter: none; }
+/* Cards sit above every dot. globe.gl's CSS2DRenderer re-sorts markers by camera
+   distance each frame and writes an inline z-index (1…n) on each one, and every
+   marker is its own stacking context, so a plain z-index here loses and the card
+   renders under any nearer dot. !important is the only thing that outranks an
+   inline style; the open card clears the field, a hover peek clears the open card. */
+.gl-marker.is-open { z-index: 100000 !important; }
+.gl-marker:hover { z-index: 100001 !important; }
+.gl-peek, .gl-open {
+  position: absolute;
+  left: 20px;
+  top: -12px;
+  display: none;
+  flex-direction: column;
+  border-radius: var(--radius-md);
+  background: oklch(12.8% 0.010 323 / 96%); /* at 88% a dot's glow smudged through */
+  border: 1px solid oklch(100% 0 0 / 12%);
+  color: #fafafa;
+  font-family: var(--font-sans);
+  font-size: var(--text-sm);
+  line-height: 18px;
+  white-space: nowrap;
+}
+.gl-peek { gap: 1px; padding: 8px 12px; }
+.gl-marker:hover:not(.is-open) .gl-peek { display: flex; }
+.gl-title { font-weight: var(--font-weight-medium); }
+.gl-sub { color: #e6e6e6; }
+.gl-meta { font-size: var(--text-xs); line-height: 16px; color: oklch(71.1% 0.019 323); }
+
+/* --- open: the card */
+.gl-open { width: 296px; gap: 10px; padding: 12px; border-radius: 8px; }
+.gl-marker.is-open .gl-open { display: flex; }
+.gl-open-head { display: flex; align-items: center; gap: 10px; }
+.gl-open-text { display: flex; flex-direction: column; gap: 1px; flex: 1 1 0; min-width: 0; overflow: hidden; }
+.gl-cover { flex-shrink: 0; width: 48px; height: 48px; border-radius: var(--radius-md); background: oklch(24% 0.022 323) center / cover; }
+.gl-x { align-self: flex-start; width: 20px; height: 20px; border-radius: var(--radius-sm); font-size: 16px; line-height: 20px; color: oklch(71.1% 0.019 323); }
+.gl-x:hover { color: #fafafa; }
+.gl-wave { position: relative; display: block; }
+.gl-wave svg { position: absolute; left: 0; top: 0; display: block; }
+.gl-wave-off { fill: oklch(37.2% 0.025 323); }
+.gl-wave-on { fill: #fafafa; }
+.gl-wave-head { position: absolute; top: -4px; width: 1px; height: 32px; background: #fafafa; }
+.gl-times { display: flex; justify-content: space-between; font-size: var(--text-micro); line-height: 14px; color: oklch(71.1% 0.019 323); font-variant-numeric: tabular-nums; margin-top: -4px; }
+.gl-who { display: flex; align-items: center; gap: 8px; font-size: var(--text-xs); line-height: 16px; color: oklch(71.1% 0.019 323); }
+.gl-portrait { flex-shrink: 0; width: 20px; height: 20px; border-radius: 9999px; background: oklch(24% 0.022 323) center / cover; }
+.gl-led { flex-shrink: 0; width: 6px; height: 6px; margin: 0 7px; border-radius: 9999px; background: var(--color-accent-core); box-shadow: 0 0 4px 1px oklch(78% .140 257.5 / 90%); }
+.gl-actions { display: flex; align-items: center; gap: 14px; }
+.gl-play { height: 32px; padding: 0 14px; border-radius: var(--radius-md); background: #fafafa; color: #0c0d0e; font-size: var(--text-sm); font-weight: var(--font-weight-medium); }
+.gl-link { font-size: var(--text-sm); color: oklch(71.1% 0.019 323); }
+.gl-link:hover { color: #fafafa; }
+
+/* --- playing: the ring goes solid */
+.gl-marker.is-playing .gl-dot::after { content: ''; position: absolute; left: -5px; top: -5px; width: 18px; height: 18px; border-radius: 9999px; border: 1px solid var(--color-accent-core); }

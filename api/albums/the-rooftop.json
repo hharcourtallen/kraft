@@ -1,0 +1,45 @@
+{
+  "id": "alb_the-rooftop-cass-and-t",
+  "slug": "the-rooftop",
+  "title": "The Rooftop",
+  "year": 2022,
+  "type": "Single",
+  "subtitle": "2022 · Single",
+  "trackCount": 1,
+  "durationSec": 316,
+  "durationLabel": "5 min",
+  "artist": {
+    "id": "art_cass-and-the-terminals",
+    "name": "Cass & The Terminals",
+    "slug": "cass-and-the-terminals"
+  },
+  "label": {
+    "id": "lbl_harmattan",
+    "name": "Harmattan Sound"
+  },
+  "genres": [
+    "funk",
+    "jazz"
+  ],
+  "tracks": [
+    "trk_every-bureau-cass-and-2022-0"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "funk",
+      "year": 2022,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a platform boot at low angle",
+      "palette": "hot pink, gold, purple, deep orange"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a platform boot at low angle. Palette: hot pink, gold, purple, deep orange. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20platform%20boot%20at%20low%20angle.%20Palette%3A%20hot%20pink%2C%20gold%2C%20purple%2C%20deep%20orange.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

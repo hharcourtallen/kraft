@@ -1,0 +1,23 @@
+{
+  "name": "kraft",
+  "version": "0.2.0",
+  "private": true,
+  "type": "module",
+  "description": "Kraft: fictional catalogue, static API, artwork pipeline and app for a Paper + MCP design demo",
+  "scripts": {
+    "build": "node scripts/build.mjs && pnpm --filter @kraft/app build",
+    "build:api": "node scripts/build.mjs",
+    "validate": "node scripts/validate.mjs",
+    "dev": "pnpm --filter @kraft/app dev",
+    "artwork": "node scripts/artwork-prompts.mjs",
+    "countries": "node scripts/country-art.mjs",
+    "check-names": "node scripts/check-names.mjs",
+    "serve": "node scripts/serve.mjs",
+    "check": "node scripts/build.mjs && node scripts/validate.mjs"
+  },
+  "engines": {
+    "node": ">=20",
+    "pnpm": ">=9"
+  },
+  "packageManager": "pnpm@9.15.3"
+}

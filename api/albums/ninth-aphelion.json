@@ -1,0 +1,49 @@
+{
+  "id": "alb_ninth-aphelion-nell-and-t",
+  "slug": "ninth-aphelion",
+  "title": "Ninth Aphelion",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 12,
+  "durationSec": 3504,
+  "durationLabel": "58 min",
+  "artist": {
+    "id": "art_nell-and-the-coronas",
+    "name": "Nell & The Coronas",
+    "slug": "nell-and-the-coronas"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "shoegaze",
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_green-frond-nell-and-2024-0",
+    "trk_fern-dew-nell-and-2024-1",
+    "trk_orbit-song-nell-and-2024-2",
+    "trk_nightblooming-herbarium-nell-and-2024-3",
+    "trk_outer-equinox-nell-and-2024-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "shoegaze",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a wall of static",
+      "palette": "washed pink, acid white, cool grey-green"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a wall of static. Palette: washed pink, acid white, cool grey-green. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20wall%20of%20static.%20Palette%3A%20washed%20pink%2C%20acid%20white%2C%20cool%20grey-green.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

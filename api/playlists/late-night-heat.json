@@ -1,0 +1,55 @@
+{
+  "id": "pl_late-night-heat",
+  "slug": "late-night-heat",
+  "title": "Late Night Heat",
+  "description": "Slow, humid, after two in the morning. For rooms with one lamp on.",
+  "note": "Made for the drive home after the drive home. Nothing here asks for your full attention until the third song, and then it takes it.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Amara Diallo",
+  "curator": {
+    "id": "cur_amara-diallo",
+    "name": "Amara Diallo",
+    "city": "London"
+  },
+  "trackCount": 8,
+  "durationSec": 1920,
+  "durationLabel": "32 min",
+  "metaLine": "8 tracks · 32 min",
+  "libraryLine": "List · 8 songs",
+  "followers": 41880,
+  "followersLabel": "42K",
+  "updated": "2026-08-19",
+  "moods": [
+    "late-night"
+  ],
+  "genres": [
+    "rnb",
+    "soul",
+    "downtempo"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 8,
+  "artwork": {
+    "image": "/artwork/playlist/late-night-heat.jpg",
+    "direction": {
+      "genre": "rnb",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "silk fabric in motion",
+      "palette": "ivory, champagne, deep plum, silver"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: silk fabric in motion. Palette: ivory, champagne, deep plum, silver. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20silk%20fabric%20in%20motion.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "6 days ago"
+}

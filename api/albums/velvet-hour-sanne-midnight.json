@@ -1,0 +1,49 @@
+{
+  "id": "alb_velvet-hour-sanne-midn",
+  "slug": "velvet-hour-sanne-midnight",
+  "title": "Velvet Hour",
+  "year": 2025,
+  "type": "Album",
+  "subtitle": "2025 · Album",
+  "trackCount": 10,
+  "durationSec": 2518,
+  "durationLabel": "42 min",
+  "artist": {
+    "id": "art_sanne-midnight",
+    "name": "Sanne Midnight",
+    "slug": "sanne-midnight"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "genres": [
+    "electronic",
+    "downtempo"
+  ],
+  "tracks": [
+    "trk_midnight-underpass-sanne-mi-2025-0",
+    "trk_dark-underpass-sanne-mi-2025-1",
+    "trk_wild-hedgerow-sanne-mi-2025-2",
+    "trk_afterhours-sanne-mi-2025-3",
+    "trk_bloom-sanne-mi-2025-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "electronic",
+      "year": 2025,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "interlocking extruded shapes",
+      "palette": "ultramarine, silver, black, one acid highlight"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes interlocking extruded shapes. Palette: ultramarine, silver, black, one acid highlight. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20interlocking%20extruded%20shapes.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

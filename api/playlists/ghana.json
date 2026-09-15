@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-ghana",
+  "slug": "ghana",
+  "title": "Ghana",
+  "description": null,
+  "note": "Accra on a Friday: highlife on the radio, afrobeat from the car next to you, dub from somewhere you cannot see.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "GH",
+  "subtitle": "Adé Mensah",
+  "curator": {
+    "id": "cur_ade-mensah",
+    "name": "Adé Mensah",
+    "city": "Accra"
+  },
+  "trackCount": 12,
+  "durationSec": 4065,
+  "durationLabel": "1 hr 8 min",
+  "metaLine": "12 tracks · 1 hr 8 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 19500,
+  "followersLabel": "20K",
+  "updated": "2026-07-20",
+  "moods": [],
+  "genres": [
+    "afrobeat",
+    "funk",
+    "dub"
+  ],
+  "trackIds": [
+    "trk_municipal-annex-femi-and-2007-4",
+    "trk_another-meridian-femi-and-2011-0",
+    "trk_last-boulevard-merrick--2022-0",
+    "trk_municipal-bloc-femi-and-2011-4",
+    "trk_model-assembly-femi-and-2018-1",
+    "trk_bloc-reprise-cass-and-2023-3",
+    "trk_curfew-renata-a-2021-3",
+    "trk_public-bureau-femi-and-2007-1",
+    "trk_new-assembly-femi-and-2009-1",
+    "trk_provisional-exchange-cass-and-2023-1",
+    "trk_no-more-orchards-renata-a-2021-4",
+    "trk_zoning-cass-and-2023-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_municipal-annex-femi-and-2007-4",
+      "slug": "municipal-annex",
+      "title": "Municipal Annex",
+      "duration": "8:35",
+      "durationSec": 515,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-meridian-femi-and-2011-0",
+      "slug": "another-meridian",
+      "title": "Another Meridian",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-boulevard-merrick--2022-0",
+      "slug": "last-boulevard",
+      "title": "Last Boulevard",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_merrick-dark",
+        "name": "Merrick Dark",
+        "slug": "merrick-dark"
+      },
+      "album": {
+        "id": "alb_last-curfew-merrick-da",
+        "title": "Last Curfew",
+        "slug": "last-curfew",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_municipal-bloc-femi-and-2011-4",
+      "slug": "municipal-bloc",
+      "title": "Municipal Bloc",
+      "duration": "8:46",
+      "durationSec": 526,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_parallax-femi-and-t",
+        "title": "Parallax",
+        "slug": "parallax",
+        "year": 2011
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-assembly-femi-and-2018-1",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "duration": "6:04",
+      "durationSec": 364,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_ninth-meridian-femi-and-t",
+        "title": "Ninth Meridian",
+        "slug": "ninth-meridian",
+        "year": 2018
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloc-reprise-cass-and-2023-3",
+      "slug": "bloc-reprise",
+      "title": "Bloc (Reprise)",
+      "duration": "4:52",
+      "durationSec": 292,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-renata-a-2021-3",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:19",
+      "durationSec": 199,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_public-bureau-femi-and-2007-1",
+      "slug": "public-bureau",
+      "title": "Public Bureau",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_transit-and-observatory-femi-and-t",
+        "title": "Transit & Observatory",
+        "slug": "transit-and-observatory",
+        "year": 2007
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_new-assembly-femi-and-2009-1",
+      "slug": "new-assembly",
+      "title": "New Assembly",
+      "duration": "7:07",
+      "durationSec": 427,
+      "artist": {
+        "id": "art_femi-and-the-observatories",
+        "name": "Femi & The Observatories",
+        "slug": "femi-and-the-observatories"
+      },
+      "album": {
+        "id": "alb_orbit-and-aphelion-femi-and-t",
+        "title": "Orbit & Aphelion",
+        "slug": "orbit-and-aphelion",
+        "year": 2009
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_provisional-exchange-cass-and-2023-1",
+      "slug": "provisional-exchange",
+      "title": "Provisional Exchange",
+      "duration": "5:28",
+      "durationSec": 328,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_no-more-orchards-renata-a-2021-4",
+      "slug": "no-more-orchards",
+      "title": "No More Orchards",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_renata-and-the-taxis",
+        "name": "Renata & The Taxis",
+        "slug": "renata-and-the-taxis"
+      },
+      "album": {
+        "id": "alb_overgrowth-renata-and",
+        "title": "Overgrowth",
+        "slug": "overgrowth",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-cass-and-2023-0",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-ghana.png",
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2026,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "clean vector illustration, flat colour, no texture, crisp edges",
+      "composition": "centred emblem, generous margin, perfectly symmetrical",
+      "abstract": false,
+      "subject": "a woven textile at macro scale",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2026 cover deliberately styled after 2000-2014. Medium: clean vector illustration, flat colour, no texture, crisp edges. Subject: a woven textile at macro scale. Palette: chrome yellow, deep green, vermilion, black. Composition: centred emblem, generous margin, perfectly symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202026%20cover%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20clean%20vector%20illustration%2C%20flat%20colour%2C%20no%20texture%2C%20crisp%20edges.%20Subject%3A%20a%20woven%20textile%20at%20macro%20scale.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20centred%20emblem%2C%20generous%20margin%2C%20perfectly%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "20 Jul"
+}

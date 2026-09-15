@@ -1,0 +1,287 @@
+{
+  "id": "art_tobias-total",
+  "slug": "tobias-total",
+  "name": "Tobias Total",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Providence, RI",
+  "geo": {
+    "placeId": "plc_providence",
+    "city": "Providence",
+    "country": "US",
+    "lat": 41.82,
+    "lng": -71.41
+  },
+  "region": "us",
+  "genres": [
+    "ambient",
+    "dream-pop"
+  ],
+  "primaryGenre": {
+    "slug": "ambient",
+    "name": "Ambient"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 355,
+  "monthlyListenersLabel": "355 monthly listeners",
+  "followers": 121,
+  "followersLabel": "121",
+  "shelfCaption": "Ambient · 355 listeners",
+  "verified": false,
+  "active": {
+    "from": 2024,
+    "to": null
+  },
+  "bio": "Formed in Providence, RI and still arguing about it. One synth, one delay, one rule: nothing added after the first pass.",
+  "discography": [
+    "alb_cairns-tobias-tot",
+    "alb_bedrock-and-foundry-tobias-tot"
+  ],
+  "popularTrackIds": [
+    "trk_basalt-cairn-tobias-t-2024-1",
+    "trk_tectonics-tobias-t-2024-0",
+    "trk_slate-aggregate-tobias-t-2025-0",
+    "trk_basalt-bedrock-tobias-t-2024-2",
+    "trk_solar-corona-tobias-t-2024-3",
+    "trk_observatory-waltz-tobias-t-2025-1",
+    "trk_foundry-lullaby-tobias-t-2025-2",
+    "trk_total-observatory-tobias-t-2024-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician leaning on a van, road behind them. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_basalt-cairn-tobias-t-2024-1",
+      "slug": "basalt-cairn",
+      "title": "Basalt Cairn",
+      "duration": "9:48",
+      "durationSec": 588,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "1,916"
+    },
+    {
+      "id": "trk_tectonics-tobias-t-2024-0",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "11:17",
+      "durationSec": 677,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "1,905"
+    },
+    {
+      "id": "trk_slate-aggregate-tobias-t-2025-0",
+      "slug": "slate-aggregate",
+      "title": "Slate Aggregate",
+      "duration": "10:44",
+      "durationSec": 644,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,312"
+    },
+    {
+      "id": "trk_basalt-bedrock-tobias-t-2024-2",
+      "slug": "basalt-bedrock",
+      "title": "Basalt Bedrock",
+      "duration": "7:08",
+      "durationSec": 428,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "1,158"
+    },
+    {
+      "id": "trk_solar-corona-tobias-t-2024-3",
+      "slug": "solar-corona",
+      "title": "Solar Corona",
+      "duration": "7:13",
+      "durationSec": 433,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "1,147"
+    },
+    {
+      "id": "trk_observatory-waltz-tobias-t-2025-1",
+      "slug": "observatory-waltz",
+      "title": "Observatory Waltz",
+      "duration": "6:58",
+      "durationSec": 418,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "506"
+    },
+    {
+      "id": "trk_foundry-lullaby-tobias-t-2025-2",
+      "slug": "foundry-lullaby",
+      "title": "Foundry Lullaby",
+      "duration": "6:42",
+      "durationSec": 402,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_cairns-tobias-tot",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "418"
+    },
+    {
+      "id": "trk_total-observatory-tobias-t-2024-4",
+      "slug": "total-observatory",
+      "title": "Total Observatory",
+      "duration": "6:33",
+      "durationSec": 393,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "215"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_cairns-tobias-tot",
+      "slug": "cairns-tobias-total",
+      "title": "Cairns",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_bedrock-and-foundry-tobias-tot",
+      "slug": "bedrock-and-foundry",
+      "title": "Bedrock & Foundry",
+      "subtitle": "2024 · EP",
+      "year": 2024,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Solar Corona",
+      "position": 9,
+      "caption": "Solar Corona is track 9"
+    }
+  ]
+}

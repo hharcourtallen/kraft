@@ -1,0 +1,298 @@
+{
+  "id": "art_til-vogelsang",
+  "slug": "til-vogelsang",
+  "name": "Til Vogelsang",
+  "formation": "solo",
+  "country": "DE",
+  "hometown": "Hamburg",
+  "geo": {
+    "placeId": "plc_hamburg",
+    "city": "Hamburg",
+    "country": "DE",
+    "lat": 53.55,
+    "lng": 9.99
+  },
+  "region": "germany",
+  "genres": [
+    "ambient",
+    "downtempo"
+  ],
+  "primaryGenre": {
+    "slug": "ambient",
+    "name": "Ambient"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "working",
+  "monthlyListeners": 5656,
+  "monthlyListenersLabel": "5.7K monthly listeners",
+  "followers": 2103,
+  "followersLabel": "2.1K",
+  "shelfCaption": "Ambient · 5.7K listeners",
+  "verified": false,
+  "active": {
+    "from": 2023,
+    "to": null
+  },
+  "bio": "A composer making ambient about other people’s houses. Builds tracks from a single sampled second and refuses to say which.",
+  "discography": [
+    "alb_the-cairn-til-vogels",
+    "alb_erosion-til-vogels"
+  ],
+  "popularTrackIds": [
+    "trk_solar-orbit-til-voge-2023-0",
+    "trk_zenith-til-voge-2024-0",
+    "trk_orbit-hymn-til-voge-2023-1",
+    "trk_sediment-til-voge-2024-1",
+    "trk_outer-meridian-til-voge-2023-2",
+    "trk_quarry-instrumental-til-voge-2023-3",
+    "trk_seam-march-til-voge-2024-2",
+    "trk_solar-meridian-til-voge-2023-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "ambient",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "pale ice blue, warm grey, faint pink, near-white"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_solar-orbit-til-voge-2023-0",
+      "slug": "solar-orbit",
+      "title": "Solar Orbit",
+      "duration": "5:34",
+      "durationSec": 334,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "79,061"
+    },
+    {
+      "id": "trk_zenith-til-voge-2024-0",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "5:57",
+      "durationSec": 357,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "32,658"
+    },
+    {
+      "id": "trk_orbit-hymn-til-voge-2023-1",
+      "slug": "orbit-hymn",
+      "title": "Orbit Hymn",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "23,120"
+    },
+    {
+      "id": "trk_sediment-til-voge-2024-1",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "5:20",
+      "durationSec": 320,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "22,403"
+    },
+    {
+      "id": "trk_outer-meridian-til-voge-2023-2",
+      "slug": "outer-meridian",
+      "title": "Outer Meridian",
+      "duration": "8:07",
+      "durationSec": 487,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "21,144"
+    },
+    {
+      "id": "trk_quarry-instrumental-til-voge-2023-3",
+      "slug": "quarry-instrumental",
+      "title": "Quarry (Instrumental)",
+      "duration": "7:48",
+      "durationSec": 468,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "11,116"
+    },
+    {
+      "id": "trk_seam-march-til-voge-2024-2",
+      "slug": "seam-march",
+      "title": "Seam March",
+      "duration": "7:39",
+      "durationSec": 459,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "9,827"
+    },
+    {
+      "id": "trk_solar-meridian-til-voge-2023-4",
+      "slug": "solar-meridian",
+      "title": "Solar Meridian",
+      "duration": "4:49",
+      "durationSec": 289,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_erosion-til-vogels",
+        "title": "Erosion",
+        "slug": "erosion",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "8,952"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-cairn-til-vogels",
+      "slug": "the-cairn",
+      "title": "The Cairn",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_erosion-til-vogels",
+      "slug": "erosion",
+      "title": "Erosion",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Zenith",
+      "position": 1,
+      "caption": "Zenith opens it"
+    },
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Sediment",
+      "position": 11,
+      "caption": "Sediment is track 11"
+    }
+  ]
+}

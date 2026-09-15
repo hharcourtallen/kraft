@@ -1,0 +1,45 @@
+{
+  "id": "alb_village-and-alder-rootwork-a",
+  "slug": "village-and-alder",
+  "title": "Village & Alder",
+  "year": 2017,
+  "type": "Single",
+  "subtitle": "2017 · Single",
+  "trackCount": 2,
+  "durationSec": 595,
+  "durationLabel": "10 min",
+  "artist": {
+    "id": "art_rootwork-and-bloom",
+    "name": "Rootwork & Bloom",
+    "slug": "rootwork-and-bloom"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "genres": [
+    "electronic"
+  ],
+  "tracks": [
+    "trk_slow-meadow-rootwork-2017-0",
+    "trk_small-ballroom-rootwork-2017-1"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "electronic",
+      "year": 2017,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "modernist graphic design in flat cut-paper shapes",
+      "composition": "strict grid, large flat colour fields",
+      "abstract": true,
+      "subject": "a circuit trace at macro scale",
+      "palette": "ultramarine, silver, black, one acid highlight"
+    },
+    "prompt": "Album cover artwork, square format. A 2017 sleeve deliberately styled after 1955-1979. Medium: modernist graphic design in flat cut-paper shapes. Not a depiction — an abstract composition that only distantly evokes a circuit trace at macro scale. Palette: ultramarine, silver, black, one acid highlight. Composition: strict grid, large flat colour fields. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202017%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20modernist%20graphic%20design%20in%20flat%20cut-paper%20shapes.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20circuit%20trace%20at%20macro%20scale.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20strict%20grid%2C%20large%20flat%20colour%20fields.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

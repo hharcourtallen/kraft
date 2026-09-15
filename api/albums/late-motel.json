@@ -1,0 +1,46 @@
+{
+  "id": "alb_late-motel-the-assemb",
+  "slug": "late-motel",
+  "title": "Late Motel",
+  "year": 2010,
+  "type": "Album",
+  "subtitle": "2010 · Album",
+  "trackCount": 11,
+  "durationSec": 2354,
+  "durationLabel": "39 min",
+  "artist": {
+    "id": "art_the-assemblies",
+    "name": "The Assemblies",
+    "slug": "the-assemblies"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_bureau-live-at-the-roundhouse-the-asse-2010-0",
+    "trk_payphone-waltz-the-asse-2010-1",
+    "trk_provision-the-asse-2010-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2010,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "photographic composite with soft shadow layering, magazine retouching",
+      "composition": "subject cut out and floated over a flat field",
+      "abstract": false,
+      "subject": "a folding table and two chairs",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: photographic composite with soft shadow layering, magazine retouching. Subject: a folding table and two chairs. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: subject cut out and floated over a flat field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20photographic%20composite%20with%20soft%20shadow%20layering%2C%20magazine%20retouching.%20Subject%3A%20a%20folding%20table%20and%20two%20chairs.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20subject%20cut%20out%20and%20floated%20over%20a%20flat%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

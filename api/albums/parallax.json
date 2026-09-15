@@ -1,0 +1,49 @@
+{
+  "id": "alb_parallax-femi-and-t",
+  "slug": "parallax",
+  "title": "Parallax",
+  "year": 2011,
+  "type": "Album",
+  "subtitle": "2011 · Album",
+  "trackCount": 12,
+  "durationSec": 5167,
+  "durationLabel": "1 hr 26 min",
+  "artist": {
+    "id": "art_femi-and-the-observatories",
+    "name": "Femi & The Observatories",
+    "slug": "femi-and-the-observatories"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "afrobeat",
+    "funk"
+  ],
+  "tracks": [
+    "trk_another-meridian-femi-and-2011-0",
+    "trk_ninth-aphelion-femi-and-2011-1",
+    "trk_provision-femi-and-2011-2",
+    "trk_total-meridian-femi-and-2011-3",
+    "trk_municipal-bloc-femi-and-2011-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2011,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "glossy CGI render with ray-traced reflections and studio HDRI lighting",
+      "composition": "single hero object floating on a smooth gradient ground",
+      "abstract": false,
+      "subject": "a bold interlocking pattern",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: glossy CGI render with ray-traced reflections and studio HDRI lighting. Subject: a bold interlocking pattern. Palette: chrome yellow, deep green, vermilion, black. Composition: single hero object floating on a smooth gradient ground. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20glossy%20CGI%20render%20with%20ray-traced%20reflections%20and%20studio%20HDRI%20lighting.%20Subject%3A%20a%20bold%20interlocking%20pattern.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20single%20hero%20object%20floating%20on%20a%20smooth%20gradient%20ground.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

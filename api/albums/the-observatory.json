@@ -1,0 +1,49 @@
+{
+  "id": "alb_the-observatory-the-green-",
+  "slug": "the-observatory",
+  "title": "The Observatory",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 9,
+  "durationSec": 3654,
+  "durationLabel": "1 hr 1 min",
+  "artist": {
+    "id": "art_the-green-vines",
+    "name": "The Green Vines",
+    "slug": "the-green-vines"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "genres": [
+    "spiritual-jazz",
+    "jazz"
+  ],
+  "tracks": [
+    "trk_parallax-the-gree-2024-0",
+    "trk_outer-observatory-the-gree-2024-1",
+    "trk_two-hundred-fronds-the-gree-2024-2",
+    "trk_moss-waltz-the-gree-2024-3",
+    "trk_wet-greenhouse-the-gree-2024-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "spiritual-jazz",
+      "year": 2024,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "offset lithograph with visible halftone rosette and slight colour misregistration",
+      "composition": "bold flat shapes, wide margins, one dominant form",
+      "abstract": false,
+      "subject": "concentric hand-drawn rays",
+      "palette": "saffron, deep indigo, burnt orange, gold"
+    },
+    "prompt": "Album cover artwork, square format. A 2024 sleeve deliberately styled after 1955-1979. Medium: offset lithograph with visible halftone rosette and slight colour misregistration. Subject: concentric hand-drawn rays. Palette: saffron, deep indigo, burnt orange, gold. Composition: bold flat shapes, wide margins, one dominant form. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202024%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20offset%20lithograph%20with%20visible%20halftone%20rosette%20and%20slight%20colour%20misregistration.%20Subject%3A%20concentric%20hand-drawn%20rays.%20Palette%3A%20saffron%2C%20deep%20indigo%2C%20burnt%20orange%2C%20gold.%20Composition%3A%20bold%20flat%20shapes%2C%20wide%20margins%2C%20one%20dominant%20form.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

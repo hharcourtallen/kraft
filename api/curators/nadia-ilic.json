@@ -1,0 +1,55 @@
+{
+  "id": "cur_nadia-ilic",
+  "slug": "nadia-ilic",
+  "name": "Nadia Ilić",
+  "beat": [
+    "post-punk",
+    "punk",
+    "indie-rock"
+  ],
+  "beatLabel": "Post-Punk · Punk · Indie Rock",
+  "city": "Belgrade",
+  "geo": {
+    "placeId": "plc_belgrade",
+    "city": "Belgrade",
+    "country": "RS",
+    "lat": 44.79,
+    "lng": 20.46
+  },
+  "since": 2023,
+  "bio": "Fanzine editor turned curator. Sequences for tension, not for comfort.",
+  "kicker": "Curator · Belgrade · since 2023",
+  "listCount": 19,
+  "listIds": [],
+  "followers": 21300,
+  "followersLabel": "21K",
+  "follows": [
+    "cur_teo-marchand"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_string-theory",
+    "slug": "string-theory",
+    "title": "String Theory",
+    "curatorName": "Ingrid Halvorsen"
+  },
+  "notes": [],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/nadia-ilic.jpg",
+      "direction": {
+        "genre": "post-punk",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a person in a doorway, arms folded, faint smile",
+        "palette": "cold grey with one hard accent, two colours only"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a person in a doorway, arms folded, faint smile. Palette: cold grey with one hard accent, two colours only. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20person%20in%20a%20doorway%2C%20arms%20folded%2C%20faint%20smile.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

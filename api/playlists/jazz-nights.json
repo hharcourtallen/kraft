@@ -1,0 +1,62 @@
+{
+  "id": "pl_jazz-nights",
+  "slug": "jazz-nights",
+  "title": "Jazz Nights",
+  "description": "Small rooms, late sets, and the bar still open. Sequenced as one long night.",
+  "note": "Small rooms, late sets, the count-in left in. If you can hear the bassist breathe, it made the cut.",
+  "notePin": {
+    "trackId": "trk_minor-key",
+    "sec": 4,
+    "trackTitle": "Minor Key",
+    "label": "0:04",
+    "note": "Small rooms, late sets, the count-in left in. If you can hear the bassist breathe, it made the cut.",
+    "curatorName": "Marcus Pike",
+    "curatorImage": "/artwork/curator/marcus-pike.jpg"
+  },
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Marcus Pike",
+  "curator": {
+    "id": "cur_marcus-pike",
+    "name": "Marcus Pike",
+    "city": "Philadelphia"
+  },
+  "trackCount": 22,
+  "durationSec": 5280,
+  "durationLabel": "1 hr 28 min",
+  "metaLine": "22 tracks · 1 hr 28 min",
+  "libraryLine": "List · 22 songs",
+  "followers": 93860,
+  "followersLabel": "94K",
+  "updated": "2026-08-18",
+  "moods": [
+    "late-night"
+  ],
+  "genres": [
+    "jazz",
+    "spiritual-jazz"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 22,
+  "artwork": {
+    "image": "/artwork/playlist/jazz-nights.jpg",
+    "direction": {
+      "genre": "jazz",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "three offset rectangles",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: three offset rectangles. Palette: deep navy or oxblood with cream, one flat colour block. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20three%20offset%20rectangles.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "1 week ago"
+}

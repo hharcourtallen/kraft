@@ -1,0 +1,47 @@
+{
+  "id": "alb_orbit-and-aphelion-femi-and-t",
+  "slug": "orbit-and-aphelion",
+  "title": "Orbit & Aphelion",
+  "year": 2009,
+  "type": "EP",
+  "subtitle": "2009 · EP",
+  "trackCount": 4,
+  "durationSec": 1525,
+  "durationLabel": "25 min",
+  "artist": {
+    "id": "art_femi-and-the-observatories",
+    "name": "Femi & The Observatories",
+    "slug": "femi-and-the-observatories"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "afrobeat",
+    "funk"
+  ],
+  "tracks": [
+    "trk_municipal-depot-femi-and-2009-0",
+    "trk_new-assembly-femi-and-2009-1",
+    "trk_outer-equinox-femi-and-2009-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2009,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "desaturated minimal photograph, cool cast, lots of empty space",
+      "composition": "subject small and off-centre, vast negative space",
+      "abstract": false,
+      "subject": "a woven textile at macro scale",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: desaturated minimal photograph, cool cast, lots of empty space. Subject: a woven textile at macro scale. Palette: chrome yellow, deep green, vermilion, black. Composition: subject small and off-centre, vast negative space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20desaturated%20minimal%20photograph%2C%20cool%20cast%2C%20lots%20of%20empty%20space.%20Subject%3A%20a%20woven%20textile%20at%20macro%20scale.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20subject%20small%20and%20off-centre%2C%20vast%20negative%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

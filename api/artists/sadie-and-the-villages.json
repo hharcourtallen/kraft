@@ -1,0 +1,348 @@
+{
+  "id": "art_sadie-and-the-villages",
+  "slug": "sadie-and-the-villages",
+  "name": "Sadie & The Villages",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Nashville, TN",
+  "geo": {
+    "placeId": "plc_nashville",
+    "city": "Nashville",
+    "country": "US",
+    "lat": 36.16,
+    "lng": -86.78
+  },
+  "region": "us",
+  "genres": [
+    "americana"
+  ],
+  "primaryGenre": {
+    "slug": "americana",
+    "name": "Americana"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2823,
+  "monthlyListenersLabel": "2.8K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Americana · 2.8K listeners",
+  "verified": false,
+  "active": {
+    "from": 2020,
+    "to": null
+  },
+  "bio": "Nashville, TN band, working since 2020. Writes at dawn, because that is when the house is quiet.",
+  "discography": [
+    "alb_meadows-sadie-and-",
+    "alb_pastures-sadie-and-",
+    "alb_harvests-sadie-and-",
+    "alb_bloom-sadie-and-"
+  ],
+  "popularTrackIds": [
+    "trk_cairn-demo-sadie-an-2020-0",
+    "trk_almanac-sadie-an-2021-0",
+    "trk_half-a-strata-sadie-an-2021-1",
+    "trk_tectonics-sadie-an-2020-1",
+    "trk_barleyfield-blues-sadie-an-2022-0",
+    "trk_bedrock-blues-sadie-an-2022-2",
+    "trk_sediment-sadie-an-2022-1",
+    "trk_copper-cairn-sadie-an-2020-2",
+    "trk_slow-common-sadie-an-2025-0",
+    "trk_strata-blues-sadie-an-2025-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in their late twenties looking just past the camera. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician walking away down a wet street, back to camera. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_cairn-demo-sadie-an-2020-0",
+      "slug": "cairn-demo",
+      "title": "Cairn (Demo)",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "34,722"
+    },
+    {
+      "id": "trk_almanac-sadie-an-2021-0",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "4:36",
+      "durationSec": 276,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_harvests-sadie-and-",
+        "title": "Harvests",
+        "slug": "harvests",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "22,449"
+    },
+    {
+      "id": "trk_half-a-strata-sadie-an-2021-1",
+      "slug": "half-a-strata",
+      "title": "Half a Strata",
+      "duration": "4:27",
+      "durationSec": 267,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_harvests-sadie-and-",
+        "title": "Harvests",
+        "slug": "harvests",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "16,970"
+    },
+    {
+      "id": "trk_tectonics-sadie-an-2020-1",
+      "slug": "tectonics",
+      "title": "Tectonics",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "16,384"
+    },
+    {
+      "id": "trk_barleyfield-blues-sadie-an-2022-0",
+      "slug": "barleyfield-blues",
+      "title": "Barleyfield Blues",
+      "duration": "3:30",
+      "durationSec": 210,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_pastures-sadie-and-",
+        "title": "Pastures",
+        "slug": "pastures",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "14,346"
+    },
+    {
+      "id": "trk_bedrock-blues-sadie-an-2022-2",
+      "slug": "bedrock-blues",
+      "title": "Bedrock Blues",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_pastures-sadie-and-",
+        "title": "Pastures",
+        "slug": "pastures",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "13,937"
+    },
+    {
+      "id": "trk_sediment-sadie-an-2022-1",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "4:36",
+      "durationSec": 276,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_pastures-sadie-and-",
+        "title": "Pastures",
+        "slug": "pastures",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "8,059"
+    },
+    {
+      "id": "trk_copper-cairn-sadie-an-2020-2",
+      "slug": "copper-cairn",
+      "title": "Copper Cairn",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_bloom-sadie-and-",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "6,339"
+    },
+    {
+      "id": "trk_slow-common-sadie-an-2025-0",
+      "slug": "slow-common",
+      "title": "Slow Common",
+      "duration": "6:07",
+      "durationSec": 367,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_meadows-sadie-and-",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,979"
+    },
+    {
+      "id": "trk_strata-blues-sadie-an-2025-1",
+      "slug": "strata-blues",
+      "title": "Strata Blues",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_sadie-and-the-villages",
+        "name": "Sadie & The Villages",
+        "slug": "sadie-and-the-villages"
+      },
+      "album": {
+        "id": "alb_meadows-sadie-and-",
+        "title": "Meadows",
+        "slug": "meadows",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,708"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_meadows-sadie-and-",
+      "slug": "meadows",
+      "title": "Meadows",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_pastures-sadie-and-",
+      "slug": "pastures",
+      "title": "Pastures",
+      "subtitle": "2022 · Album",
+      "year": 2022,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_harvests-sadie-and-",
+      "slug": "harvests",
+      "title": "Harvests",
+      "subtitle": "2021 · Single",
+      "year": 2021,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_bloom-sadie-and-",
+      "slug": "bloom-sadie-and-the-villages",
+      "title": "Bloom",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Copper Cairn",
+      "position": 12,
+      "caption": "Copper Cairn is track 12"
+    }
+  ]
+}

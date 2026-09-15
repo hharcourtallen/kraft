@@ -1,0 +1,181 @@
+/*
+  Kraft design tokens.
+  Source: Paper file 01KVEA9ZH9NC4H1JMS4CAP1VCP, `get_tokens format:"css"`, 2026-09-04.
+
+  Two axes, exactly as on the canvas:
+    - THEME picks primitive values   → [data-theme="plum" | "graphite"]
+    - MODE picks which step a role uses → [data-mode="dark" | "light"]
+  Components only ever read the semantic roles (--color-bg, --color-text, …).
+  They know neither the theme nor the mode.
+*/
+
+/* ---------- Theme: primitives (23 values) ---------- */
+
+:root,
+[data-theme='plum'] {
+  /* neutral · mist, hue 323 */
+  --color-neutral-0: #fafafa;
+  --color-neutral-50: oklch(98.9% 0.003 323);
+  --color-neutral-100: oklch(96.8% 0.004 323);
+  --color-neutral-200: oklch(89.5% 0.006 323);
+  --color-neutral-300: oklch(85% 0.009 323);
+  --color-neutral-400: oklch(71.1% 0.019 323);
+  --color-neutral-500: oklch(59.5% 0.022 323);
+  --color-neutral-600: oklch(48% 0.024 323);
+  --color-neutral-700: oklch(37.2% 0.025 323);
+  --color-neutral-800: oklch(24% 0.022 323);
+  --color-neutral-900: oklch(17.5% 0.02 323);
+  --color-neutral-950: oklch(12.8% 0.01 323);
+  /* accent · slate, hue 257.5 */
+  --color-accent-200: oklch(88% 0.045 257.5);
+  --color-accent-300: oklch(81% 0.063 257.5);
+  --color-accent-400: oklch(71% 0.085 257.5);
+  --color-accent-500: oklch(60% 0.105 257.5);
+  --color-accent-600: oklch(50% 0.115 257.5);
+  --color-accent-700: oklch(41% 0.1 257.5);
+  --color-accent-subtle-dark: oklch(81% 0.063 257.5 / 15%);
+  --color-accent-subtle-light: oklch(60% 0.105 257.5 / 12%);
+  /* signal · amber, hue 75 — stays amber in every theme */
+  --color-signal-400: oklch(84.5% 0.115 75);
+  --color-signal-500: oklch(78% 0.14 75);
+  --color-signal-600: oklch(70% 0.14 75);
+  --color-signal-700: oklch(61% 0.125 75);
+  --color-signal-core: #fff4e3;
+  --color-accent-core: oklch(97% 0.03 257.5);
+}
+
+[data-theme='graphite'] {
+  /* neutral · the Control Surface greys, steel 230 */
+  --color-neutral-0: #f6f7f6;
+  --color-neutral-50: #f2f3f1;
+  --color-neutral-100: #e6e7e5;
+  --color-neutral-200: #dadcd8;
+  --color-neutral-300: #c9cbc7;
+  --color-neutral-400: #8a8d8b;
+  --color-neutral-500: #787b78;
+  --color-neutral-600: #6e706c;
+  --color-neutral-700: #3f4343;
+  --color-neutral-800: #242728;
+  --color-neutral-900: #17191a;
+  --color-neutral-950: #0c0d0e;
+  --color-accent-200: #c4dce8;
+  --color-accent-300: #a4c7d9;
+  --color-accent-400: #7ba9c0;
+  --color-accent-500: #4989a7;
+  --color-accent-600: #1b6c8c;
+  --color-accent-700: #04526d;
+  --color-accent-subtle-dark: rgb(164 199 217 / 15%);
+  --color-accent-subtle-light: rgb(27 108 140 / 12%);
+  --color-signal-400: #f8c173;
+  --color-signal-500: #eba941;
+  --color-signal-600: #d0901e;
+  --color-signal-700: #ae760f;
+  --color-accent-core: #eef6fa;
+}
+
+/* ---------- Mode: semantic roles (18) ---------- */
+
+:root,
+[data-mode='dark'] {
+  --color-bg: var(--color-neutral-950);
+  --color-surface: var(--color-neutral-900);
+  --color-well: var(--color-neutral-800);
+  --color-bg-inverse: var(--color-neutral-0);
+  --color-hover: oklch(100% 0 0 / 6%);
+  --color-scrim: oklch(0% 0 0 / 40%);
+  --color-text: var(--color-neutral-0);
+  --color-text-muted: var(--color-neutral-400);
+  --color-text-subtle: var(--color-neutral-500);
+  --color-text-inverse: var(--color-neutral-950);
+  --color-line: var(--color-neutral-800);
+  --color-line-subtle: var(--color-neutral-900);
+  --color-line-strong: var(--color-neutral-700);
+  --color-accent: var(--color-accent-300);
+  --color-accent-subtle: var(--color-accent-subtle-dark);
+  --color-signal: var(--color-signal-400);
+  /* LED cores only exist in dark mode; light mode collapses them to flat ink */
+  --color-led-accent: var(--color-accent-core);
+  --color-led-signal: var(--color-signal-core);
+  --color-led-glow: 0 0 6px 1px;
+  /* the volume track keeps two primitive steps on purpose (see Foundations) */
+  --color-track: var(--color-neutral-700);
+  --color-track-fill: var(--color-neutral-400);
+  color-scheme: dark;
+}
+
+[data-mode='light'] {
+  --color-bg: var(--color-neutral-50);
+  --color-surface: var(--color-neutral-100);
+  --color-well: var(--color-neutral-200);
+  --color-bg-inverse: var(--color-neutral-900);
+  --color-hover: oklch(0% 0 0 / 5%);
+  --color-scrim: oklch(0% 0 0 / 40%);
+  --color-text: var(--color-neutral-900);
+  --color-text-muted: var(--color-neutral-600);
+  --color-text-subtle: var(--color-neutral-500);
+  --color-text-inverse: var(--color-neutral-0);
+  --color-line: var(--color-neutral-200);
+  --color-line-subtle: var(--color-neutral-100);
+  --color-line-strong: var(--color-neutral-300);
+  --color-accent: var(--color-accent-600);
+  --color-accent-subtle: var(--color-accent-subtle-light);
+  --color-signal: var(--color-signal-600);
+  --color-led-accent: var(--color-accent-600);
+  --color-led-signal: var(--color-signal-600);
+  --color-led-glow: 0 0 0 0;
+  --color-track: var(--color-neutral-300);
+  --color-track-fill: var(--color-neutral-600);
+  color-scheme: light;
+}
+
+/* ---------- Type, space, radius (theme- and mode-independent) ---------- */
+
+:root {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-display: 'Instrument Sans', 'Inter', system-ui, sans-serif;
+
+  --text-micro: 11px;  --leading-micro: 14px;
+  --text-xs: 12px;     --leading-xs: 16px;
+  --text-sm: 13px;     --leading-sm: 18px;
+  --text-base: 14px;   --leading-base: 20px;
+  --text-md: 16px;     --leading-md: 26px;
+  --text-lg: 18px;     --leading-lg: 24px;
+  --text-xl: 24px;     --leading-xl: 30px;
+  --text-2xl: 32px;    --leading-2xl: 38px;
+  --text-3xl: 40px;    --leading-3xl: 48px;
+  --text-4xl: 52px;    --leading-4xl: 56px;
+
+  --font-weight-normal: 400;
+  --font-weight-medium: 500;
+  --font-weight-semibold: 600;
+  --font-weight-bold: 700;
+  --font-weight-display-medium: 600;
+  --font-weight-display-semibold: 700;
+
+  --tracking-tight: -0.03em;
+  --tracking-snug: -0.02em;
+  --tracking-normal: -0.01em;
+
+  --spacing-0-5: 2px;
+  --spacing-1: 4px;
+  --spacing-2: 8px;
+  --spacing-3: 12px;
+  --spacing-4: 16px;
+  --spacing-5: 20px;
+  --spacing-6: 24px;
+  --spacing-8: 32px;
+  --spacing-10: 40px;
+  --spacing-11: 44px;
+  --spacing-12: 48px;
+  --spacing-16: 64px;
+  --spacing-20: 80px;
+  --spacing-24: 96px;
+
+  --radius-sm: 4px;
+  --radius-md: 6px;
+  --radius-lg: 12px;
+  --radius-full: 9999px;
+
+  --breakpoint-lg: 1440px;
+  --container-marketing: 1200px;
+}

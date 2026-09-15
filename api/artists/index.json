@@ -1,0 +1,4071 @@
+{
+  "artists": [
+    {
+      "id": "art_dusk-ritual",
+      "slug": "dusk-ritual",
+      "name": "Dusk Ritual",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Leeds",
+      "geo": {
+        "placeId": "plc_leeds",
+        "city": "Leeds",
+        "country": "GB",
+        "lat": 53.8,
+        "lng": -1.55
+      },
+      "region": "us-uk",
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "primaryGenre": {
+        "slug": "rock",
+        "name": "Rock"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "tier": "flagship",
+      "monthlyListeners": 384000,
+      "monthlyListenersLabel": "384K monthly listeners",
+      "followers": 161000,
+      "followersLabel": "161K",
+      "shelfCaption": "Rock · 384K listeners",
+      "verified": true,
+      "active": {
+        "from": 2014,
+        "to": null
+      },
+      "discography": [
+        "alb_brass-and-bones"
+      ],
+      "popularTrackIds": [
+        "trk_bone-and-brass"
+      ],
+      "nameRisk": null,
+      "designFileValue": {
+        "monthlyListeners": 5100000
+      },
+      "image": null
+    },
+    {
+      "id": "art_felix-drift",
+      "slug": "felix-drift",
+      "name": "Felix Drift",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Missoula, MT",
+      "geo": {
+        "placeId": "plc_missoula",
+        "city": "Missoula",
+        "country": "US",
+        "lat": 46.87,
+        "lng": -113.99
+      },
+      "region": "us-uk",
+      "genres": [
+        "rock",
+        "americana"
+      ],
+      "primaryGenre": {
+        "slug": "rock",
+        "name": "Rock"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "flagship",
+      "monthlyListeners": 341000,
+      "monthlyListenersLabel": "341K monthly listeners",
+      "followers": 138000,
+      "followersLabel": "138K",
+      "shelfCaption": "Rock · 341K listeners",
+      "verified": true,
+      "active": {
+        "from": 2012,
+        "to": null
+      },
+      "discography": [
+        "alb_wide-open"
+      ],
+      "popularTrackIds": [
+        "trk_open-fields"
+      ],
+      "nameRisk": null,
+      "designFileValue": {
+        "monthlyListeners": 4800000
+      },
+      "image": null
+    },
+    {
+      "id": "art_jack-hatfield",
+      "slug": "jack-hatfield",
+      "name": "Jack Hatfield",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Whitby",
+      "geo": {
+        "placeId": "plc_whitby",
+        "city": "Whitby",
+        "country": "GB",
+        "lat": 54.49,
+        "lng": -0.61
+      },
+      "region": "us-uk",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "flagship",
+      "monthlyListeners": 268000,
+      "monthlyListenersLabel": "268K monthly listeners",
+      "followers": 109000,
+      "followersLabel": "109K",
+      "shelfCaption": "Folk · 268K listeners",
+      "verified": true,
+      "active": {
+        "from": 2015,
+        "to": null
+      },
+      "discography": [
+        "alb_bloom"
+      ],
+      "popularTrackIds": [
+        "trk_harbour-lights"
+      ],
+      "nameRisk": null,
+      "designFileValue": {
+        "monthlyListeners": 4200000
+      },
+      "image": null
+    },
+    {
+      "id": "art_zaya-blue",
+      "slug": "zaya-blue",
+      "name": "Zaya Blue",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Half Moon Bay, CA",
+      "geo": {
+        "placeId": "plc_half-moon-bay",
+        "city": "Half Moon Bay",
+        "country": "US",
+        "lat": 37.46,
+        "lng": -122.43
+      },
+      "region": "us-uk",
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "primaryGenre": {
+        "slug": "dream-pop",
+        "name": "Dream Pop"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "headline",
+      "monthlyListeners": 231000,
+      "monthlyListenersLabel": "231K monthly listeners",
+      "followers": 94000,
+      "followersLabel": "94K",
+      "shelfCaption": "Dream Pop · 231K listeners",
+      "verified": true,
+      "active": {
+        "from": 2018,
+        "to": null
+      },
+      "discography": [
+        "alb_flora",
+        "alb_night-bloom",
+        "alb_static-hearts",
+        "alb_paper-lanterns",
+        "alb_blue-hour"
+      ],
+      "popularTrackIds": [
+        "trk_golden-thread",
+        "trk_night-bloom",
+        "trk_paper-lanterns",
+        "trk_static-hearts",
+        "trk_blue-hour-motel"
+      ],
+      "nameRisk": null,
+      "designFileValue": {
+        "monthlyListeners": 3800000
+      },
+      "image": "/artwork/artist/zaya-blue-portrait.jpg"
+    },
+    {
+      "id": "art_elara-cove",
+      "slug": "elara-cove",
+      "name": "Elara Cove",
+      "formation": "solo",
+      "country": "IE",
+      "hometown": "Sligo",
+      "geo": {
+        "placeId": "plc_sligo",
+        "city": "Sligo",
+        "country": "IE",
+        "lat": 54.27,
+        "lng": -8.47
+      },
+      "region": "us-uk",
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "headline",
+      "monthlyListeners": 164000,
+      "monthlyListenersLabel": "164K monthly listeners",
+      "followers": 67000,
+      "followersLabel": "67K",
+      "shelfCaption": "Indie Rock · 164K listeners",
+      "verified": true,
+      "active": {
+        "from": 2017,
+        "to": null
+      },
+      "discography": [
+        "alb_quiet-village"
+      ],
+      "popularTrackIds": [
+        "trk_cassette-weather",
+        "trk_deep-current"
+      ],
+      "nameRisk": null,
+      "designFileValue": {
+        "monthlyListeners": 2900000
+      },
+      "image": null
+    },
+    {
+      "id": "art_milo-kestrel",
+      "slug": "milo-kestrel",
+      "name": "Milo Kestrel",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Chicago, IL",
+      "geo": {
+        "placeId": "plc_chicago",
+        "city": "Chicago",
+        "country": "US",
+        "lat": 41.88,
+        "lng": -87.63
+      },
+      "region": "us-uk",
+      "genres": [
+        "jazz"
+      ],
+      "primaryGenre": {
+        "slug": "jazz",
+        "name": "Jazz"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "tier": "headline",
+      "monthlyListeners": 112000,
+      "monthlyListenersLabel": "112K monthly listeners",
+      "followers": 44000,
+      "followersLabel": "44K",
+      "shelfCaption": "Jazz · 112K listeners",
+      "verified": true,
+      "active": {
+        "from": 2011,
+        "to": null
+      },
+      "discography": [
+        "alb_nocturne"
+      ],
+      "popularTrackIds": [
+        "trk_minor-key"
+      ],
+      "nameRisk": null,
+      "designFileValue": {
+        "monthlyListeners": 2100000
+      },
+      "image": null
+    },
+    {
+      "id": "art_keane-sol",
+      "slug": "keane-sol",
+      "name": "Keane Sol",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Hebden Bridge",
+      "geo": {
+        "placeId": "plc_hebden-bridge",
+        "city": "Hebden Bridge",
+        "country": "GB",
+        "lat": 53.74,
+        "lng": -2.01
+      },
+      "region": "us-uk",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "established",
+      "monthlyListeners": 58000,
+      "monthlyListenersLabel": "58K monthly listeners",
+      "followers": 21000,
+      "followersLabel": "21K",
+      "shelfCaption": "Folk · 58K listeners",
+      "verified": true,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_overgrown"
+      ],
+      "popularTrackIds": [],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_petal-and-dew",
+      "slug": "petal-and-dew",
+      "name": "Petal & Dew",
+      "formation": "duo",
+      "country": "GB",
+      "hometown": "Bristol",
+      "geo": {
+        "placeId": "plc_bristol",
+        "city": "Bristol",
+        "country": "GB",
+        "lat": 51.45,
+        "lng": -2.59
+      },
+      "region": "us-uk",
+      "genres": [
+        "folk",
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "established",
+      "monthlyListeners": 41000,
+      "monthlyListenersLabel": "41K monthly listeners",
+      "followers": 15000,
+      "followersLabel": "15K",
+      "shelfCaption": "Folk · 41K listeners",
+      "verified": false,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "discography": [
+        "alb_petal-and-dew"
+      ],
+      "popularTrackIds": [
+        "trk_wax-and-wane"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-worn-grooves",
+      "slug": "the-worn-grooves",
+      "name": "The Worn Grooves",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Athens, GA",
+      "geo": {
+        "placeId": "plc_athens-ga",
+        "city": "Athens",
+        "country": "US",
+        "lat": 33.96,
+        "lng": -83.38
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "americana"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "established",
+      "monthlyListeners": 47000,
+      "monthlyListenersLabel": "47K monthly listeners",
+      "followers": 18000,
+      "followersLabel": "18K",
+      "shelfCaption": "Analog Revival · 47K listeners",
+      "verified": false,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_sunday-spins"
+      ],
+      "popularTrackIds": [
+        "trk_dust-on-the-needle"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_analog-hearts",
+      "slug": "analog-hearts",
+      "name": "Analog Hearts",
+      "formation": "duo",
+      "country": "US",
+      "hometown": "Asheville, NC",
+      "geo": {
+        "placeId": "plc_asheville",
+        "city": "Asheville",
+        "country": "US",
+        "lat": 35.6,
+        "lng": -82.55
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "downtempo"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "working",
+      "monthlyListeners": 14200,
+      "monthlyListenersLabel": "14K monthly listeners",
+      "followers": 5100,
+      "followersLabel": "5.1K",
+      "shelfCaption": "Analog Revival · 14K listeners",
+      "verified": false,
+      "active": {
+        "from": 2018,
+        "to": null
+      },
+      "discography": [
+        "alb_pressed-memories"
+      ],
+      "popularTrackIds": [
+        "trk_crackle-and-hum"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_oliver-felt",
+      "slug": "oliver-felt",
+      "name": "Oliver Felt",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Norwich",
+      "geo": {
+        "placeId": "plc_norwich",
+        "city": "Norwich",
+        "country": "GB",
+        "lat": 52.63,
+        "lng": 1.3
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 9800,
+      "monthlyListenersLabel": "9.8K monthly listeners",
+      "followers": 3400,
+      "followersLabel": "3.4K",
+      "shelfCaption": "Analog Revival · 9.8K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_kitchen-window-light"
+      ],
+      "popularTrackIds": [
+        "trk_breakfast-in-mono"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_spinning-room",
+      "slug": "spinning-room",
+      "name": "Spinning Room",
+      "formation": "band",
+      "country": "CA",
+      "hometown": "Montréal",
+      "geo": {
+        "placeId": "plc_montreal",
+        "city": "Montréal",
+        "country": "CA",
+        "lat": 45.5,
+        "lng": -73.57
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "working",
+      "monthlyListeners": 11600,
+      "monthlyListenersLabel": "12K monthly listeners",
+      "followers": 4100,
+      "followersLabel": "4.1K",
+      "shelfCaption": "Analog Revival · 12K listeners",
+      "verified": false,
+      "active": {
+        "from": 2017,
+        "to": null
+      },
+      "discography": [
+        "alb_wax-poetic"
+      ],
+      "popularTrackIds": [
+        "trk_turntable-daydream"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_second-hand-sound",
+      "slug": "second-hand-sound",
+      "name": "Second Hand Sound",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Portland, OR",
+      "geo": {
+        "placeId": "plc_portland",
+        "city": "Portland",
+        "country": "US",
+        "lat": 45.52,
+        "lng": -122.68
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "working",
+      "monthlyListeners": 7900,
+      "monthlyListenersLabel": "7.9K monthly listeners",
+      "followers": 2600,
+      "followersLabel": "2.6K",
+      "shelfCaption": "Analog Revival · 7.9K listeners",
+      "verified": false,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "discography": [
+        "alb_secondhand-gold"
+      ],
+      "popularTrackIds": [
+        "trk_paper-sleeves"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_margot-and-the-spindles",
+      "slug": "margot-and-the-spindles",
+      "name": "Margot & The Spindles",
+      "formation": "band",
+      "country": "FR",
+      "hometown": "Lyon",
+      "geo": {
+        "placeId": "plc_lyon",
+        "city": "Lyon",
+        "country": "FR",
+        "lat": 45.76,
+        "lng": 4.84
+      },
+      "region": "france",
+      "genres": [
+        "analog-revival",
+        "folk"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 6400,
+      "monthlyListenersLabel": "6.4K monthly listeners",
+      "followers": 2100,
+      "followersLabel": "2.1K",
+      "shelfCaption": "Analog Revival · 6.4K listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_thrift-store-finds"
+      ],
+      "popularTrackIds": [
+        "trk_worn-edges"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_hiss-and-warmth",
+      "slug": "hiss-and-warmth",
+      "name": "Hiss & Warmth",
+      "formation": "duo",
+      "country": "GB",
+      "hometown": "Sheffield",
+      "geo": {
+        "placeId": "plc_sheffield",
+        "city": "Sheffield",
+        "country": "GB",
+        "lat": 53.38,
+        "lng": -1.47
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "ambient"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "working",
+      "monthlyListeners": 5200,
+      "monthlyListenersLabel": "5.2K monthly listeners",
+      "followers": 1700,
+      "followersLabel": "1.7K",
+      "shelfCaption": "Analog Revival · 5.2K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_analog-sundays"
+      ],
+      "popularTrackIds": [
+        "trk_static-lullaby"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_shellac-jones",
+      "slug": "shellac-jones",
+      "name": "Shellac Jones",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Memphis, TN",
+      "geo": {
+        "placeId": "plc_memphis",
+        "city": "Memphis",
+        "country": "US",
+        "lat": 35.15,
+        "lng": -90.05
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "soul"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2900,
+      "monthlyListenersLabel": "2.9K monthly listeners",
+      "followers": 940,
+      "followersLabel": "940",
+      "shelfCaption": "Analog Revival · 2.9K listeners",
+      "verified": false,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "discography": [
+        "alb_slow-rotation"
+      ],
+      "popularTrackIds": [
+        "trk_45-rpm-heart"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-dusty-crates",
+      "slug": "the-dusty-crates",
+      "name": "The Dusty Crates",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "geo": {
+        "placeId": "plc_detroit",
+        "city": "Detroit",
+        "country": "US",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "funk"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2100,
+      "monthlyListenersLabel": "2.1K monthly listeners",
+      "followers": 680,
+      "followersLabel": "680",
+      "shelfCaption": "Analog Revival · 2.1K listeners",
+      "verified": false,
+      "active": {
+        "from": 2022,
+        "to": null
+      },
+      "discography": [
+        "alb_basement-sessions"
+      ],
+      "popularTrackIds": [
+        "trk_faded-label"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_lead-in-groove",
+      "slug": "lead-in-groove",
+      "name": "Lead-In Groove",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Brooklyn, NY",
+      "geo": {
+        "placeId": "plc_brooklyn",
+        "city": "Brooklyn",
+        "country": "US",
+        "lat": 40.68,
+        "lng": -73.94
+      },
+      "region": "us-uk",
+      "genres": [
+        "analog-revival",
+        "downtempo"
+      ],
+      "primaryGenre": {
+        "slug": "analog-revival",
+        "name": "Analog Revival"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 1600,
+      "monthlyListenersLabel": "1.6K monthly listeners",
+      "followers": 520,
+      "followersLabel": "520",
+      "shelfCaption": "Analog Revival · 1.6K listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_side-b-forever"
+      ],
+      "popularTrackIds": [
+        "trk_last-track-home"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_rootwork-and-bloom",
+      "slug": "rootwork-and-bloom",
+      "name": "Rootwork & Bloom",
+      "formation": "duo",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "geo": {
+        "placeId": "plc_detroit",
+        "city": "Detroit",
+        "country": "US",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      "region": "us",
+      "genres": [
+        "electronic"
+      ],
+      "primaryGenre": {
+        "slug": "electronic",
+        "name": "Electronic"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "tier": "tail",
+      "monthlyListeners": 812,
+      "monthlyListenersLabel": "812 monthly listeners",
+      "followers": 411,
+      "followersLabel": "411",
+      "shelfCaption": "Electronic · 812 listeners",
+      "verified": false,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_neon-underpass-rootwork-a",
+        "alb_commons-rootwork-a",
+        "alb_midnight-hour-rootwork-a",
+        "alb_village-and-alder-rootwork-a"
+      ],
+      "popularTrackIds": [
+        "trk_slow-meadow-rootwork-2017-0",
+        "trk_long-barleyfield-rootwork-2019-1",
+        "trk_small-ballroom-rootwork-2017-1",
+        "trk_soft-meadow-rootwork-2019-0",
+        "trk_rootwork-rootwork-2023-0",
+        "trk_barleyfield-demo-rootwork-2023-1",
+        "trk_hedgerow-song-rootwork-2019-2",
+        "trk_fallow-hedgerow-rootwork-2019-4",
+        "trk_two-hundred-alders-rootwork-2023-2",
+        "trk_husbandry-rootwork-2019-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_rust-strata",
+      "slug": "rust-strata",
+      "name": "Rust Strata",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "geo": {
+        "placeId": "plc_tucson",
+        "city": "Tucson",
+        "country": "US",
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "region": "us",
+      "genres": [
+        "americana"
+      ],
+      "primaryGenre": {
+        "slug": "americana",
+        "name": "Americana"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "tail",
+      "monthlyListeners": 539,
+      "monthlyListenersLabel": "539 monthly listeners",
+      "followers": 222,
+      "followersLabel": "222",
+      "shelfCaption": "Americana · 539 listeners",
+      "verified": true,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_basalt-kiln-rust-strat",
+        "alb_quiet-bloom-rust-strat",
+        "alb_tectonics-rust-strat"
+      ],
+      "popularTrackIds": [
+        "trk_long-hedgerow-rust-str-2020-0",
+        "trk_quiet-fen-rust-str-2020-2",
+        "trk_long-village-rust-str-2022-0",
+        "trk_fen-hymn-rust-str-2022-1",
+        "trk_cairn-theme-rust-str-2020-1",
+        "trk_tectonics-rust-str-2023-0",
+        "trk_tectonics-rust-str-2023-1",
+        "trk_seam-demo-rust-str-2020-3",
+        "trk_bright-common-rust-str-2023-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_nell-and-the-coronas",
+      "slug": "nell-and-the-coronas",
+      "name": "Nell & The Coronas",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Bristol",
+      "geo": {
+        "placeId": "plc_bristol",
+        "city": "Bristol",
+        "country": "GB",
+        "lat": 51.45,
+        "lng": -2.59
+      },
+      "region": "uk",
+      "genres": [
+        "shoegaze",
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "shoegaze",
+        "name": "Shoegaze"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 923,
+      "monthlyListenersLabel": "923 monthly listeners",
+      "followers": 419,
+      "followersLabel": "419",
+      "shelfCaption": "Shoegaze · 923 listeners",
+      "verified": true,
+      "active": {
+        "from": 2024,
+        "to": null
+      },
+      "discography": [
+        "alb_creeping-conservatory-nell-and-t",
+        "alb_studies-in-vines-nell-and-t",
+        "alb_ninth-aphelion-nell-and-t"
+      ],
+      "popularTrackIds": [
+        "trk_fern-dew-nell-and-2024-1",
+        "trk_green-frond-nell-and-2024-0",
+        "trk_orbit-song-nell-and-2024-2",
+        "trk_half-a-meridian-nell-and-2025-0",
+        "trk_distant-transit-nell-and-2025-1",
+        "trk_ascension-nell-and-2025-2",
+        "trk_nightblooming-herbarium-nell-and-2024-3",
+        "trk_ascension-nell-and-2025-3",
+        "trk_distant-aphelion-nell-and-2026-0",
+        "trk_outer-equinox-nell-and-2024-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_bridie-sinclair",
+      "slug": "bridie-sinclair",
+      "name": "Bridie Sinclair",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Cardiff",
+      "geo": {
+        "placeId": "plc_cardiff",
+        "city": "Cardiff",
+        "country": "GB",
+        "lat": 51.48,
+        "lng": -3.18
+      },
+      "region": "uk",
+      "genres": [
+        "rnb"
+      ],
+      "primaryGenre": {
+        "slug": "rnb",
+        "name": "R&B"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "tier": "established",
+      "monthlyListeners": 30180,
+      "monthlyListenersLabel": "30K monthly listeners",
+      "followers": 11472,
+      "followersLabel": "11K",
+      "shelfCaption": "R&B · 30K listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_wet-conservatory-bridie-sin",
+        "alb_rooftop-and-underpass-bridie-sin"
+      ],
+      "popularTrackIds": [
+        "trk_velvet-ferry-bridie-s-2021-0",
+        "trk_last-underpass-bridie-s-2021-1",
+        "trk_two-hundred-marquees-bridie-s-2021-2",
+        "trk_creeping-pollen-bridie-s-2023-1",
+        "trk_herbarium-lullaby-bridie-s-2023-0",
+        "trk_flora-bridie-s-2023-2",
+        "trk_wet-pollen-bridie-s-2023-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_delia-hollis",
+      "slug": "delia-hollis",
+      "name": "Delia Hollis",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Providence, RI",
+      "geo": {
+        "placeId": "plc_providence",
+        "city": "Providence",
+        "country": "US",
+        "lat": 41.82,
+        "lng": -71.41
+      },
+      "region": "us",
+      "genres": [
+        "techno",
+        "electronic"
+      ],
+      "primaryGenre": {
+        "slug": "techno",
+        "name": "Techno"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "tier": "tail",
+      "monthlyListeners": 774,
+      "monthlyListenersLabel": "774 monthly listeners",
+      "followers": 362,
+      "followersLabel": "362",
+      "shelfCaption": "Techno · 774 listeners",
+      "verified": false,
+      "active": {
+        "from": 2022,
+        "to": 2024
+      },
+      "discography": [
+        "alb_oxidation-delia-holl",
+        "alb_municipal-census-delia-holl",
+        "alb_the-bloc-delia-holl"
+      ],
+      "popularTrackIds": [
+        "trk_sediment-delia-ho-2022-1",
+        "trk_precinct-elegy-delia-ho-2022-0",
+        "trk_infrastructure-delia-ho-2022-2",
+        "trk_oxidation-delia-ho-2023-1",
+        "trk_census-delia-ho-2023-0",
+        "trk_erosion-delia-ho-2024-0",
+        "trk_rust-strata-delia-ho-2024-1",
+        "trk_infrastructure-delia-ho-2023-2",
+        "trk_zoning-delia-ho-2023-4",
+        "trk_strata-song-delia-ho-2023-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-neon-underpasses",
+      "slug": "the-neon-underpasses",
+      "name": "The Neon Underpasses",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Leeds",
+      "geo": {
+        "placeId": "plc_leeds",
+        "city": "Leeds",
+        "country": "GB",
+        "lat": 53.8,
+        "lng": -1.55
+      },
+      "region": "uk",
+      "genres": [
+        "rock",
+        "post-punk"
+      ],
+      "primaryGenre": {
+        "slug": "rock",
+        "name": "Rock"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "established",
+      "monthlyListeners": 19223,
+      "monthlyListenersLabel": "19K monthly listeners",
+      "followers": 9514,
+      "followersLabel": "9.5K",
+      "shelfCaption": "Rock · 19K listeners",
+      "verified": false,
+      "active": {
+        "from": 2006,
+        "to": null
+      },
+      "discography": [
+        "alb_the-ballroom-the-neon-u",
+        "alb_the-payphone-the-neon-u",
+        "alb_fieldwork-the-neon-u-2",
+        "alb_fieldwork-the-neon-u",
+        "alb_alders-the-neon-u",
+        "alb_bramble-and-fen-the-neon-u"
+      ],
+      "popularTrackIds": [
+        "trk_small-ballroom-the-neon-2006-0",
+        "trk_low-pasture-the-neon-2006-2",
+        "trk_velvet-motel-the-neon-2007-1",
+        "trk_long-fen-the-neon-2007-0",
+        "trk_hedgerow-blues-the-neon-2006-1",
+        "trk_almanac-the-neon-2008-1",
+        "trk_quiet-orchard-the-neon-2008-0",
+        "trk_hour-elegy-the-neon-2014-0",
+        "trk_two-hundred-commons-the-neon-2017-0",
+        "trk_late-marquee-the-neon-2007-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_blue-ferry",
+      "slug": "blue-ferry",
+      "name": "Blue Ferry",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Minneapolis, MN",
+      "geo": {
+        "placeId": "plc_minneapolis",
+        "city": "Minneapolis",
+        "country": "US",
+        "lat": 44.98,
+        "lng": -93.27
+      },
+      "region": "us",
+      "genres": [
+        "dream-pop",
+        "ambient"
+      ],
+      "primaryGenre": {
+        "slug": "dream-pop",
+        "name": "Dream Pop"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "tail",
+      "monthlyListeners": 214,
+      "monthlyListenersLabel": "214 monthly listeners",
+      "followers": 90,
+      "followersLabel": "90",
+      "shelfCaption": "Dream Pop · 214 listeners",
+      "verified": false,
+      "active": {
+        "from": 2022,
+        "to": 2025
+      },
+      "discography": [
+        "alb_taxis-blue-ferry",
+        "alb_velvet-payphone-blue-ferry"
+      ],
+      "popularTrackIds": [
+        "trk_blue-taxi-blue-fer-2022-1",
+        "trk_curfew-blue-fer-2022-0",
+        "trk_small-marquee-blue-fer-2022-2",
+        "trk_dark-motel-blue-fer-2024-0",
+        "trk_hour-lullaby-blue-fer-2024-2",
+        "trk_another-boulevard-blue-fer-2024-1",
+        "trk_wet-dew-blue-fer-2024-3",
+        "trk_midnight-payphone-blue-fer-2024-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_lodestar",
+      "slug": "lodestar",
+      "name": "Lodestar",
+      "formation": "solo",
+      "country": "FR",
+      "hometown": "Toulouse",
+      "geo": {
+        "placeId": "plc_toulouse",
+        "city": "Toulouse",
+        "country": "FR",
+        "lat": 43.6,
+        "lng": 1.44
+      },
+      "region": "france",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "tail",
+      "monthlyListeners": 471,
+      "monthlyListenersLabel": "471 monthly listeners",
+      "followers": 156,
+      "followersLabel": "156",
+      "shelfCaption": "Folk · 471 listeners",
+      "verified": false,
+      "active": {
+        "from": 2024,
+        "to": null
+      },
+      "discography": [
+        "alb_bloom-lodestar"
+      ],
+      "popularTrackIds": [
+        "trk_anchorage-instrumental-lodestar-2024-2",
+        "trk_trawler-march-lodestar-2024-0",
+        "trk_ballast-lodestar-2024-1",
+        "trk_overgrowth-lodestar-2024-3",
+        "trk_bloom-lodestar-2024-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-velvet-ferries",
+      "slug": "the-velvet-ferries",
+      "name": "The Velvet Ferries",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Glasgow",
+      "geo": {
+        "placeId": "plc_glasgow",
+        "city": "Glasgow",
+        "country": "GB",
+        "lat": 55.86,
+        "lng": -4.25
+      },
+      "region": "uk",
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "primaryGenre": {
+        "slug": "jazz",
+        "name": "Jazz"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 6133,
+      "monthlyListenersLabel": "6.1K monthly listeners",
+      "followers": 3388,
+      "followersLabel": "3.4K",
+      "shelfCaption": "Jazz · 6.1K listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_underpasses-the-velvet",
+        "alb_infrastructure-the-velvet",
+        "alb_the-marquee-the-velvet"
+      ],
+      "popularTrackIds": [
+        "trk_afterhours-the-velv-2023-0",
+        "trk_small-rooftop-the-velv-2021-3",
+        "trk_late-marquee-the-velv-2023-1",
+        "trk_nocturne-the-velv-2021-1",
+        "trk_small-underpass-the-velv-2021-2",
+        "trk_census-the-velv-2021-0",
+        "trk_provision-the-velv-2021-4",
+        "trk_half-a-marquee-the-velv-2024-0",
+        "trk_assembly-live-at-the-roundhouse-the-velv-2023-2",
+        "trk_every-registry-the-velv-2024-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-assemblies",
+      "slug": "the-assemblies",
+      "name": "The Assemblies",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Athens, GA",
+      "geo": {
+        "placeId": "plc_athens-ga",
+        "city": "Athens",
+        "country": "US",
+        "lat": 33.96,
+        "lng": -83.38
+      },
+      "region": "us",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "headline",
+      "monthlyListeners": 141744,
+      "monthlyListenersLabel": "142K monthly listeners",
+      "followers": 74927,
+      "followersLabel": "75K",
+      "shelfCaption": "Indie Rock · 142K listeners",
+      "verified": true,
+      "active": {
+        "from": 2008,
+        "to": null
+      },
+      "discography": [
+        "alb_velvet-motel-the-assemb",
+        "alb_bureaus-the-assemb",
+        "alb_census-the-assemb",
+        "alb_velvet-insomnia-the-assemb",
+        "alb_late-motel-the-assemb",
+        "alb_small-afterhours-the-assemb"
+      ],
+      "popularTrackIds": [
+        "trk_midnight-taxi-the-asse-2008-0",
+        "trk_assembly-march-the-asse-2012-0",
+        "trk_bureau-live-at-the-roundhouse-the-asse-2010-0",
+        "trk_provision-the-asse-2012-1",
+        "trk_marquee-lullaby-the-asse-2008-1",
+        "trk_twice-the-bureau-the-asse-2008-2",
+        "trk_public-annex-the-asse-2008-3",
+        "trk_provision-the-asse-2010-2",
+        "trk_payphone-waltz-the-asse-2010-1",
+        "trk_nocturne-the-asse-2020-0"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_nell-wren",
+      "slug": "nell-wren",
+      "name": "Nell Wren",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Sheffield",
+      "geo": {
+        "placeId": "plc_sheffield",
+        "city": "Sheffield",
+        "country": "GB",
+        "lat": 53.38,
+        "lng": -1.47
+      },
+      "region": "uk",
+      "genres": [
+        "shoegaze",
+        "post-punk"
+      ],
+      "primaryGenre": {
+        "slug": "shoegaze",
+        "name": "Shoegaze"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "working",
+      "monthlyListeners": 3415,
+      "monthlyListenersLabel": "3.4K monthly listeners",
+      "followers": 1332,
+      "followersLabel": "1.3K",
+      "shelfCaption": "Shoegaze · 3.4K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_the-orbit-nell-wren",
+        "alb_the-dew-nell-wren"
+      ],
+      "popularTrackIds": [
+        "trk_wet-conservatory-nell-wre-2023-0",
+        "trk_transit-waltz-nell-wre-2023-1",
+        "trk_two-hundred-observatories-nell-wre-2024-0",
+        "trk_nightblooming-greenhouse-nell-wre-2023-2",
+        "trk_zenith-nell-wre-2024-1",
+        "trk_frond-hymn-nell-wre-2024-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_merrick-and-the-motels",
+      "slug": "merrick-and-the-motels",
+      "name": "Merrick & The Motels",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Nashville, TN",
+      "geo": {
+        "placeId": "plc_nashville",
+        "city": "Nashville",
+        "country": "US",
+        "lat": 36.16,
+        "lng": -86.78
+      },
+      "region": "us",
+      "genres": [
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "dream-pop",
+        "name": "Dream Pop"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "headline",
+      "monthlyListeners": 66896,
+      "monthlyListenersLabel": "67K monthly listeners",
+      "followers": 25000,
+      "followersLabel": "25K",
+      "shelfCaption": "Dream Pop · 67K listeners",
+      "verified": true,
+      "active": {
+        "from": 2009,
+        "to": null
+      },
+      "discography": [
+        "alb_the-ballroom-merrick-an",
+        "alb_nightblooming-chlorophyll-merrick-an",
+        "alb_nightblooming-flora-merrick-an",
+        "alb_wet-dew-merrick-an",
+        "alb_green-dew-merrick-an"
+      ],
+      "popularTrackIds": [
+        "trk_nightblooming-frond-merrick--2011-0",
+        "trk_boulevard-lullaby-merrick--2009-1",
+        "trk_chlorophyll-merrick--2009-0",
+        "trk_wet-pollen-merrick--2013-0",
+        "trk_hour-elegy-merrick--2009-3",
+        "trk_marquee-lullaby-merrick--2011-2",
+        "trk_late-motel-merrick--2018-0",
+        "trk_boulevard-reprise-merrick--2020-0",
+        "trk_half-a-ballroom-merrick--2011-1",
+        "trk_late-ballroom-merrick--2018-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_mateo-molinari",
+      "slug": "mateo-molinari",
+      "name": "Mateo Molinari",
+      "formation": "solo",
+      "country": "AR",
+      "hometown": "Rosario",
+      "geo": {
+        "placeId": "plc_rosario",
+        "city": "Rosario",
+        "country": "AR",
+        "lat": -32.94,
+        "lng": -60.64
+      },
+      "region": "latam",
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "primaryGenre": {
+        "slug": "cumbia",
+        "name": "Cumbia"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "tier": "headline",
+      "monthlyListeners": 62810,
+      "monthlyListenersLabel": "63K monthly listeners",
+      "followers": 25000,
+      "followersLabel": "25K",
+      "shelfCaption": "Cumbia · 63K listeners",
+      "verified": true,
+      "active": {
+        "from": 2015,
+        "to": null
+      },
+      "discography": [
+        "alb_the-annex-mateo-moli",
+        "alb_the-pasture-mateo-moli",
+        "alb_zoning-mateo-moli",
+        "alb_new-provision-mateo-moli"
+      ],
+      "popularTrackIds": [
+        "trk_soft-barleyfield-mateo-mo-2015-0",
+        "trk_bright-pasture-mateo-mo-2015-1",
+        "trk_provision-mateo-mo-2015-2",
+        "trk_census-mateo-mo-2019-0",
+        "trk_soft-thicket-mateo-mo-2015-3",
+        "trk_provision-mateo-mo-2021-0",
+        "trk_all-the-precincts-mateo-mo-2021-2",
+        "trk_municipal-depot-mateo-mo-2019-1",
+        "trk_model-bloc-mateo-mo-2019-3",
+        "trk_long-meadow-mateo-mo-2015-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_nocturne",
+      "slug": "nocturne",
+      "name": "Nocturne",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Cardiff",
+      "geo": {
+        "placeId": "plc_cardiff",
+        "city": "Cardiff",
+        "country": "GB",
+        "lat": 51.48,
+        "lng": -3.18
+      },
+      "region": "uk",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "tail",
+      "monthlyListeners": 724,
+      "monthlyListenersLabel": "724 monthly listeners",
+      "followers": 210,
+      "followersLabel": "210",
+      "shelfCaption": "Indie Rock · 724 listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_the-precinct-nocturne",
+        "alb_songs-for-blocs-nocturne"
+      ],
+      "popularTrackIds": [
+        "trk_census-nocturne-2021-1",
+        "trk_public-terminal-nocturne-2021-0",
+        "trk_rooftop-lullaby-nocturne-2021-2",
+        "trk_ballroom-hymn-nocturne-2025-0",
+        "trk_municipal-assembly-nocturne-2025-1",
+        "trk_nothing-but-underpasses-nocturne-2025-2",
+        "trk_curfew-nocturne-2025-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_ballast-and-lodestar",
+      "slug": "ballast-and-lodestar",
+      "name": "Ballast & Lodestar",
+      "formation": "duo",
+      "country": "GB",
+      "hometown": "Sheffield",
+      "geo": {
+        "placeId": "plc_sheffield",
+        "city": "Sheffield",
+        "country": "GB",
+        "lat": 53.38,
+        "lng": -1.47
+      },
+      "region": "uk",
+      "genres": [
+        "folk"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2384,
+      "monthlyListenersLabel": "2.4K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Folk · 2.4K listeners",
+      "verified": false,
+      "active": {
+        "from": 2025,
+        "to": 2026
+      },
+      "discography": [
+        "alb_rootwork-ballast-an"
+      ],
+      "popularTrackIds": [
+        "trk_fieldwork-ballast--2025-1",
+        "trk_drowned-harbour-ballast--2025-0",
+        "trk_deep-current-ballast--2025-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_overgrowth",
+      "slug": "overgrowth",
+      "name": "Overgrowth",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Portland, OR",
+      "geo": {
+        "placeId": "plc_portland",
+        "city": "Portland",
+        "country": "US",
+        "lat": 45.52,
+        "lng": -122.68
+      },
+      "region": "us",
+      "genres": [
+        "rock"
+      ],
+      "primaryGenre": {
+        "slug": "rock",
+        "name": "Rock"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 432,
+      "monthlyListenersLabel": "432 monthly listeners",
+      "followers": 217,
+      "followersLabel": "217",
+      "shelfCaption": "Rock · 432 listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": 2026
+      },
+      "discography": [
+        "alb_orchards-overgrowth",
+        "alb_notes-from-meadows-overgrowth",
+        "alb_low-hedgerow-overgrowth"
+      ],
+      "popularTrackIds": [
+        "trk_dark-ferry-overgrow-2022-0",
+        "trk_payphone-waltz-overgrow-2021-0",
+        "trk_insomnia-overgrow-2021-2",
+        "trk_common-waltz-overgrow-2021-1",
+        "trk_golden-meadow-overgrow-2022-2",
+        "trk_another-fen-overgrow-2023-0",
+        "trk_slow-hedgerow-overgrow-2022-1",
+        "trk_nocturne-overgrow-2021-3",
+        "trk_bramble-blues-overgrow-2021-4",
+        "trk_ferry-live-at-the-roundhouse-overgrow-2022-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_i-a-r",
+      "slug": "i-a-r",
+      "name": "I.A.R.",
+      "formation": "band",
+      "country": "CL",
+      "hometown": "Valparaíso",
+      "geo": {
+        "placeId": "plc_valparaiso",
+        "city": "Valparaíso",
+        "country": "CL",
+        "lat": -33.05,
+        "lng": -71.62
+      },
+      "region": "latam",
+      "genres": [
+        "latin"
+      ],
+      "primaryGenre": {
+        "slug": "latin",
+        "name": "Latin"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2094,
+      "monthlyListenersLabel": "2.1K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Latin · 2.1K listeners",
+      "verified": false,
+      "active": {
+        "from": 2025,
+        "to": null
+      },
+      "discography": [
+        "alb_overgrowth-i-a-r",
+        "alb_fen-and-common-i-a-r"
+      ],
+      "popularTrackIds": [
+        "trk_half-a-rooftop-i-a-r-2025-0",
+        "trk_bloom-i-a-r-2025-1",
+        "trk_overgrowth-i-a-r-2026-0",
+        "trk_husbandry-i-a-r-2025-2",
+        "trk_rootwork-i-a-r-2026-1",
+        "trk_boulevard-instrumental-i-a-r-2026-2",
+        "trk_nocturne-i-a-r-2025-3",
+        "trk_common-live-at-the-roundhouse-i-a-r-2026-3",
+        "trk_no-more-taxis-i-a-r-2026-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_rhys-rees",
+      "slug": "rhys-rees",
+      "name": "Rhys Rees",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Belfast",
+      "geo": {
+        "placeId": "plc_belfast",
+        "city": "Belfast",
+        "country": "GB",
+        "lat": 54.6,
+        "lng": -5.93
+      },
+      "region": "uk",
+      "genres": [
+        "jazz"
+      ],
+      "primaryGenre": {
+        "slug": "jazz",
+        "name": "Jazz"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 330,
+      "monthlyListenersLabel": "330 monthly listeners",
+      "followers": 203,
+      "followersLabel": "203",
+      "shelfCaption": "Jazz · 330 listeners",
+      "verified": true,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_boulevard-and-ballroom-rhys-rees",
+        "alb_municipal-infrastructure-rhys-rees",
+        "alb_annex-and-terminal-rhys-rees"
+      ],
+      "popularTrackIds": [
+        "trk_zoning-rhys-ree-2021-0",
+        "trk_assembly-hymn-rhys-ree-2023-0",
+        "trk_public-terminal-rhys-ree-2021-1",
+        "trk_another-taxi-rhys-ree-2021-2",
+        "trk_new-bureau-rhys-ree-2023-1",
+        "trk_neon-hour-rhys-ree-2023-2",
+        "trk_model-registry-rhys-ree-2023-3",
+        "trk_underpass-song-rhys-ree-2025-1",
+        "trk_provision-rhys-ree-2025-0",
+        "trk_twice-the-terminal-rhys-ree-2025-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_grafting",
+      "slug": "grafting",
+      "name": "Grafting",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Richmond, VA",
+      "geo": {
+        "placeId": "plc_richmond",
+        "city": "Richmond",
+        "country": "US",
+        "lat": 37.54,
+        "lng": -77.44
+      },
+      "region": "us",
+      "genres": [
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "dream-pop",
+        "name": "Dream Pop"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "tail",
+      "monthlyListeners": 1775,
+      "monthlyListenersLabel": "1.8K monthly listeners",
+      "followers": 716,
+      "followersLabel": "716",
+      "shelfCaption": "Dream Pop · 1.8K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_velvet-nocturne-grafting",
+        "alb_letters-from-ferries-grafting",
+        "alb_petal-dew-grafting"
+      ],
+      "popularTrackIds": [
+        "trk_grafting-grafting-2020-0",
+        "trk_trellis-blues-grafting-2020-1",
+        "trk_nocturne-grafting-2020-2",
+        "trk_velvet-taxi-grafting-2021-0",
+        "trk_conservatory-elegy-grafting-2020-3",
+        "trk_twice-the-greenhouse-grafting-2021-1",
+        "trk_grafting-grafting-2021-3",
+        "trk_blue-ballroom-grafting-2021-2",
+        "trk_grafting-grafting-2026-0",
+        "trk_all-the-ballrooms-grafting-2026-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_sadie-blackwood",
+      "slug": "sadie-blackwood",
+      "name": "Sadie Blackwood",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "geo": {
+        "placeId": "plc_tucson",
+        "city": "Tucson",
+        "country": "US",
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "region": "us",
+      "genres": [
+        "downtempo",
+        "ambient"
+      ],
+      "primaryGenre": {
+        "slug": "downtempo",
+        "name": "Downtempo"
+      },
+      "label": {
+        "id": "lbl_second-pressing",
+        "name": "Second Pressing"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2902,
+      "monthlyListenersLabel": "2.9K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Downtempo · 2.9K listeners",
+      "verified": true,
+      "active": {
+        "from": 2019,
+        "to": 2021
+      },
+      "discography": [
+        "alb_label-and-reel-sadie-blac",
+        "alb_velvet-hour-sadie-blac",
+        "alb_wow-and-flutter-sadie-blac"
+      ],
+      "popularTrackIds": [
+        "trk_velvet-rooftop-sadie-bl-2019-0",
+        "trk_blue-underpass-sadie-bl-2019-1",
+        "trk_pressed-sleeve-sadie-bl-2021-0",
+        "trk_nothing-but-sleeves-sadie-bl-2019-2",
+        "trk_motel-live-at-the-roundhouse-sadie-bl-2021-1",
+        "trk_taxi-blues-sadie-bl-2020-2",
+        "trk_dark-ferry-sadie-bl-2019-3",
+        "trk_curfew-sadie-bl-2020-0",
+        "trk_wow-and-flutter-sadie-bl-2020-1",
+        "trk_label-hymn-sadie-bl-2021-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_ren-ishii",
+      "slug": "ren-ishii",
+      "name": "Ren Ishii",
+      "formation": "solo",
+      "country": "JP",
+      "hometown": "Kyoto",
+      "geo": {
+        "placeId": "plc_kyoto",
+        "city": "Kyoto",
+        "country": "JP",
+        "lat": 35.01,
+        "lng": 135.77
+      },
+      "region": "japan",
+      "genres": [
+        "electronic"
+      ],
+      "primaryGenre": {
+        "slug": "electronic",
+        "name": "Electronic"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "tier": "tail",
+      "monthlyListeners": 1738,
+      "monthlyListenersLabel": "1.7K monthly listeners",
+      "followers": 545,
+      "followersLabel": "545",
+      "shelfCaption": "Electronic · 1.7K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": 2026
+      },
+      "discography": [
+        "alb_rooftops-ren-ishii",
+        "alb_husbandry-ren-ishii",
+        "alb_rootwork-ren-ishii",
+        "alb_low-thicket-ren-ishii"
+      ],
+      "popularTrackIds": [
+        "trk_soft-fen-ren-ishi-2021-0",
+        "trk_husbandry-ren-ishi-2020-0",
+        "trk_fallow-thicket-ren-ishi-2020-1",
+        "trk_bright-fen-ren-ishi-2021-1",
+        "trk_afterhours-ren-ishi-2023-0",
+        "trk_neon-taxi-ren-ishi-2020-2",
+        "trk_payphone-blues-ren-ishi-2021-2",
+        "trk_curfew-ren-ishi-2020-3",
+        "trk_marquee-instrumental-ren-ishi-2025-0",
+        "trk_afterhours-ren-ishi-2020-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_til-vogelsang",
+      "slug": "til-vogelsang",
+      "name": "Til Vogelsang",
+      "formation": "solo",
+      "country": "DE",
+      "hometown": "Hamburg",
+      "geo": {
+        "placeId": "plc_hamburg",
+        "city": "Hamburg",
+        "country": "DE",
+        "lat": 53.55,
+        "lng": 9.99
+      },
+      "region": "germany",
+      "genres": [
+        "ambient",
+        "downtempo"
+      ],
+      "primaryGenre": {
+        "slug": "ambient",
+        "name": "Ambient"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 5656,
+      "monthlyListenersLabel": "5.7K monthly listeners",
+      "followers": 2103,
+      "followersLabel": "2.1K",
+      "shelfCaption": "Ambient · 5.7K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_the-cairn-til-vogels",
+        "alb_erosion-til-vogels"
+      ],
+      "popularTrackIds": [
+        "trk_solar-orbit-til-voge-2023-0",
+        "trk_zenith-til-voge-2024-0",
+        "trk_orbit-hymn-til-voge-2023-1",
+        "trk_sediment-til-voge-2024-1",
+        "trk_outer-meridian-til-voge-2023-2",
+        "trk_quarry-instrumental-til-voge-2023-3",
+        "trk_seam-march-til-voge-2024-2",
+        "trk_solar-meridian-til-voge-2023-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_rasmus-s-rensen",
+      "slug": "rasmus-s-rensen",
+      "name": "Rasmus Sørensen",
+      "formation": "solo",
+      "country": "NO",
+      "hometown": "Oslo",
+      "geo": {
+        "placeId": "plc_oslo",
+        "city": "Oslo",
+        "country": "NO",
+        "lat": 59.91,
+        "lng": 10.75
+      },
+      "region": "nordic",
+      "genres": [
+        "modern-composition"
+      ],
+      "primaryGenre": {
+        "slug": "modern-composition",
+        "name": "Modern Composition"
+      },
+      "label": {
+        "id": "lbl_conservatory",
+        "name": "Conservatory Editions"
+      },
+      "tier": "working",
+      "monthlyListeners": 4936,
+      "monthlyListenersLabel": "4.9K monthly listeners",
+      "followers": 1921,
+      "followersLabel": "1.9K",
+      "shelfCaption": "Modern Composition · 4.9K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": 2024
+      },
+      "discography": [
+        "alb_equinox-and-transit-rasmus-s-r"
+      ],
+      "popularTrackIds": [
+        "trk_meridian-blues-rasmus-s-2020-1",
+        "trk_erosion-rasmus-s-2020-0",
+        "trk_transit-lullaby-rasmus-s-2020-2",
+        "trk_foundry-instrumental-rasmus-s-2020-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_wren-mercer",
+      "slug": "wren-mercer",
+      "name": "Wren Mercer",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "geo": {
+        "placeId": "plc_detroit",
+        "city": "Detroit",
+        "country": "US",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      "region": "us",
+      "genres": [
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "singer-songwriter",
+        "name": "Singer-Songwriter"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "established",
+      "monthlyListeners": 56691,
+      "monthlyListenersLabel": "57K monthly listeners",
+      "followers": 19651,
+      "followersLabel": "20K",
+      "shelfCaption": "Singer-Songwriter · 57K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_fieldwork-wren-merce",
+        "alb_rooftop-and-underpass-wren-merce",
+        "alb_barleyfield-and-meadow-wren-merce",
+        "alb_nocturne-wren-merce"
+      ],
+      "popularTrackIds": [
+        "trk_barleyfield-lullaby-wren-mer-2021-0",
+        "trk_velvet-ferry-wren-mer-2020-0",
+        "trk_bright-barleyfield-wren-mer-2020-2",
+        "trk_low-thicket-wren-mer-2020-1",
+        "trk_overgrowth-wren-mer-2021-1",
+        "trk_underpass-hymn-wren-mer-2021-2",
+        "trk_two-hundred-motels-wren-mer-2023-1",
+        "trk_fallow-barleyfield-wren-mer-2023-3",
+        "trk_hedgerow-waltz-wren-mer-2020-3",
+        "trk_nothing-but-rooftops-wren-mer-2023-0"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_zoning-and-census",
+      "slug": "zoning-and-census",
+      "name": "Zoning & Census",
+      "formation": "duo",
+      "country": "NO",
+      "hometown": "Bergen",
+      "geo": {
+        "placeId": "plc_bergen",
+        "city": "Bergen",
+        "country": "NO",
+        "lat": 60.39,
+        "lng": 5.32
+      },
+      "region": "nordic",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 3043,
+      "monthlyListenersLabel": "3K monthly listeners",
+      "followers": 1284,
+      "followersLabel": "1.3K",
+      "shelfCaption": "Indie Rock · 3K listeners",
+      "verified": false,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_small-insomnia-zoning-and",
+        "alb_public-exchange-zoning-and",
+        "alb_precincts-zoning-and",
+        "alb_late-afterhours-zoning-and",
+        "alb_motels-zoning-and"
+      ],
+      "popularTrackIds": [
+        "trk_every-rooftop-zoning-a-2020-0",
+        "trk_nothing-but-precincts-zoning-a-2016-0",
+        "trk_blue-payphone-zoning-a-2016-1",
+        "trk_bloc-hymn-zoning-a-2017-1",
+        "trk_bureau-live-at-the-roundhouse-zoning-a-2016-2",
+        "trk_bloc-hymn-zoning-a-2017-0",
+        "trk_dark-ferry-zoning-a-2017-2",
+        "trk_registry-elegy-zoning-a-2022-0",
+        "trk_blue-rooftop-zoning-a-2022-1",
+        "trk_small-boulevard-zoning-a-2020-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_femi-and-the-observatories",
+      "slug": "femi-and-the-observatories",
+      "name": "Femi & The Observatories",
+      "formation": "band",
+      "country": "CI",
+      "hometown": "Abidjan",
+      "geo": {
+        "placeId": "plc_abidjan",
+        "city": "Abidjan",
+        "country": "CI",
+        "lat": 5.36,
+        "lng": -4.01
+      },
+      "region": "west-africa",
+      "genres": [
+        "afrobeat",
+        "funk"
+      ],
+      "primaryGenre": {
+        "slug": "afrobeat",
+        "name": "Afrobeat"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "flagship",
+      "monthlyListeners": 216818,
+      "monthlyListenersLabel": "217K monthly listeners",
+      "followers": 90000,
+      "followersLabel": "90K",
+      "shelfCaption": "Afrobeat · 217K listeners",
+      "verified": true,
+      "active": {
+        "from": 2006,
+        "to": null
+      },
+      "discography": [
+        "alb_provisional-provision-femi-and-t",
+        "alb_ninth-meridian-femi-and-t",
+        "alb_central-annex-femi-and-t",
+        "alb_new-zoning-femi-and-t",
+        "alb_parallax-femi-and-t",
+        "alb_orbit-and-aphelion-femi-and-t",
+        "alb_transit-and-observatory-femi-and-t",
+        "alb_model-assembly-femi-and-t"
+      ],
+      "popularTrackIds": [
+        "trk_observatory-lullaby-femi-and-2006-0",
+        "trk_public-bureau-femi-and-2007-1",
+        "trk_zoning-femi-and-2006-3",
+        "trk_aphelion-song-femi-and-2006-2",
+        "trk_observatory-instrumental-femi-and-2007-0",
+        "trk_ascension-femi-and-2007-3",
+        "trk_new-assembly-femi-and-2009-1",
+        "trk_ninth-aphelion-femi-and-2011-1",
+        "trk_municipal-depot-femi-and-2009-0",
+        "trk_model-exchange-femi-and-2006-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_greer-blackwood",
+      "slug": "greer-blackwood",
+      "name": "Greer Blackwood",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Portland, OR",
+      "geo": {
+        "placeId": "plc_portland",
+        "city": "Portland",
+        "country": "US",
+        "lat": 45.52,
+        "lng": -122.68
+      },
+      "region": "us",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "established",
+      "monthlyListeners": 58835,
+      "monthlyListenersLabel": "59K monthly listeners",
+      "followers": 23026,
+      "followersLabel": "23K",
+      "shelfCaption": "Indie Rock · 59K listeners",
+      "verified": false,
+      "active": {
+        "from": 2018,
+        "to": null
+      },
+      "discography": [
+        "alb_taxis-greer-blac",
+        "alb_provision-greer-blac",
+        "alb_neon-rooftop-greer-blac"
+      ],
+      "popularTrackIds": [
+        "trk_model-terminal-greer-bl-2018-1",
+        "trk_annex-hymn-greer-bl-2020-0",
+        "trk_rooftop-march-greer-bl-2021-0",
+        "trk_midnight-ballroom-greer-bl-2018-0",
+        "trk_model-bloc-greer-bl-2020-1",
+        "trk_registry-lullaby-greer-bl-2018-2",
+        "trk_last-ferry-greer-bl-2020-2",
+        "trk_neon-motel-greer-bl-2020-3",
+        "trk_all-the-precincts-greer-bl-2021-1",
+        "trk_curfew-greer-bl-2020-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-shoals",
+      "slug": "the-shoals",
+      "name": "The Shoals",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Bristol",
+      "geo": {
+        "placeId": "plc_bristol",
+        "city": "Bristol",
+        "country": "GB",
+        "lat": 51.45,
+        "lng": -2.59
+      },
+      "region": "uk",
+      "genres": [
+        "folk",
+        "analog-revival"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "working",
+      "monthlyListeners": 4539,
+      "monthlyListenersLabel": "4.5K monthly listeners",
+      "followers": 2077,
+      "followersLabel": "2.1K",
+      "shelfCaption": "Folk · 4.5K listeners",
+      "verified": false,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "discography": [
+        "alb_hollow-rootwork-the-shoals",
+        "alb_the-harvest-the-shoals",
+        "alb_almanac-the-shoals",
+        "alb_letters-from-fens-the-shoals",
+        "alb_deep-fathom-the-shoals"
+      ],
+      "popularTrackIds": [
+        "trk_tidal-sound-the-shoa-2019-0",
+        "trk_two-hundred-commons-the-shoa-2019-1",
+        "trk_ballast-the-shoa-2020-0",
+        "trk_soft-barleyfield-the-shoa-2021-0",
+        "trk_breakwater-march-the-shoa-2020-1",
+        "trk_two-hundred-estuaries-the-shoa-2019-2",
+        "trk_golden-bramble-the-shoa-2023-0",
+        "trk_tidal-fathom-the-shoa-2020-3",
+        "trk_long-barleyfield-the-shoa-2021-1",
+        "trk_fieldwork-the-shoa-2019-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_small-payphone",
+      "slug": "small-payphone",
+      "name": "Small Payphone",
+      "formation": "band",
+      "country": "SE",
+      "hometown": "Malmö",
+      "geo": {
+        "placeId": "plc_malmo",
+        "city": "Malmö",
+        "country": "SE",
+        "lat": 55.6,
+        "lng": 13
+      },
+      "region": "nordic",
+      "genres": [
+        "electronic"
+      ],
+      "primaryGenre": {
+        "slug": "electronic",
+        "name": "Electronic"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "tier": "working",
+      "monthlyListeners": 3970,
+      "monthlyListenersLabel": "4K monthly listeners",
+      "followers": 1800,
+      "followersLabel": "1.8K",
+      "shelfCaption": "Electronic · 4K listeners",
+      "verified": false,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "discography": [
+        "alb_the-motel-small-payp",
+        "alb_nocturne-small-payp",
+        "alb_soft-husbandry-small-payp",
+        "alb_village-and-bramble-small-payp"
+      ],
+      "popularTrackIds": [
+        "trk_slow-common-small-pa-2019-0",
+        "trk_small-payphone-small-pa-2019-1",
+        "trk_small-marquee-small-pa-2022-0",
+        "trk_soft-fen-small-pa-2021-0",
+        "trk_hollow-common-small-pa-2021-1",
+        "trk_half-a-common-small-pa-2021-2",
+        "trk_rooftop-song-small-pa-2021-3",
+        "trk_another-meadow-small-pa-2019-2",
+        "trk_almanac-small-pa-2019-3",
+        "trk_all-the-thickets-small-pa-2024-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_opal-and-the-villages",
+      "slug": "opal-and-the-villages",
+      "name": "Opal & The Villages",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Oakland, CA",
+      "geo": {
+        "placeId": "plc_oakland",
+        "city": "Oakland",
+        "country": "US",
+        "lat": 37.8,
+        "lng": -122.27
+      },
+      "region": "us",
+      "genres": [
+        "americana",
+        "folk"
+      ],
+      "primaryGenre": {
+        "slug": "americana",
+        "name": "Americana"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "working",
+      "monthlyListeners": 4701,
+      "monthlyListenersLabel": "4.7K monthly listeners",
+      "followers": 2717,
+      "followersLabel": "2.7K",
+      "shelfCaption": "Americana · 4.7K listeners",
+      "verified": false,
+      "active": {
+        "from": 2009,
+        "to": null
+      },
+      "discography": [
+        "alb_music-for-seams-opal-and-t",
+        "alb_slow-fieldwork-opal-and-t",
+        "alb_rootwork-opal-and-t",
+        "alb_fieldwork-opal-and-t",
+        "alb_slate-tectonics-opal-and-t",
+        "alb_tectonics-opal-and-t"
+      ],
+      "popularTrackIds": [
+        "trk_sediment-opal-and-2015-0",
+        "trk_erosion-opal-and-2009-0",
+        "trk_seam-theme-opal-and-2009-1",
+        "trk_bloom-opal-and-2014-0",
+        "trk_two-hundred-meadows-opal-and-2009-2",
+        "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+        "trk_fallow-meadow-opal-and-2019-1",
+        "trk_rootwork-opal-and-2019-0",
+        "trk_slow-alder-opal-and-2015-1",
+        "trk_quarry-reprise-opal-and-2014-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_antonella-iriarte",
+      "slug": "antonella-iriarte",
+      "name": "Antonella Iriarte",
+      "formation": "solo",
+      "country": "MX",
+      "hometown": "Guadalajara",
+      "geo": {
+        "placeId": "plc_guadalajara",
+        "city": "Guadalajara",
+        "country": "MX",
+        "lat": 20.66,
+        "lng": -103.35
+      },
+      "region": "latam",
+      "genres": [
+        "electronic"
+      ],
+      "primaryGenre": {
+        "slug": "electronic",
+        "name": "Electronic"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2508,
+      "monthlyListenersLabel": "2.5K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Electronic · 2.5K listeners",
+      "verified": true,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_the-thicket-antonella-",
+        "alb_fallow-common-antonella-"
+      ],
+      "popularTrackIds": [
+        "trk_long-village-antonell-2023-0",
+        "trk_dark-marquee-antonell-2024-0",
+        "trk_small-underpass-antonell-2023-1",
+        "trk_fallow-orchard-antonell-2023-2",
+        "trk_alder-waltz-antonell-2024-1",
+        "trk_rooftop-demo-antonell-2024-2",
+        "trk_neon-boulevard-antonell-2024-4",
+        "trk_curfew-antonell-2024-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-green-vines",
+      "slug": "the-green-vines",
+      "name": "The Green Vines",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Minneapolis, MN",
+      "geo": {
+        "placeId": "plc_minneapolis",
+        "city": "Minneapolis",
+        "country": "US",
+        "lat": 44.98,
+        "lng": -93.27
+      },
+      "region": "us",
+      "genres": [
+        "spiritual-jazz",
+        "jazz"
+      ],
+      "primaryGenre": {
+        "slug": "spiritual-jazz",
+        "name": "Spiritual Jazz"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "tier": "working",
+      "monthlyListeners": 10178,
+      "monthlyListenersLabel": "10K monthly listeners",
+      "followers": 3456,
+      "followersLabel": "3.5K",
+      "shelfCaption": "Spiritual Jazz · 10K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": 2025
+      },
+      "discography": [
+        "alb_green-frond-the-green-",
+        "alb_the-observatory-the-green-",
+        "alb_ninth-observatory-the-green-"
+      ],
+      "popularTrackIds": [
+        "trk_chlorophyll-the-gree-2023-0",
+        "trk_solar-transit-the-gree-2023-1",
+        "trk_parallax-the-gree-2024-0",
+        "trk_every-meridian-the-gree-2023-2",
+        "trk_outer-observatory-the-gree-2024-1",
+        "trk_solar-equinox-the-gree-2023-3",
+        "trk_two-hundred-fronds-the-gree-2024-2",
+        "trk_solar-observatory-the-gree-2025-0",
+        "trk_moss-waltz-the-gree-2024-3",
+        "trk_pollen-elegy-the-gree-2023-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_sanne-midnight",
+      "slug": "sanne-midnight",
+      "name": "Sanne Midnight",
+      "formation": "solo",
+      "country": "DE",
+      "hometown": "Hamburg",
+      "geo": {
+        "placeId": "plc_hamburg",
+        "city": "Hamburg",
+        "country": "DE",
+        "lat": 53.55,
+        "lng": 9.99
+      },
+      "region": "germany",
+      "genres": [
+        "electronic",
+        "downtempo"
+      ],
+      "primaryGenre": {
+        "slug": "electronic",
+        "name": "Electronic"
+      },
+      "label": {
+        "id": "lbl_strata-nine",
+        "name": "Strata Nine"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2152,
+      "monthlyListenersLabel": "2.2K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Electronic · 2.2K listeners",
+      "verified": true,
+      "active": {
+        "from": 2025,
+        "to": 2026
+      },
+      "discography": [
+        "alb_velvet-hour-sanne-midn"
+      ],
+      "popularTrackIds": [
+        "trk_wild-hedgerow-sanne-mi-2025-2",
+        "trk_bloom-sanne-mi-2025-4",
+        "trk_afterhours-sanne-mi-2025-3",
+        "trk_midnight-underpass-sanne-mi-2025-0",
+        "trk_dark-underpass-sanne-mi-2025-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_sadie-and-the-villages",
+      "slug": "sadie-and-the-villages",
+      "name": "Sadie & The Villages",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Nashville, TN",
+      "geo": {
+        "placeId": "plc_nashville",
+        "city": "Nashville",
+        "country": "US",
+        "lat": 36.16,
+        "lng": -86.78
+      },
+      "region": "us",
+      "genres": [
+        "americana"
+      ],
+      "primaryGenre": {
+        "slug": "americana",
+        "name": "Americana"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2823,
+      "monthlyListenersLabel": "2.8K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Americana · 2.8K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_meadows-sadie-and-",
+        "alb_pastures-sadie-and-",
+        "alb_harvests-sadie-and-",
+        "alb_bloom-sadie-and-"
+      ],
+      "popularTrackIds": [
+        "trk_cairn-demo-sadie-an-2020-0",
+        "trk_almanac-sadie-an-2021-0",
+        "trk_half-a-strata-sadie-an-2021-1",
+        "trk_tectonics-sadie-an-2020-1",
+        "trk_barleyfield-blues-sadie-an-2022-0",
+        "trk_bedrock-blues-sadie-an-2022-2",
+        "trk_sediment-sadie-an-2022-1",
+        "trk_copper-cairn-sadie-an-2020-2",
+        "trk_slow-common-sadie-an-2025-0",
+        "trk_strata-blues-sadie-an-2025-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_bloom",
+      "slug": "bloom",
+      "name": "Bloom",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Belfast",
+      "geo": {
+        "placeId": "plc_belfast",
+        "city": "Belfast",
+        "country": "GB",
+        "lat": 54.6,
+        "lng": -5.93
+      },
+      "region": "uk",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 15472,
+      "monthlyListenersLabel": "15K monthly listeners",
+      "followers": 6000,
+      "followersLabel": "6K",
+      "shelfCaption": "Folk · 15K listeners",
+      "verified": false,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_grey-estuary-bloom",
+        "alb_rootwork-bloom",
+        "alb_bloom-bloom"
+      ],
+      "popularTrackIds": [
+        "trk_thicket-song-bloom-2016-0",
+        "trk_thicket-hymn-bloom-2017-0",
+        "trk_another-estuary-bloom-2016-1",
+        "trk_no-more-fathoms-bloom-2017-1",
+        "trk_ballast-bloom-2022-2",
+        "trk_almanac-bloom-2016-2",
+        "trk_slow-harvest-bloom-2022-0",
+        "trk_all-the-orchards-bloom-2017-2",
+        "trk_long-meadow-bloom-2022-3",
+        "trk_bright-thicket-bloom-2022-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-slate-stratas",
+      "slug": "the-slate-stratas",
+      "name": "The Slate Stratas",
+      "formation": "band",
+      "country": "GB",
+      "hometown": "Bristol",
+      "geo": {
+        "placeId": "plc_bristol",
+        "city": "Bristol",
+        "country": "GB",
+        "lat": 51.45,
+        "lng": -2.59
+      },
+      "region": "uk",
+      "genres": [
+        "post-punk",
+        "rock"
+      ],
+      "primaryGenre": {
+        "slug": "post-punk",
+        "name": "Post-Punk"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "tier": "working",
+      "monthlyListeners": 16177,
+      "monthlyListenersLabel": "16K monthly listeners",
+      "followers": 6000,
+      "followersLabel": "6K",
+      "shelfCaption": "Post-Punk · 16K listeners",
+      "verified": false,
+      "active": {
+        "from": 2017,
+        "to": null
+      },
+      "discography": [
+        "alb_copper-oxidation-the-slate-",
+        "alb_zoning-the-slate-",
+        "alb_tectonics-the-slate-"
+      ],
+      "popularTrackIds": [
+        "trk_municipal-bloc-the-slat-2017-0",
+        "trk_precinct-march-the-slat-2021-0",
+        "trk_limestone-seam-the-slat-2023-0",
+        "trk_public-registry-the-slat-2017-2",
+        "trk_bloc-waltz-the-slat-2017-1",
+        "trk_seam-lullaby-the-slat-2023-2",
+        "trk_chalk-strata-the-slat-2021-1",
+        "trk_half-an-aggregate-the-slat-2021-2",
+        "trk_every-bloc-the-slat-2023-1",
+        "trk_census-the-slat-2023-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_petra-ilic",
+      "slug": "petra-ilic",
+      "name": "Petra Ilić",
+      "formation": "solo",
+      "country": "RS",
+      "hometown": "Novi Sad",
+      "geo": {
+        "placeId": "plc_novi-sad",
+        "city": "Novi Sad",
+        "country": "RS",
+        "lat": 45.25,
+        "lng": 19.84
+      },
+      "region": "balkans",
+      "genres": [
+        "folk",
+        "singer-songwriter"
+      ],
+      "primaryGenre": {
+        "slug": "folk",
+        "name": "Folk"
+      },
+      "label": {
+        "id": "lbl_hedgerow",
+        "name": "Hedgerow Records"
+      },
+      "tier": "established",
+      "monthlyListeners": 24238,
+      "monthlyListenersLabel": "24K monthly listeners",
+      "followers": 8305,
+      "followersLabel": "8.3K",
+      "shelfCaption": "Folk · 24K listeners",
+      "verified": false,
+      "active": {
+        "from": 2015,
+        "to": null
+      },
+      "discography": [
+        "alb_shoals-petra-ilic",
+        "alb_meadows-petra-ilic",
+        "alb_drowned-harbour-petra-ilic",
+        "alb_hollow-fieldwork-petra-ilic",
+        "alb_golden-harvest-petra-ilic"
+      ],
+      "popularTrackIds": [
+        "trk_harbour-lullaby-petra-il-2015-0",
+        "trk_ballast-petra-il-2017-0",
+        "trk_cove-march-petra-il-2015-1",
+        "trk_cold-lighthouse-petra-il-2016-0",
+        "trk_bloom-petra-il-2016-1",
+        "trk_fallow-meadow-petra-il-2015-2",
+        "trk_fallow-alder-petra-il-2019-0",
+        "trk_twice-the-meadow-petra-il-2017-2",
+        "trk_orchard-waltz-petra-il-2016-2",
+        "trk_hollow-bramble-petra-il-2017-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_imogen-sinclair",
+      "slug": "imogen-sinclair",
+      "name": "Imogen Sinclair",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Cardiff",
+      "geo": {
+        "placeId": "plc_cardiff",
+        "city": "Cardiff",
+        "country": "GB",
+        "lat": 51.48,
+        "lng": -3.18
+      },
+      "region": "uk",
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 325,
+      "monthlyListenersLabel": "325 monthly listeners",
+      "followers": 134,
+      "followersLabel": "134",
+      "shelfCaption": "Indie Rock · 325 listeners",
+      "verified": true,
+      "active": {
+        "from": 2008,
+        "to": null
+      },
+      "discography": [
+        "alb_registries-imogen-sin",
+        "alb_exchange-and-assembly-imogen-sin",
+        "alb_curfew-imogen-sin",
+        "alb_neon-hour-imogen-sin",
+        "alb_payphone-and-underpass-imogen-sin",
+        "alb_exchanges-imogen-sin",
+        "alb_the-hour-imogen-sin",
+        "alb_ferries-imogen-sin"
+      ],
+      "popularTrackIds": [
+        "trk_census-imogen-s-2008-0",
+        "trk_municipal-terminal-imogen-s-2009-0",
+        "trk_public-assembly-imogen-s-2009-1",
+        "trk_annex-alt-take-imogen-s-2008-1",
+        "trk_census-imogen-s-2008-2",
+        "trk_another-ballroom-imogen-s-2011-1",
+        "trk_ballroom-reprise-imogen-s-2017-0",
+        "trk_census-imogen-s-2015-0",
+        "trk_nothing-but-boulevards-imogen-s-2011-0",
+        "trk_depot-live-at-the-roundhouse-imogen-s-2011-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_merrick-dark",
+      "slug": "merrick-dark",
+      "name": "Merrick Dark",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Richmond, VA",
+      "geo": {
+        "placeId": "plc_richmond",
+        "city": "Richmond",
+        "country": "US",
+        "lat": 37.54,
+        "lng": -77.44
+      },
+      "region": "us",
+      "genres": [
+        "rnb",
+        "funk"
+      ],
+      "primaryGenre": {
+        "slug": "rnb",
+        "name": "R&B"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "tier": "working",
+      "monthlyListeners": 5151,
+      "monthlyListenersLabel": "5.2K monthly listeners",
+      "followers": 1904,
+      "followersLabel": "1.9K",
+      "shelfCaption": "R&B · 5.2K listeners",
+      "verified": false,
+      "active": {
+        "from": 2019,
+        "to": null
+      },
+      "discography": [
+        "alb_herbaria-merrick-da",
+        "alb_last-curfew-merrick-da",
+        "alb_boulevard-and-taxi-merrick-da",
+        "alb_velvet-ferry-merrick-da"
+      ],
+      "popularTrackIds": [
+        "trk_afterhours-merrick--2019-1",
+        "trk_creeping-pollen-merrick--2020-0",
+        "trk_flora-merrick--2019-0",
+        "trk_neon-payphone-merrick--2019-2",
+        "trk_late-underpass-merrick--2020-1",
+        "trk_wet-herbarium-merrick--2019-3",
+        "trk_small-rooftop-merrick--2022-1",
+        "trk_last-boulevard-merrick--2022-0",
+        "trk_small-taxi-merrick--2022-2",
+        "trk_curfew-merrick--2024-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_late-payphone",
+      "slug": "late-payphone",
+      "name": "Late Payphone",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "geo": {
+        "placeId": "plc_tucson",
+        "city": "Tucson",
+        "country": "US",
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "region": "us",
+      "genres": [
+        "jazz",
+        "soul"
+      ],
+      "primaryGenre": {
+        "slug": "jazz",
+        "name": "Jazz"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "tier": "working",
+      "monthlyListeners": 3662,
+      "monthlyListenersLabel": "3.7K monthly listeners",
+      "followers": 1307,
+      "followersLabel": "1.3K",
+      "shelfCaption": "Jazz · 3.7K listeners",
+      "verified": false,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_underpasses-late-payph",
+        "alb_curfew-late-payph",
+        "alb_central-depot-late-payph",
+        "alb_municipal-infrastructure-late-payph"
+      ],
+      "popularTrackIds": [
+        "trk_provisional-registry-late-pay-2016-0",
+        "trk_velvet-boulevard-late-pay-2019-0",
+        "trk_twice-the-registry-late-pay-2017-0",
+        "trk_last-hour-late-pay-2017-1",
+        "trk_bloc-reprise-late-pay-2016-2",
+        "trk_marquee-demo-late-pay-2016-1",
+        "trk_new-registry-late-pay-2017-2",
+        "trk_dark-ballroom-late-pay-2019-1",
+        "trk_taxi-theme-late-pay-2023-0",
+        "trk_afterhours-late-pay-2016-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_central-depot",
+      "slug": "central-depot",
+      "name": "Central Depot",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "geo": {
+        "placeId": "plc_tucson",
+        "city": "Tucson",
+        "country": "US",
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "region": "us",
+      "genres": [
+        "indie-rock",
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "working",
+      "monthlyListeners": 7079,
+      "monthlyListenersLabel": "7.1K monthly listeners",
+      "followers": 3239,
+      "followersLabel": "3.2K",
+      "shelfCaption": "Indie Rock · 7.1K listeners",
+      "verified": true,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_the-payphone-central-de",
+        "alb_motel-and-taxi-central-de",
+        "alb_precinct-and-depot-central-de",
+        "alb_payphones-central-de",
+        "alb_the-taxi-central-de"
+      ],
+      "popularTrackIds": [
+        "trk_provision-central--2017-0",
+        "trk_two-hundred-registries-central--2016-1",
+        "trk_taxi-march-central--2016-2",
+        "trk_boulevard-hymn-central--2021-0",
+        "trk_curfew-central--2019-0",
+        "trk_all-the-assemblies-central--2016-0",
+        "trk_exchange-demo-central--2017-1",
+        "trk_municipal-bloc-central--2019-1",
+        "trk_central-terminal-central--2019-2",
+        "trk_terminal-elegy-central--2016-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-ballroom-orchestra",
+      "slug": "the-ballroom-orchestra",
+      "name": "The Ballroom Orchestra",
+      "formation": "collective",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "geo": {
+        "placeId": "plc_detroit",
+        "city": "Detroit",
+        "country": "US",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      "region": "us",
+      "genres": [
+        "hip-hop"
+      ],
+      "primaryGenre": {
+        "slug": "hip-hop",
+        "name": "Hip-Hop"
+      },
+      "label": {
+        "id": "lbl_marquee-hill",
+        "name": "Marquee Hill"
+      },
+      "tier": "working",
+      "monthlyListeners": 10115,
+      "monthlyListenersLabel": "10K monthly listeners",
+      "followers": 3240,
+      "followersLabel": "3.2K",
+      "shelfCaption": "Hip-Hop · 10K listeners",
+      "verified": false,
+      "active": {
+        "from": 2008,
+        "to": null
+      },
+      "discography": [
+        "alb_provisional-infrastructure-the-ballro",
+        "alb_new-bureau-the-ballro",
+        "alb_velvet-underpass-the-ballro",
+        "alb_the-payphone-the-ballro",
+        "alb_dark-taxi-the-ballro",
+        "alb_boulevards-the-ballro"
+      ],
+      "popularTrackIds": [
+        "trk_infrastructure-the-ball-2008-0",
+        "trk_two-hundred-ferries-the-ball-2008-1",
+        "trk_afterhours-the-ball-2008-2",
+        "trk_underpass-hymn-the-ball-2010-1",
+        "trk_another-payphone-the-ball-2012-1",
+        "trk_provisional-assembly-the-ball-2010-3",
+        "trk_central-registry-the-ball-2015-0",
+        "trk_provisional-annex-the-ball-2012-2",
+        "trk_central-terminal-the-ball-2010-0",
+        "trk_dark-hour-the-ball-2008-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_cass-and-the-terminals",
+      "slug": "cass-and-the-terminals",
+      "name": "Cass & The Terminals",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Detroit, MI",
+      "geo": {
+        "placeId": "plc_detroit",
+        "city": "Detroit",
+        "country": "US",
+        "lat": 42.33,
+        "lng": -83.05
+      },
+      "region": "us",
+      "genres": [
+        "funk",
+        "jazz"
+      ],
+      "primaryGenre": {
+        "slug": "funk",
+        "name": "Funk"
+      },
+      "label": {
+        "id": "lbl_harmattan",
+        "name": "Harmattan Sound"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2657,
+      "monthlyListenersLabel": "2.7K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Funk · 2.7K listeners",
+      "verified": true,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_the-boulevard-cass-and-t",
+        "alb_the-rooftop-cass-and-t",
+        "alb_zoning-cass-and-t"
+      ],
+      "popularTrackIds": [
+        "trk_small-hour-cass-and-2021-0",
+        "trk_central-exchange-cass-and-2021-1",
+        "trk_every-bureau-cass-and-2022-0",
+        "trk_bloc-lullaby-cass-and-2021-2",
+        "trk_provisional-exchange-cass-and-2023-1",
+        "trk_zoning-cass-and-2023-0",
+        "trk_neon-taxi-cass-and-2023-2",
+        "trk_bloc-reprise-cass-and-2023-3",
+        "trk_rooftop-instrumental-cass-and-2023-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_halvor-lindqvist",
+      "slug": "halvor-lindqvist",
+      "name": "Halvor Lindqvist",
+      "formation": "solo",
+      "country": "NO",
+      "hometown": "Tromsø",
+      "geo": {
+        "placeId": "plc_troms",
+        "city": "Tromsø",
+        "country": "NO",
+        "lat": 69.65,
+        "lng": 18.96
+      },
+      "region": "nordic",
+      "genres": [
+        "jazz",
+        "modern-composition"
+      ],
+      "primaryGenre": {
+        "slug": "jazz",
+        "name": "Jazz"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "tier": "working",
+      "monthlyListeners": 17274,
+      "monthlyListenersLabel": "17K monthly listeners",
+      "followers": 6000,
+      "followersLabel": "6K",
+      "shelfCaption": "Jazz · 17K listeners",
+      "verified": true,
+      "active": {
+        "from": 2014,
+        "to": null
+      },
+      "discography": [
+        "alb_model-infrastructure-halvor-lin",
+        "alb_velvet-marquee-halvor-lin",
+        "alb_depots-halvor-lin",
+        "alb_bloc-and-registry-halvor-lin"
+      ],
+      "popularTrackIds": [
+        "trk_underpass-edit-halvor-l-2016-0",
+        "trk_central-registry-halvor-l-2014-0",
+        "trk_municipal-exchange-halvor-l-2014-1",
+        "trk_curfew-halvor-l-2017-0",
+        "trk_bloc-live-at-the-roundhouse-halvor-l-2016-2",
+        "trk_provisional-bureau-halvor-l-2017-1",
+        "trk_taxi-march-halvor-l-2016-1",
+        "trk_two-hundred-terminals-halvor-l-2014-3",
+        "trk_insomnia-halvor-l-2014-2",
+        "trk_assembly-hymn-halvor-l-2020-0"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_elliot-crane",
+      "slug": "elliot-crane",
+      "name": "Elliot Crane",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "geo": {
+        "placeId": "plc_tucson",
+        "city": "Tucson",
+        "country": "US",
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "region": "us",
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "post-punk",
+        "name": "Post-Punk"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "tier": "tail",
+      "monthlyListeners": 2908,
+      "monthlyListenersLabel": "2.9K monthly listeners",
+      "followers": 800,
+      "followersLabel": "800",
+      "shelfCaption": "Post-Punk · 2.9K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_model-assembly-elliot-cra",
+        "alb_cairns-elliot-cra"
+      ],
+      "popularTrackIds": [
+        "trk_limestone-kiln-elliot-c-2023-1",
+        "trk_strata-waltz-elliot-c-2023-0",
+        "trk_nothing-but-precincts-elliot-c-2023-2",
+        "trk_annex-lullaby-elliot-c-2025-1",
+        "trk_limestone-quarry-elliot-c-2025-0",
+        "trk_limestone-bedrock-elliot-c-2023-3",
+        "trk_limestone-aggregate-elliot-c-2023-4",
+        "trk_sediment-elliot-c-2025-2",
+        "trk_oxidation-elliot-c-2025-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_provisional-exchange",
+      "slug": "provisional-exchange",
+      "name": "Provisional Exchange",
+      "formation": "band",
+      "country": "US",
+      "hometown": "Tucson, AZ",
+      "geo": {
+        "placeId": "plc_tucson",
+        "city": "Tucson",
+        "country": "US",
+        "lat": 32.22,
+        "lng": -110.97
+      },
+      "region": "us",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "working",
+      "monthlyListeners": 10075,
+      "monthlyListenersLabel": "10K monthly listeners",
+      "followers": 5010,
+      "followersLabel": "5K",
+      "shelfCaption": "Indie Rock · 10K listeners",
+      "verified": false,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_late-nocturne-provisiona",
+        "alb_infrastructure-provisiona",
+        "alb_the-exchange-provisiona",
+        "alb_depots-provisiona"
+      ],
+      "popularTrackIds": [
+        "trk_every-taxi-provisio-2016-0",
+        "trk_curfew-provisio-2016-1",
+        "trk_municipal-exchange-provisio-2017-1",
+        "trk_model-assembly-provisio-2017-0",
+        "trk_half-an-assembly-provisio-2018-0",
+        "trk_ferry-lullaby-provisio-2022-1",
+        "trk_insomnia-provisio-2016-2",
+        "trk_provisional-precinct-provisio-2022-0",
+        "trk_census-provisio-2017-2",
+        "trk_annex-reprise-provisio-2016-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-barleyfield-ensemble",
+      "slug": "the-barleyfield-ensemble",
+      "name": "The Barleyfield Ensemble",
+      "formation": "collective",
+      "country": "US",
+      "hometown": "Minneapolis, MN",
+      "geo": {
+        "placeId": "plc_minneapolis",
+        "city": "Minneapolis",
+        "country": "US",
+        "lat": 44.98,
+        "lng": -93.27
+      },
+      "region": "us",
+      "genres": [
+        "americana",
+        "analog-revival"
+      ],
+      "primaryGenre": {
+        "slug": "americana",
+        "name": "Americana"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "working",
+      "monthlyListeners": 7572,
+      "monthlyListenersLabel": "7.6K monthly listeners",
+      "followers": 2501,
+      "followersLabel": "2.5K",
+      "shelfCaption": "Americana · 7.6K listeners",
+      "verified": false,
+      "active": {
+        "from": 2020,
+        "to": null
+      },
+      "discography": [
+        "alb_the-quarry-the-barley",
+        "alb_wild-almanac-the-barley",
+        "alb_rust-tectonics-the-barley"
+      ],
+      "popularTrackIds": [
+        "trk_aggregate-march-the-barl-2020-0",
+        "trk_rootwork-the-barl-2021-0",
+        "trk_oxidation-the-barl-2020-1",
+        "trk_bright-fen-the-barl-2022-0",
+        "trk_erosion-the-barl-2020-2",
+        "trk_erosion-the-barl-2021-2",
+        "trk_seam-hymn-the-barl-2021-1",
+        "trk_almanac-the-barl-2020-3",
+        "trk_sediment-the-barl-2020-4",
+        "trk_overgrowth-the-barl-2022-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_curfew",
+      "slug": "curfew",
+      "name": "Curfew",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Providence, RI",
+      "geo": {
+        "placeId": "plc_providence",
+        "city": "Providence",
+        "country": "US",
+        "lat": 41.82,
+        "lng": -71.41
+      },
+      "region": "us",
+      "genres": [
+        "jazz",
+        "funk"
+      ],
+      "primaryGenre": {
+        "slug": "jazz",
+        "name": "Jazz"
+      },
+      "label": {
+        "id": "lbl_sable-note",
+        "name": "Sable Note"
+      },
+      "tier": "working",
+      "monthlyListeners": 3571,
+      "monthlyListenersLabel": "3.6K monthly listeners",
+      "followers": 1670,
+      "followersLabel": "1.7K",
+      "shelfCaption": "Jazz · 3.6K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_bureaus-curfew"
+      ],
+      "popularTrackIds": [
+        "trk_half-a-payphone-curfew-2023-0",
+        "trk_census-curfew-2023-1",
+        "trk_small-marquee-curfew-2023-2",
+        "trk_provisional-precinct-curfew-2023-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_tobias-total",
+      "slug": "tobias-total",
+      "name": "Tobias Total",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Providence, RI",
+      "geo": {
+        "placeId": "plc_providence",
+        "city": "Providence",
+        "country": "US",
+        "lat": 41.82,
+        "lng": -71.41
+      },
+      "region": "us",
+      "genres": [
+        "ambient",
+        "dream-pop"
+      ],
+      "primaryGenre": {
+        "slug": "ambient",
+        "name": "Ambient"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "tail",
+      "monthlyListeners": 355,
+      "monthlyListenersLabel": "355 monthly listeners",
+      "followers": 121,
+      "followersLabel": "121",
+      "shelfCaption": "Ambient · 355 listeners",
+      "verified": false,
+      "active": {
+        "from": 2024,
+        "to": null
+      },
+      "discography": [
+        "alb_cairns-tobias-tot",
+        "alb_bedrock-and-foundry-tobias-tot"
+      ],
+      "popularTrackIds": [
+        "trk_basalt-cairn-tobias-t-2024-1",
+        "trk_tectonics-tobias-t-2024-0",
+        "trk_slate-aggregate-tobias-t-2025-0",
+        "trk_basalt-bedrock-tobias-t-2024-2",
+        "trk_solar-corona-tobias-t-2024-3",
+        "trk_observatory-waltz-tobias-t-2025-1",
+        "trk_foundry-lullaby-tobias-t-2025-2",
+        "trk_total-observatory-tobias-t-2024-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_redshift",
+      "slug": "redshift",
+      "name": "Redshift",
+      "formation": "band",
+      "country": "JP",
+      "hometown": "Tokyo",
+      "geo": {
+        "placeId": "plc_tokyo",
+        "city": "Tokyo",
+        "country": "JP",
+        "lat": 35.68,
+        "lng": 139.69
+      },
+      "region": "japan",
+      "genres": [
+        "ambient",
+        "modern-composition"
+      ],
+      "primaryGenre": {
+        "slug": "ambient",
+        "name": "Ambient"
+      },
+      "label": {
+        "id": "lbl_self-released",
+        "name": "Self-released"
+      },
+      "tier": "established",
+      "monthlyListeners": 34082,
+      "monthlyListenersLabel": "34K monthly listeners",
+      "followers": 17390,
+      "followersLabel": "17K",
+      "shelfCaption": "Ambient · 34K listeners",
+      "verified": true,
+      "active": {
+        "from": 2016,
+        "to": null
+      },
+      "discography": [
+        "alb_iron-kiln-redshift",
+        "alb_solar-ascension-redshift",
+        "alb_limestone-bedrock-redshift"
+      ],
+      "popularTrackIds": [
+        "trk_zenith-redshift-2016-0",
+        "trk_sediment-redshift-2016-2",
+        "trk_equinox-blues-redshift-2022-0",
+        "trk_ninth-meridian-redshift-2016-3",
+        "trk_observatory-theme-redshift-2018-0",
+        "trk_distant-observatory-redshift-2018-1",
+        "trk_twice-the-seam-redshift-2016-1",
+        "trk_solar-equinox-redshift-2018-2",
+        "trk_limestone-kiln-redshift-2018-3",
+        "trk_quarry-song-redshift-2016-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_nell-hollowell",
+      "slug": "nell-hollowell",
+      "name": "Nell Hollowell",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Bristol",
+      "geo": {
+        "placeId": "plc_bristol",
+        "city": "Bristol",
+        "country": "GB",
+        "lat": 51.45,
+        "lng": -2.59
+      },
+      "region": "uk",
+      "genres": [
+        "post-punk",
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "post-punk",
+        "name": "Post-Punk"
+      },
+      "label": {
+        "id": "lbl_ferry-lane",
+        "name": "Ferry Lane"
+      },
+      "tier": "tail",
+      "monthlyListeners": 931,
+      "monthlyListenersLabel": "931 monthly listeners",
+      "followers": 314,
+      "followersLabel": "314",
+      "shelfCaption": "Post-Punk · 931 listeners",
+      "verified": true,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_depots-nell-hollo",
+        "alb_provisional-census-nell-hollo"
+      ],
+      "popularTrackIds": [
+        "trk_oxidation-nell-hol-2023-0",
+        "trk_model-bloc-nell-hol-2023-1",
+        "trk_limestone-seam-nell-hol-2023-2",
+        "trk_model-registry-nell-hol-2025-0"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_the-outer-aphelions",
+      "slug": "the-outer-aphelions",
+      "name": "The Outer Aphelions",
+      "formation": "band",
+      "country": "SE",
+      "hometown": "Malmö",
+      "geo": {
+        "placeId": "plc_malmo",
+        "city": "Malmö",
+        "country": "SE",
+        "lat": 55.6,
+        "lng": 13
+      },
+      "region": "nordic",
+      "genres": [
+        "ambient"
+      ],
+      "primaryGenre": {
+        "slug": "ambient",
+        "name": "Ambient"
+      },
+      "label": {
+        "id": "lbl_conservatory",
+        "name": "Conservatory Editions"
+      },
+      "tier": "working",
+      "monthlyListeners": 13765,
+      "monthlyListenersLabel": "14K monthly listeners",
+      "followers": 5414,
+      "followersLabel": "5.4K",
+      "shelfCaption": "Ambient · 14K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_sediment-the-outer-",
+        "alb_seam-and-foundry-the-outer-"
+      ],
+      "popularTrackIds": [
+        "trk_rust-quarry-the-oute-2023-0",
+        "trk_copper-seam-the-oute-2023-1",
+        "trk_oxidation-the-oute-2023-3",
+        "trk_limestone-seam-the-oute-2023-2",
+        "trk_oxidation-the-oute-2025-0",
+        "trk_tectonics-the-oute-2023-4",
+        "trk_parallax-the-oute-2025-1",
+        "trk_oxidation-the-oute-2025-2",
+        "trk_iron-quarry-the-oute-2025-4",
+        "trk_ninth-corona-the-oute-2025-3"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_renata-and-the-taxis",
+      "slug": "renata-and-the-taxis",
+      "name": "Renata & The Taxis",
+      "formation": "band",
+      "country": "CL",
+      "hometown": "Valparaíso",
+      "geo": {
+        "placeId": "plc_valparaiso",
+        "city": "Valparaíso",
+        "country": "CL",
+        "lat": -33.05,
+        "lng": -71.62
+      },
+      "region": "latam",
+      "genres": [
+        "latin",
+        "funk"
+      ],
+      "primaryGenre": {
+        "slug": "latin",
+        "name": "Latin"
+      },
+      "label": {
+        "id": "lbl_tropico-alto",
+        "name": "Trópico Alto"
+      },
+      "tier": "working",
+      "monthlyListeners": 7865,
+      "monthlyListenersLabel": "7.9K monthly listeners",
+      "followers": 3100,
+      "followersLabel": "3.1K",
+      "shelfCaption": "Latin · 7.9K listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_the-payphone-renata-and",
+        "alb_brambles-renata-and",
+        "alb_overgrowth-renata-and"
+      ],
+      "popularTrackIds": [
+        "trk_soft-hedgerow-renata-a-2021-0",
+        "trk_village-waltz-renata-a-2021-1",
+        "trk_hour-march-renata-a-2023-0",
+        "trk_curfew-renata-a-2021-3",
+        "trk_long-harvest-renata-a-2021-2",
+        "trk_no-more-orchards-renata-a-2021-4",
+        "trk_late-payphone-renata-a-2025-0",
+        "trk_last-ballroom-renata-a-2025-1",
+        "trk_fallow-pasture-renata-a-2025-2",
+        "trk_midnight-ballroom-renata-a-2025-4"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_merrick-municipal",
+      "slug": "merrick-municipal",
+      "name": "Merrick Municipal",
+      "formation": "solo",
+      "country": "US",
+      "hometown": "Richmond, VA",
+      "geo": {
+        "placeId": "plc_richmond",
+        "city": "Richmond",
+        "country": "US",
+        "lat": 37.54,
+        "lng": -77.44
+      },
+      "region": "us",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "tail",
+      "monthlyListeners": 1303,
+      "monthlyListenersLabel": "1.3K monthly listeners",
+      "followers": 605,
+      "followersLabel": "605",
+      "shelfCaption": "Indie Rock · 1.3K listeners",
+      "verified": false,
+      "active": {
+        "from": 2023,
+        "to": null
+      },
+      "discography": [
+        "alb_provision-merrick-mu",
+        "alb_velvet-motel-merrick-mu",
+        "alb_motels-merrick-mu"
+      ],
+      "popularTrackIds": [
+        "trk_assembly-lullaby-merrick--2023-0",
+        "trk_curfew-merrick--2024-0",
+        "trk_curfew-merrick--2023-2",
+        "trk_all-the-registries-merrick--2023-1",
+        "trk_new-assembly-merrick--2025-0",
+        "trk_nocturne-merrick--2024-1",
+        "trk_exchange-lullaby-merrick--2024-2",
+        "trk_nothing-but-taxis-merrick--2025-1",
+        "trk_underpass-waltz-merrick--2025-3",
+        "trk_model-terminal-merrick--2025-2"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    },
+    {
+      "id": "art_bridie-velvet",
+      "slug": "bridie-velvet",
+      "name": "Bridie Velvet",
+      "formation": "solo",
+      "country": "GB",
+      "hometown": "Belfast",
+      "geo": {
+        "placeId": "plc_belfast",
+        "city": "Belfast",
+        "country": "GB",
+        "lat": 54.6,
+        "lng": -5.93
+      },
+      "region": "uk",
+      "genres": [
+        "indie-rock"
+      ],
+      "primaryGenre": {
+        "slug": "indie-rock",
+        "name": "Indie Rock"
+      },
+      "label": {
+        "id": "lbl_blue-hour",
+        "name": "Blue Hour"
+      },
+      "tier": "tail",
+      "monthlyListeners": 189,
+      "monthlyListenersLabel": "189 monthly listeners",
+      "followers": 104,
+      "followersLabel": "104",
+      "shelfCaption": "Indie Rock · 189 listeners",
+      "verified": false,
+      "active": {
+        "from": 2021,
+        "to": null
+      },
+      "discography": [
+        "alb_curfew-bridie-vel",
+        "alb_neon-payphone-bridie-vel",
+        "alb_neon-ballroom-bridie-vel"
+      ],
+      "popularTrackIds": [
+        "trk_rooftop-waltz-bridie-v-2021-0",
+        "trk_twice-the-ballroom-bridie-v-2021-2",
+        "trk_twice-the-ballroom-bridie-v-2021-1",
+        "trk_nothing-but-taxis-bridie-v-2023-0",
+        "trk_midnight-rooftop-bridie-v-2023-1",
+        "trk_half-a-motel-bridie-v-2023-2",
+        "trk_census-bridie-v-2025-0",
+        "trk_nocturne-bridie-v-2025-2",
+        "trk_provisional-terminal-bridie-v-2025-3",
+        "trk_every-annex-bridie-v-2025-1"
+      ],
+      "nameRisk": null,
+      "designFileValue": null,
+      "image": null
+    }
+  ]
+}

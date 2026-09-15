@@ -1,0 +1,46 @@
+{
+  "id": "alb_small-insomnia-zoning-and",
+  "slug": "small-insomnia",
+  "title": "Small Insomnia",
+  "year": 2024,
+  "type": "EP",
+  "subtitle": "2024 · EP",
+  "trackCount": 4,
+  "durationSec": 835,
+  "durationLabel": "14 min",
+  "artist": {
+    "id": "art_zoning-and-census",
+    "name": "Zoning & Census",
+    "slug": "zoning-and-census"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_nocturne-zoning-a-2024-0",
+    "trk_motel-demo-zoning-a-2024-1",
+    "trk_insomnia-zoning-a-2024-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "a car park at night",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: a car park at night. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20car%20park%20at%20night.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

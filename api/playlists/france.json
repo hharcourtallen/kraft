@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-france",
+  "slug": "france",
+  "title": "France",
+  "description": null,
+  "note": "Paris is not all house music, whatever my other lists say. Margot & The Spindles and Lodestar live twenty minutes from me.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "FR",
+  "subtitle": "Théo Marchand",
+  "curator": {
+    "id": "cur_teo-marchand",
+    "name": "Théo Marchand",
+    "city": "Paris"
+  },
+  "trackCount": 12,
+  "durationSec": 2975,
+  "durationLabel": "50 min",
+  "metaLine": "12 tracks · 50 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 14100,
+  "followersLabel": "14K",
+  "updated": "2026-07-15",
+  "moods": [],
+  "genres": [
+    "house",
+    "folk",
+    "electronic"
+  ],
+  "trackIds": [
+    "trk_worn-edges",
+    "trk_trawler-march-lodestar-2024-0",
+    "trk_ballast-lodestar-2024-1",
+    "trk_golden-alder-opal-and-2015-2",
+    "trk_bloom-opal-and-2014-0",
+    "trk_long-meadow-bloom-2022-3",
+    "trk_another-meadow-small-pa-2019-2",
+    "trk_afterhours-ren-ishi-2023-0",
+    "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+    "trk_cove-waltz-the-shoa-2021-3",
+    "trk_cove-march-petra-il-2015-1",
+    "trk_curfew-ren-ishi-2020-3"
+  ],
+  "tracks": [
+    {
+      "id": "trk_worn-edges",
+      "slug": "worn-edges",
+      "title": "Worn Edges",
+      "duration": "4:22",
+      "durationSec": 262,
+      "artist": {
+        "id": "art_margot-and-the-spindles",
+        "name": "Margot & The Spindles",
+        "slug": "margot-and-the-spindles"
+      },
+      "album": {
+        "id": "alb_thrift-store-finds",
+        "title": "Thrift Store Finds",
+        "slug": "thrift-store-finds",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/thrift-store-finds.jpg"
+    },
+    {
+      "id": "trk_trawler-march-lodestar-2024-0",
+      "slug": "trawler-march",
+      "title": "Trawler March",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_ballast-lodestar-2024-1",
+      "slug": "ballast",
+      "title": "Ballast",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_lodestar",
+        "name": "Lodestar",
+        "slug": "lodestar"
+      },
+      "album": {
+        "id": "alb_bloom-lodestar",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_golden-alder-opal-and-2015-2",
+      "slug": "golden-alder",
+      "title": "Golden Alder",
+      "duration": "4:29",
+      "durationSec": 269,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_fieldwork-opal-and-t",
+        "title": "Fieldwork",
+        "slug": "fieldwork",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bloom-opal-and-2014-0",
+      "slug": "bloom",
+      "title": "Bloom",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_long-meadow-bloom-2022-3",
+      "slug": "long-meadow",
+      "title": "Long Meadow",
+      "duration": "4:54",
+      "durationSec": 294,
+      "artist": {
+        "id": "art_bloom",
+        "name": "Bloom",
+        "slug": "bloom"
+      },
+      "album": {
+        "id": "alb_grey-estuary-bloom",
+        "title": "Grey Estuary",
+        "slug": "grey-estuary",
+        "year": 2022
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_another-meadow-small-pa-2019-2",
+      "slug": "another-meadow",
+      "title": "Another Meadow",
+      "duration": "4:34",
+      "durationSec": 274,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_village-and-bramble-small-payp",
+        "title": "Village & Bramble",
+        "slug": "village-and-bramble",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_afterhours-ren-ishi-2023-0",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "4:48",
+      "durationSec": 288,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_husbandry-ren-ishii",
+        "title": "Husbandry",
+        "slug": "husbandry",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+      "slug": "quarry-live-at-the-roundhouse",
+      "title": "Quarry (Live at the Roundhouse)",
+      "duration": "2:53",
+      "durationSec": 173,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slate-tectonics-opal-and-t",
+        "title": "Slate Tectonics",
+        "slug": "slate-tectonics",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cove-waltz-the-shoa-2021-3",
+      "slug": "cove-waltz",
+      "title": "Cove Waltz",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_the-shoals",
+        "name": "The Shoals",
+        "slug": "the-shoals"
+      },
+      "album": {
+        "id": "alb_almanac-the-shoals",
+        "title": "Almanac",
+        "slug": "almanac",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cove-march-petra-il-2015-1",
+      "slug": "cove-march",
+      "title": "Cove March",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_golden-harvest-petra-ilic",
+        "title": "Golden Harvest",
+        "slug": "golden-harvest",
+        "year": 2015
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_curfew-ren-ishi-2020-3",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_low-thicket-ren-ishii",
+        "title": "Low Thicket",
+        "slug": "low-thicket",
+        "year": 2020
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-france.png",
+    "direction": {
+      "genre": "house",
+      "year": 2026,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+      "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+      "abstract": false,
+      "subject": "stacked geometric arcs",
+      "palette": "electric blue, chrome, hot orange, black"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2026 cover deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: stacked geometric arcs. Palette: electric blue, chrome, hot orange, black. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202026%20cover%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20stacked%20geometric%20arcs.%20Palette%3A%20electric%20blue%2C%20chrome%2C%20hot%20orange%2C%20black.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "15 Jul"
+}

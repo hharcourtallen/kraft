@@ -1,0 +1,349 @@
+{
+  "id": "art_rhys-rees",
+  "slug": "rhys-rees",
+  "name": "Rhys Rees",
+  "formation": "solo",
+  "country": "GB",
+  "hometown": "Belfast",
+  "geo": {
+    "placeId": "plc_belfast",
+    "city": "Belfast",
+    "country": "GB",
+    "lat": 54.6,
+    "lng": -5.93
+  },
+  "region": "uk",
+  "genres": [
+    "jazz"
+  ],
+  "primaryGenre": {
+    "slug": "jazz",
+    "name": "Jazz"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 330,
+  "monthlyListenersLabel": "330 monthly listeners",
+  "followers": 203,
+  "followersLabel": "203",
+  "shelfCaption": "Jazz · 330 listeners",
+  "verified": true,
+  "active": {
+    "from": 2021,
+    "to": null
+  },
+  "bio": "Rhys Rees has been a Belfast fixture since 2021. Plays standards like an argument and originals like the last word. Names every record after a street they no longer live on.",
+  "discography": [
+    "alb_boulevard-and-ballroom-rhys-rees",
+    "alb_municipal-infrastructure-rhys-rees",
+    "alb_annex-and-terminal-rhys-rees"
+  ],
+  "popularTrackIds": [
+    "trk_zoning-rhys-ree-2021-0",
+    "trk_assembly-hymn-rhys-ree-2023-0",
+    "trk_public-terminal-rhys-ree-2021-1",
+    "trk_another-taxi-rhys-ree-2021-2",
+    "trk_new-bureau-rhys-ree-2023-1",
+    "trk_neon-hour-rhys-ree-2023-2",
+    "trk_model-registry-rhys-ree-2023-3",
+    "trk_underpass-song-rhys-ree-2025-1",
+    "trk_provision-rhys-ree-2025-0",
+    "trk_twice-the-terminal-rhys-ree-2025-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2025,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "long-exposure photograph with heavy bloom and lens diffusion",
+        "composition": "abstracted, subject barely legible, edge-to-edge softness",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2025 press image deliberately styled after 1980-1999. Medium: long-exposure photograph with heavy bloom and lens diffusion. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: deep navy or oxblood with cream, one flat colour block. Composition: abstracted, subject barely legible, edge-to-edge softness. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202025%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20long-exposure%20photograph%20with%20heavy%20bloom%20and%20lens%20diffusion.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20abstracted%2C%20subject%20barely%20legible%2C%20edge-to-edge%20softness.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2025,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "duotone photograph printed over a flat solid colour block",
+        "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2025 press image deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: a band of three standing far apart in an empty car park. Palette: deep navy or oxblood with cream, one flat colour block. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202025%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_zoning-rhys-ree-2021-0",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "5:18",
+      "durationSec": 318,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_annex-and-terminal-rhys-rees",
+        "title": "Annex & Terminal",
+        "slug": "annex-and-terminal",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "9,874"
+    },
+    {
+      "id": "trk_assembly-hymn-rhys-ree-2023-0",
+      "slug": "assembly-hymn",
+      "title": "Assembly Hymn",
+      "duration": "7:26",
+      "durationSec": 446,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "4,425"
+    },
+    {
+      "id": "trk_public-terminal-rhys-ree-2021-1",
+      "slug": "public-terminal",
+      "title": "Public Terminal",
+      "duration": "5:37",
+      "durationSec": 337,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_annex-and-terminal-rhys-rees",
+        "title": "Annex & Terminal",
+        "slug": "annex-and-terminal",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "3,743"
+    },
+    {
+      "id": "trk_another-taxi-rhys-ree-2021-2",
+      "slug": "another-taxi",
+      "title": "Another Taxi",
+      "duration": "7:01",
+      "durationSec": 421,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_annex-and-terminal-rhys-rees",
+        "title": "Annex & Terminal",
+        "slug": "annex-and-terminal",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "2,734"
+    },
+    {
+      "id": "trk_new-bureau-rhys-ree-2023-1",
+      "slug": "new-bureau",
+      "title": "New Bureau",
+      "duration": "5:33",
+      "durationSec": 333,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "2,036"
+    },
+    {
+      "id": "trk_neon-hour-rhys-ree-2023-2",
+      "slug": "neon-hour",
+      "title": "Neon Hour",
+      "duration": "7:08",
+      "durationSec": 428,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "702"
+    },
+    {
+      "id": "trk_model-registry-rhys-ree-2023-3",
+      "slug": "model-registry",
+      "title": "Model Registry",
+      "duration": "7:02",
+      "durationSec": 422,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "582"
+    },
+    {
+      "id": "trk_underpass-song-rhys-ree-2025-1",
+      "slug": "underpass-song",
+      "title": "Underpass Song",
+      "duration": "8:18",
+      "durationSec": 498,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "413"
+    },
+    {
+      "id": "trk_provision-rhys-ree-2025-0",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "6:31",
+      "durationSec": 391,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "390"
+    },
+    {
+      "id": "trk_twice-the-terminal-rhys-ree-2025-2",
+      "slug": "twice-the-terminal",
+      "title": "Twice the Terminal",
+      "duration": "5:55",
+      "durationSec": 355,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_boulevard-and-ballroom-rhys-rees",
+        "title": "Boulevard & Ballroom",
+        "slug": "boulevard-and-ballroom",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "282"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_boulevard-and-ballroom-rhys-rees",
+      "slug": "boulevard-and-ballroom",
+      "title": "Boulevard & Ballroom",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_municipal-infrastructure-rhys-rees",
+      "slug": "municipal-infrastructure",
+      "title": "Municipal Infrastructure",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_annex-and-terminal-rhys-rees",
+      "slug": "annex-and-terminal",
+      "title": "Annex & Terminal",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Assembly Hymn",
+      "position": 8,
+      "caption": "Assembly Hymn is track 8"
+    },
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Model Registry",
+      "position": 8,
+      "caption": "Model Registry is track 8"
+    }
+  ]
+}

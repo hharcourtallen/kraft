@@ -1,0 +1,120 @@
+{
+  "id": "art_jack-hatfield",
+  "slug": "jack-hatfield",
+  "name": "Jack Hatfield",
+  "formation": "solo",
+  "country": "GB",
+  "hometown": "Whitby",
+  "geo": {
+    "placeId": "plc_whitby",
+    "city": "Whitby",
+    "country": "GB",
+    "lat": 54.49,
+    "lng": -0.61
+  },
+  "region": "us-uk",
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "flagship",
+  "monthlyListeners": 268000,
+  "monthlyListenersLabel": "268K monthly listeners",
+  "followers": 109000,
+  "followersLabel": "109K",
+  "shelfCaption": "Folk · 268K listeners",
+  "verified": true,
+  "active": {
+    "from": 2015,
+    "to": null
+  },
+  "bio": "North-coast folk singer with a guitar tuned down and a boat he keeps meaning to fix. Sings about harbours, weather and staying put.",
+  "discography": [
+    "alb_bloom"
+  ],
+  "popularTrackIds": [
+    "trk_harbour-lights"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2025,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "duotone photograph printed over a flat solid colour block",
+        "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2025 press image deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: a musician leaning on a van, road behind them. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202025%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": {
+    "monthlyListeners": 4200000
+  },
+  "popular": [
+    {
+      "id": "trk_harbour-lights",
+      "slug": "harbour-lights",
+      "title": "Harbour Lights",
+      "duration": "5:36",
+      "durationSec": 336,
+      "artist": {
+        "id": "art_jack-hatfield",
+        "name": "Jack Hatfield",
+        "slug": "jack-hatfield"
+      },
+      "album": {
+        "id": "alb_bloom",
+        "title": "Bloom",
+        "slug": "bloom",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "4,180,229"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_bloom",
+      "slug": "bloom",
+      "title": "Bloom",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

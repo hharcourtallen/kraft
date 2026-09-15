@@ -1,0 +1,46 @@
+{
+  "id": "alb_bloom-sadie-and-",
+  "slug": "bloom-sadie-and-the-villages",
+  "title": "Bloom",
+  "year": 2020,
+  "type": "Album",
+  "subtitle": "2020 · Album",
+  "trackCount": 9,
+  "durationSec": 2079,
+  "durationLabel": "35 min",
+  "artist": {
+    "id": "art_sadie-and-the-villages",
+    "name": "Sadie & The Villages",
+    "slug": "sadie-and-the-villages"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "americana"
+  ],
+  "tracks": [
+    "trk_cairn-demo-sadie-an-2020-0",
+    "trk_tectonics-sadie-an-2020-1",
+    "trk_copper-cairn-sadie-an-2020-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2020,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "painted illustration in gouache on board, visible brush texture",
+      "composition": "flat poster illustration, no perspective, filled frame",
+      "abstract": false,
+      "subject": "a screen door and porch light",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2020 sleeve deliberately styled after 1955-1979. Medium: painted illustration in gouache on board, visible brush texture. Subject: a screen door and porch light. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: flat poster illustration, no perspective, filled frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202020%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20painted%20illustration%20in%20gouache%20on%20board%2C%20visible%20brush%20texture.%20Subject%3A%20a%20screen%20door%20and%20porch%20light.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20flat%20poster%20illustration%2C%20no%20perspective%2C%20filled%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

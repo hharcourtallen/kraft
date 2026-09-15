@@ -1,0 +1,26 @@
+{
+  "placeholder": "Search tracks, artists, albums…",
+  "recentSearches": [
+    {
+      "type": "artist",
+      "id": "art_zaya-blue",
+      "title": "Zaya Blue",
+      "subtitle": "Artist",
+      "shape": "circle"
+    },
+    {
+      "type": "track",
+      "id": "trk_golden-thread",
+      "title": "Golden Thread",
+      "subtitle": "Song · Zaya Blue",
+      "shape": "square"
+    },
+    {
+      "type": "album",
+      "id": "alb_brass-and-bones",
+      "title": "Brass & Bones",
+      "subtitle": "Album · Dusk Ritual",
+      "shape": "square"
+    }
+  ]
+}

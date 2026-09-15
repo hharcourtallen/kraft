@@ -1,0 +1,98 @@
+{
+  "id": "cur_luana-andrade",
+  "slug": "luana-andrade",
+  "name": "Luana Andrade",
+  "beat": [
+    "latin",
+    "cumbia",
+    "bossa"
+  ],
+  "beatLabel": "Latin · Cumbia · Bossa Nova",
+  "city": "São Paulo",
+  "geo": {
+    "placeId": "plc_sao-paulo",
+    "city": "São Paulo",
+    "country": "BR",
+    "lat": -23.55,
+    "lng": -46.63
+  },
+  "since": 2021,
+  "bio": "Grew up in her father's rehearsal room. Can tell a Rio pressing from a Bogotá one by the hiss.",
+  "kicker": "Curator · São Paulo · since 2021",
+  "listCount": 31,
+  "listIds": [
+    "pl_poolside",
+    "pl_tropicalia",
+    "pl_country-argentina",
+    "pl_country-chile",
+    "pl_country-brazil"
+  ],
+  "followers": 58700,
+  "followersLabel": "59K",
+  "follows": [
+    "cur_sofia-reyes",
+    "cur_ade-mensah"
+  ],
+  "nowPlaying": {
+    "playlistId": "pl_tropicalia",
+    "slug": "tropicalia",
+    "title": "Tropicália",
+    "curatorName": "Luana Andrade"
+  },
+  "notes": [
+    {
+      "playlistId": "pl_poolside",
+      "playlistTitle": "Poolside",
+      "note": "Cumbia, bossa, and things that move at the speed of a Sunday. Play it loud enough that the neighbours ask.",
+      "updated": "2026-08-04",
+      "updatedLabel": "3 weeks ago"
+    },
+    {
+      "playlistId": "pl_country-brazil",
+      "playlistTitle": "Brazil",
+      "note": "Home. São Paulo is concrete and rain and somebody’s speaker on a balcony; this is what is usually coming out of it.",
+      "updated": "2026-07-24",
+      "updatedLabel": "24 Jul"
+    },
+    {
+      "playlistId": "pl_tropicalia",
+      "playlistTitle": "Tropicália",
+      "note": "The Rio pressings and the Bogotá ones side by side. You can tell them apart by the hiss, and now so can you.",
+      "updated": "2026-07-14",
+      "updatedLabel": "14 Jul"
+    },
+    {
+      "playlistId": "pl_country-argentina",
+      "playlistTitle": "Argentina",
+      "note": "Buenos Aires is a three-hour flight and a completely different Sunday. Mateo Molinari first, always.",
+      "updated": "2026-06-26",
+      "updatedLabel": "26 Jun"
+    },
+    {
+      "playlistId": "pl_country-chile",
+      "playlistTitle": "Chile",
+      "note": "Santiago has the Andes at the end of every street, and bands that play like they know it. Start with I.A.R.",
+      "updated": "2026-06-12",
+      "updatedLabel": "12 Jun"
+    }
+  ],
+  "artwork": {
+    "portrait": {
+      "image": "/artwork/curator/luana-andrade.jpg",
+      "direction": {
+        "genre": "latin",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a person listening on headphones, eyes down, natural light",
+        "palette": "terracotta, cobalt, marigold, whitewash"
+      },
+      "prompt": "Portrait of a music curator, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a person listening on headphones, eyes down, natural light. Palette: terracotta, cobalt, marigold, whitewash. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Portrait%20of%20a%20music%20curator%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20person%20listening%20on%20headphones%2C%20eyes%20down%2C%20natural%20light.%20Palette%3A%20terracotta%2C%20cobalt%2C%20marigold%2C%20whitewash.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    }
+  }
+}

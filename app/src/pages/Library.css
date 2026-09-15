@@ -1,0 +1,62 @@
+.lib-head {
+  display: flex;
+  align-items: flex-end;
+  justify-content: space-between;
+}
+
+.lib-head-text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-1);
+}
+
+.lib-head p,
+.lib-title {
+  margin: 0;
+}
+
+.lib-title {
+  font-weight: var(--font-weight-display-medium);
+}
+
+.lib-rows {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-1);
+}
+
+.lib-row {
+  display: flex;
+  align-items: center;
+  gap: var(--spacing-3);
+  height: 64px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-md);
+}
+
+.lib-row:hover {
+  background: var(--color-hover);
+}
+
+.lib-cover {
+  width: 52px;
+  height: 52px;
+  border-radius: var(--radius-md);
+}
+
+.lib-cover--round {
+  border-radius: var(--radius-full);
+}
+
+.lib-row-text {
+  flex: 1 1 0;
+  min-width: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}
+
+.lib-row-right {
+  width: 160px;
+  flex-shrink: 0;
+}

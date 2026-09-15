@@ -1,0 +1,49 @@
+{
+  "id": "alb_bloc-and-registry-halvor-lin",
+  "slug": "bloc-and-registry",
+  "title": "Bloc & Registry",
+  "year": 2014,
+  "type": "Album",
+  "subtitle": "2014 · Album",
+  "trackCount": 10,
+  "durationSec": 4156,
+  "durationLabel": "1 hr 9 min",
+  "artist": {
+    "id": "art_halvor-lindqvist",
+    "name": "Halvor Lindqvist",
+    "slug": "halvor-lindqvist"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "genres": [
+    "jazz",
+    "modern-composition"
+  ],
+  "tracks": [
+    "trk_central-registry-halvor-l-2014-0",
+    "trk_municipal-exchange-halvor-l-2014-1",
+    "trk_insomnia-halvor-l-2014-2",
+    "trk_two-hundred-terminals-halvor-l-2014-3",
+    "trk_precinct-waltz-halvor-l-2014-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2014,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "offset lithograph with visible halftone rosette and slight colour misregistration",
+      "composition": "bold flat shapes, wide margins, one dominant form",
+      "abstract": false,
+      "subject": "a brass bell in extreme close-up",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2014 sleeve deliberately styled after 1955-1979. Medium: offset lithograph with visible halftone rosette and slight colour misregistration. Subject: a brass bell in extreme close-up. Palette: deep navy or oxblood with cream, one flat colour block. Composition: bold flat shapes, wide margins, one dominant form. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202014%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20offset%20lithograph%20with%20visible%20halftone%20rosette%20and%20slight%20colour%20misregistration.%20Subject%3A%20a%20brass%20bell%20in%20extreme%20close-up.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20bold%20flat%20shapes%2C%20wide%20margins%2C%20one%20dominant%20form.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

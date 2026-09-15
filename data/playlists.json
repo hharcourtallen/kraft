@@ -1,0 +1,296 @@
+{
+  "$comment": "Authored lists. Every list carries a `note` — the curator's sentence or two — because the note is the product. Vinyl Sundays has a full explicit tracklist because it is fully drawn in the file; the rest carry counts that match the Library screen, and build.mjs fills their tracklists from the catalogue. `system: true` marks Liked Songs, the one auto-generated list the brand allows.",
+  "playlists": [
+    {
+      "id": "pl_vinyl-sundays",
+      "title": "Vinyl Sundays",
+      "curatorId": "cur_sofia-reyes",
+      "origin": "authored",
+      "description": "Warm, nostalgic, lo-fi, analog warmth, lazy weekend mornings. Special for sundays and winter.",
+      "moods": [
+        "sunday-morning",
+        "chill"
+      ],
+      "genres": [
+        "analog-revival"
+      ],
+      "followers": 84210,
+      "updated": "2026-08-16",
+      "trackIds": [
+        "trk_dust-on-the-needle",
+        "trk_crackle-and-hum",
+        "trk_breakfast-in-mono",
+        "trk_turntable-daydream",
+        "trk_paper-sleeves",
+        "trk_worn-edges",
+        "trk_static-lullaby",
+        "trk_45-rpm-heart",
+        "trk_faded-label",
+        "trk_last-track-home"
+      ],
+      "note": "I've been building this one since we launched. It is the closest thing Kraft has to a house style: tape hiss, room mics, and nothing that sounds finished.",
+      "notePin": {
+        "trackId": "trk_dust-on-the-needle",
+        "sec": 38
+      }
+    },
+    {
+      "id": "pl_late-night-heat",
+      "title": "Late Night Heat",
+      "curatorId": "cur_amara-diallo",
+      "origin": "authored",
+      "description": "Slow, humid, after two in the morning. For rooms with one lamp on.",
+      "moods": [
+        "late-night"
+      ],
+      "genres": [
+        "rnb",
+        "soul",
+        "downtempo"
+      ],
+      "trackCount": 8,
+      "followers": 41880,
+      "updated": "2026-08-19",
+      "note": "Made for the drive home after the drive home. Nothing here asks for your full attention until the third song, and then it takes it.",
+      "pinnedTrackIds": [
+        "trk_cassette-weather"
+      ],
+      "trackIds": []
+    },
+    {
+      "id": "pl_golden-hour",
+      "title": "Golden Hour",
+      "curatorId": "cur_sofia-reyes",
+      "origin": "authored",
+      "description": "The forty minutes before the light goes. Nothing urgent, nothing sad.",
+      "moods": [
+        "chill"
+      ],
+      "genres": [
+        "folk",
+        "bossa",
+        "dream-pop"
+      ],
+      "trackCount": 20,
+      "followers": 129440,
+      "updated": "2026-08-21",
+      "note": "Records that sound like the last hour of light. I sequence this one backwards, brightest last.",
+      "pinnedTrackIds": [
+        "trk_paper-lanterns",
+        "trk_harbour-lights"
+      ],
+      "trackIds": []
+    },
+    {
+      "id": "pl_wildflower-days",
+      "title": "Wildflower Days",
+      "curatorId": "cur_sofia-reyes",
+      "origin": "authored",
+      "description": "Open windows, long grass, and a tape deck that only plays one side.",
+      "moods": [
+        "sunday-morning"
+      ],
+      "genres": [
+        "folk",
+        "americana",
+        "singer-songwriter"
+      ],
+      "trackCount": 15,
+      "followers": 62190,
+      "updated": "2026-07-30",
+      "note": "Folk that isn't precious about it. Half of these were recorded outdoors and you can hear a dog somewhere.",
+      "pinnedTrackIds": [
+        "trk_open-fields",
+        "trk_wax-and-wane"
+      ],
+      "trackIds": []
+    },
+    {
+      "id": "pl_cassette-dreams",
+      "title": "Cassette Dreams",
+      "curatorId": "cur_haruka-nakagawa",
+      "origin": "authored",
+      "description": "Everything here sounds like it was dubbed twice. That is the point.",
+      "moods": [
+        "chill",
+        "focus"
+      ],
+      "genres": [
+        "dream-pop",
+        "shoegaze",
+        "analog-revival"
+      ],
+      "trackCount": 9,
+      "followers": 37605,
+      "updated": "2026-08-11",
+      "note": "Shoegaze and dream pop that still hisses. I kept the ones where the tape is part of the song, not a filter on top of it.",
+      "pinnedTrackIds": [
+        "trk_golden-thread",
+        "trk_night-bloom"
+      ],
+      "trackIds": []
+    },
+    {
+      "id": "pl_poolside",
+      "title": "Poolside",
+      "curatorId": "cur_luana-andrade",
+      "origin": "authored",
+      "description": "Bossa, dub and disco edits for standing in shade you did not plan for.",
+      "moods": [
+        "chill",
+        "euphoric"
+      ],
+      "genres": [
+        "bossa",
+        "dub",
+        "funk"
+      ],
+      "trackCount": 11,
+      "followers": 55302,
+      "updated": "2026-08-04",
+      "note": "Cumbia, bossa, and things that move at the speed of a Sunday. Play it loud enough that the neighbours ask.",
+      "trackIds": []
+    },
+    {
+      "id": "pl_garden-sessions",
+      "title": "Garden Sessions",
+      "curatorId": "cur_ingrid-halvorsen",
+      "origin": "authored",
+      "description": "Twenty-five pieces recorded outdoors or pretending to have been.",
+      "moods": [
+        "focus",
+        "chill"
+      ],
+      "genres": [
+        "ambient",
+        "modern-composition",
+        "folk"
+      ],
+      "trackCount": 25,
+      "followers": 48117,
+      "updated": "2026-08-22",
+      "note": "Ambient for daylight. No drone longer than the kettle takes; this is a list to do something else to.",
+      "notePin": {
+        "trackId": "trk_orbit-hymn-til-voge-2023-1",
+        "sec": 400
+      },
+      "trackIds": []
+    },
+    {
+      "id": "pl_string-theory",
+      "title": "String Theory",
+      "curatorId": "cur_ingrid-halvorsen",
+      "origin": "authored",
+      "description": "Bowed, plucked, prepared and bowed again. Strings doing unusual work.",
+      "moods": [
+        "focus"
+      ],
+      "genres": [
+        "modern-composition",
+        "experimental"
+      ],
+      "trackCount": 18,
+      "followers": 21044,
+      "updated": "2026-06-28",
+      "note": "Modern composition for strings, mostly. Two of these were recorded in the same church, eleven years apart. You can hear the roof.",
+      "trackIds": []
+    },
+    {
+      "id": "pl_jazz-nights",
+      "title": "Jazz Nights",
+      "curatorId": "cur_marcus-pike",
+      "origin": "authored",
+      "description": "Small rooms, late sets, and the bar still open. Sequenced as one long night.",
+      "moods": [
+        "late-night"
+      ],
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "trackCount": 22,
+      "followers": 93860,
+      "updated": "2026-08-18",
+      "note": "Small rooms, late sets, the count-in left in. If you can hear the bassist breathe, it made the cut.",
+      "notePin": {
+        "trackId": "trk_minor-key",
+        "sec": 4
+      },
+      "trackIds": []
+    },
+    {
+      "id": "pl_tropicalia",
+      "title": "Tropicália",
+      "curatorId": "cur_luana-andrade",
+      "origin": "authored",
+      "description": "The Brazilian late sixties and everything downstream of it.",
+      "moods": [
+        "euphoric"
+      ],
+      "genres": [
+        "bossa",
+        "latin",
+        "funk"
+      ],
+      "trackCount": 24,
+      "followers": 71225,
+      "updated": "2026-07-14",
+      "note": "The Rio pressings and the Bogotá ones side by side. You can tell them apart by the hiss, and now so can you.",
+      "trackIds": []
+    },
+    {
+      "id": "pl_midnight-sax",
+      "title": "Midnight Sax",
+      "curatorId": "cur_marcus-pike",
+      "origin": "authored",
+      "description": "One instrument, one hour, no apologies.",
+      "moods": [
+        "late-night"
+      ],
+      "genres": [
+        "jazz",
+        "spiritual-jazz",
+        "soul"
+      ],
+      "trackCount": 14,
+      "followers": 33418,
+      "updated": "2026-05-09",
+      "note": "Ballads only. I put this together for a friend who couldn't sleep and it has outlived the insomnia.",
+      "trackIds": []
+    },
+    {
+      "id": "pl_the-archive",
+      "title": "The Archive",
+      "curatorId": "cur_ade-mensah",
+      "origin": "authored",
+      "description": "Reissues, restorations and records that nearly did not survive.",
+      "moods": [],
+      "genres": [
+        "afrobeat",
+        "dub",
+        "funk",
+        "cumbia"
+      ],
+      "trackCount": 40,
+      "followers": 26703,
+      "updated": "2026-08-20",
+      "note": "Forty tracks of Accra and Lagos crate finds. The liner notes are longer than some of the songs, on purpose.",
+      "trackIds": []
+    },
+    {
+      "id": "pl_liked-songs",
+      "title": "Liked Songs",
+      "curatorId": null,
+      "userId": "usr_sofia-reyes",
+      "system": true,
+      "origin": "authored",
+      "description": null,
+      "subtitle": "Auto-generated",
+      "trackCount": 312,
+      "moods": [],
+      "genres": [],
+      "note": null,
+      "trackIds": []
+    }
+  ]
+}

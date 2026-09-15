@@ -1,0 +1,327 @@
+{
+  "id": "art_the-barleyfield-ensemble",
+  "slug": "the-barleyfield-ensemble",
+  "name": "The Barleyfield Ensemble",
+  "formation": "collective",
+  "country": "US",
+  "hometown": "Minneapolis, MN",
+  "geo": {
+    "placeId": "plc_minneapolis",
+    "city": "Minneapolis",
+    "country": "US",
+    "lat": 44.98,
+    "lng": -93.27
+  },
+  "region": "us",
+  "genres": [
+    "americana",
+    "analog-revival"
+  ],
+  "primaryGenre": {
+    "slug": "americana",
+    "name": "Americana"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "working",
+  "monthlyListeners": 7572,
+  "monthlyListenersLabel": "7.6K monthly listeners",
+  "followers": 2501,
+  "followersLabel": "2.5K",
+  "shelfCaption": "Americana · 7.6K listeners",
+  "verified": false,
+  "active": {
+    "from": 2020,
+    "to": null
+  },
+  "bio": "A collective making americana about weather. Everything is cut in a single take or not at all.",
+  "discography": [
+    "alb_the-quarry-the-barley",
+    "alb_wild-almanac-the-barley",
+    "alb_rust-tectonics-the-barley"
+  ],
+  "popularTrackIds": [
+    "trk_aggregate-march-the-barl-2020-0",
+    "trk_rootwork-the-barl-2021-0",
+    "trk_oxidation-the-barl-2020-1",
+    "trk_bright-fen-the-barl-2022-0",
+    "trk_erosion-the-barl-2020-2",
+    "trk_erosion-the-barl-2021-2",
+    "trk_seam-hymn-the-barl-2021-1",
+    "trk_almanac-the-barl-2020-3",
+    "trk_sediment-the-barl-2020-4",
+    "trk_overgrowth-the-barl-2022-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2022,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "documentary black-and-white 35mm photograph, coarse grain, printed hard",
+        "composition": "candid framing, subject off-centre, generous empty space",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2022 press image deliberately styled after 1955-1979. Medium: documentary black-and-white 35mm photograph, coarse grain, printed hard. Subject: a musician in their late twenties looking just past the camera. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: candid framing, subject off-centre, generous empty space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202022%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20documentary%20black-and-white%2035mm%20photograph%2C%20coarse%20grain%2C%20printed%20hard.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20candid%20framing%2C%20subject%20off-centre%2C%20generous%20empty%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "americana",
+        "year": 2022,
+        "era": "classic",
+        "eraLabel": "1980-1999",
+        "isPeriodHomage": true,
+        "medium": "duotone photograph printed over a flat solid colour block",
+        "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "dust red, faded turquoise, cream, asphalt grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2022 press image deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: a musician walking away down a wet street, back to camera. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202022%20press%20image%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_aggregate-march-the-barl-2020-0",
+      "slug": "aggregate-march",
+      "title": "Aggregate March",
+      "duration": "2:40",
+      "durationSec": 160,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "99,457"
+    },
+    {
+      "id": "trk_rootwork-the-barl-2021-0",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_wild-almanac-the-barley",
+        "title": "Wild Almanac",
+        "slug": "wild-almanac",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "65,843"
+    },
+    {
+      "id": "trk_oxidation-the-barl-2020-1",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "3:53",
+      "durationSec": 233,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "65,295"
+    },
+    {
+      "id": "trk_bright-fen-the-barl-2022-0",
+      "slug": "bright-fen",
+      "title": "Bright Fen",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_the-quarry-the-barley",
+        "title": "The Quarry",
+        "slug": "the-quarry",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "54,632"
+    },
+    {
+      "id": "trk_erosion-the-barl-2020-2",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:26",
+      "durationSec": 266,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "41,004"
+    },
+    {
+      "id": "trk_erosion-the-barl-2021-2",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:47",
+      "durationSec": 287,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_wild-almanac-the-barley",
+        "title": "Wild Almanac",
+        "slug": "wild-almanac",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "35,936"
+    },
+    {
+      "id": "trk_seam-hymn-the-barl-2021-1",
+      "slug": "seam-hymn",
+      "title": "Seam Hymn",
+      "duration": "3:04",
+      "durationSec": 184,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_wild-almanac-the-barley",
+        "title": "Wild Almanac",
+        "slug": "wild-almanac",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "27,880"
+    },
+    {
+      "id": "trk_almanac-the-barl-2020-3",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:41",
+      "durationSec": 221,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "22,312"
+    },
+    {
+      "id": "trk_sediment-the-barl-2020-4",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "4:49",
+      "durationSec": 289,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_rust-tectonics-the-barley",
+        "title": "Rust Tectonics",
+        "slug": "rust-tectonics",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "15,855"
+    },
+    {
+      "id": "trk_overgrowth-the-barl-2022-1",
+      "slug": "overgrowth",
+      "title": "Overgrowth",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_the-barleyfield-ensemble",
+        "name": "The Barleyfield Ensemble",
+        "slug": "the-barleyfield-ensemble"
+      },
+      "album": {
+        "id": "alb_the-quarry-the-barley",
+        "title": "The Quarry",
+        "slug": "the-quarry",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "15,834"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-quarry-the-barley",
+      "slug": "the-quarry",
+      "title": "The Quarry",
+      "subtitle": "2022 · EP",
+      "year": 2022,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_wild-almanac-the-barley",
+      "slug": "wild-almanac",
+      "title": "Wild Almanac",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_rust-tectonics-the-barley",
+      "slug": "rust-tectonics",
+      "title": "Rust Tectonics",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

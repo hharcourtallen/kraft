@@ -1,0 +1,336 @@
+{
+  "id": "art_provisional-exchange",
+  "slug": "provisional-exchange",
+  "name": "Provisional Exchange",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Tucson, AZ",
+  "geo": {
+    "placeId": "plc_tucson",
+    "city": "Tucson",
+    "country": "US",
+    "lat": 32.22,
+    "lng": -110.97
+  },
+  "region": "us",
+  "genres": [
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "working",
+  "monthlyListeners": 10075,
+  "monthlyListenersLabel": "10K monthly listeners",
+  "followers": 5010,
+  "followersLabel": "5K",
+  "shelfCaption": "Indie Rock · 10K listeners",
+  "verified": false,
+  "active": {
+    "from": 2016,
+    "to": null
+  },
+  "bio": "Formed in Tucson, AZ and still arguing about it. Three amps, no pedals, and a rule against overdubs.",
+  "discography": [
+    "alb_late-nocturne-provisiona",
+    "alb_infrastructure-provisiona",
+    "alb_the-exchange-provisiona",
+    "alb_depots-provisiona"
+  ],
+  "popularTrackIds": [
+    "trk_every-taxi-provisio-2016-0",
+    "trk_curfew-provisio-2016-1",
+    "trk_municipal-exchange-provisio-2017-1",
+    "trk_model-assembly-provisio-2017-0",
+    "trk_half-an-assembly-provisio-2018-0",
+    "trk_ferry-lullaby-provisio-2022-1",
+    "trk_insomnia-provisio-2016-2",
+    "trk_provisional-precinct-provisio-2022-0",
+    "trk_census-provisio-2017-2",
+    "trk_annex-reprise-provisio-2016-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician in profile against a plain wall. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2022,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a band of three standing far apart in an empty car park. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_every-taxi-provisio-2016-0",
+      "slug": "every-taxi",
+      "title": "Every Taxi",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "260,945"
+    },
+    {
+      "id": "trk_curfew-provisio-2016-1",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "130,451"
+    },
+    {
+      "id": "trk_municipal-exchange-provisio-2017-1",
+      "slug": "municipal-exchange",
+      "title": "Municipal Exchange",
+      "duration": "4:04",
+      "durationSec": 244,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_the-exchange-provisiona",
+        "title": "The Exchange",
+        "slug": "the-exchange",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "123,885"
+    },
+    {
+      "id": "trk_model-assembly-provisio-2017-0",
+      "slug": "model-assembly",
+      "title": "Model Assembly",
+      "duration": "2:54",
+      "durationSec": 174,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_the-exchange-provisiona",
+        "title": "The Exchange",
+        "slug": "the-exchange",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "85,652"
+    },
+    {
+      "id": "trk_half-an-assembly-provisio-2018-0",
+      "slug": "half-an-assembly",
+      "title": "Half an Assembly",
+      "duration": "3:05",
+      "durationSec": 185,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_infrastructure-provisiona",
+        "title": "Infrastructure",
+        "slug": "infrastructure",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "48,911"
+    },
+    {
+      "id": "trk_ferry-lullaby-provisio-2022-1",
+      "slug": "ferry-lullaby",
+      "title": "Ferry Lullaby",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_late-nocturne-provisiona",
+        "title": "Late Nocturne",
+        "slug": "late-nocturne",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "43,756"
+    },
+    {
+      "id": "trk_insomnia-provisio-2016-2",
+      "slug": "insomnia",
+      "title": "Insomnia",
+      "duration": "3:01",
+      "durationSec": 181,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "34,483"
+    },
+    {
+      "id": "trk_provisional-precinct-provisio-2022-0",
+      "slug": "provisional-precinct",
+      "title": "Provisional Precinct",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_late-nocturne-provisiona",
+        "title": "Late Nocturne",
+        "slug": "late-nocturne",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "22,697"
+    },
+    {
+      "id": "trk_census-provisio-2017-2",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:36",
+      "durationSec": 276,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_the-exchange-provisiona",
+        "title": "The Exchange",
+        "slug": "the-exchange",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "21,473"
+    },
+    {
+      "id": "trk_annex-reprise-provisio-2016-3",
+      "slug": "annex-reprise",
+      "title": "Annex (Reprise)",
+      "duration": "3:06",
+      "durationSec": 186,
+      "artist": {
+        "id": "art_provisional-exchange",
+        "name": "Provisional Exchange",
+        "slug": "provisional-exchange"
+      },
+      "album": {
+        "id": "alb_depots-provisiona",
+        "title": "Depots",
+        "slug": "depots",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "19,556"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_late-nocturne-provisiona",
+      "slug": "late-nocturne",
+      "title": "Late Nocturne",
+      "subtitle": "2022 · EP",
+      "year": 2022,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_infrastructure-provisiona",
+      "slug": "infrastructure-provisional-exchange",
+      "title": "Infrastructure",
+      "subtitle": "2018 · Album",
+      "year": 2018,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_the-exchange-provisiona",
+      "slug": "the-exchange",
+      "title": "The Exchange",
+      "subtitle": "2017 · Album",
+      "year": 2017,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_depots-provisiona",
+      "slug": "depots-provisional-exchange",
+      "title": "Depots",
+      "subtitle": "2016 · Album",
+      "year": 2016,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

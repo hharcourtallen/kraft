@@ -1,0 +1,518 @@
+{
+  "card": {
+    "size": 215,
+    "ground": "#FFFFFF",
+    "image": {
+      "top": 97,
+      "height": 118
+    },
+    "type": {
+      "family": "var(--font-display)",
+      "size": 48,
+      "leading": 48,
+      "weight": "var(--font-weight-display-medium)",
+      "tracking": "var(--tracking-snug)",
+      "ink": "var(--color-text-light)",
+      "ghost": "#D1D1D1"
+    },
+    "ghost": {
+      "left": 83,
+      "top": 40
+    },
+    "middle": {
+      "left": 108,
+      "top": 73
+    },
+    "bottom": {
+      "offset": 8,
+      "top": 178
+    }
+  },
+  "grid": {
+    "w": 108,
+    "h": 59,
+    "colors": 16,
+    "scale": 8
+  },
+  "countries": [
+    {
+      "code": "US",
+      "slug": "united-states",
+      "name": "United States",
+      "city": "New York",
+      "cityId": "plc_new-york",
+      "curators": [
+        {
+          "id": "cur_marcus-pike",
+          "slug": "marcus-pike",
+          "name": "Marcus Pike",
+          "city": "Philadelphia"
+        }
+      ],
+      "scenes": [
+        {
+          "id": "scn_blue-hour",
+          "slug": "blue-hour",
+          "name": "Blue Hour",
+          "city": "Portland"
+        },
+        {
+          "id": "scn_sable-note",
+          "slug": "sable-note",
+          "name": "Sable Note",
+          "city": "New York"
+        }
+      ],
+      "metaLine": "New York · 1 curator · 2 scenes",
+      "playlistId": "pl_country-united-states",
+      "image": "/artwork/country/united-states.png",
+      "artwork": {
+        "landmarks": [
+          "a brownstone row with fire escapes and a wooden water tower on the roof",
+          "one granite arch of a suspension bridge with its fan of cables",
+          "an art-deco skyscraper with a stepped crown and a thin spire, rising into the sky",
+          "a yellow taxi at the kerb"
+        ],
+        "palette": "brownstone rust, limestone cream, taxi yellow, Hudson grey-blue, bridge granite, pale haze sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: New York, United States. Left to right: a brownstone row with fire escapes and a wooden water tower on the roof; one granite arch of a suspension bridge with its fan of cables; an art-deco skyscraper with a stepped crown and a thin spire, rising into the sky; a yellow taxi at the kerb. Palette, at most ten colours: brownstone rust, limestone cream, taxi yellow, Hudson grey-blue, bridge granite, pale haze sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20New%20York%2C%20United%20States.%20Left%20to%20right%3A%20a%20brownstone%20row%20with%20fire%20escapes%20and%20a%20wooden%20water%20tower%20on%20the%20roof%3B%20one%20granite%20arch%20of%20a%20suspension%20bridge%20with%20its%20fan%20of%20cables%3B%20an%20art-deco%20skyscraper%20with%20a%20stepped%20crown%20and%20a%20thin%20spire%2C%20rising%20into%20the%20sky%3B%20a%20yellow%20taxi%20at%20the%20kerb.%20Palette%2C%20at%20most%20ten%20colours%3A%20brownstone%20rust%2C%20limestone%20cream%2C%20taxi%20yellow%2C%20Hudson%20grey-blue%2C%20bridge%20granite%2C%20pale%20haze%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "ES",
+      "slug": "spain",
+      "name": "Spain",
+      "city": "Barcelona",
+      "cityId": "plc_barcelona",
+      "curators": [],
+      "scenes": [],
+      "metaLine": "Barcelona",
+      "playlistId": "pl_country-spain",
+      "image": "/artwork/country/spain.png",
+      "artwork": {
+        "landmarks": [
+          "a row of palm trees on the beach promenade",
+          "a modernista house with a wavy balcony facade and a scaled mosaic roof",
+          "the spires of a great unfinished basilica with a crane beside it, rising into the sky",
+          "terracotta rooftops stepping down to the sea"
+        ],
+        "palette": "sandstone ochre, trencadís turquoise, terracotta, Mediterranean blue, palm green, whitewash",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Barcelona, Spain. Left to right: a row of palm trees on the beach promenade; a modernista house with a wavy balcony facade and a scaled mosaic roof; the spires of a great unfinished basilica with a crane beside it, rising into the sky; terracotta rooftops stepping down to the sea. Palette, at most ten colours: sandstone ochre, trencadís turquoise, terracotta, Mediterranean blue, palm green, whitewash. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Barcelona%2C%20Spain.%20Left%20to%20right%3A%20a%20row%20of%20palm%20trees%20on%20the%20beach%20promenade%3B%20a%20modernista%20house%20with%20a%20wavy%20balcony%20facade%20and%20a%20scaled%20mosaic%20roof%3B%20the%20spires%20of%20a%20great%20unfinished%20basilica%20with%20a%20crane%20beside%20it%2C%20rising%20into%20the%20sky%3B%20terracotta%20rooftops%20stepping%20down%20to%20the%20sea.%20Palette%2C%20at%20most%20ten%20colours%3A%20sandstone%20ochre%2C%20trencad%C3%ADs%20turquoise%2C%20terracotta%2C%20Mediterranean%20blue%2C%20palm%20green%2C%20whitewash.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "MX",
+      "slug": "mexico",
+      "name": "Mexico",
+      "city": "Mexico City",
+      "cityId": "plc_mexico-city",
+      "curators": [
+        {
+          "id": "cur_sofia-reyes",
+          "slug": "sofia-reyes",
+          "name": "Sofía Reyes",
+          "city": "Mexico City"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "Mexico City · 1 curator",
+      "playlistId": "pl_country-mexico",
+      "image": "/artwork/country/mexico.png",
+      "artwork": {
+        "landmarks": [
+          "jacaranda trees in full violet bloom",
+          "a marble palace with an amber tiled dome",
+          "a tall column topped by a small golden winged figure, rising into the sky",
+          "a pink modernist wall, a volcano faint on the horizon"
+        ],
+        "palette": "jacaranda violet, palace marble, dome amber, angel gold, tezontle red, Barragán pink",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Mexico City, Mexico. Left to right: jacaranda trees in full violet bloom; a marble palace with an amber tiled dome; a tall column topped by a small golden winged figure, rising into the sky; a pink modernist wall, a volcano faint on the horizon. Palette, at most ten colours: jacaranda violet, palace marble, dome amber, angel gold, tezontle red, Barragán pink. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Mexico%20City%2C%20Mexico.%20Left%20to%20right%3A%20jacaranda%20trees%20in%20full%20violet%20bloom%3B%20a%20marble%20palace%20with%20an%20amber%20tiled%20dome%3B%20a%20tall%20column%20topped%20by%20a%20small%20golden%20winged%20figure%2C%20rising%20into%20the%20sky%3B%20a%20pink%20modernist%20wall%2C%20a%20volcano%20faint%20on%20the%20horizon.%20Palette%2C%20at%20most%20ten%20colours%3A%20jacaranda%20violet%2C%20palace%20marble%2C%20dome%20amber%2C%20angel%20gold%2C%20tezontle%20red%2C%20Barrag%C3%A1n%20pink.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "JP",
+      "slug": "japan",
+      "name": "Japan",
+      "city": "Tokyo",
+      "cityId": "plc_tokyo",
+      "curators": [
+        {
+          "id": "cur_haruka-nakagawa",
+          "slug": "haruka-nakagawa",
+          "name": "Haruka Nakagawa",
+          "city": "Tokyo"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "Tokyo · 1 curator",
+      "playlistId": "pl_country-japan",
+      "image": "/artwork/country/japan.png",
+      "artwork": {
+        "landmarks": [
+          "a five-storey pagoda with slate roofs",
+          "a vermilion torii gate",
+          "cherry trees in blossom along a canal",
+          "a red and white lattice broadcast tower rising into the sky, Mount Fuji faint and snow-capped far behind"
+        ],
+        "palette": "torii vermilion, sakura pink, Fuji snow white, slate roof blue-grey, moss green, pale sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Tokyo, Japan. Left to right: a five-storey pagoda with slate roofs; a vermilion torii gate; cherry trees in blossom along a canal; a red and white lattice broadcast tower rising into the sky, Mount Fuji faint and snow-capped far behind. Palette, at most ten colours: torii vermilion, sakura pink, Fuji snow white, slate roof blue-grey, moss green, pale sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Tokyo%2C%20Japan.%20Left%20to%20right%3A%20a%20five-storey%20pagoda%20with%20slate%20roofs%3B%20a%20vermilion%20torii%20gate%3B%20cherry%20trees%20in%20blossom%20along%20a%20canal%3B%20a%20red%20and%20white%20lattice%20broadcast%20tower%20rising%20into%20the%20sky%2C%20Mount%20Fuji%20faint%20and%20snow-capped%20far%20behind.%20Palette%2C%20at%20most%20ten%20colours%3A%20torii%20vermilion%2C%20sakura%20pink%2C%20Fuji%20snow%20white%2C%20slate%20roof%20blue-grey%2C%20moss%20green%2C%20pale%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "AR",
+      "slug": "argentina",
+      "name": "Argentina",
+      "city": "Buenos Aires",
+      "cityId": "plc_buenos-aires",
+      "curators": [],
+      "scenes": [],
+      "metaLine": "Buenos Aires",
+      "playlistId": "pl_country-argentina",
+      "image": "/artwork/country/argentina.png",
+      "artwork": {
+        "landmarks": [
+          "corrugated tin houses painted in patchwork colours, a balcony with washing",
+          "a tall white obelisk rising into the sky",
+          "a white cable-stayed footbridge with one leaning mast over the docks",
+          "a jacaranda and a city bus"
+        ],
+        "palette": "tin red, Caminito yellow, celeste, obelisk white, river brown-grey, plane-tree green",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Buenos Aires, Argentina. Left to right: corrugated tin houses painted in patchwork colours, a balcony with washing; a tall white obelisk rising into the sky; a white cable-stayed footbridge with one leaning mast over the docks; a jacaranda and a city bus. Palette, at most ten colours: tin red, Caminito yellow, celeste, obelisk white, river brown-grey, plane-tree green. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Buenos%20Aires%2C%20Argentina.%20Left%20to%20right%3A%20corrugated%20tin%20houses%20painted%20in%20patchwork%20colours%2C%20a%20balcony%20with%20washing%3B%20a%20tall%20white%20obelisk%20rising%20into%20the%20sky%3B%20a%20white%20cable-stayed%20footbridge%20with%20one%20leaning%20mast%20over%20the%20docks%3B%20a%20jacaranda%20and%20a%20city%20bus.%20Palette%2C%20at%20most%20ten%20colours%3A%20tin%20red%2C%20Caminito%20yellow%2C%20celeste%2C%20obelisk%20white%2C%20river%20brown-grey%2C%20plane-tree%20green.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "CL",
+      "slug": "chile",
+      "name": "Chile",
+      "city": "Santiago",
+      "cityId": "plc_santiago",
+      "curators": [],
+      "scenes": [],
+      "metaLine": "Santiago",
+      "playlistId": "pl_country-chile",
+      "image": "/artwork/country/chile.png",
+      "artwork": {
+        "landmarks": [
+          "the snow-capped Andes as a wall across the whole horizon",
+          "a hill with a small white statue on its summit",
+          "one very tall glass tower rising into the sky",
+          "an adobe colonial church and a thin river channel"
+        ],
+        "palette": "Andes snow, sierra violet-brown, copper, glass teal, adobe cream, pale dry sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Santiago, Chile. Left to right: the snow-capped Andes as a wall across the whole horizon; a hill with a small white statue on its summit; one very tall glass tower rising into the sky; an adobe colonial church and a thin river channel. Palette, at most ten colours: Andes snow, sierra violet-brown, copper, glass teal, adobe cream, pale dry sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Santiago%2C%20Chile.%20Left%20to%20right%3A%20the%20snow-capped%20Andes%20as%20a%20wall%20across%20the%20whole%20horizon%3B%20a%20hill%20with%20a%20small%20white%20statue%20on%20its%20summit%3B%20one%20very%20tall%20glass%20tower%20rising%20into%20the%20sky%3B%20an%20adobe%20colonial%20church%20and%20a%20thin%20river%20channel.%20Palette%2C%20at%20most%20ten%20colours%3A%20Andes%20snow%2C%20sierra%20violet-brown%2C%20copper%2C%20glass%20teal%2C%20adobe%20cream%2C%20pale%20dry%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "BR",
+      "slug": "brazil",
+      "name": "Brazil",
+      "city": "São Paulo",
+      "cityId": "plc_sao-paulo",
+      "curators": [
+        {
+          "id": "cur_luana-andrade",
+          "slug": "luana-andrade",
+          "name": "Luana Andrade",
+          "city": "São Paulo"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "São Paulo · 1 curator",
+      "playlistId": "pl_country-brazil",
+      "image": "/artwork/country/brazil.png",
+      "artwork": {
+        "landmarks": [
+          "a museum box of glass lifted on two bright red concrete beams, open plaza beneath",
+          "a curving high-rise with wavy horizontal concrete bands, rising into the sky",
+          "a yellow ipê tree in bloom",
+          "a painted graffiti wall and palms"
+        ],
+        "palette": "museum red, concrete grey, ipê yellow, deep leaf green, graffiti pink and teal, hazy sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: São Paulo, Brazil. Left to right: a museum box of glass lifted on two bright red concrete beams, open plaza beneath; a curving high-rise with wavy horizontal concrete bands, rising into the sky; a yellow ipê tree in bloom; a painted graffiti wall and palms. Palette, at most ten colours: museum red, concrete grey, ipê yellow, deep leaf green, graffiti pink and teal, hazy sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20S%C3%A3o%20Paulo%2C%20Brazil.%20Left%20to%20right%3A%20a%20museum%20box%20of%20glass%20lifted%20on%20two%20bright%20red%20concrete%20beams%2C%20open%20plaza%20beneath%3B%20a%20curving%20high-rise%20with%20wavy%20horizontal%20concrete%20bands%2C%20rising%20into%20the%20sky%3B%20a%20yellow%20ip%C3%AA%20tree%20in%20bloom%3B%20a%20painted%20graffiti%20wall%20and%20palms.%20Palette%2C%20at%20most%20ten%20colours%3A%20museum%20red%2C%20concrete%20grey%2C%20ip%C3%AA%20yellow%2C%20deep%20leaf%20green%2C%20graffiti%20pink%20and%20teal%2C%20hazy%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "FR",
+      "slug": "france",
+      "name": "France",
+      "city": "Paris",
+      "cityId": "plc_paris",
+      "curators": [
+        {
+          "id": "cur_teo-marchand",
+          "slug": "theo-marchand",
+          "name": "Théo Marchand",
+          "city": "Paris"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "Paris · 1 curator",
+      "playlistId": "pl_country-france",
+      "image": "/artwork/country/france.png",
+      "artwork": {
+        "landmarks": [
+          "cream limestone apartment blocks with zinc mansard roofs and chimney pots",
+          "a café awning on the corner",
+          "a stone bridge over the river with green bookstall boxes on the quay",
+          "a bronze iron lattice tower rising into the sky"
+        ],
+        "palette": "limestone cream, zinc blue-grey, tower bronze, Seine green-grey, awning red, chestnut green",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Paris, France. Left to right: cream limestone apartment blocks with zinc mansard roofs and chimney pots; a café awning on the corner; a stone bridge over the river with green bookstall boxes on the quay; a bronze iron lattice tower rising into the sky. Palette, at most ten colours: limestone cream, zinc blue-grey, tower bronze, Seine green-grey, awning red, chestnut green. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Paris%2C%20France.%20Left%20to%20right%3A%20cream%20limestone%20apartment%20blocks%20with%20zinc%20mansard%20roofs%20and%20chimney%20pots%3B%20a%20caf%C3%A9%20awning%20on%20the%20corner%3B%20a%20stone%20bridge%20over%20the%20river%20with%20green%20bookstall%20boxes%20on%20the%20quay%3B%20a%20bronze%20iron%20lattice%20tower%20rising%20into%20the%20sky.%20Palette%2C%20at%20most%20ten%20colours%3A%20limestone%20cream%2C%20zinc%20blue-grey%2C%20tower%20bronze%2C%20Seine%20green-grey%2C%20awning%20red%2C%20chestnut%20green.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "GH",
+      "slug": "ghana",
+      "name": "Ghana",
+      "city": "Accra",
+      "cityId": "plc_accra",
+      "curators": [
+        {
+          "id": "cur_ade-mensah",
+          "slug": "ade-mensah",
+          "name": "Adé Mensah",
+          "city": "Accra"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "Accra · 1 curator",
+      "playlistId": "pl_country-ghana",
+      "image": "/artwork/country/ghana.png",
+      "artwork": {
+        "landmarks": [
+          "a red and white striped lighthouse rising into the sky",
+          "a monumental ceremonial arch with a star on top",
+          "painted wooden fishing canoes pulled up on the sand",
+          "coconut palms and low surf"
+        ],
+        "palette": "kente gold, forest green, clay red, Atlantic teal, sand, lighthouse white",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Accra, Ghana. Left to right: a red and white striped lighthouse rising into the sky; a monumental ceremonial arch with a star on top; painted wooden fishing canoes pulled up on the sand; coconut palms and low surf. Palette, at most ten colours: kente gold, forest green, clay red, Atlantic teal, sand, lighthouse white. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Accra%2C%20Ghana.%20Left%20to%20right%3A%20a%20red%20and%20white%20striped%20lighthouse%20rising%20into%20the%20sky%3B%20a%20monumental%20ceremonial%20arch%20with%20a%20star%20on%20top%3B%20painted%20wooden%20fishing%20canoes%20pulled%20up%20on%20the%20sand%3B%20coconut%20palms%20and%20low%20surf.%20Palette%2C%20at%20most%20ten%20colours%3A%20kente%20gold%2C%20forest%20green%2C%20clay%20red%2C%20Atlantic%20teal%2C%20sand%2C%20lighthouse%20white.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "NO",
+      "slug": "norway",
+      "name": "Norway",
+      "city": "Oslo",
+      "cityId": "plc_oslo",
+      "curators": [
+        {
+          "id": "cur_ingrid-halvorsen",
+          "slug": "ingrid-halvorsen",
+          "name": "Ingrid Halvorsen",
+          "city": "Oslo"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "Oslo · 1 curator",
+      "playlistId": "pl_country-norway",
+      "image": "/artwork/country/norway.png",
+      "artwork": {
+        "landmarks": [
+          "a white marble opera house whose roof slopes down into the water",
+          "a city hall of two plain square red-brick towers",
+          "wooden houses in ochre and ox-red",
+          "pine hills with a ski jump on the ridge, a small sailboat on the fjord"
+        ],
+        "palette": "marble white, fjord blue, ox-red, ochre, pine green, pale northern sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Oslo, Norway. Left to right: a white marble opera house whose roof slopes down into the water; a city hall of two plain square red-brick towers; wooden houses in ochre and ox-red; pine hills with a ski jump on the ridge, a small sailboat on the fjord. Palette, at most ten colours: marble white, fjord blue, ox-red, ochre, pine green, pale northern sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Oslo%2C%20Norway.%20Left%20to%20right%3A%20a%20white%20marble%20opera%20house%20whose%20roof%20slopes%20down%20into%20the%20water%3B%20a%20city%20hall%20of%20two%20plain%20square%20red-brick%20towers%3B%20wooden%20houses%20in%20ochre%20and%20ox-red%3B%20pine%20hills%20with%20a%20ski%20jump%20on%20the%20ridge%2C%20a%20small%20sailboat%20on%20the%20fjord.%20Palette%2C%20at%20most%20ten%20colours%3A%20marble%20white%2C%20fjord%20blue%2C%20ox-red%2C%20ochre%2C%20pine%20green%2C%20pale%20northern%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "GB",
+      "slug": "united-kingdom",
+      "name": "United Kingdom",
+      "city": "London",
+      "cityId": "plc_london",
+      "curators": [
+        {
+          "id": "cur_amara-diallo",
+          "slug": "amara-diallo",
+          "name": "Amara Diallo",
+          "city": "London"
+        }
+      ],
+      "scenes": [
+        {
+          "id": "scn_hedgerow",
+          "slug": "hedgerow",
+          "name": "Hedgerow",
+          "city": "Bristol"
+        }
+      ],
+      "metaLine": "London · 1 curator · 1 scene",
+      "playlistId": null,
+      "image": null,
+      "artwork": {
+        "landmarks": [
+          "a gothic clock tower rising into the sky",
+          "a red double-decker bus on a bridge over the river",
+          "a terrace of brick houses with chimney pots",
+          "a plane tree and a taxi"
+        ],
+        "palette": "stock brick, bus red, Portland stone, Thames grey-green, slate, pale overcast sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: London, United Kingdom. Left to right: a gothic clock tower rising into the sky; a red double-decker bus on a bridge over the river; a terrace of brick houses with chimney pots; a plane tree and a taxi. Palette, at most ten colours: stock brick, bus red, Portland stone, Thames grey-green, slate, pale overcast sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20London%2C%20United%20Kingdom.%20Left%20to%20right%3A%20a%20gothic%20clock%20tower%20rising%20into%20the%20sky%3B%20a%20red%20double-decker%20bus%20on%20a%20bridge%20over%20the%20river%3B%20a%20terrace%20of%20brick%20houses%20with%20chimney%20pots%3B%20a%20plane%20tree%20and%20a%20taxi.%20Palette%2C%20at%20most%20ten%20colours%3A%20stock%20brick%2C%20bus%20red%2C%20Portland%20stone%2C%20Thames%20grey-green%2C%20slate%2C%20pale%20overcast%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "DE",
+      "slug": "germany",
+      "name": "Germany",
+      "city": "Berlin",
+      "cityId": "plc_berlin",
+      "curators": [],
+      "scenes": [
+        {
+          "id": "scn_strata-nine",
+          "slug": "strata-nine",
+          "name": "Strata Nine",
+          "city": "Berlin"
+        }
+      ],
+      "metaLine": "Berlin · 1 scene",
+      "playlistId": null,
+      "image": null,
+      "artwork": {
+        "landmarks": [
+          "a slim television tower with a silver sphere rising into the sky",
+          "a red brick double-deck bridge with turrets and a yellow train on top",
+          "a pre-war apartment block with a painted mural on its side wall",
+          "a sandstone gate with columns"
+        ],
+        "palette": "brick red, U-Bahn yellow, sphere silver, Spree grey-blue, sandstone, linden green",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Berlin, Germany. Left to right: a slim television tower with a silver sphere rising into the sky; a red brick double-deck bridge with turrets and a yellow train on top; a pre-war apartment block with a painted mural on its side wall; a sandstone gate with columns. Palette, at most ten colours: brick red, U-Bahn yellow, sphere silver, Spree grey-blue, sandstone, linden green. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Berlin%2C%20Germany.%20Left%20to%20right%3A%20a%20slim%20television%20tower%20with%20a%20silver%20sphere%20rising%20into%20the%20sky%3B%20a%20red%20brick%20double-deck%20bridge%20with%20turrets%20and%20a%20yellow%20train%20on%20top%3B%20a%20pre-war%20apartment%20block%20with%20a%20painted%20mural%20on%20its%20side%20wall%3B%20a%20sandstone%20gate%20with%20columns.%20Palette%2C%20at%20most%20ten%20colours%3A%20brick%20red%2C%20U-Bahn%20yellow%2C%20sphere%20silver%2C%20Spree%20grey-blue%2C%20sandstone%2C%20linden%20green.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "CO",
+      "slug": "colombia",
+      "name": "Colombia",
+      "city": "Bogotá",
+      "cityId": "plc_bogota",
+      "curators": [],
+      "scenes": [
+        {
+          "id": "scn_tropico-alto",
+          "slug": "tropico-alto",
+          "name": "Trópico Alto",
+          "city": "Bogotá"
+        }
+      ],
+      "metaLine": "Bogotá · 1 scene",
+      "playlistId": null,
+      "image": null,
+      "artwork": {
+        "landmarks": [
+          "a green mountain ridge with a white church on its summit",
+          "red brick residential towers",
+          "a colonial street of whitewashed houses with coloured doors and wooden balconies",
+          "wax palms"
+        ],
+        "palette": "Andes green, brick red, whitewash, door cobalt, balcony ochre, cloud grey",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Bogotá, Colombia. Left to right: a green mountain ridge with a white church on its summit; red brick residential towers; a colonial street of whitewashed houses with coloured doors and wooden balconies; wax palms. Palette, at most ten colours: Andes green, brick red, whitewash, door cobalt, balcony ochre, cloud grey. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Bogot%C3%A1%2C%20Colombia.%20Left%20to%20right%3A%20a%20green%20mountain%20ridge%20with%20a%20white%20church%20on%20its%20summit%3B%20red%20brick%20residential%20towers%3B%20a%20colonial%20street%20of%20whitewashed%20houses%20with%20coloured%20doors%20and%20wooden%20balconies%3B%20wax%20palms.%20Palette%2C%20at%20most%20ten%20colours%3A%20Andes%20green%2C%20brick%20red%2C%20whitewash%2C%20door%20cobalt%2C%20balcony%20ochre%2C%20cloud%20grey.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "NG",
+      "slug": "nigeria",
+      "name": "Nigeria",
+      "city": "Lagos",
+      "cityId": "plc_lagos",
+      "curators": [],
+      "scenes": [
+        {
+          "id": "scn_harmattan",
+          "slug": "harmattan",
+          "name": "Harmattan",
+          "city": "Lagos"
+        }
+      ],
+      "metaLine": "Lagos · 1 scene",
+      "playlistId": null,
+      "image": null,
+      "artwork": {
+        "landmarks": [
+          "a long low bridge across a lagoon",
+          "yellow minibuses in a row",
+          "a cluster of glass towers on the island rising into the sky",
+          "a market of striped umbrellas"
+        ],
+        "palette": "danfo yellow, lagoon teal, laterite red, market indigo, palm green, humid white sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Lagos, Nigeria. Left to right: a long low bridge across a lagoon; yellow minibuses in a row; a cluster of glass towers on the island rising into the sky; a market of striped umbrellas. Palette, at most ten colours: danfo yellow, lagoon teal, laterite red, market indigo, palm green, humid white sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Lagos%2C%20Nigeria.%20Left%20to%20right%3A%20a%20long%20low%20bridge%20across%20a%20lagoon%3B%20yellow%20minibuses%20in%20a%20row%3B%20a%20cluster%20of%20glass%20towers%20on%20the%20island%20rising%20into%20the%20sky%3B%20a%20market%20of%20striped%20umbrellas.%20Palette%2C%20at%20most%20ten%20colours%3A%20danfo%20yellow%2C%20lagoon%20teal%2C%20laterite%20red%2C%20market%20indigo%2C%20palm%20green%2C%20humid%20white%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "AU",
+      "slug": "australia",
+      "name": "Australia",
+      "city": "Melbourne",
+      "cityId": "plc_melbourne",
+      "curators": [],
+      "scenes": [
+        {
+          "id": "scn_analog-revival",
+          "slug": "analog-revival",
+          "name": "Analog Revival",
+          "city": "Melbourne"
+        }
+      ],
+      "metaLine": "Melbourne · 1 scene",
+      "playlistId": null,
+      "image": null,
+      "artwork": {
+        "landmarks": [
+          "a yellow railway station with a green copper dome and a row of clocks",
+          "a green and yellow tram",
+          "a laneway wall covered in paint",
+          "a gum tree on the river bank"
+        ],
+        "palette": "station ochre, copper verdigris, tram green, eucalyptus grey-green, river brown, bright pale sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Melbourne, Australia. Left to right: a yellow railway station with a green copper dome and a row of clocks; a green and yellow tram; a laneway wall covered in paint; a gum tree on the river bank. Palette, at most ten colours: station ochre, copper verdigris, tram green, eucalyptus grey-green, river brown, bright pale sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Melbourne%2C%20Australia.%20Left%20to%20right%3A%20a%20yellow%20railway%20station%20with%20a%20green%20copper%20dome%20and%20a%20row%20of%20clocks%3B%20a%20green%20and%20yellow%20tram%3B%20a%20laneway%20wall%20covered%20in%20paint%3B%20a%20gum%20tree%20on%20the%20river%20bank.%20Palette%2C%20at%20most%20ten%20colours%3A%20station%20ochre%2C%20copper%20verdigris%2C%20tram%20green%2C%20eucalyptus%20grey-green%2C%20river%20brown%2C%20bright%20pale%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    },
+    {
+      "code": "RS",
+      "slug": "serbia",
+      "name": "Serbia",
+      "city": "Belgrade",
+      "cityId": "plc_belgrade",
+      "curators": [
+        {
+          "id": "cur_nadia-ilic",
+          "slug": "nadia-ilic",
+          "name": "Nadia Ilić",
+          "city": "Belgrade"
+        }
+      ],
+      "scenes": [],
+      "metaLine": "Belgrade · 1 curator",
+      "playlistId": null,
+      "image": null,
+      "artwork": {
+        "landmarks": [
+          "a stone fortress wall on a green hill above two meeting rivers",
+          "a white domed church rising into the sky",
+          "a moored river barge",
+          "a modernist tower with a revolving top"
+        ],
+        "palette": "fortress limestone, Danube green-grey, dome white, copper green, rust, pale summer sky",
+        "prompt": "Pixel art city strip, wide landscape, in the manner of a 16-bit era game background. True pixel art drawn on a tiny canvas about 108 pixels wide and 59 tall, then enlarged with nearest-neighbour so every pixel is a big visible square block: no anti-aliasing, no gradients, no painterly texture, no blur, flat colour areas, dithering used sparingly. Shapes simplified to what reads at that resolution. Straight-on side elevation with no perspective: every landmark stands on one shared baseline like a skyline cut-out. Soft midday light from the left, shadows one pixel deep. High-key and sun-bleached: every value sits between light and mid, no black outlines, nothing darker than a mid tone. The top quarter is open pale sky, plain and empty. The landmarks stand in the middle, their bases on one baseline two thirds of the way down; only the tallest rises high into the sky. Below the baseline the bottom third is a quiet, flat, empty foreground — a wide plaza, calm water or lawn — in one or two flat colours with no detail. Place: Belgrade, Serbia. Left to right: a stone fortress wall on a green hill above two meeting rivers; a white domed church rising into the sky; a moored river barge; a modernist tower with a revolving top. Palette, at most ten colours: fortress limestone, Danube green-grey, dome white, copper green, rust, pale summer sky. No text, lettering, signage, numbers, flags, logos, watermarks, borders, frames or UI. No close-up people.",
+        "paperGen": "paper-gen://google-nano-banana-2?prompt=Pixel%20art%20city%20strip%2C%20wide%20landscape%2C%20in%20the%20manner%20of%20a%2016-bit%20era%20game%20background.%20True%20pixel%20art%20drawn%20on%20a%20tiny%20canvas%20about%20108%20pixels%20wide%20and%2059%20tall%2C%20then%20enlarged%20with%20nearest-neighbour%20so%20every%20pixel%20is%20a%20big%20visible%20square%20block%3A%20no%20anti-aliasing%2C%20no%20gradients%2C%20no%20painterly%20texture%2C%20no%20blur%2C%20flat%20colour%20areas%2C%20dithering%20used%20sparingly.%20Shapes%20simplified%20to%20what%20reads%20at%20that%20resolution.%20Straight-on%20side%20elevation%20with%20no%20perspective%3A%20every%20landmark%20stands%20on%20one%20shared%20baseline%20like%20a%20skyline%20cut-out.%20Soft%20midday%20light%20from%20the%20left%2C%20shadows%20one%20pixel%20deep.%20High-key%20and%20sun-bleached%3A%20every%20value%20sits%20between%20light%20and%20mid%2C%20no%20black%20outlines%2C%20nothing%20darker%20than%20a%20mid%20tone.%20The%20top%20quarter%20is%20open%20pale%20sky%2C%20plain%20and%20empty.%20The%20landmarks%20stand%20in%20the%20middle%2C%20their%20bases%20on%20one%20baseline%20two%20thirds%20of%20the%20way%20down%3B%20only%20the%20tallest%20rises%20high%20into%20the%20sky.%20Below%20the%20baseline%20the%20bottom%20third%20is%20a%20quiet%2C%20flat%2C%20empty%20foreground%20%E2%80%94%20a%20wide%20plaza%2C%20calm%20water%20or%20lawn%20%E2%80%94%20in%20one%20or%20two%20flat%20colours%20with%20no%20detail.%20Place%3A%20Belgrade%2C%20Serbia.%20Left%20to%20right%3A%20a%20stone%20fortress%20wall%20on%20a%20green%20hill%20above%20two%20meeting%20rivers%3B%20a%20white%20domed%20church%20rising%20into%20the%20sky%3B%20a%20moored%20river%20barge%3B%20a%20modernist%20tower%20with%20a%20revolving%20top.%20Palette%2C%20at%20most%20ten%20colours%3A%20fortress%20limestone%2C%20Danube%20green-grey%2C%20dome%20white%2C%20copper%20green%2C%20rust%2C%20pale%20summer%20sky.%20No%20text%2C%20lettering%2C%20signage%2C%20numbers%2C%20flags%2C%20logos%2C%20watermarks%2C%20borders%2C%20frames%20or%20UI.%20No%20close-up%20people.&aspect_ratio=16%3A9"
+      }
+    }
+  ]
+}

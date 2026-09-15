@@ -1,0 +1,356 @@
+{
+  "id": "art_the-ballroom-orchestra",
+  "slug": "the-ballroom-orchestra",
+  "name": "The Ballroom Orchestra",
+  "formation": "collective",
+  "country": "US",
+  "hometown": "Detroit, MI",
+  "geo": {
+    "placeId": "plc_detroit",
+    "city": "Detroit",
+    "country": "US",
+    "lat": 42.33,
+    "lng": -83.05
+  },
+  "region": "us",
+  "genres": [
+    "hip-hop"
+  ],
+  "primaryGenre": {
+    "slug": "hip-hop",
+    "name": "Hip-Hop"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "tier": "working",
+  "monthlyListeners": 10115,
+  "monthlyListenersLabel": "10K monthly listeners",
+  "followers": 3240,
+  "followersLabel": "3.2K",
+  "shelfCaption": "Hip-Hop · 10K listeners",
+  "verified": false,
+  "active": {
+    "from": 2008,
+    "to": null
+  },
+  "bio": "A revue making hip-hop about small towns. Cuts the rhythm section live and overdubs nothing but voice. Refuses to release anything under three minutes.",
+  "discography": [
+    "alb_provisional-infrastructure-the-ballro",
+    "alb_new-bureau-the-ballro",
+    "alb_velvet-underpass-the-ballro",
+    "alb_the-payphone-the-ballro",
+    "alb_dark-taxi-the-ballro",
+    "alb_boulevards-the-ballro"
+  ],
+  "popularTrackIds": [
+    "trk_infrastructure-the-ball-2008-0",
+    "trk_two-hundred-ferries-the-ball-2008-1",
+    "trk_afterhours-the-ball-2008-2",
+    "trk_underpass-hymn-the-ball-2010-1",
+    "trk_another-payphone-the-ball-2012-1",
+    "trk_provisional-assembly-the-ball-2010-3",
+    "trk_central-registry-the-ball-2015-0",
+    "trk_provisional-annex-the-ball-2012-2",
+    "trk_central-terminal-the-ball-2010-0",
+    "trk_dark-hour-the-ball-2008-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "hip-hop",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in profile against a plain wall. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "hip-hop",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician alone on a small stage, one lamp on. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_infrastructure-the-ball-2008-0",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_boulevards-the-ballro",
+        "title": "Boulevards",
+        "slug": "boulevards",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "122,746"
+    },
+    {
+      "id": "trk_two-hundred-ferries-the-ball-2008-1",
+      "slug": "two-hundred-ferries",
+      "title": "Two Hundred Ferries",
+      "duration": "3:04",
+      "durationSec": 184,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_boulevards-the-ballro",
+        "title": "Boulevards",
+        "slug": "boulevards",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "120,363"
+    },
+    {
+      "id": "trk_afterhours-the-ball-2008-2",
+      "slug": "afterhours",
+      "title": "Afterhours",
+      "duration": "3:06",
+      "durationSec": 186,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_boulevards-the-ballro",
+        "title": "Boulevards",
+        "slug": "boulevards",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "56,648"
+    },
+    {
+      "id": "trk_underpass-hymn-the-ball-2010-1",
+      "slug": "underpass-hymn",
+      "title": "Underpass Hymn",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_dark-taxi-the-ballro",
+        "title": "Dark Taxi",
+        "slug": "dark-taxi",
+        "year": 2010
+      },
+      "albumArt": null,
+      "playCountLabel": "53,123"
+    },
+    {
+      "id": "trk_another-payphone-the-ball-2012-1",
+      "slug": "another-payphone",
+      "title": "Another Payphone",
+      "duration": "3:23",
+      "durationSec": 203,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-ballro",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2012
+      },
+      "albumArt": null,
+      "playCountLabel": "38,896"
+    },
+    {
+      "id": "trk_provisional-assembly-the-ball-2010-3",
+      "slug": "provisional-assembly",
+      "title": "Provisional Assembly",
+      "duration": "3:14",
+      "durationSec": 194,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_dark-taxi-the-ballro",
+        "title": "Dark Taxi",
+        "slug": "dark-taxi",
+        "year": 2010
+      },
+      "albumArt": null,
+      "playCountLabel": "36,231"
+    },
+    {
+      "id": "trk_central-registry-the-ball-2015-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "3:36",
+      "durationSec": 216,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_velvet-underpass-the-ballro",
+        "title": "Velvet Underpass",
+        "slug": "velvet-underpass",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "34,275"
+    },
+    {
+      "id": "trk_provisional-annex-the-ball-2012-2",
+      "slug": "provisional-annex",
+      "title": "Provisional Annex",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_the-payphone-the-ballro",
+        "title": "The Payphone",
+        "slug": "the-payphone",
+        "year": 2012
+      },
+      "albumArt": null,
+      "playCountLabel": "33,522"
+    },
+    {
+      "id": "trk_central-terminal-the-ball-2010-0",
+      "slug": "central-terminal",
+      "title": "Central Terminal",
+      "duration": "2:10",
+      "durationSec": 130,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_dark-taxi-the-ballro",
+        "title": "Dark Taxi",
+        "slug": "dark-taxi",
+        "year": 2010
+      },
+      "albumArt": null,
+      "playCountLabel": "30,185"
+    },
+    {
+      "id": "trk_dark-hour-the-ball-2008-3",
+      "slug": "dark-hour",
+      "title": "Dark Hour",
+      "duration": "3:12",
+      "durationSec": 192,
+      "artist": {
+        "id": "art_the-ballroom-orchestra",
+        "name": "The Ballroom Orchestra",
+        "slug": "the-ballroom-orchestra"
+      },
+      "album": {
+        "id": "alb_boulevards-the-ballro",
+        "title": "Boulevards",
+        "slug": "boulevards",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "26,422"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_provisional-infrastructure-the-ballro",
+      "slug": "provisional-infrastructure",
+      "title": "Provisional Infrastructure",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_new-bureau-the-ballro",
+      "slug": "new-bureau",
+      "title": "New Bureau",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_velvet-underpass-the-ballro",
+      "slug": "velvet-underpass",
+      "title": "Velvet Underpass",
+      "subtitle": "2015 · Album",
+      "year": 2015,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_the-payphone-the-ballro",
+      "slug": "the-payphone-the-ballroom-orchestra",
+      "title": "The Payphone",
+      "subtitle": "2012 · Album",
+      "year": 2012,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_dark-taxi-the-ballro",
+      "slug": "dark-taxi",
+      "title": "Dark Taxi",
+      "subtitle": "2010 · EP",
+      "year": 2010,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_boulevards-the-ballro",
+      "slug": "boulevards",
+      "title": "Boulevards",
+      "subtitle": "2008 · Album",
+      "year": 2008,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

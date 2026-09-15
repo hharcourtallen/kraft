@@ -1,0 +1,47 @@
+{
+  "id": "alb_tectonics-opal-and-t",
+  "slug": "tectonics-opal-and-the-villages",
+  "title": "Tectonics",
+  "year": 2009,
+  "type": "Album",
+  "subtitle": "2009 · Album",
+  "trackCount": 12,
+  "durationSec": 2848,
+  "durationLabel": "47 min",
+  "artist": {
+    "id": "art_opal-and-the-villages",
+    "name": "Opal & The Villages",
+    "slug": "opal-and-the-villages"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "americana",
+    "folk"
+  ],
+  "tracks": [
+    "trk_erosion-opal-and-2009-0",
+    "trk_seam-theme-opal-and-2009-1",
+    "trk_two-hundred-meadows-opal-and-2009-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2009,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "airbrushed illustration with glossy highlights and gradient blends",
+      "composition": "monumental centred subject, low horizon, dramatic scale",
+      "abstract": false,
+      "subject": "a screen door and porch light",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2009 sleeve deliberately styled after 1980-1999. Medium: airbrushed illustration with glossy highlights and gradient blends. Subject: a screen door and porch light. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: monumental centred subject, low horizon, dramatic scale. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202009%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20airbrushed%20illustration%20with%20glossy%20highlights%20and%20gradient%20blends.%20Subject%3A%20a%20screen%20door%20and%20porch%20light.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20monumental%20centred%20subject%2C%20low%20horizon%2C%20dramatic%20scale.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

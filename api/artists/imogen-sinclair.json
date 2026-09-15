@@ -1,0 +1,389 @@
+{
+  "id": "art_imogen-sinclair",
+  "slug": "imogen-sinclair",
+  "name": "Imogen Sinclair",
+  "formation": "solo",
+  "country": "GB",
+  "hometown": "Cardiff",
+  "geo": {
+    "placeId": "plc_cardiff",
+    "city": "Cardiff",
+    "country": "GB",
+    "lat": 51.48,
+    "lng": -3.18
+  },
+  "region": "uk",
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 325,
+  "monthlyListenersLabel": "325 monthly listeners",
+  "followers": 134,
+  "followersLabel": "134",
+  "shelfCaption": "Indie Rock · 325 listeners",
+  "verified": true,
+  "active": {
+    "from": 2008,
+    "to": null
+  },
+  "bio": "Indie rock one-person band from Cardiff. Three amps, no pedals, and a rule against overdubs. Refuses to release anything under three minutes.",
+  "discography": [
+    "alb_registries-imogen-sin",
+    "alb_exchange-and-assembly-imogen-sin",
+    "alb_curfew-imogen-sin",
+    "alb_neon-hour-imogen-sin",
+    "alb_payphone-and-underpass-imogen-sin",
+    "alb_exchanges-imogen-sin",
+    "alb_the-hour-imogen-sin",
+    "alb_ferries-imogen-sin"
+  ],
+  "popularTrackIds": [
+    "trk_census-imogen-s-2008-0",
+    "trk_municipal-terminal-imogen-s-2009-0",
+    "trk_public-assembly-imogen-s-2009-1",
+    "trk_annex-alt-take-imogen-s-2008-1",
+    "trk_census-imogen-s-2008-2",
+    "trk_another-ballroom-imogen-s-2011-1",
+    "trk_ballroom-reprise-imogen-s-2017-0",
+    "trk_census-imogen-s-2015-0",
+    "trk_nothing-but-boulevards-imogen-s-2011-0",
+    "trk_depot-live-at-the-roundhouse-imogen-s-2011-2"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician holding their instrument case, deadpan. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician alone on a small stage, one lamp on. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_census-imogen-s-2008-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_ferries-imogen-sin",
+        "title": "Ferries",
+        "slug": "ferries",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "4,014"
+    },
+    {
+      "id": "trk_municipal-terminal-imogen-s-2009-0",
+      "slug": "municipal-terminal",
+      "title": "Municipal Terminal",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_the-hour-imogen-sin",
+        "title": "The Hour",
+        "slug": "the-hour",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "3,920"
+    },
+    {
+      "id": "trk_public-assembly-imogen-s-2009-1",
+      "slug": "public-assembly",
+      "title": "Public Assembly",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_the-hour-imogen-sin",
+        "title": "The Hour",
+        "slug": "the-hour",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "2,723"
+    },
+    {
+      "id": "trk_annex-alt-take-imogen-s-2008-1",
+      "slug": "annex-alt-take",
+      "title": "Annex (Alt. Take)",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_ferries-imogen-sin",
+        "title": "Ferries",
+        "slug": "ferries",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "2,684"
+    },
+    {
+      "id": "trk_census-imogen-s-2008-2",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_ferries-imogen-sin",
+        "title": "Ferries",
+        "slug": "ferries",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "2,408"
+    },
+    {
+      "id": "trk_another-ballroom-imogen-s-2011-1",
+      "slug": "another-ballroom",
+      "title": "Another Ballroom",
+      "duration": "3:14",
+      "durationSec": 194,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_exchanges-imogen-sin",
+        "title": "Exchanges",
+        "slug": "exchanges",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "1,805"
+    },
+    {
+      "id": "trk_ballroom-reprise-imogen-s-2017-0",
+      "slug": "ballroom-reprise",
+      "title": "Ballroom (Reprise)",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_neon-hour-imogen-sin",
+        "title": "Neon Hour",
+        "slug": "neon-hour",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "1,551"
+    },
+    {
+      "id": "trk_census-imogen-s-2015-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:38",
+      "durationSec": 218,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_payphone-and-underpass-imogen-sin",
+        "title": "Payphone & Underpass",
+        "slug": "payphone-and-underpass",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "1,364"
+    },
+    {
+      "id": "trk_nothing-but-boulevards-imogen-s-2011-0",
+      "slug": "nothing-but-boulevards",
+      "title": "Nothing but Boulevards",
+      "duration": "3:57",
+      "durationSec": 237,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_exchanges-imogen-sin",
+        "title": "Exchanges",
+        "slug": "exchanges",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "1,279"
+    },
+    {
+      "id": "trk_depot-live-at-the-roundhouse-imogen-s-2011-2",
+      "slug": "depot-live-at-the-roundhouse",
+      "title": "Depot (Live at the Roundhouse)",
+      "duration": "3:19",
+      "durationSec": 199,
+      "artist": {
+        "id": "art_imogen-sinclair",
+        "name": "Imogen Sinclair",
+        "slug": "imogen-sinclair"
+      },
+      "album": {
+        "id": "alb_exchanges-imogen-sin",
+        "title": "Exchanges",
+        "slug": "exchanges",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "1,059"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_registries-imogen-sin",
+      "slug": "registries",
+      "title": "Registries",
+      "subtitle": "2026 · EP",
+      "year": 2026,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_exchange-and-assembly-imogen-sin",
+      "slug": "exchange-and-assembly",
+      "title": "Exchange & Assembly",
+      "subtitle": "2023 · EP",
+      "year": 2023,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_curfew-imogen-sin",
+      "slug": "curfew",
+      "title": "Curfew",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_neon-hour-imogen-sin",
+      "slug": "neon-hour",
+      "title": "Neon Hour",
+      "subtitle": "2017 · Album",
+      "year": 2017,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_payphone-and-underpass-imogen-sin",
+      "slug": "payphone-and-underpass",
+      "title": "Payphone & Underpass",
+      "subtitle": "2015 · Reissue",
+      "year": 2015,
+      "type": "Reissue",
+      "image": null
+    },
+    {
+      "id": "alb_exchanges-imogen-sin",
+      "slug": "exchanges",
+      "title": "Exchanges",
+      "subtitle": "2011 · EP",
+      "year": 2011,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_the-hour-imogen-sin",
+      "slug": "the-hour",
+      "title": "The Hour",
+      "subtitle": "2009 · Album",
+      "year": 2009,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_ferries-imogen-sin",
+      "slug": "ferries",
+      "title": "Ferries",
+      "subtitle": "2008 · Album",
+      "year": 2008,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Census",
+      "position": 6,
+      "caption": "Census is track 6"
+    }
+  ]
+}

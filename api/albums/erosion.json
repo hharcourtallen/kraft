@@ -1,0 +1,49 @@
+{
+  "id": "alb_erosion-til-vogels",
+  "slug": "erosion",
+  "title": "Erosion",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 12,
+  "durationSec": 4968,
+  "durationLabel": "1 hr 23 min",
+  "artist": {
+    "id": "art_til-vogelsang",
+    "name": "Til Vogelsang",
+    "slug": "til-vogelsang"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "ambient",
+    "downtempo"
+  ],
+  "tracks": [
+    "trk_solar-orbit-til-voge-2023-0",
+    "trk_orbit-hymn-til-voge-2023-1",
+    "trk_outer-meridian-til-voge-2023-2",
+    "trk_quarry-instrumental-til-voge-2023-3",
+    "trk_solar-meridian-til-voge-2023-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "ambient",
+      "year": 2023,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "sculptural or textile object photographed under raking light",
+      "composition": "tactile, close, shallow depth of field",
+      "abstract": false,
+      "subject": "an empty pale sky",
+      "palette": "pale ice blue, warm grey, faint pink, near-white"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: sculptural or textile object photographed under raking light. Subject: an empty pale sky. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20an%20empty%20pale%20sky.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

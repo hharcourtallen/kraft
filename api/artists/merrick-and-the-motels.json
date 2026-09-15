@@ -1,0 +1,358 @@
+{
+  "id": "art_merrick-and-the-motels",
+  "slug": "merrick-and-the-motels",
+  "name": "Merrick & The Motels",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Nashville, TN",
+  "geo": {
+    "placeId": "plc_nashville",
+    "city": "Nashville",
+    "country": "US",
+    "lat": 36.16,
+    "lng": -86.78
+  },
+  "region": "us",
+  "genres": [
+    "dream-pop"
+  ],
+  "primaryGenre": {
+    "slug": "dream-pop",
+    "name": "Dream Pop"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "headline",
+  "monthlyListeners": 66896,
+  "monthlyListenersLabel": "67K monthly listeners",
+  "followers": 25000,
+  "followersLabel": "25K",
+  "shelfCaption": "Dream Pop · 67K listeners",
+  "verified": true,
+  "active": {
+    "from": 2009,
+    "to": null
+  },
+  "bio": "Merrick & The Motels has been a Nashville, TN fixture since 2009. Three amps, no pedals, and a rule against overdubs. Has strong opinions about run-out grooves.",
+  "discography": [
+    "alb_the-ballroom-merrick-an",
+    "alb_nightblooming-chlorophyll-merrick-an",
+    "alb_nightblooming-flora-merrick-an",
+    "alb_wet-dew-merrick-an",
+    "alb_green-dew-merrick-an"
+  ],
+  "popularTrackIds": [
+    "trk_nightblooming-frond-merrick--2011-0",
+    "trk_boulevard-lullaby-merrick--2009-1",
+    "trk_chlorophyll-merrick--2009-0",
+    "trk_wet-pollen-merrick--2013-0",
+    "trk_hour-elegy-merrick--2009-3",
+    "trk_marquee-lullaby-merrick--2011-2",
+    "trk_late-motel-merrick--2018-0",
+    "trk_boulevard-reprise-merrick--2020-0",
+    "trk_half-a-ballroom-merrick--2011-1",
+    "trk_late-ballroom-merrick--2018-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "dream-pop",
+        "year": 2020,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician in profile against a plain wall. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "dream-pop",
+        "year": 2020,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician alone on a small stage, one lamp on. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_nightblooming-frond-merrick--2011-0",
+      "slug": "nightblooming-frond",
+      "title": "Nightblooming Frond",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "1,366,299"
+    },
+    {
+      "id": "trk_boulevard-lullaby-merrick--2009-1",
+      "slug": "boulevard-lullaby",
+      "title": "Boulevard Lullaby",
+      "duration": "3:27",
+      "durationSec": 207,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_green-dew-merrick-an",
+        "title": "Green Dew",
+        "slug": "green-dew",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "1,055,488"
+    },
+    {
+      "id": "trk_chlorophyll-merrick--2009-0",
+      "slug": "chlorophyll",
+      "title": "Chlorophyll",
+      "duration": "4:03",
+      "durationSec": 243,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_green-dew-merrick-an",
+        "title": "Green Dew",
+        "slug": "green-dew",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "568,094"
+    },
+    {
+      "id": "trk_wet-pollen-merrick--2013-0",
+      "slug": "wet-pollen",
+      "title": "Wet Pollen",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_nightblooming-flora-merrick-an",
+        "title": "Nightblooming Flora",
+        "slug": "nightblooming-flora",
+        "year": 2013
+      },
+      "albumArt": null,
+      "playCountLabel": "522,005"
+    },
+    {
+      "id": "trk_hour-elegy-merrick--2009-3",
+      "slug": "hour-elegy",
+      "title": "Hour Elegy",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_green-dew-merrick-an",
+        "title": "Green Dew",
+        "slug": "green-dew",
+        "year": 2009
+      },
+      "albumArt": null,
+      "playCountLabel": "440,682"
+    },
+    {
+      "id": "trk_marquee-lullaby-merrick--2011-2",
+      "slug": "marquee-lullaby",
+      "title": "Marquee Lullaby",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "299,021"
+    },
+    {
+      "id": "trk_late-motel-merrick--2018-0",
+      "slug": "late-motel",
+      "title": "Late Motel",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_nightblooming-chlorophyll-merrick-an",
+        "title": "Nightblooming Chlorophyll",
+        "slug": "nightblooming-chlorophyll",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "275,570"
+    },
+    {
+      "id": "trk_boulevard-reprise-merrick--2020-0",
+      "slug": "boulevard-reprise",
+      "title": "Boulevard (Reprise)",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_the-ballroom-merrick-an",
+        "title": "The Ballroom",
+        "slug": "the-ballroom",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "271,526"
+    },
+    {
+      "id": "trk_half-a-ballroom-merrick--2011-1",
+      "slug": "half-a-ballroom",
+      "title": "Half a Ballroom",
+      "duration": "4:26",
+      "durationSec": 266,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_wet-dew-merrick-an",
+        "title": "Wet Dew",
+        "slug": "wet-dew",
+        "year": 2011
+      },
+      "albumArt": null,
+      "playCountLabel": "256,579"
+    },
+    {
+      "id": "trk_late-ballroom-merrick--2018-1",
+      "slug": "late-ballroom",
+      "title": "Late Ballroom",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_merrick-and-the-motels",
+        "name": "Merrick & The Motels",
+        "slug": "merrick-and-the-motels"
+      },
+      "album": {
+        "id": "alb_nightblooming-chlorophyll-merrick-an",
+        "title": "Nightblooming Chlorophyll",
+        "slug": "nightblooming-chlorophyll",
+        "year": 2018
+      },
+      "albumArt": null,
+      "playCountLabel": "238,968"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-ballroom-merrick-an",
+      "slug": "the-ballroom-merrick-and-the-motels",
+      "title": "The Ballroom",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_nightblooming-chlorophyll-merrick-an",
+      "slug": "nightblooming-chlorophyll",
+      "title": "Nightblooming Chlorophyll",
+      "subtitle": "2018 · EP",
+      "year": 2018,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_nightblooming-flora-merrick-an",
+      "slug": "nightblooming-flora",
+      "title": "Nightblooming Flora",
+      "subtitle": "2013 · Single",
+      "year": 2013,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_wet-dew-merrick-an",
+      "slug": "wet-dew",
+      "title": "Wet Dew",
+      "subtitle": "2011 · Album",
+      "year": 2011,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_green-dew-merrick-an",
+      "slug": "green-dew",
+      "title": "Green Dew",
+      "subtitle": "2009 · Album",
+      "year": 2009,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Boulevard (Reprise)",
+      "position": 8,
+      "caption": "Boulevard (Reprise) is track 8"
+    }
+  ]
+}

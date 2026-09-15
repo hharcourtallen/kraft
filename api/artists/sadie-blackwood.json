@@ -1,0 +1,361 @@
+{
+  "id": "art_sadie-blackwood",
+  "slug": "sadie-blackwood",
+  "name": "Sadie Blackwood",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Tucson, AZ",
+  "geo": {
+    "placeId": "plc_tucson",
+    "city": "Tucson",
+    "country": "US",
+    "lat": 32.22,
+    "lng": -110.97
+  },
+  "region": "us",
+  "genres": [
+    "downtempo",
+    "ambient"
+  ],
+  "primaryGenre": {
+    "slug": "downtempo",
+    "name": "Downtempo"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2902,
+  "monthlyListenersLabel": "2.9K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Downtempo · 2.9K listeners",
+  "verified": true,
+  "active": {
+    "from": 2019,
+    "to": 2021
+  },
+  "bio": "A producer making downtempo about the coast. One synth, one delay, one rule: nothing added after the first pass. Will not tour in summer. Stopped releasing in 2021.",
+  "discography": [
+    "alb_label-and-reel-sadie-blac",
+    "alb_velvet-hour-sadie-blac",
+    "alb_wow-and-flutter-sadie-blac"
+  ],
+  "popularTrackIds": [
+    "trk_velvet-rooftop-sadie-bl-2019-0",
+    "trk_blue-underpass-sadie-bl-2019-1",
+    "trk_pressed-sleeve-sadie-bl-2021-0",
+    "trk_nothing-but-sleeves-sadie-bl-2019-2",
+    "trk_motel-live-at-the-roundhouse-sadie-bl-2021-1",
+    "trk_taxi-blues-sadie-bl-2020-2",
+    "trk_dark-ferry-sadie-bl-2019-3",
+    "trk_curfew-sadie-bl-2020-0",
+    "trk_wow-and-flutter-sadie-bl-2020-1",
+    "trk_label-hymn-sadie-bl-2021-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "downtempo",
+        "year": 2021,
+        "era": "digital",
+        "eraLabel": "2000-2014",
+        "isPeriodHomage": true,
+        "medium": "desaturated minimal photograph, cool cast, lots of empty space",
+        "composition": "subject small and off-centre, vast negative space",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "sodium orange, wet black, muddy green"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2021 press image deliberately styled after 2000-2014. Medium: desaturated minimal photograph, cool cast, lots of empty space. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: sodium orange, wet black, muddy green. Composition: subject small and off-centre, vast negative space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202021%20press%20image%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20desaturated%20minimal%20photograph%2C%20cool%20cast%2C%20lots%20of%20empty%20space.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20sodium%20orange%2C%20wet%20black%2C%20muddy%20green.%20Composition%3A%20subject%20small%20and%20off-centre%2C%20vast%20negative%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "downtempo",
+        "year": 2021,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "sodium orange, wet black, muddy green"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician leaning on a van, road behind them. Palette: sodium orange, wet black, muddy green. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20sodium%20orange%2C%20wet%20black%2C%20muddy%20green.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_velvet-rooftop-sadie-bl-2019-0",
+      "slug": "velvet-rooftop",
+      "title": "Velvet Rooftop",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "79,268"
+    },
+    {
+      "id": "trk_blue-underpass-sadie-bl-2019-1",
+      "slug": "blue-underpass",
+      "title": "Blue Underpass",
+      "duration": "5:26",
+      "durationSec": 326,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "49,652"
+    },
+    {
+      "id": "trk_pressed-sleeve-sadie-bl-2021-0",
+      "slug": "pressed-sleeve",
+      "title": "Pressed Sleeve",
+      "duration": "4:56",
+      "durationSec": 296,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_label-and-reel-sadie-blac",
+        "title": "Label & Reel",
+        "slug": "label-and-reel",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "26,984"
+    },
+    {
+      "id": "trk_nothing-but-sleeves-sadie-bl-2019-2",
+      "slug": "nothing-but-sleeves",
+      "title": "Nothing but Sleeves",
+      "duration": "5:03",
+      "durationSec": 303,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "16,458"
+    },
+    {
+      "id": "trk_motel-live-at-the-roundhouse-sadie-bl-2021-1",
+      "slug": "motel-live-at-the-roundhouse",
+      "title": "Motel (Live at the Roundhouse)",
+      "duration": "4:26",
+      "durationSec": 266,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_label-and-reel-sadie-blac",
+        "title": "Label & Reel",
+        "slug": "label-and-reel",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "15,301"
+    },
+    {
+      "id": "trk_taxi-blues-sadie-bl-2020-2",
+      "slug": "taxi-blues",
+      "title": "Taxi Blues",
+      "duration": "3:55",
+      "durationSec": 235,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "14,083"
+    },
+    {
+      "id": "trk_dark-ferry-sadie-bl-2019-3",
+      "slug": "dark-ferry",
+      "title": "Dark Ferry",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "10,795"
+    },
+    {
+      "id": "trk_curfew-sadie-bl-2020-0",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "5:25",
+      "durationSec": 325,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "10,489"
+    },
+    {
+      "id": "trk_wow-and-flutter-sadie-bl-2020-1",
+      "slug": "wow-and-flutter",
+      "title": "Wow & Flutter",
+      "duration": "4:35",
+      "durationSec": 275,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sadie-blac",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "8,476"
+    },
+    {
+      "id": "trk_label-hymn-sadie-bl-2021-3",
+      "slug": "label-hymn",
+      "title": "Label Hymn",
+      "duration": "5:46",
+      "durationSec": 346,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_label-and-reel-sadie-blac",
+        "title": "Label & Reel",
+        "slug": "label-and-reel",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "5,192"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_label-and-reel-sadie-blac",
+      "slug": "label-and-reel",
+      "title": "Label & Reel",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_velvet-hour-sadie-blac",
+      "slug": "velvet-hour",
+      "title": "Velvet Hour",
+      "subtitle": "2020 · EP",
+      "year": 2020,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_wow-and-flutter-sadie-blac",
+      "slug": "wow-and-flutter",
+      "title": "Wow & Flutter",
+      "subtitle": "2019 · EP",
+      "year": 2019,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Nocturne",
+      "position": 10,
+      "caption": "Nocturne is track 10"
+    },
+    {
+      "playlistId": "pl_country-japan",
+      "slug": "japan",
+      "title": "Japan",
+      "image": "/artwork/playlist/country-japan.png",
+      "curatorId": "cur_haruka-nakagawa",
+      "curatorName": "Haruka Nakagawa",
+      "trackTitle": "Curfew",
+      "position": 9,
+      "caption": "Curfew is track 9"
+    },
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Nothing but Sleeves",
+      "position": 7,
+      "caption": "Nothing but Sleeves is track 7"
+    }
+  ]
+}

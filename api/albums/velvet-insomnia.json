@@ -1,0 +1,47 @@
+{
+  "id": "alb_velvet-insomnia-the-assemb",
+  "slug": "velvet-insomnia",
+  "title": "Velvet Insomnia",
+  "year": 2012,
+  "type": "EP",
+  "subtitle": "2012 · EP",
+  "trackCount": 6,
+  "durationSec": 1325,
+  "durationLabel": "22 min",
+  "artist": {
+    "id": "art_the-assemblies",
+    "name": "The Assemblies",
+    "slug": "the-assemblies"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_assembly-march-the-asse-2012-0",
+    "trk_provision-the-asse-2012-1",
+    "trk_new-registry-the-asse-2012-2",
+    "trk_new-exchange-the-asse-2012-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2012,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "glossy CGI render with ray-traced reflections and studio HDRI lighting",
+      "composition": "single hero object floating on a smooth gradient ground",
+      "abstract": false,
+      "subject": "a car park at night",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: glossy CGI render with ray-traced reflections and studio HDRI lighting. Subject: a car park at night. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: single hero object floating on a smooth gradient ground. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20glossy%20CGI%20render%20with%20ray-traced%20reflections%20and%20studio%20HDRI%20lighting.%20Subject%3A%20a%20car%20park%20at%20night.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20single%20hero%20object%20floating%20on%20a%20smooth%20gradient%20ground.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

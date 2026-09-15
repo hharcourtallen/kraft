@@ -1,0 +1,118 @@
+{
+  "id": "art_petal-and-dew",
+  "slug": "petal-and-dew",
+  "name": "Petal & Dew",
+  "formation": "duo",
+  "country": "GB",
+  "hometown": "Bristol",
+  "geo": {
+    "placeId": "plc_bristol",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.45,
+    "lng": -2.59
+  },
+  "region": "us-uk",
+  "genres": [
+    "folk",
+    "dream-pop"
+  ],
+  "primaryGenre": {
+    "slug": "folk",
+    "name": "Folk"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "established",
+  "monthlyListeners": 41000,
+  "monthlyListenersLabel": "41K monthly listeners",
+  "followers": 15000,
+  "followersLabel": "15K",
+  "shelfCaption": "Folk · 41K listeners",
+  "verified": false,
+  "active": {
+    "from": 2019,
+    "to": null
+  },
+  "bio": "Two voices, one harmonium, and a standing rule that nothing gets more than four takes.",
+  "discography": [
+    "alb_petal-and-dew"
+  ],
+  "popularTrackIds": [
+    "trk_wax-and-wane"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "folk",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "desaturated ochre, moss green, bone white, overcast grey"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician alone on a small stage, one lamp on. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_wax-and-wane",
+      "slug": "wax-and-wane",
+      "title": "Wax & Wane",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_petal-and-dew",
+        "name": "Petal & Dew",
+        "slug": "petal-and-dew"
+      },
+      "album": {
+        "id": "alb_petal-and-dew",
+        "title": "Petal & Dew",
+        "slug": "petal-and-dew",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "486,311"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_petal-and-dew",
+      "slug": "petal-and-dew",
+      "title": "Petal & Dew",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

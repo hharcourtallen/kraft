@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-norway",
+  "slug": "norway",
+  "title": "Norway",
+  "description": null,
+  "note": "Oslo in the blue hour, which in winter is most of the afternoon. Rasmus, Halvor and Zoning & Census are all neighbours.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "NO",
+  "subtitle": "Ingrid Halvorsen",
+  "curator": {
+    "id": "cur_ingrid-halvorsen",
+    "name": "Ingrid Halvorsen",
+    "city": "Oslo"
+  },
+  "trackCount": 12,
+  "durationSec": 4415,
+  "durationLabel": "1 hr 14 min",
+  "metaLine": "12 tracks · 1 hr 14 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 11300,
+  "followersLabel": "11K",
+  "updated": "2026-07-07",
+  "moods": [],
+  "genres": [
+    "ambient",
+    "modern-composition",
+    "jazz"
+  ],
+  "trackIds": [
+    "trk_erosion-rasmus-s-2020-0",
+    "trk_meridian-blues-rasmus-s-2020-1",
+    "trk_nothing-but-precincts-zoning-a-2016-0",
+    "trk_blue-payphone-zoning-a-2016-1",
+    "trk_central-registry-halvor-l-2014-0",
+    "trk_municipal-exchange-halvor-l-2014-1",
+    "trk_nothing-but-sleeves-sadie-bl-2019-2",
+    "trk_model-registry-rhys-ree-2023-3",
+    "trk_solar-corona-tobias-t-2024-3",
+    "trk_chlorophyll-the-gree-2023-0",
+    "trk_sediment-til-voge-2024-1",
+    "trk_zoning-halvor-l-2020-3"
+  ],
+  "tracks": [
+    {
+      "id": "trk_erosion-rasmus-s-2020-0",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_meridian-blues-rasmus-s-2020-1",
+      "slug": "meridian-blues",
+      "title": "Meridian Blues",
+      "duration": "4:45",
+      "durationSec": 285,
+      "artist": {
+        "id": "art_rasmus-s-rensen",
+        "name": "Rasmus Sørensen",
+        "slug": "rasmus-s-rensen"
+      },
+      "album": {
+        "id": "alb_equinox-and-transit-rasmus-s-r",
+        "title": "Equinox & Transit",
+        "slug": "equinox-and-transit",
+        "year": 2020
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-precincts-zoning-a-2016-0",
+      "slug": "nothing-but-precincts",
+      "title": "Nothing but Precincts",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_motels-zoning-and",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_blue-payphone-zoning-a-2016-1",
+      "slug": "blue-payphone",
+      "title": "Blue Payphone",
+      "duration": "4:46",
+      "durationSec": 286,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_motels-zoning-and",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_central-registry-halvor-l-2014-0",
+      "slug": "central-registry",
+      "title": "Central Registry",
+      "duration": "8:12",
+      "durationSec": 492,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_municipal-exchange-halvor-l-2014-1",
+      "slug": "municipal-exchange",
+      "title": "Municipal Exchange",
+      "duration": "5:43",
+      "durationSec": 343,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_bloc-and-registry-halvor-lin",
+        "title": "Bloc & Registry",
+        "slug": "bloc-and-registry",
+        "year": 2014
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_nothing-but-sleeves-sadie-bl-2019-2",
+      "slug": "nothing-but-sleeves",
+      "title": "Nothing but Sleeves",
+      "duration": "5:03",
+      "durationSec": 303,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_wow-and-flutter-sadie-blac",
+        "title": "Wow & Flutter",
+        "slug": "wow-and-flutter",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_model-registry-rhys-ree-2023-3",
+      "slug": "model-registry",
+      "title": "Model Registry",
+      "duration": "7:02",
+      "durationSec": 422,
+      "artist": {
+        "id": "art_rhys-rees",
+        "name": "Rhys Rees",
+        "slug": "rhys-rees"
+      },
+      "album": {
+        "id": "alb_municipal-infrastructure-rhys-rees",
+        "title": "Municipal Infrastructure",
+        "slug": "municipal-infrastructure",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_solar-corona-tobias-t-2024-3",
+      "slug": "solar-corona",
+      "title": "Solar Corona",
+      "duration": "7:13",
+      "durationSec": 433,
+      "artist": {
+        "id": "art_tobias-total",
+        "name": "Tobias Total",
+        "slug": "tobias-total"
+      },
+      "album": {
+        "id": "alb_bedrock-and-foundry-tobias-tot",
+        "title": "Bedrock & Foundry",
+        "slug": "bedrock-and-foundry",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_chlorophyll-the-gree-2023-0",
+      "slug": "chlorophyll",
+      "title": "Chlorophyll",
+      "duration": "9:06",
+      "durationSec": 546,
+      "artist": {
+        "id": "art_the-green-vines",
+        "name": "The Green Vines",
+        "slug": "the-green-vines"
+      },
+      "album": {
+        "id": "alb_ninth-observatory-the-green-",
+        "title": "Ninth Observatory",
+        "slug": "ninth-observatory",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_sediment-til-voge-2024-1",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "5:20",
+      "durationSec": 320,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_zoning-halvor-l-2020-3",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "7:33",
+      "durationSec": 453,
+      "artist": {
+        "id": "art_halvor-lindqvist",
+        "name": "Halvor Lindqvist",
+        "slug": "halvor-lindqvist"
+      },
+      "album": {
+        "id": "alb_model-infrastructure-halvor-lin",
+        "title": "Model Infrastructure",
+        "slug": "model-infrastructure",
+        "year": 2020
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-norway.png",
+    "direction": {
+      "genre": "ambient",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "frost on glass",
+      "palette": "pale ice blue, warm grey, faint pink, near-white"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: frost on glass. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20frost%20on%20glass.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "7 Jul"
+}

@@ -1,0 +1,359 @@
+{
+  "id": "art_small-payphone",
+  "slug": "small-payphone",
+  "name": "Small Payphone",
+  "formation": "band",
+  "country": "SE",
+  "hometown": "Malmö",
+  "geo": {
+    "placeId": "plc_malmo",
+    "city": "Malmö",
+    "country": "SE",
+    "lat": 55.6,
+    "lng": 13
+  },
+  "region": "nordic",
+  "genres": [
+    "electronic"
+  ],
+  "primaryGenre": {
+    "slug": "electronic",
+    "name": "Electronic"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "tier": "working",
+  "monthlyListeners": 3970,
+  "monthlyListenersLabel": "4K monthly listeners",
+  "followers": 1800,
+  "followersLabel": "1.8K",
+  "shelfCaption": "Electronic · 4K listeners",
+  "verified": false,
+  "active": {
+    "from": 2019,
+    "to": null
+  },
+  "bio": "Formed in Malmö and still arguing about it. Treats the mixing desk as the instrument. Has never once repeated a set list.",
+  "discography": [
+    "alb_the-motel-small-payp",
+    "alb_nocturne-small-payp",
+    "alb_soft-husbandry-small-payp",
+    "alb_village-and-bramble-small-payp"
+  ],
+  "popularTrackIds": [
+    "trk_slow-common-small-pa-2019-0",
+    "trk_small-payphone-small-pa-2019-1",
+    "trk_small-marquee-small-pa-2022-0",
+    "trk_soft-fen-small-pa-2021-0",
+    "trk_hollow-common-small-pa-2021-1",
+    "trk_half-a-common-small-pa-2021-2",
+    "trk_rooftop-song-small-pa-2021-3",
+    "trk_another-meadow-small-pa-2019-2",
+    "trk_almanac-small-pa-2019-3",
+    "trk_all-the-thickets-small-pa-2024-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "electronic",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "ultramarine, silver, black, one acid highlight"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: ultramarine, silver, black, one acid highlight. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "electronic",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "ultramarine, silver, black, one acid highlight"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician alone on a small stage, one lamp on. Palette: ultramarine, silver, black, one acid highlight. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20ultramarine%2C%20silver%2C%20black%2C%20one%20acid%20highlight.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_slow-common-small-pa-2019-0",
+      "slug": "slow-common",
+      "title": "Slow Common",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_village-and-bramble-small-payp",
+        "title": "Village & Bramble",
+        "slug": "village-and-bramble",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "37,225"
+    },
+    {
+      "id": "trk_small-payphone-small-pa-2019-1",
+      "slug": "small-payphone",
+      "title": "Small Payphone",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_village-and-bramble-small-payp",
+        "title": "Village & Bramble",
+        "slug": "village-and-bramble",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "32,661"
+    },
+    {
+      "id": "trk_small-marquee-small-pa-2022-0",
+      "slug": "small-marquee",
+      "title": "Small Marquee",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_nocturne-small-payp",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "30,781"
+    },
+    {
+      "id": "trk_soft-fen-small-pa-2021-0",
+      "slug": "soft-fen",
+      "title": "Soft Fen",
+      "duration": "4:23",
+      "durationSec": 263,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_soft-husbandry-small-payp",
+        "title": "Soft Husbandry",
+        "slug": "soft-husbandry",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "25,485"
+    },
+    {
+      "id": "trk_hollow-common-small-pa-2021-1",
+      "slug": "hollow-common",
+      "title": "Hollow Common",
+      "duration": "3:49",
+      "durationSec": 229,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_soft-husbandry-small-payp",
+        "title": "Soft Husbandry",
+        "slug": "soft-husbandry",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "20,138"
+    },
+    {
+      "id": "trk_half-a-common-small-pa-2021-2",
+      "slug": "half-a-common",
+      "title": "Half a Common",
+      "duration": "4:34",
+      "durationSec": 274,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_soft-husbandry-small-payp",
+        "title": "Soft Husbandry",
+        "slug": "soft-husbandry",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "12,620"
+    },
+    {
+      "id": "trk_rooftop-song-small-pa-2021-3",
+      "slug": "rooftop-song",
+      "title": "Rooftop Song",
+      "duration": "3:51",
+      "durationSec": 231,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_soft-husbandry-small-payp",
+        "title": "Soft Husbandry",
+        "slug": "soft-husbandry",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "7,669"
+    },
+    {
+      "id": "trk_another-meadow-small-pa-2019-2",
+      "slug": "another-meadow",
+      "title": "Another Meadow",
+      "duration": "4:34",
+      "durationSec": 274,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_village-and-bramble-small-payp",
+        "title": "Village & Bramble",
+        "slug": "village-and-bramble",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "7,105"
+    },
+    {
+      "id": "trk_almanac-small-pa-2019-3",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_village-and-bramble-small-payp",
+        "title": "Village & Bramble",
+        "slug": "village-and-bramble",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "6,815"
+    },
+    {
+      "id": "trk_all-the-thickets-small-pa-2024-1",
+      "slug": "all-the-thickets",
+      "title": "All the Thickets",
+      "duration": "3:36",
+      "durationSec": 216,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_the-motel-small-payp",
+        "title": "The Motel",
+        "slug": "the-motel",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "6,516"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-motel-small-payp",
+      "slug": "the-motel",
+      "title": "The Motel",
+      "subtitle": "2024 · Compilation",
+      "year": 2024,
+      "type": "Compilation",
+      "image": null
+    },
+    {
+      "id": "alb_nocturne-small-payp",
+      "slug": "nocturne-small-payphone",
+      "title": "Nocturne",
+      "subtitle": "2022 · Single",
+      "year": 2022,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_soft-husbandry-small-payp",
+      "slug": "soft-husbandry",
+      "title": "Soft Husbandry",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_village-and-bramble-small-payp",
+      "slug": "village-and-bramble",
+      "title": "Village & Bramble",
+      "subtitle": "2019 · EP",
+      "year": 2019,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Two Hundred Thickets",
+      "position": 4,
+      "caption": "Two Hundred Thickets is track 4"
+    },
+    {
+      "playlistId": "pl_country-france",
+      "slug": "france",
+      "title": "France",
+      "image": "/artwork/playlist/country-france.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Another Meadow",
+      "position": 7,
+      "caption": "Another Meadow is track 7"
+    }
+  ]
+}

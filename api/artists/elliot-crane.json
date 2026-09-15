@@ -1,0 +1,296 @@
+{
+  "id": "art_elliot-crane",
+  "slug": "elliot-crane",
+  "name": "Elliot Crane",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Tucson, AZ",
+  "geo": {
+    "placeId": "plc_tucson",
+    "city": "Tucson",
+    "country": "US",
+    "lat": 32.22,
+    "lng": -110.97
+  },
+  "region": "us",
+  "genres": [
+    "post-punk",
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "post-punk",
+    "name": "Post-Punk"
+  },
+  "label": {
+    "id": "lbl_ferry-lane",
+    "name": "Ferry Lane"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2908,
+  "monthlyListenersLabel": "2.9K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Post-Punk · 2.9K listeners",
+  "verified": false,
+  "active": {
+    "from": 2023,
+    "to": null
+  },
+  "bio": "Formed in Tucson, AZ and still arguing about it. Built on one repeated figure and a room mic.",
+  "discography": [
+    "alb_model-assembly-elliot-cra",
+    "alb_cairns-elliot-cra"
+  ],
+  "popularTrackIds": [
+    "trk_limestone-kiln-elliot-c-2023-1",
+    "trk_strata-waltz-elliot-c-2023-0",
+    "trk_nothing-but-precincts-elliot-c-2023-2",
+    "trk_annex-lullaby-elliot-c-2025-1",
+    "trk_limestone-quarry-elliot-c-2025-0",
+    "trk_limestone-bedrock-elliot-c-2023-3",
+    "trk_limestone-aggregate-elliot-c-2023-4",
+    "trk_sediment-elliot-c-2025-2",
+    "trk_oxidation-elliot-c-2025-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "post-punk",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "cold grey with one hard accent, two colours only"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in their late twenties looking just past the camera. Palette: cold grey with one hard accent, two colours only. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "post-punk",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "cold grey with one hard accent, two colours only"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a band of three standing far apart in an empty car park. Palette: cold grey with one hard accent, two colours only. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_limestone-kiln-elliot-c-2023-1",
+      "slug": "limestone-kiln",
+      "title": "Limestone Kiln",
+      "duration": "3:18",
+      "durationSec": 198,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "20,939"
+    },
+    {
+      "id": "trk_strata-waltz-elliot-c-2023-0",
+      "slug": "strata-waltz",
+      "title": "Strata Waltz",
+      "duration": "3:17",
+      "durationSec": 197,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "17,142"
+    },
+    {
+      "id": "trk_nothing-but-precincts-elliot-c-2023-2",
+      "slug": "nothing-but-precincts",
+      "title": "Nothing but Precincts",
+      "duration": "3:33",
+      "durationSec": 213,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "10,249"
+    },
+    {
+      "id": "trk_annex-lullaby-elliot-c-2025-1",
+      "slug": "annex-lullaby",
+      "title": "Annex Lullaby",
+      "duration": "3:12",
+      "durationSec": 192,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_model-assembly-elliot-cra",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "5,936"
+    },
+    {
+      "id": "trk_limestone-quarry-elliot-c-2025-0",
+      "slug": "limestone-quarry",
+      "title": "Limestone Quarry",
+      "duration": "4:31",
+      "durationSec": 271,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_model-assembly-elliot-cra",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "5,845"
+    },
+    {
+      "id": "trk_limestone-bedrock-elliot-c-2023-3",
+      "slug": "limestone-bedrock",
+      "title": "Limestone Bedrock",
+      "duration": "4:32",
+      "durationSec": 272,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "5,775"
+    },
+    {
+      "id": "trk_limestone-aggregate-elliot-c-2023-4",
+      "slug": "limestone-aggregate",
+      "title": "Limestone Aggregate",
+      "duration": "3:04",
+      "durationSec": 184,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_cairns-elliot-cra",
+        "title": "Cairns",
+        "slug": "cairns",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "4,924"
+    },
+    {
+      "id": "trk_sediment-elliot-c-2025-2",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "3:13",
+      "durationSec": 193,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_model-assembly-elliot-cra",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,373"
+    },
+    {
+      "id": "trk_oxidation-elliot-c-2025-3",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "3:53",
+      "durationSec": 233,
+      "artist": {
+        "id": "art_elliot-crane",
+        "name": "Elliot Crane",
+        "slug": "elliot-crane"
+      },
+      "album": {
+        "id": "alb_model-assembly-elliot-cra",
+        "title": "Model Assembly",
+        "slug": "model-assembly",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,926"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_model-assembly-elliot-cra",
+      "slug": "model-assembly-elliot-crane",
+      "title": "Model Assembly",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_cairns-elliot-cra",
+      "slug": "cairns",
+      "title": "Cairns",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

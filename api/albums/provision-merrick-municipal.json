@@ -1,0 +1,47 @@
+{
+  "id": "alb_provision-merrick-mu",
+  "slug": "provision-merrick-municipal",
+  "title": "Provision",
+  "year": 2025,
+  "type": "EP",
+  "subtitle": "2025 · EP",
+  "trackCount": 4,
+  "durationSec": 875,
+  "durationLabel": "15 min",
+  "artist": {
+    "id": "art_merrick-municipal",
+    "name": "Merrick Municipal",
+    "slug": "merrick-municipal"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_new-assembly-merrick--2025-0",
+    "trk_nothing-but-taxis-merrick--2025-1",
+    "trk_model-terminal-merrick--2025-2",
+    "trk_underpass-waltz-merrick--2025-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2025,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+      "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+      "abstract": false,
+      "subject": "a stack of amplifiers",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2025 sleeve deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a stack of amplifiers. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202025%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20stack%20of%20amplifiers.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

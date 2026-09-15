@@ -1,0 +1,45 @@
+{
+  "id": "alb_basement-sessions",
+  "slug": "basement-sessions",
+  "title": "Basement Sessions",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 8,
+  "durationSec": 2384,
+  "durationLabel": "40 min",
+  "artist": {
+    "id": "art_the-dusty-crates",
+    "name": "The Dusty Crates",
+    "slug": "the-dusty-crates"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "genres": [
+    "analog-revival",
+    "funk"
+  ],
+  "tracks": [
+    "trk_faded-label"
+  ],
+  "artwork": {
+    "image": "/artwork/album/basement-sessions.jpg",
+    "direction": {
+      "genre": "analog-revival",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "ring wear on cardboard",
+      "palette": "yellowed cream, faded brown, dust grey, warm amber"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: ring wear on cardboard. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20ring%20wear%20on%20cardboard.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,358 @@
+{
+  "id": "art_zoning-and-census",
+  "slug": "zoning-and-census",
+  "name": "Zoning & Census",
+  "formation": "duo",
+  "country": "NO",
+  "hometown": "Bergen",
+  "geo": {
+    "placeId": "plc_bergen",
+    "city": "Bergen",
+    "country": "NO",
+    "lat": 60.39,
+    "lng": 5.32
+  },
+  "region": "nordic",
+  "genres": [
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "working",
+  "monthlyListeners": 3043,
+  "monthlyListenersLabel": "3K monthly listeners",
+  "followers": 1284,
+  "followersLabel": "1.3K",
+  "shelfCaption": "Indie Rock · 3K listeners",
+  "verified": false,
+  "active": {
+    "from": 2016,
+    "to": null
+  },
+  "bio": "Zoning & Census has been a Bergen fixture since 2016. Built on one repeated figure and a room mic.",
+  "discography": [
+    "alb_small-insomnia-zoning-and",
+    "alb_public-exchange-zoning-and",
+    "alb_precincts-zoning-and",
+    "alb_late-afterhours-zoning-and",
+    "alb_motels-zoning-and"
+  ],
+  "popularTrackIds": [
+    "trk_every-rooftop-zoning-a-2020-0",
+    "trk_nothing-but-precincts-zoning-a-2016-0",
+    "trk_blue-payphone-zoning-a-2016-1",
+    "trk_bloc-hymn-zoning-a-2017-1",
+    "trk_bureau-live-at-the-roundhouse-zoning-a-2016-2",
+    "trk_bloc-hymn-zoning-a-2017-0",
+    "trk_dark-ferry-zoning-a-2017-2",
+    "trk_registry-elegy-zoning-a-2022-0",
+    "trk_blue-rooftop-zoning-a-2022-1",
+    "trk_small-boulevard-zoning-a-2020-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2024,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "hand-tinted photograph, colour applied over monochrome",
+        "composition": "centred, formal, symmetrical",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2024 press image deliberately styled after 1955-1979. Medium: hand-tinted photograph, colour applied over monochrome. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: centred, formal, symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202024%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20hand-tinted%20photograph%2C%20colour%20applied%20over%20monochrome.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20centred%2C%20formal%2C%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a band of three standing far apart in an empty car park. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_every-rooftop-zoning-a-2020-0",
+      "slug": "every-rooftop",
+      "title": "Every Rooftop",
+      "duration": "4:12",
+      "durationSec": 252,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_precincts-zoning-and",
+        "title": "Precincts",
+        "slug": "precincts",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "47,374"
+    },
+    {
+      "id": "trk_nothing-but-precincts-zoning-a-2016-0",
+      "slug": "nothing-but-precincts",
+      "title": "Nothing but Precincts",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_motels-zoning-and",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "44,002"
+    },
+    {
+      "id": "trk_blue-payphone-zoning-a-2016-1",
+      "slug": "blue-payphone",
+      "title": "Blue Payphone",
+      "duration": "4:46",
+      "durationSec": 286,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_motels-zoning-and",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "32,996"
+    },
+    {
+      "id": "trk_bloc-hymn-zoning-a-2017-1",
+      "slug": "bloc-hymn",
+      "title": "Bloc Hymn",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_late-afterhours-zoning-and",
+        "title": "Late Afterhours",
+        "slug": "late-afterhours",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "24,995"
+    },
+    {
+      "id": "trk_bureau-live-at-the-roundhouse-zoning-a-2016-2",
+      "slug": "bureau-live-at-the-roundhouse",
+      "title": "Bureau (Live at the Roundhouse)",
+      "duration": "3:32",
+      "durationSec": 212,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_motels-zoning-and",
+        "title": "Motels",
+        "slug": "motels",
+        "year": 2016
+      },
+      "albumArt": null,
+      "playCountLabel": "14,110"
+    },
+    {
+      "id": "trk_bloc-hymn-zoning-a-2017-0",
+      "slug": "bloc-hymn",
+      "title": "Bloc Hymn",
+      "duration": "4:55",
+      "durationSec": 295,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_late-afterhours-zoning-and",
+        "title": "Late Afterhours",
+        "slug": "late-afterhours",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "13,495"
+    },
+    {
+      "id": "trk_dark-ferry-zoning-a-2017-2",
+      "slug": "dark-ferry",
+      "title": "Dark Ferry",
+      "duration": "2:59",
+      "durationSec": 179,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_late-afterhours-zoning-and",
+        "title": "Late Afterhours",
+        "slug": "late-afterhours",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "12,497"
+    },
+    {
+      "id": "trk_registry-elegy-zoning-a-2022-0",
+      "slug": "registry-elegy",
+      "title": "Registry Elegy",
+      "duration": "3:22",
+      "durationSec": 202,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_public-exchange-zoning-and",
+        "title": "Public Exchange",
+        "slug": "public-exchange",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "8,067"
+    },
+    {
+      "id": "trk_blue-rooftop-zoning-a-2022-1",
+      "slug": "blue-rooftop",
+      "title": "Blue Rooftop",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_public-exchange-zoning-and",
+        "title": "Public Exchange",
+        "slug": "public-exchange",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "7,285"
+    },
+    {
+      "id": "trk_small-boulevard-zoning-a-2020-1",
+      "slug": "small-boulevard",
+      "title": "Small Boulevard",
+      "duration": "3:23",
+      "durationSec": 203,
+      "artist": {
+        "id": "art_zoning-and-census",
+        "name": "Zoning & Census",
+        "slug": "zoning-and-census"
+      },
+      "album": {
+        "id": "alb_precincts-zoning-and",
+        "title": "Precincts",
+        "slug": "precincts",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "4,824"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_small-insomnia-zoning-and",
+      "slug": "small-insomnia",
+      "title": "Small Insomnia",
+      "subtitle": "2024 · EP",
+      "year": 2024,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_public-exchange-zoning-and",
+      "slug": "public-exchange",
+      "title": "Public Exchange",
+      "subtitle": "2022 · Album",
+      "year": 2022,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_precincts-zoning-and",
+      "slug": "precincts",
+      "title": "Precincts",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_late-afterhours-zoning-and",
+      "slug": "late-afterhours",
+      "title": "Late Afterhours",
+      "subtitle": "2017 · Album",
+      "year": 2017,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_motels-zoning-and",
+      "slug": "motels",
+      "title": "Motels",
+      "subtitle": "2016 · Album",
+      "year": 2016,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-norway",
+      "slug": "norway",
+      "title": "Norway",
+      "image": "/artwork/playlist/country-norway.png",
+      "curatorId": "cur_ingrid-halvorsen",
+      "curatorName": "Ingrid Halvorsen",
+      "trackTitle": "Nothing but Precincts",
+      "position": 3,
+      "caption": "Nothing but Precincts is track 3"
+    }
+  ]
+}

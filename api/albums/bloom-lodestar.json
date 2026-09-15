@@ -1,0 +1,49 @@
+{
+  "id": "alb_bloom-lodestar",
+  "slug": "bloom-lodestar",
+  "title": "Bloom",
+  "year": 2024,
+  "type": "EP",
+  "subtitle": "2024 · EP",
+  "trackCount": 6,
+  "durationSec": 1270,
+  "durationLabel": "21 min",
+  "artist": {
+    "id": "art_lodestar",
+    "name": "Lodestar",
+    "slug": "lodestar"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk",
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_trawler-march-lodestar-2024-0",
+    "trk_ballast-lodestar-2024-1",
+    "trk_anchorage-instrumental-lodestar-2024-2",
+    "trk_overgrowth-lodestar-2024-3",
+    "trk_bloom-lodestar-2024-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "sculptural or textile object photographed under raking light",
+      "composition": "tactile, close, shallow depth of field",
+      "abstract": false,
+      "subject": "cut wheat bound with twine",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: sculptural or textile object photographed under raking light. Subject: cut wheat bound with twine. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20cut%20wheat%20bound%20with%20twine.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

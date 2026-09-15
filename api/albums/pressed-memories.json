@@ -1,0 +1,45 @@
+{
+  "id": "alb_pressed-memories",
+  "slug": "pressed-memories",
+  "title": "Pressed Memories",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 9,
+  "durationSec": 2052,
+  "durationLabel": "34 min",
+  "artist": {
+    "id": "art_analog-hearts",
+    "name": "Analog Hearts",
+    "slug": "analog-hearts"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "genres": [
+    "analog-revival",
+    "downtempo"
+  ],
+  "tracks": [
+    "trk_crackle-and-hum"
+  ],
+  "artwork": {
+    "image": "/artwork/album/pressed-memories.jpg",
+    "direction": {
+      "genre": "analog-revival",
+      "year": 2023,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "macro photograph of a surface at extreme magnification",
+      "composition": "abstract full bleed, no recognisable scale",
+      "abstract": true,
+      "subject": "a cassette with a handwritten label",
+      "palette": "yellowed cream, faded brown, dust grey, warm amber"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 2000-2014. Medium: macro photograph of a surface at extreme magnification. Not a depiction — an abstract composition that only distantly evokes a cassette with a handwritten label. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: abstract full bleed, no recognisable scale. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20macro%20photograph%20of%20a%20surface%20at%20extreme%20magnification.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20cassette%20with%20a%20handwritten%20label.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20abstract%20full%20bleed%2C%20no%20recognisable%20scale.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

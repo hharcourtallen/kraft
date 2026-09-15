@@ -1,0 +1,48 @@
+{
+  "id": "alb_seam-and-foundry-the-outer-",
+  "slug": "seam-and-foundry",
+  "title": "Seam & Foundry",
+  "year": 2023,
+  "type": "EP",
+  "subtitle": "2023 · EP",
+  "trackCount": 6,
+  "durationSec": 3191,
+  "durationLabel": "53 min",
+  "artist": {
+    "id": "art_the-outer-aphelions",
+    "name": "The Outer Aphelions",
+    "slug": "the-outer-aphelions"
+  },
+  "label": {
+    "id": "lbl_conservatory",
+    "name": "Conservatory Editions"
+  },
+  "genres": [
+    "ambient"
+  ],
+  "tracks": [
+    "trk_rust-quarry-the-oute-2023-0",
+    "trk_copper-seam-the-oute-2023-1",
+    "trk_limestone-seam-the-oute-2023-2",
+    "trk_oxidation-the-oute-2023-3",
+    "trk_tectonics-the-oute-2023-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "ambient",
+      "year": 2023,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "still water at dawn",
+      "palette": "pale ice blue, warm grey, faint pink, near-white"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: still water at dawn. Palette: pale ice blue, warm grey, faint pink, near-white. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20still%20water%20at%20dawn.%20Palette%3A%20pale%20ice%20blue%2C%20warm%20grey%2C%20faint%20pink%2C%20near-white.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

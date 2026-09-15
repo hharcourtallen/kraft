@@ -1,0 +1,132 @@
+{
+  "id": "art_felix-drift",
+  "slug": "felix-drift",
+  "name": "Felix Drift",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Missoula, MT",
+  "geo": {
+    "placeId": "plc_missoula",
+    "city": "Missoula",
+    "country": "US",
+    "lat": 46.87,
+    "lng": -113.99
+  },
+  "region": "us-uk",
+  "genres": [
+    "rock",
+    "americana"
+  ],
+  "primaryGenre": {
+    "slug": "rock",
+    "name": "Rock"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "tier": "flagship",
+  "monthlyListeners": 341000,
+  "monthlyListenersLabel": "341K monthly listeners",
+  "followers": 138000,
+  "followersLabel": "138K",
+  "shelfCaption": "Rock · 341K listeners",
+  "verified": true,
+  "active": {
+    "from": 2012,
+    "to": null
+  },
+  "bio": "Writes wide, unhurried rock songs about distance. Records live to tape in a converted grain store, band in one room, no click.",
+  "discography": [
+    "alb_wide-open"
+  ],
+  "popularTrackIds": [
+    "trk_open-fields"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "rock",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician holding their instrument case, deadpan",
+        "palette": "oxblood, smoke grey, brass, hard black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician holding their instrument case, deadpan. Palette: oxblood, smoke grey, brass, hard black. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20holding%20their%20instrument%20case%2C%20deadpan.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "rock",
+        "year": 2024,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "documentary black-and-white 35mm photograph, coarse grain, printed hard",
+        "composition": "candid framing, subject off-centre, generous empty space",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "oxblood, smoke grey, brass, hard black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2024 press image deliberately styled after 1955-1979. Medium: documentary black-and-white 35mm photograph, coarse grain, printed hard. Subject: a band of three standing far apart in an empty car park. Palette: oxblood, smoke grey, brass, hard black. Composition: candid framing, subject off-centre, generous empty space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202024%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20documentary%20black-and-white%2035mm%20photograph%2C%20coarse%20grain%2C%20printed%20hard.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20candid%20framing%2C%20subject%20off-centre%2C%20generous%20empty%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": {
+    "monthlyListeners": 4800000
+  },
+  "popular": [
+    {
+      "id": "trk_open-fields",
+      "slug": "open-fields",
+      "title": "Open Fields",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_felix-drift",
+        "name": "Felix Drift",
+        "slug": "felix-drift"
+      },
+      "album": {
+        "id": "alb_wide-open",
+        "title": "Wide Open",
+        "slug": "wide-open",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "5,023,117"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_wide-open",
+      "slug": "wide-open",
+      "title": "Wide Open",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Open Fields",
+      "position": 4,
+      "caption": "Open Fields is track 4"
+    }
+  ]
+}

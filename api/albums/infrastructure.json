@@ -1,0 +1,48 @@
+{
+  "id": "alb_infrastructure-the-velvet",
+  "slug": "infrastructure",
+  "title": "Infrastructure",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 9,
+  "durationSec": 3850,
+  "durationLabel": "1 hr 4 min",
+  "artist": {
+    "id": "art_the-velvet-ferries",
+    "name": "The Velvet Ferries",
+    "slug": "the-velvet-ferries"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "jazz",
+    "spiritual-jazz"
+  ],
+  "tracks": [
+    "trk_afterhours-the-velv-2023-0",
+    "trk_late-marquee-the-velv-2023-1",
+    "trk_assembly-live-at-the-roundhouse-the-velv-2023-2",
+    "trk_afterhours-the-velv-2023-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "jazz",
+      "year": 2023,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a brass bell in extreme close-up",
+      "palette": "deep navy or oxblood with cream, one flat colour block"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a brass bell in extreme close-up. Palette: deep navy or oxblood with cream, one flat colour block. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20brass%20bell%20in%20extreme%20close-up.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

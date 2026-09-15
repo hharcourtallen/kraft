@@ -1,0 +1,48 @@
+{
+  "id": "alb_low-hedgerow-overgrowth",
+  "slug": "low-hedgerow",
+  "title": "Low Hedgerow",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 9,
+  "durationSec": 2246,
+  "durationLabel": "37 min",
+  "artist": {
+    "id": "art_overgrowth",
+    "name": "Overgrowth",
+    "slug": "overgrowth"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "rock"
+  ],
+  "tracks": [
+    "trk_payphone-waltz-overgrow-2021-0",
+    "trk_common-waltz-overgrow-2021-1",
+    "trk_insomnia-overgrow-2021-2",
+    "trk_nocturne-overgrow-2021-3",
+    "trk_bramble-blues-overgrow-2021-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rock",
+      "year": 2021,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "a drum kit lit from one side",
+      "palette": "oxblood, smoke grey, brass, hard black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes a drum kit lit from one side. Palette: oxblood, smoke grey, brass, hard black. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20drum%20kit%20lit%20from%20one%20side.%20Palette%3A%20oxblood%2C%20smoke%20grey%2C%20brass%2C%20hard%20black.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

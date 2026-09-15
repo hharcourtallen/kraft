@@ -1,0 +1,45 @@
+{
+  "id": "alb_side-b-forever",
+  "slug": "side-b-forever",
+  "title": "Side B Forever",
+  "year": 2023,
+  "type": "Album",
+  "subtitle": "2023 · Album",
+  "trackCount": 10,
+  "durationSec": 3270,
+  "durationLabel": "55 min",
+  "artist": {
+    "id": "art_lead-in-groove",
+    "name": "Lead-In Groove",
+    "slug": "lead-in-groove"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "analog-revival",
+    "downtempo"
+  ],
+  "tracks": [
+    "trk_last-track-home"
+  ],
+  "artwork": {
+    "image": "/artwork/album/side-b-forever.jpg",
+    "direction": {
+      "genre": "analog-revival",
+      "year": 2023,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "hand-tinted photograph, colour applied over monochrome",
+      "composition": "centred, formal, symmetrical",
+      "abstract": false,
+      "subject": "a cassette with a handwritten label",
+      "palette": "yellowed cream, faded brown, dust grey, warm amber"
+    },
+    "prompt": "Album cover artwork, square format. A 2023 sleeve deliberately styled after 1955-1979. Medium: hand-tinted photograph, colour applied over monochrome. Subject: a cassette with a handwritten label. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: centred, formal, symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202023%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20hand-tinted%20photograph%2C%20colour%20applied%20over%20monochrome.%20Subject%3A%20a%20cassette%20with%20a%20handwritten%20label.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20centred%2C%20formal%2C%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

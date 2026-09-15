@@ -1,0 +1,47 @@
+{
+  "id": "alb_the-precinct-nocturne",
+  "slug": "the-precinct",
+  "title": "The Precinct",
+  "year": 2025,
+  "type": "Album",
+  "subtitle": "2025 · Album",
+  "trackCount": 10,
+  "durationSec": 2285,
+  "durationLabel": "38 min",
+  "artist": {
+    "id": "art_nocturne",
+    "name": "Nocturne",
+    "slug": "nocturne"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_ballroom-hymn-nocturne-2025-0",
+    "trk_municipal-assembly-nocturne-2025-1",
+    "trk_nothing-but-underpasses-nocturne-2025-2",
+    "trk_curfew-nocturne-2025-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2025,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+      "composition": "non-representational, full bleed, edge-to-edge colour",
+      "abstract": true,
+      "subject": "an empty stage after load-out",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes an empty stage after load-out. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20an%20empty%20stage%20after%20load-out.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,46 @@
+{
+  "id": "alb_velvet-nocturne-grafting",
+  "slug": "velvet-nocturne",
+  "title": "Velvet Nocturne",
+  "year": 2026,
+  "type": "EP",
+  "subtitle": "2026 · EP",
+  "trackCount": 6,
+  "durationSec": 1454,
+  "durationLabel": "24 min",
+  "artist": {
+    "id": "art_grafting",
+    "name": "Grafting",
+    "slug": "grafting"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_grafting-grafting-2026-0",
+    "trk_all-the-ballrooms-grafting-2026-1",
+    "trk_small-motel-grafting-2026-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "dream-pop",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "blurred flowers at night",
+      "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: blurred flowers at night. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20blurred%20flowers%20at%20night.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

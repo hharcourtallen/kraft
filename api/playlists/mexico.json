@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-mexico",
+  "slug": "mexico",
+  "title": "Mexico",
+  "description": null,
+  "note": "My city the way it sounds from a rooftop in Roma Norte. Antonella Iriarte opens it because she is the reason I moved back.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "MX",
+  "subtitle": "Sofía Reyes",
+  "curator": {
+    "id": "cur_sofia-reyes",
+    "name": "Sofía Reyes",
+    "city": "Mexico City"
+  },
+  "trackCount": 12,
+  "durationSec": 3198,
+  "durationLabel": "53 min",
+  "metaLine": "12 tracks · 53 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 21700,
+  "followersLabel": "22K",
+  "updated": "2026-07-18",
+  "moods": [],
+  "genres": [
+    "folk",
+    "bossa",
+    "electronic"
+  ],
+  "trackIds": [
+    "trk_long-village-antonell-2023-0",
+    "trk_small-underpass-antonell-2023-1",
+    "trk_husbandry-rootwork-2019-3",
+    "trk_fieldwork-ballast--2025-1",
+    "trk_rootwork-rootwork-2023-0",
+    "trk_rootwork-opal-and-2019-0",
+    "trk_almanac-petra-il-2021-1",
+    "trk_infrastructure-delia-ho-2023-2",
+    "trk_cold-lighthouse-petra-il-2016-0",
+    "trk_census-delia-ho-2023-0",
+    "trk_seam-hymn-opal-and-2025-2",
+    "trk_bright-hedgerow-opal-and-2023-3"
+  ],
+  "tracks": [
+    {
+      "id": "trk_long-village-antonell-2023-0",
+      "slug": "long-village",
+      "title": "Long Village",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_fallow-common-antonella-",
+        "title": "Fallow Common",
+        "slug": "fallow-common",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-underpass-antonell-2023-1",
+      "slug": "small-underpass",
+      "title": "Small Underpass",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_fallow-common-antonella-",
+        "title": "Fallow Common",
+        "slug": "fallow-common",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_husbandry-rootwork-2019-3",
+      "slug": "husbandry",
+      "title": "Husbandry",
+      "duration": "5:20",
+      "durationSec": 320,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_midnight-hour-rootwork-a",
+        "title": "Midnight Hour",
+        "slug": "midnight-hour",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_fieldwork-ballast--2025-1",
+      "slug": "fieldwork",
+      "title": "Fieldwork",
+      "duration": "3:43",
+      "durationSec": 223,
+      "artist": {
+        "id": "art_ballast-and-lodestar",
+        "name": "Ballast & Lodestar",
+        "slug": "ballast-and-lodestar"
+      },
+      "album": {
+        "id": "alb_rootwork-ballast-an",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rootwork-rootwork-2023-0",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "3:34",
+      "durationSec": 214,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_commons-rootwork-a",
+        "title": "Commons",
+        "slug": "commons",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rootwork-opal-and-2019-0",
+      "slug": "rootwork",
+      "title": "Rootwork",
+      "duration": "4:07",
+      "durationSec": 247,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_rootwork-opal-and-t",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2019
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_almanac-petra-il-2021-1",
+      "slug": "almanac",
+      "title": "Almanac",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_shoals-petra-ilic",
+        "title": "Shoals",
+        "slug": "shoals",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_infrastructure-delia-ho-2023-2",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "7:52",
+      "durationSec": 472,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_cold-lighthouse-petra-il-2016-0",
+      "slug": "cold-lighthouse",
+      "title": "Cold Lighthouse",
+      "duration": "3:44",
+      "durationSec": 224,
+      "artist": {
+        "id": "art_petra-ilic",
+        "name": "Petra Ilić",
+        "slug": "petra-ilic"
+      },
+      "album": {
+        "id": "alb_hollow-fieldwork-petra-ilic",
+        "title": "Hollow Fieldwork",
+        "slug": "hollow-fieldwork",
+        "year": 2016
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-delia-ho-2023-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "5:57",
+      "durationSec": 357,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_seam-hymn-opal-and-2025-2",
+      "slug": "seam-hymn",
+      "title": "Seam Hymn",
+      "duration": "2:51",
+      "durationSec": 171,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_music-for-seams-opal-and-t",
+        "title": "Music for Seams",
+        "slug": "music-for-seams",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_bright-hedgerow-opal-and-2023-3",
+      "slug": "bright-hedgerow",
+      "title": "Bright Hedgerow",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_opal-and-the-villages",
+        "name": "Opal & The Villages",
+        "slug": "opal-and-the-villages"
+      },
+      "album": {
+        "id": "alb_slow-fieldwork-opal-and-t",
+        "title": "Slow Fieldwork",
+        "slug": "slow-fieldwork",
+        "year": 2023
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-mexico.png",
+    "direction": {
+      "genre": "folk",
+      "year": 2026,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "airbrushed illustration with glossy highlights and gradient blends",
+      "composition": "monumental centred subject, low horizon, dramatic scale",
+      "abstract": false,
+      "subject": "a stone wall and wet grass",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2026 cover deliberately styled after 1980-1999. Medium: airbrushed illustration with glossy highlights and gradient blends. Subject: a stone wall and wet grass. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: monumental centred subject, low horizon, dramatic scale. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202026%20cover%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20airbrushed%20illustration%20with%20glossy%20highlights%20and%20gradient%20blends.%20Subject%3A%20a%20stone%20wall%20and%20wet%20grass.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20monumental%20centred%20subject%2C%20low%20horizon%2C%20dramatic%20scale.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "18 Jul"
+}

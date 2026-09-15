@@ -1,0 +1,47 @@
+{
+  "id": "alb_tectonics-the-slate-",
+  "slug": "tectonics-the-slate-stratas",
+  "title": "Tectonics",
+  "year": 2017,
+  "type": "EP",
+  "subtitle": "2017 · EP",
+  "trackCount": 5,
+  "durationSec": 1053,
+  "durationLabel": "18 min",
+  "artist": {
+    "id": "art_the-slate-stratas",
+    "name": "The Slate Stratas",
+    "slug": "the-slate-stratas"
+  },
+  "label": {
+    "id": "lbl_ferry-lane",
+    "name": "Ferry Lane"
+  },
+  "genres": [
+    "post-punk",
+    "rock"
+  ],
+  "tracks": [
+    "trk_municipal-bloc-the-slat-2017-0",
+    "trk_bloc-waltz-the-slat-2017-1",
+    "trk_public-registry-the-slat-2017-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "post-punk",
+      "year": 2017,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "a chain-link shadow",
+      "palette": "cold grey with one hard accent, two colours only"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a chain-link shadow. Palette: cold grey with one hard accent, two colours only. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20chain-link%20shadow.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

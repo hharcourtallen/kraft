@@ -1,0 +1,48 @@
+{
+  "id": "alb_letters-from-fens-the-shoals",
+  "slug": "letters-from-fens",
+  "title": "Letters from Fens",
+  "year": 2020,
+  "type": "EP",
+  "subtitle": "2020 · EP",
+  "trackCount": 4,
+  "durationSec": 1087,
+  "durationLabel": "18 min",
+  "artist": {
+    "id": "art_the-shoals",
+    "name": "The Shoals",
+    "slug": "the-shoals"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "folk",
+    "analog-revival"
+  ],
+  "tracks": [
+    "trk_ballast-the-shoa-2020-0",
+    "trk_breakwater-march-the-shoa-2020-1",
+    "trk_another-village-the-shoa-2020-2",
+    "trk_tidal-fathom-the-shoa-2020-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "folk",
+      "year": 2020,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "duotone photograph printed over a flat solid colour block",
+      "composition": "photograph occupying two thirds, wide flat colour band, strong asymmetry",
+      "abstract": false,
+      "subject": "a bare hedgerow against low white sky",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2020 sleeve deliberately styled after 1980-1999. Medium: duotone photograph printed over a flat solid colour block. Subject: a bare hedgerow against low white sky. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: photograph occupying two thirds, wide flat colour band, strong asymmetry. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202020%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20duotone%20photograph%20printed%20over%20a%20flat%20solid%20colour%20block.%20Subject%3A%20a%20bare%20hedgerow%20against%20low%20white%20sky.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20photograph%20occupying%20two%20thirds%2C%20wide%20flat%20colour%20band%2C%20strong%20asymmetry.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

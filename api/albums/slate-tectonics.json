@@ -1,0 +1,49 @@
+{
+  "id": "alb_slate-tectonics-opal-and-t",
+  "slug": "slate-tectonics",
+  "title": "Slate Tectonics",
+  "year": 2014,
+  "type": "EP",
+  "subtitle": "2014 · EP",
+  "trackCount": 5,
+  "durationSec": 1272,
+  "durationLabel": "21 min",
+  "artist": {
+    "id": "art_opal-and-the-villages",
+    "name": "Opal & The Villages",
+    "slug": "opal-and-the-villages"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "americana",
+    "folk"
+  ],
+  "tracks": [
+    "trk_bloom-opal-and-2014-0",
+    "trk_quarry-live-at-the-roundhouse-opal-and-2014-1",
+    "trk_quarry-reprise-opal-and-2014-2",
+    "trk_bright-meadow-opal-and-2014-3",
+    "trk_twice-the-barleyfield-opal-and-2014-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2014,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "photocopied high-contrast collage with torn edges and visible tape",
+      "composition": "chaotic layered collage, deliberately crude",
+      "abstract": false,
+      "subject": "a folded road map",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2014 sleeve deliberately styled after 1980-1999. Medium: photocopied high-contrast collage with torn edges and visible tape. Subject: a folded road map. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: chaotic layered collage, deliberately crude. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202014%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20photocopied%20high-contrast%20collage%20with%20torn%20edges%20and%20visible%20tape.%20Subject%3A%20a%20folded%20road%20map.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20chaotic%20layered%20collage%2C%20deliberately%20crude.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

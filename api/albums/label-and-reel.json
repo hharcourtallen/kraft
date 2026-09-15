@@ -1,0 +1,49 @@
+{
+  "id": "alb_label-and-reel-sadie-blac",
+  "slug": "label-and-reel",
+  "title": "Label & Reel",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 8,
+  "durationSec": 2155,
+  "durationLabel": "36 min",
+  "artist": {
+    "id": "art_sadie-blackwood",
+    "name": "Sadie Blackwood",
+    "slug": "sadie-blackwood"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "genres": [
+    "downtempo",
+    "ambient"
+  ],
+  "tracks": [
+    "trk_pressed-sleeve-sadie-bl-2021-0",
+    "trk_motel-live-at-the-roundhouse-sadie-bl-2021-1",
+    "trk_underpass-hymn-sadie-bl-2021-2",
+    "trk_label-hymn-sadie-bl-2021-3",
+    "trk_nocturne-sadie-bl-2021-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "downtempo",
+      "year": 2021,
+      "era": "heritage",
+      "eraLabel": "1955-1979",
+      "isPeriodHomage": true,
+      "medium": "painted illustration in gouache on board, visible brush texture",
+      "composition": "flat poster illustration, no perspective, filled frame",
+      "abstract": false,
+      "subject": "a rainy window at night",
+      "palette": "sodium orange, wet black, muddy green"
+    },
+    "prompt": "Album cover artwork, square format. A 2021 sleeve deliberately styled after 1955-1979. Medium: painted illustration in gouache on board, visible brush texture. Subject: a rainy window at night. Palette: sodium orange, wet black, muddy green. Composition: flat poster illustration, no perspective, filled frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202021%20sleeve%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20painted%20illustration%20in%20gouache%20on%20board%2C%20visible%20brush%20texture.%20Subject%3A%20a%20rainy%20window%20at%20night.%20Palette%3A%20sodium%20orange%2C%20wet%20black%2C%20muddy%20green.%20Composition%3A%20flat%20poster%20illustration%2C%20no%20perspective%2C%20filled%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

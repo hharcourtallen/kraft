@@ -1,0 +1,47 @@
+{
+  "id": "alb_fieldwork-wren-merce",
+  "slug": "fieldwork-wren-mercer",
+  "title": "Fieldwork",
+  "year": 2026,
+  "type": "Album",
+  "subtitle": "2026 · Album",
+  "trackCount": 11,
+  "durationSec": 2274,
+  "durationLabel": "38 min",
+  "artist": {
+    "id": "art_wren-mercer",
+    "name": "Wren Mercer",
+    "slug": "wren-mercer"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "singer-songwriter"
+  ],
+  "tracks": [
+    "trk_husbandry-wren-mer-2026-0",
+    "trk_thicket-edit-wren-mer-2026-1",
+    "trk_afterhours-wren-mer-2026-2",
+    "trk_thicket-march-wren-mer-2026-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "singer-songwriter",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+      "composition": "object dead centre, hard directional shadow, seamless backdrop",
+      "abstract": false,
+      "subject": "an unmade bed",
+      "palette": "warm greyscale with sepia in the shadows, one muted accent"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: an unmade bed. Palette: warm greyscale with sepia in the shadows, one muted accent. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20an%20unmade%20bed.%20Palette%3A%20warm%20greyscale%20with%20sepia%20in%20the%20shadows%2C%20one%20muted%20accent.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

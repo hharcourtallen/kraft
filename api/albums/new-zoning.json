@@ -1,0 +1,47 @@
+{
+  "id": "alb_new-zoning-femi-and-t",
+  "slug": "new-zoning",
+  "title": "New Zoning",
+  "year": 2013,
+  "type": "Album",
+  "subtitle": "2013 · Album",
+  "trackCount": 11,
+  "durationSec": 3850,
+  "durationLabel": "1 hr 4 min",
+  "artist": {
+    "id": "art_femi-and-the-observatories",
+    "name": "Femi & The Observatories",
+    "slug": "femi-and-the-observatories"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "afrobeat",
+    "funk"
+  ],
+  "tracks": [
+    "trk_orbit-lullaby-femi-and-2013-0",
+    "trk_nothing-but-blocs-femi-and-2013-1",
+    "trk_model-assembly-femi-and-2013-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "afrobeat",
+      "year": 2013,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "clean vector illustration, flat colour, no texture, crisp edges",
+      "composition": "centred emblem, generous margin, perfectly symmetrical",
+      "abstract": false,
+      "subject": "a woven textile at macro scale",
+      "palette": "chrome yellow, deep green, vermilion, black"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: clean vector illustration, flat colour, no texture, crisp edges. Subject: a woven textile at macro scale. Palette: chrome yellow, deep green, vermilion, black. Composition: centred emblem, generous margin, perfectly symmetrical. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20clean%20vector%20illustration%2C%20flat%20colour%2C%20no%20texture%2C%20crisp%20edges.%20Subject%3A%20a%20woven%20textile%20at%20macro%20scale.%20Palette%3A%20chrome%20yellow%2C%20deep%20green%2C%20vermilion%2C%20black.%20Composition%3A%20centred%20emblem%2C%20generous%20margin%2C%20perfectly%20symmetrical.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

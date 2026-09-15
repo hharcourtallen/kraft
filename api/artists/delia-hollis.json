@@ -1,0 +1,350 @@
+{
+  "id": "art_delia-hollis",
+  "slug": "delia-hollis",
+  "name": "Delia Hollis",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Providence, RI",
+  "geo": {
+    "placeId": "plc_providence",
+    "city": "Providence",
+    "country": "US",
+    "lat": 41.82,
+    "lng": -71.41
+  },
+  "region": "us",
+  "genres": [
+    "techno",
+    "electronic"
+  ],
+  "primaryGenre": {
+    "slug": "techno",
+    "name": "Techno"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "tier": "tail",
+  "monthlyListeners": 774,
+  "monthlyListenersLabel": "774 monthly listeners",
+  "followers": 362,
+  "followersLabel": "362",
+  "shelfCaption": "Techno · 774 listeners",
+  "verified": false,
+  "active": {
+    "from": 2022,
+    "to": 2024
+  },
+  "bio": "Providence, RI live-hardware producer, working since 2022. Everything is made on hardware, sequenced live, no undo. Refuses to release anything under three minutes. Stopped releasing in 2024.",
+  "discography": [
+    "alb_oxidation-delia-holl",
+    "alb_municipal-census-delia-holl",
+    "alb_the-bloc-delia-holl"
+  ],
+  "popularTrackIds": [
+    "trk_sediment-delia-ho-2022-1",
+    "trk_precinct-elegy-delia-ho-2022-0",
+    "trk_infrastructure-delia-ho-2022-2",
+    "trk_oxidation-delia-ho-2023-1",
+    "trk_census-delia-ho-2023-0",
+    "trk_erosion-delia-ho-2024-0",
+    "trk_rust-strata-delia-ho-2024-1",
+    "trk_infrastructure-delia-ho-2023-2",
+    "trk_zoning-delia-ho-2023-4",
+    "trk_strata-song-delia-ho-2023-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "techno",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "gunmetal, black, one cold accent — cyan or acid green"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: gunmetal, black, one cold accent — cyan or acid green. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20gunmetal%2C%20black%2C%20one%20cold%20accent%20%E2%80%94%20cyan%20or%20acid%20green.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "techno",
+        "year": 2024,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "gunmetal, black, one cold accent — cyan or acid green"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician alone on a small stage, one lamp on. Palette: gunmetal, black, one cold accent — cyan or acid green. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20gunmetal%2C%20black%2C%20one%20cold%20accent%20%E2%80%94%20cyan%20or%20acid%20green.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_sediment-delia-ho-2022-1",
+      "slug": "sediment",
+      "title": "Sediment",
+      "duration": "6:11",
+      "durationSec": 371,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_the-bloc-delia-holl",
+        "title": "The Bloc",
+        "slug": "the-bloc",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "9,939"
+    },
+    {
+      "id": "trk_precinct-elegy-delia-ho-2022-0",
+      "slug": "precinct-elegy",
+      "title": "Precinct Elegy",
+      "duration": "6:25",
+      "durationSec": 385,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_the-bloc-delia-holl",
+        "title": "The Bloc",
+        "slug": "the-bloc",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "7,917"
+    },
+    {
+      "id": "trk_infrastructure-delia-ho-2022-2",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "5:54",
+      "durationSec": 354,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_the-bloc-delia-holl",
+        "title": "The Bloc",
+        "slug": "the-bloc",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "5,596"
+    },
+    {
+      "id": "trk_oxidation-delia-ho-2023-1",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "duration": "6:12",
+      "durationSec": 372,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "5,537"
+    },
+    {
+      "id": "trk_census-delia-ho-2023-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "5:57",
+      "durationSec": 357,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "4,665"
+    },
+    {
+      "id": "trk_erosion-delia-ho-2024-0",
+      "slug": "erosion",
+      "title": "Erosion",
+      "duration": "8:23",
+      "durationSec": 503,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_oxidation-delia-holl",
+        "title": "Oxidation",
+        "slug": "oxidation",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "3,014"
+    },
+    {
+      "id": "trk_rust-strata-delia-ho-2024-1",
+      "slug": "rust-strata",
+      "title": "Rust Strata",
+      "duration": "7:37",
+      "durationSec": 457,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_oxidation-delia-holl",
+        "title": "Oxidation",
+        "slug": "oxidation",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "2,600"
+    },
+    {
+      "id": "trk_infrastructure-delia-ho-2023-2",
+      "slug": "infrastructure",
+      "title": "Infrastructure",
+      "duration": "7:52",
+      "durationSec": 472,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "2,309"
+    },
+    {
+      "id": "trk_zoning-delia-ho-2023-4",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "7:03",
+      "durationSec": 423,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "1,623"
+    },
+    {
+      "id": "trk_strata-song-delia-ho-2023-3",
+      "slug": "strata-song",
+      "title": "Strata Song",
+      "duration": "5:47",
+      "durationSec": 347,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "967"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_oxidation-delia-holl",
+      "slug": "oxidation",
+      "title": "Oxidation",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_municipal-census-delia-holl",
+      "slug": "municipal-census",
+      "title": "Municipal Census",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_the-bloc-delia-holl",
+      "slug": "the-bloc",
+      "title": "The Bloc",
+      "subtitle": "2022 · EP",
+      "year": 2022,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-spain",
+      "slug": "spain",
+      "title": "Spain",
+      "image": "/artwork/playlist/country-spain.png",
+      "curatorId": "cur_teo-marchand",
+      "curatorName": "Théo Marchand",
+      "trackTitle": "Rust Strata",
+      "position": 6,
+      "caption": "Rust Strata is track 6"
+    },
+    {
+      "playlistId": "pl_country-mexico",
+      "slug": "mexico",
+      "title": "Mexico",
+      "image": "/artwork/playlist/country-mexico.png",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Infrastructure",
+      "position": 8,
+      "caption": "Infrastructure is track 8"
+    }
+  ]
+}

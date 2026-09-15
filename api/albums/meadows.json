@@ -1,0 +1,48 @@
+{
+  "id": "alb_meadows-sadie-and-",
+  "slug": "meadows",
+  "title": "Meadows",
+  "year": 2025,
+  "type": "Album",
+  "subtitle": "2025 · Album",
+  "trackCount": 9,
+  "durationSec": 2225,
+  "durationLabel": "37 min",
+  "artist": {
+    "id": "art_sadie-and-the-villages",
+    "name": "Sadie & The Villages",
+    "slug": "sadie-and-the-villages"
+  },
+  "label": {
+    "id": "lbl_hedgerow",
+    "name": "Hedgerow Records"
+  },
+  "genres": [
+    "americana"
+  ],
+  "tracks": [
+    "trk_slow-common-sadie-an-2025-0",
+    "trk_strata-blues-sadie-an-2025-1",
+    "trk_bramble-reprise-sadie-an-2025-2",
+    "trk_long-hedgerow-sadie-an-2025-3",
+    "trk_wild-thicket-sadie-an-2025-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2025,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "3D render with soft global illumination and matte clay materials",
+      "composition": "a single object floating in an infinite seamless ground, long soft shadow",
+      "abstract": false,
+      "subject": "a screen door and porch light",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: 3D render with soft global illumination and matte clay materials. Subject: a screen door and porch light. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: a single object floating in an infinite seamless ground, long soft shadow. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%203D%20render%20with%20soft%20global%20illumination%20and%20matte%20clay%20materials.%20Subject%3A%20a%20screen%20door%20and%20porch%20light.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20a%20single%20object%20floating%20in%20an%20infinite%20seamless%20ground%2C%20long%20soft%20shadow.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

@@ -1,0 +1,131 @@
+{
+  "id": "art_milo-kestrel",
+  "slug": "milo-kestrel",
+  "name": "Milo Kestrel",
+  "formation": "solo",
+  "country": "US",
+  "hometown": "Chicago, IL",
+  "geo": {
+    "placeId": "plc_chicago",
+    "city": "Chicago",
+    "country": "US",
+    "lat": 41.88,
+    "lng": -87.63
+  },
+  "region": "us-uk",
+  "genres": [
+    "jazz"
+  ],
+  "primaryGenre": {
+    "slug": "jazz",
+    "name": "Jazz"
+  },
+  "label": {
+    "id": "lbl_sable-note",
+    "name": "Sable Note"
+  },
+  "tier": "headline",
+  "monthlyListeners": 112000,
+  "monthlyListenersLabel": "112K monthly listeners",
+  "followers": 44000,
+  "followersLabel": "44K",
+  "shelfCaption": "Jazz · 112K listeners",
+  "verified": true,
+  "active": {
+    "from": 2011,
+    "to": null
+  },
+  "bio": "Pianist and bandleader. Plays standards like he is arguing with them and originals like he already won.",
+  "discography": [
+    "alb_nocturne"
+  ],
+  "popularTrackIds": [
+    "trk_minor-key"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: deep navy or oxblood with cream, one flat colour block. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "jazz",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "deep navy or oxblood with cream, one flat colour block"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a band of three standing far apart in an empty car park. Palette: deep navy or oxblood with cream, one flat colour block. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20deep%20navy%20or%20oxblood%20with%20cream%2C%20one%20flat%20colour%20block.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": {
+    "monthlyListeners": 2100000
+  },
+  "popular": [
+    {
+      "id": "trk_minor-key",
+      "slug": "minor-key",
+      "title": "Minor Key",
+      "duration": "4:25",
+      "durationSec": 265,
+      "artist": {
+        "id": "art_milo-kestrel",
+        "name": "Milo Kestrel",
+        "slug": "milo-kestrel"
+      },
+      "album": {
+        "id": "alb_nocturne",
+        "title": "Nocturne",
+        "slug": "nocturne",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "1,140,755"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_nocturne",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Minor Key",
+      "position": 3,
+      "caption": "Minor Key is track 3"
+    }
+  ]
+}

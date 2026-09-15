@@ -1,0 +1,48 @@
+{
+  "id": "alb_small-afterhours-the-assemb",
+  "slug": "small-afterhours",
+  "title": "Small Afterhours",
+  "year": 2008,
+  "type": "Album",
+  "subtitle": "2008 · Album",
+  "trackCount": 8,
+  "durationSec": 1754,
+  "durationLabel": "29 min",
+  "artist": {
+    "id": "art_the-assemblies",
+    "name": "The Assemblies",
+    "slug": "the-assemblies"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock"
+  ],
+  "tracks": [
+    "trk_midnight-taxi-the-asse-2008-0",
+    "trk_marquee-lullaby-the-asse-2008-1",
+    "trk_twice-the-bureau-the-asse-2008-2",
+    "trk_public-annex-the-asse-2008-3",
+    "trk_dark-boulevard-the-asse-2008-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2008,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "HDR photograph with heavy clarity and saturated local contrast",
+      "composition": "wide view, deep depth of field, everything sharp",
+      "abstract": false,
+      "subject": "an empty stage after load-out",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: HDR photograph with heavy clarity and saturated local contrast. Subject: an empty stage after load-out. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: wide view, deep depth of field, everything sharp. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20HDR%20photograph%20with%20heavy%20clarity%20and%20saturated%20local%20contrast.%20Subject%3A%20an%20empty%20stage%20after%20load-out.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20wide%20view%2C%20deep%20depth%20of%20field%2C%20everything%20sharp.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

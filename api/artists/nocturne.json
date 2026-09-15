@@ -1,0 +1,253 @@
+{
+  "id": "art_nocturne",
+  "slug": "nocturne",
+  "name": "Nocturne",
+  "formation": "solo",
+  "country": "GB",
+  "hometown": "Cardiff",
+  "geo": {
+    "placeId": "plc_cardiff",
+    "city": "Cardiff",
+    "country": "GB",
+    "lat": 51.48,
+    "lng": -3.18
+  },
+  "region": "uk",
+  "genres": [
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "tail",
+  "monthlyListeners": 724,
+  "monthlyListenersLabel": "724 monthly listeners",
+  "followers": 210,
+  "followersLabel": "210",
+  "shelfCaption": "Indie Rock · 724 listeners",
+  "verified": false,
+  "active": {
+    "from": 2021,
+    "to": null
+  },
+  "bio": "An one-person band making indie rock about leaving. Loud in a small room, mixed to sound like it. Has strong opinions about run-out grooves.",
+  "discography": [
+    "alb_the-precinct-nocturne",
+    "alb_songs-for-blocs-nocturne"
+  ],
+  "popularTrackIds": [
+    "trk_census-nocturne-2021-1",
+    "trk_public-terminal-nocturne-2021-0",
+    "trk_rooftop-lullaby-nocturne-2021-2",
+    "trk_ballroom-hymn-nocturne-2025-0",
+    "trk_municipal-assembly-nocturne-2025-1",
+    "trk_nothing-but-underpasses-nocturne-2025-2",
+    "trk_curfew-nocturne-2025-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician mid-laugh, eyes closed, shot from slightly above",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician mid-laugh, eyes closed, shot from slightly above. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20mid-laugh%2C%20eyes%20closed%2C%20shot%20from%20slightly%20above.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2025,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician alone on a small stage, one lamp on. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_census-nocturne-2021-1",
+      "slug": "census",
+      "title": "Census",
+      "duration": "4:11",
+      "durationSec": 251,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_songs-for-blocs-nocturne",
+        "title": "Songs for Blocs",
+        "slug": "songs-for-blocs",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "14,192"
+    },
+    {
+      "id": "trk_public-terminal-nocturne-2021-0",
+      "slug": "public-terminal",
+      "title": "Public Terminal",
+      "duration": "3:52",
+      "durationSec": 232,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_songs-for-blocs-nocturne",
+        "title": "Songs for Blocs",
+        "slug": "songs-for-blocs",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "7,861"
+    },
+    {
+      "id": "trk_rooftop-lullaby-nocturne-2021-2",
+      "slug": "rooftop-lullaby",
+      "title": "Rooftop Lullaby",
+      "duration": "2:54",
+      "durationSec": 174,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_songs-for-blocs-nocturne",
+        "title": "Songs for Blocs",
+        "slug": "songs-for-blocs",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "6,489"
+    },
+    {
+      "id": "trk_ballroom-hymn-nocturne-2025-0",
+      "slug": "ballroom-hymn",
+      "title": "Ballroom Hymn",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,127"
+    },
+    {
+      "id": "trk_municipal-assembly-nocturne-2025-1",
+      "slug": "municipal-assembly",
+      "title": "Municipal Assembly",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,879"
+    },
+    {
+      "id": "trk_nothing-but-underpasses-nocturne-2025-2",
+      "slug": "nothing-but-underpasses",
+      "title": "Nothing but Underpasses",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "850"
+    },
+    {
+      "id": "trk_curfew-nocturne-2025-3",
+      "slug": "curfew",
+      "title": "Curfew",
+      "duration": "3:58",
+      "durationSec": 238,
+      "artist": {
+        "id": "art_nocturne",
+        "name": "Nocturne",
+        "slug": "nocturne"
+      },
+      "album": {
+        "id": "alb_the-precinct-nocturne",
+        "title": "The Precinct",
+        "slug": "the-precinct",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "156"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-precinct-nocturne",
+      "slug": "the-precinct",
+      "title": "The Precinct",
+      "subtitle": "2025 · Album",
+      "year": 2025,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_songs-for-blocs-nocturne",
+      "slug": "songs-for-blocs",
+      "title": "Songs for Blocs",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

@@ -1,0 +1,48 @@
+{
+  "id": "alb_the-bloc-delia-holl",
+  "slug": "the-bloc",
+  "title": "The Bloc",
+  "year": 2022,
+  "type": "EP",
+  "subtitle": "2022 · EP",
+  "trackCount": 4,
+  "durationSec": 1487,
+  "durationLabel": "25 min",
+  "artist": {
+    "id": "art_delia-hollis",
+    "name": "Delia Hollis",
+    "slug": "delia-hollis"
+  },
+  "label": {
+    "id": "lbl_strata-nine",
+    "name": "Strata Nine"
+  },
+  "genres": [
+    "techno",
+    "electronic"
+  ],
+  "tracks": [
+    "trk_precinct-elegy-delia-ho-2022-0",
+    "trk_sediment-delia-ho-2022-1",
+    "trk_infrastructure-delia-ho-2022-2",
+    "trk_registry-edit-delia-ho-2022-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "techno",
+      "year": 2022,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "a technical schematic without labels",
+      "palette": "gunmetal, black, one cold accent — cyan or acid green"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes a technical schematic without labels. Palette: gunmetal, black, one cold accent — cyan or acid green. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20technical%20schematic%20without%20labels.%20Palette%3A%20gunmetal%2C%20black%2C%20one%20cold%20accent%20%E2%80%94%20cyan%20or%20acid%20green.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

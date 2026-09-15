@@ -1,0 +1,371 @@
+{
+  "id": "art_mateo-molinari",
+  "slug": "mateo-molinari",
+  "name": "Mateo Molinari",
+  "formation": "solo",
+  "country": "AR",
+  "hometown": "Rosario",
+  "geo": {
+    "placeId": "plc_rosario",
+    "city": "Rosario",
+    "country": "AR",
+    "lat": -32.94,
+    "lng": -60.64
+  },
+  "region": "latam",
+  "genres": [
+    "cumbia",
+    "latin"
+  ],
+  "primaryGenre": {
+    "slug": "cumbia",
+    "name": "Cumbia"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "tier": "headline",
+  "monthlyListeners": 62810,
+  "monthlyListenersLabel": "63K monthly listeners",
+  "followers": 25000,
+  "followersLabel": "25K",
+  "shelfCaption": "Cumbia · 63K listeners",
+  "verified": true,
+  "active": {
+    "from": 2015,
+    "to": null
+  },
+  "bio": "Formed in Rosario and still arguing about it. The arrangement is written for dancers, not listeners.",
+  "discography": [
+    "alb_the-annex-mateo-moli",
+    "alb_the-pasture-mateo-moli",
+    "alb_zoning-mateo-moli",
+    "alb_new-provision-mateo-moli"
+  ],
+  "popularTrackIds": [
+    "trk_soft-barleyfield-mateo-mo-2015-0",
+    "trk_bright-pasture-mateo-mo-2015-1",
+    "trk_provision-mateo-mo-2015-2",
+    "trk_census-mateo-mo-2019-0",
+    "trk_soft-thicket-mateo-mo-2015-3",
+    "trk_provision-mateo-mo-2021-0",
+    "trk_all-the-precincts-mateo-mo-2021-2",
+    "trk_municipal-depot-mateo-mo-2019-1",
+    "trk_model-bloc-mateo-mo-2019-3",
+    "trk_long-meadow-mateo-mo-2015-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "cumbia",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "hot orange, turquoise, lime, magenta"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: hot orange, turquoise, lime, magenta. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "cumbia",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician walking away down a wet street, back to camera",
+        "palette": "hot orange, turquoise, lime, magenta"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician walking away down a wet street, back to camera. Palette: hot orange, turquoise, lime, magenta. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20walking%20away%20down%20a%20wet%20street%2C%20back%20to%20camera.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_soft-barleyfield-mateo-mo-2015-0",
+      "slug": "soft-barleyfield",
+      "title": "Soft Barleyfield",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "1,463,843"
+    },
+    {
+      "id": "trk_bright-pasture-mateo-mo-2015-1",
+      "slug": "bright-pasture",
+      "title": "Bright Pasture",
+      "duration": "4:08",
+      "durationSec": 248,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "1,259,680"
+    },
+    {
+      "id": "trk_provision-mateo-mo-2015-2",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "4:16",
+      "durationSec": 256,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "667,276"
+    },
+    {
+      "id": "trk_census-mateo-mo-2019-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "401,305"
+    },
+    {
+      "id": "trk_soft-thicket-mateo-mo-2015-3",
+      "slug": "soft-thicket",
+      "title": "Soft Thicket",
+      "duration": "4:28",
+      "durationSec": 268,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "389,643"
+    },
+    {
+      "id": "trk_provision-mateo-mo-2021-0",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:45",
+      "durationSec": 225,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-pasture-mateo-moli",
+        "title": "The Pasture",
+        "slug": "the-pasture",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "387,428"
+    },
+    {
+      "id": "trk_all-the-precincts-mateo-mo-2021-2",
+      "slug": "all-the-precincts",
+      "title": "All the Precincts",
+      "duration": "4:43",
+      "durationSec": 283,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_the-pasture-mateo-moli",
+        "title": "The Pasture",
+        "slug": "the-pasture",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "268,518"
+    },
+    {
+      "id": "trk_municipal-depot-mateo-mo-2019-1",
+      "slug": "municipal-depot",
+      "title": "Municipal Depot",
+      "duration": "4:17",
+      "durationSec": 257,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "260,141"
+    },
+    {
+      "id": "trk_model-bloc-mateo-mo-2019-3",
+      "slug": "model-bloc",
+      "title": "Model Bloc",
+      "duration": "3:39",
+      "durationSec": 219,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_zoning-mateo-moli",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2019
+      },
+      "albumArt": null,
+      "playCountLabel": "251,236"
+    },
+    {
+      "id": "trk_long-meadow-mateo-mo-2015-4",
+      "slug": "long-meadow",
+      "title": "Long Meadow",
+      "duration": "4:21",
+      "durationSec": 261,
+      "artist": {
+        "id": "art_mateo-molinari",
+        "name": "Mateo Molinari",
+        "slug": "mateo-molinari"
+      },
+      "album": {
+        "id": "alb_new-provision-mateo-moli",
+        "title": "New Provision",
+        "slug": "new-provision",
+        "year": 2015
+      },
+      "albumArt": null,
+      "playCountLabel": "205,642"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-annex-mateo-moli",
+      "slug": "the-annex",
+      "title": "The Annex",
+      "subtitle": "2026 · Single",
+      "year": 2026,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_the-pasture-mateo-moli",
+      "slug": "the-pasture",
+      "title": "The Pasture",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_zoning-mateo-moli",
+      "slug": "zoning",
+      "title": "Zoning",
+      "subtitle": "2019 · Album",
+      "year": 2019,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_new-provision-mateo-moli",
+      "slug": "new-provision",
+      "title": "New Provision",
+      "subtitle": "2015 · Album",
+      "year": 2015,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-argentina",
+      "slug": "argentina",
+      "title": "Argentina",
+      "image": "/artwork/playlist/country-argentina.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Soft Barleyfield",
+      "position": 1,
+      "caption": "Soft Barleyfield opens it"
+    },
+    {
+      "playlistId": "pl_country-chile",
+      "slug": "chile",
+      "title": "Chile",
+      "image": "/artwork/playlist/country-chile.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Soft Thicket",
+      "position": 7,
+      "caption": "Soft Thicket is track 7"
+    },
+    {
+      "playlistId": "pl_country-brazil",
+      "slug": "brazil",
+      "title": "Brazil",
+      "image": "/artwork/playlist/country-brazil.png",
+      "curatorId": "cur_luana-andrade",
+      "curatorName": "Luana Andrade",
+      "trackTitle": "Bright Pasture",
+      "position": 1,
+      "caption": "Bright Pasture opens it"
+    }
+  ]
+}

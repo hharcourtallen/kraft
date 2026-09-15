@@ -1,0 +1,54 @@
+{
+  "id": "pl_string-theory",
+  "slug": "string-theory",
+  "title": "String Theory",
+  "description": "Bowed, plucked, prepared and bowed again. Strings doing unusual work.",
+  "note": "Modern composition for strings, mostly. Two of these were recorded in the same church, eleven years apart. You can hear the roof.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Ingrid Halvorsen",
+  "curator": {
+    "id": "cur_ingrid-halvorsen",
+    "name": "Ingrid Halvorsen",
+    "city": "Oslo"
+  },
+  "trackCount": 18,
+  "durationSec": 4320,
+  "durationLabel": "1 hr 12 min",
+  "metaLine": "18 tracks · 1 hr 12 min",
+  "libraryLine": "List · 18 songs",
+  "followers": 21044,
+  "followersLabel": "21K",
+  "updated": "2026-06-28",
+  "moods": [
+    "focus"
+  ],
+  "genres": [
+    "modern-composition",
+    "experimental"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 18,
+  "artwork": {
+    "image": "/artwork/playlist/string-theory.jpg",
+    "direction": {
+      "genre": "modern-composition",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "a thin black line bisecting white",
+      "palette": "white, graphite, one muted accent"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes a thin black line bisecting white. Palette: white, graphite, one muted accent. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20thin%20black%20line%20bisecting%20white.%20Palette%3A%20white%2C%20graphite%2C%20one%20muted%20accent.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "28 Jun"
+}

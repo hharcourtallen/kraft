@@ -1,0 +1,327 @@
+{
+  "id": "art_the-slate-stratas",
+  "slug": "the-slate-stratas",
+  "name": "The Slate Stratas",
+  "formation": "band",
+  "country": "GB",
+  "hometown": "Bristol",
+  "geo": {
+    "placeId": "plc_bristol",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.45,
+    "lng": -2.59
+  },
+  "region": "uk",
+  "genres": [
+    "post-punk",
+    "rock"
+  ],
+  "primaryGenre": {
+    "slug": "post-punk",
+    "name": "Post-Punk"
+  },
+  "label": {
+    "id": "lbl_ferry-lane",
+    "name": "Ferry Lane"
+  },
+  "tier": "working",
+  "monthlyListeners": 16177,
+  "monthlyListenersLabel": "16K monthly listeners",
+  "followers": 6000,
+  "followersLabel": "6K",
+  "shelfCaption": "Post-Punk · 16K listeners",
+  "verified": false,
+  "active": {
+    "from": 2017,
+    "to": null
+  },
+  "bio": "Post-punk quartet from Bristol. Writes the drum part first and the words last.",
+  "discography": [
+    "alb_copper-oxidation-the-slate-",
+    "alb_zoning-the-slate-",
+    "alb_tectonics-the-slate-"
+  ],
+  "popularTrackIds": [
+    "trk_municipal-bloc-the-slat-2017-0",
+    "trk_precinct-march-the-slat-2021-0",
+    "trk_limestone-seam-the-slat-2023-0",
+    "trk_public-registry-the-slat-2017-2",
+    "trk_bloc-waltz-the-slat-2017-1",
+    "trk_seam-lullaby-the-slat-2023-2",
+    "trk_chalk-strata-the-slat-2021-1",
+    "trk_half-an-aggregate-the-slat-2021-2",
+    "trk_every-bloc-the-slat-2023-1",
+    "trk_census-the-slat-2023-3"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "post-punk",
+        "year": 2023,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "cold grey with one hard accent, two colours only"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2023 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: cold grey with one hard accent, two colours only. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202023%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "post-punk",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician in a rehearsal room, cables everywhere, window light",
+        "palette": "cold grey with one hard accent, two colours only"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician in a rehearsal room, cables everywhere, window light. Palette: cold grey with one hard accent, two colours only. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20in%20a%20rehearsal%20room%2C%20cables%20everywhere%2C%20window%20light.%20Palette%3A%20cold%20grey%20with%20one%20hard%20accent%2C%20two%20colours%20only.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_municipal-bloc-the-slat-2017-0",
+      "slug": "municipal-bloc",
+      "title": "Municipal Bloc",
+      "duration": "4:15",
+      "durationSec": 255,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_tectonics-the-slate-",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "318,333"
+    },
+    {
+      "id": "trk_precinct-march-the-slat-2021-0",
+      "slug": "precinct-march",
+      "title": "Precinct March",
+      "duration": "3:16",
+      "durationSec": 196,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_zoning-the-slate-",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "153,104"
+    },
+    {
+      "id": "trk_limestone-seam-the-slat-2023-0",
+      "slug": "limestone-seam",
+      "title": "Limestone Seam",
+      "duration": "3:33",
+      "durationSec": 213,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_copper-oxidation-the-slate-",
+        "title": "Copper Oxidation",
+        "slug": "copper-oxidation",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "112,856"
+    },
+    {
+      "id": "trk_public-registry-the-slat-2017-2",
+      "slug": "public-registry",
+      "title": "Public Registry",
+      "duration": "3:11",
+      "durationSec": 191,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_tectonics-the-slate-",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "89,632"
+    },
+    {
+      "id": "trk_bloc-waltz-the-slat-2017-1",
+      "slug": "bloc-waltz",
+      "title": "Bloc Waltz",
+      "duration": "3:06",
+      "durationSec": 186,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_tectonics-the-slate-",
+        "title": "Tectonics",
+        "slug": "tectonics",
+        "year": 2017
+      },
+      "albumArt": null,
+      "playCountLabel": "73,928"
+    },
+    {
+      "id": "trk_seam-lullaby-the-slat-2023-2",
+      "slug": "seam-lullaby",
+      "title": "Seam Lullaby",
+      "duration": "3:19",
+      "durationSec": 199,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_copper-oxidation-the-slate-",
+        "title": "Copper Oxidation",
+        "slug": "copper-oxidation",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "67,687"
+    },
+    {
+      "id": "trk_chalk-strata-the-slat-2021-1",
+      "slug": "chalk-strata",
+      "title": "Chalk Strata",
+      "duration": "3:18",
+      "durationSec": 198,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_zoning-the-slate-",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "59,143"
+    },
+    {
+      "id": "trk_half-an-aggregate-the-slat-2021-2",
+      "slug": "half-an-aggregate",
+      "title": "Half an Aggregate",
+      "duration": "3:03",
+      "durationSec": 183,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_zoning-the-slate-",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "56,226"
+    },
+    {
+      "id": "trk_every-bloc-the-slat-2023-1",
+      "slug": "every-bloc",
+      "title": "Every Bloc",
+      "duration": "3:28",
+      "durationSec": 208,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_copper-oxidation-the-slate-",
+        "title": "Copper Oxidation",
+        "slug": "copper-oxidation",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "42,493"
+    },
+    {
+      "id": "trk_census-the-slat-2023-3",
+      "slug": "census",
+      "title": "Census",
+      "duration": "3:40",
+      "durationSec": 220,
+      "artist": {
+        "id": "art_the-slate-stratas",
+        "name": "The Slate Stratas",
+        "slug": "the-slate-stratas"
+      },
+      "album": {
+        "id": "alb_copper-oxidation-the-slate-",
+        "title": "Copper Oxidation",
+        "slug": "copper-oxidation",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "32,246"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_copper-oxidation-the-slate-",
+      "slug": "copper-oxidation",
+      "title": "Copper Oxidation",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_zoning-the-slate-",
+      "slug": "zoning-the-slate-stratas",
+      "title": "Zoning",
+      "subtitle": "2021 · Album",
+      "year": 2021,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_tectonics-the-slate-",
+      "slug": "tectonics-the-slate-stratas",
+      "title": "Tectonics",
+      "subtitle": "2017 · EP",
+      "year": 2017,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

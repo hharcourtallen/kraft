@@ -1,0 +1,53 @@
+{
+  "id": "alb_quiet-village",
+  "slug": "quiet-village",
+  "title": "Quiet Village",
+  "year": 2024,
+  "type": "Album",
+  "subtitle": "2024 · Album",
+  "trackCount": 9,
+  "durationSec": 2034,
+  "durationLabel": "34 min",
+  "artist": {
+    "id": "art_elara-cove",
+    "name": "Elara Cove",
+    "slug": "elara-cove"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_cassette-weather",
+    "trk_deep-current"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2024,
+      "era": "classic",
+      "eraLabel": "1980-1999",
+      "isPeriodHomage": true,
+      "medium": "airbrushed illustration with glossy highlights and gradient blends",
+      "composition": "monumental centred subject, low horizon, dramatic scale",
+      "abstract": false,
+      "subject": "a stack of amplifiers",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2024 sleeve deliberately styled after 1980-1999. Medium: airbrushed illustration with glossy highlights and gradient blends. Subject: a stack of amplifiers. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: monumental centred subject, low horizon, dramatic scale. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202024%20sleeve%20deliberately%20styled%20after%201980-1999.%20Medium%3A%20airbrushed%20illustration%20with%20glossy%20highlights%20and%20gradient%20blends.%20Subject%3A%20a%20stack%20of%20amplifiers.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20monumental%20centred%20subject%2C%20low%20horizon%2C%20dramatic%20scale.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": {
+    "level": "low",
+    "reason": "Quiet Village is a Martin Denny standard (1959) and a Les Baxter composition.",
+    "suggestions": [
+      "Low Village",
+      "The Quiet Side"
+    ]
+  }
+}

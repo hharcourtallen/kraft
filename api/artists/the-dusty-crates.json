@@ -1,0 +1,130 @@
+{
+  "id": "art_the-dusty-crates",
+  "slug": "the-dusty-crates",
+  "name": "The Dusty Crates",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Detroit, MI",
+  "geo": {
+    "placeId": "plc_detroit",
+    "city": "Detroit",
+    "country": "US",
+    "lat": 42.33,
+    "lng": -83.05
+  },
+  "region": "us-uk",
+  "genres": [
+    "analog-revival",
+    "funk"
+  ],
+  "primaryGenre": {
+    "slug": "analog-revival",
+    "name": "Analog Revival"
+  },
+  "label": {
+    "id": "lbl_second-pressing",
+    "name": "Second Pressing"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2100,
+  "monthlyListenersLabel": "2.1K monthly listeners",
+  "followers": 680,
+  "followersLabel": "680",
+  "shelfCaption": "Analog Revival · 2.1K listeners",
+  "verified": false,
+  "active": {
+    "from": 2022,
+    "to": null
+  },
+  "bio": "A basement, a Rhodes, and a drummer who will not be hurried.",
+  "discography": [
+    "alb_basement-sessions"
+  ],
+  "popularTrackIds": [
+    "trk_faded-label"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2024,
+        "era": "digital",
+        "eraLabel": "2000-2014",
+        "isPeriodHomage": true,
+        "medium": "desaturated minimal photograph, cool cast, lots of empty space",
+        "composition": "subject small and off-centre, vast negative space",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2024 press image deliberately styled after 2000-2014. Medium: desaturated minimal photograph, cool cast, lots of empty space. Subject: a musician in their late twenties looking just past the camera. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: subject small and off-centre, vast negative space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202024%20press%20image%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20desaturated%20minimal%20photograph%2C%20cool%20cast%2C%20lots%20of%20empty%20space.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20subject%20small%20and%20off-centre%2C%20vast%20negative%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "analog-revival",
+        "year": 2024,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "documentary black-and-white 35mm photograph, coarse grain, printed hard",
+        "composition": "candid framing, subject off-centre, generous empty space",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "yellowed cream, faded brown, dust grey, warm amber"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2024 press image deliberately styled after 1955-1979. Medium: documentary black-and-white 35mm photograph, coarse grain, printed hard. Subject: a musician alone on a small stage, one lamp on. Palette: yellowed cream, faded brown, dust grey, warm amber. Composition: candid framing, subject off-centre, generous empty space. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202024%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20documentary%20black-and-white%2035mm%20photograph%2C%20coarse%20grain%2C%20printed%20hard.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20yellowed%20cream%2C%20faded%20brown%2C%20dust%20grey%2C%20warm%20amber.%20Composition%3A%20candid%20framing%2C%20subject%20off-centre%2C%20generous%20empty%20space.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_faded-label",
+      "slug": "faded-label",
+      "title": "Faded Label",
+      "duration": "4:58",
+      "durationSec": 298,
+      "artist": {
+        "id": "art_the-dusty-crates",
+        "name": "The Dusty Crates",
+        "slug": "the-dusty-crates"
+      },
+      "album": {
+        "id": "alb_basement-sessions",
+        "title": "Basement Sessions",
+        "slug": "basement-sessions",
+        "year": 2024
+      },
+      "albumArt": "/artwork/album/basement-sessions.jpg",
+      "playCountLabel": "35,841"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_basement-sessions",
+      "slug": "basement-sessions",
+      "title": "Basement Sessions",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": "/artwork/album/basement-sessions.jpg"
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_vinyl-sundays",
+      "slug": "vinyl-sundays",
+      "title": "Vinyl Sundays",
+      "image": "/artwork/playlist/vinyl-sundays.jpg",
+      "curatorId": "cur_sofia-reyes",
+      "curatorName": "Sofía Reyes",
+      "trackTitle": "Faded Label",
+      "position": 9,
+      "caption": "Faded Label is track 9"
+    }
+  ]
+}

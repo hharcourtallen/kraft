@@ -1,0 +1,47 @@
+{
+  "id": "alb_wild-almanac-the-barley",
+  "slug": "wild-almanac",
+  "title": "Wild Almanac",
+  "year": 2021,
+  "type": "Album",
+  "subtitle": "2021 · Album",
+  "trackCount": 11,
+  "durationSec": 2728,
+  "durationLabel": "45 min",
+  "artist": {
+    "id": "art_the-barleyfield-ensemble",
+    "name": "The Barleyfield Ensemble",
+    "slug": "the-barleyfield-ensemble"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "americana",
+    "analog-revival"
+  ],
+  "tracks": [
+    "trk_rootwork-the-barl-2021-0",
+    "trk_seam-hymn-the-barl-2021-1",
+    "trk_erosion-the-barl-2021-2"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "americana",
+      "year": 2021,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": true,
+      "medium": "glossy CGI render with ray-traced reflections and studio HDRI lighting",
+      "composition": "single hero object floating on a smooth gradient ground",
+      "abstract": false,
+      "subject": "telephone poles receding into heat haze",
+      "palette": "dust red, faded turquoise, cream, asphalt grey"
+    },
+    "prompt": "Album cover artwork, square format. A 2021 sleeve deliberately styled after 2000-2014. Medium: glossy CGI render with ray-traced reflections and studio HDRI lighting. Subject: telephone poles receding into heat haze. Palette: dust red, faded turquoise, cream, asphalt grey. Composition: single hero object floating on a smooth gradient ground. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202021%20sleeve%20deliberately%20styled%20after%202000-2014.%20Medium%3A%20glossy%20CGI%20render%20with%20ray-traced%20reflections%20and%20studio%20HDRI%20lighting.%20Subject%3A%20telephone%20poles%20receding%20into%20heat%20haze.%20Palette%3A%20dust%20red%2C%20faded%20turquoise%2C%20cream%2C%20asphalt%20grey.%20Composition%3A%20single%20hero%20object%20floating%20on%20a%20smooth%20gradient%20ground.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

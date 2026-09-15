@@ -1,0 +1,49 @@
+{
+  "id": "alb_new-provision-mateo-moli",
+  "slug": "new-provision",
+  "title": "New Provision",
+  "year": 2015,
+  "type": "Album",
+  "subtitle": "2015 · Album",
+  "trackCount": 9,
+  "durationSec": 2342,
+  "durationLabel": "39 min",
+  "artist": {
+    "id": "art_mateo-molinari",
+    "name": "Mateo Molinari",
+    "slug": "mateo-molinari"
+  },
+  "label": {
+    "id": "lbl_tropico-alto",
+    "name": "Trópico Alto"
+  },
+  "genres": [
+    "cumbia",
+    "latin"
+  ],
+  "tracks": [
+    "trk_soft-barleyfield-mateo-mo-2015-0",
+    "trk_bright-pasture-mateo-mo-2015-1",
+    "trk_provision-mateo-mo-2015-2",
+    "trk_soft-thicket-mateo-mo-2015-3",
+    "trk_long-meadow-mateo-mo-2015-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "cumbia",
+      "year": 2015,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a striped awning",
+      "palette": "hot orange, turquoise, lime, magenta"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a striped awning. Palette: hot orange, turquoise, lime, magenta. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20striped%20awning.%20Palette%3A%20hot%20orange%2C%20turquoise%2C%20lime%2C%20magenta.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

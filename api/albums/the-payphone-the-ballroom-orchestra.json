@@ -1,0 +1,48 @@
+{
+  "id": "alb_the-payphone-the-ballro",
+  "slug": "the-payphone-the-ballroom-orchestra",
+  "title": "The Payphone",
+  "year": 2012,
+  "type": "Album",
+  "subtitle": "2012 · Album",
+  "trackCount": 10,
+  "durationSec": 1938,
+  "durationLabel": "32 min",
+  "artist": {
+    "id": "art_the-ballroom-orchestra",
+    "name": "The Ballroom Orchestra",
+    "slug": "the-ballroom-orchestra"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "hip-hop"
+  ],
+  "tracks": [
+    "trk_late-payphone-the-ball-2012-0",
+    "trk_another-payphone-the-ball-2012-1",
+    "trk_provisional-annex-the-ball-2012-2",
+    "trk_small-ferry-the-ball-2012-3",
+    "trk_insomnia-the-ball-2012-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "hip-hop",
+      "year": 2012,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "glossy CGI render with ray-traced reflections and studio HDRI lighting",
+      "composition": "single hero object floating on a smooth gradient ground",
+      "abstract": false,
+      "subject": "a subway platform",
+      "palette": "concrete grey, brick red, sodium yellow, deep shadow"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: glossy CGI render with ray-traced reflections and studio HDRI lighting. Subject: a subway platform. Palette: concrete grey, brick red, sodium yellow, deep shadow. Composition: single hero object floating on a smooth gradient ground. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20glossy%20CGI%20render%20with%20ray-traced%20reflections%20and%20studio%20HDRI%20lighting.%20Subject%3A%20a%20subway%20platform.%20Palette%3A%20concrete%20grey%2C%20brick%20red%2C%20sodium%20yellow%2C%20deep%20shadow.%20Composition%3A%20single%20hero%20object%20floating%20on%20a%20smooth%20gradient%20ground.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

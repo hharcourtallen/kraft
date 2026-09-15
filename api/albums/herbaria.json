@@ -1,0 +1,49 @@
+{
+  "id": "alb_herbaria-merrick-da",
+  "slug": "herbaria",
+  "title": "Herbaria",
+  "year": 2024,
+  "type": "EP",
+  "subtitle": "2024 · EP",
+  "trackCount": 6,
+  "durationSec": 1289,
+  "durationLabel": "21 min",
+  "artist": {
+    "id": "art_merrick-dark",
+    "name": "Merrick Dark",
+    "slug": "merrick-dark"
+  },
+  "label": {
+    "id": "lbl_marquee-hill",
+    "name": "Marquee Hill"
+  },
+  "genres": [
+    "rnb",
+    "funk"
+  ],
+  "tracks": [
+    "trk_every-vine-merrick--2024-0",
+    "trk_curfew-merrick--2024-1",
+    "trk_conservatory-blues-merrick--2024-2",
+    "trk_nocturne-merrick--2024-3",
+    "trk_moss-hymn-merrick--2024-4"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "rnb",
+      "year": 2024,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "risograph print in two spot inks, visible grain, overprint where they cross",
+      "composition": "bold flat shapes, limited palette, halftone texture throughout",
+      "abstract": true,
+      "subject": "a satin ribbon coiled",
+      "palette": "ivory, champagne, deep plum, silver"
+    },
+    "prompt": "Album cover artwork, square format. A 2015-present sleeve. Medium: risograph print in two spot inks, visible grain, overprint where they cross. Not a depiction — an abstract composition that only distantly evokes a satin ribbon coiled. Palette: ivory, champagne, deep plum, silver. Composition: bold flat shapes, limited palette, halftone texture throughout. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202015-present%20sleeve.%20Medium%3A%20risograph%20print%20in%20two%20spot%20inks%2C%20visible%20grain%2C%20overprint%20where%20they%20cross.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20satin%20ribbon%20coiled.%20Palette%3A%20ivory%2C%20champagne%2C%20deep%20plum%2C%20silver.%20Composition%3A%20bold%20flat%20shapes%2C%20limited%20palette%2C%20halftone%20texture%20throughout.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

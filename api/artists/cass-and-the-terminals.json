@@ -1,0 +1,329 @@
+{
+  "id": "art_cass-and-the-terminals",
+  "slug": "cass-and-the-terminals",
+  "name": "Cass & The Terminals",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Detroit, MI",
+  "geo": {
+    "placeId": "plc_detroit",
+    "city": "Detroit",
+    "country": "US",
+    "lat": 42.33,
+    "lng": -83.05
+  },
+  "region": "us",
+  "genres": [
+    "funk",
+    "jazz"
+  ],
+  "primaryGenre": {
+    "slug": "funk",
+    "name": "Funk"
+  },
+  "label": {
+    "id": "lbl_harmattan",
+    "name": "Harmattan Sound"
+  },
+  "tier": "tail",
+  "monthlyListeners": 2657,
+  "monthlyListenersLabel": "2.7K monthly listeners",
+  "followers": 800,
+  "followersLabel": "800",
+  "shelfCaption": "Funk · 2.7K listeners",
+  "verified": true,
+  "active": {
+    "from": 2021,
+    "to": null
+  },
+  "bio": "Cass & The Terminals has been a Detroit, MI fixture since 2021. Cuts the rhythm section live and overdubs nothing but voice.",
+  "discography": [
+    "alb_the-boulevard-cass-and-t",
+    "alb_the-rooftop-cass-and-t",
+    "alb_zoning-cass-and-t"
+  ],
+  "popularTrackIds": [
+    "trk_small-hour-cass-and-2021-0",
+    "trk_central-exchange-cass-and-2021-1",
+    "trk_every-bureau-cass-and-2022-0",
+    "trk_bloc-lullaby-cass-and-2021-2",
+    "trk_provisional-exchange-cass-and-2023-1",
+    "trk_zoning-cass-and-2023-0",
+    "trk_neon-taxi-cass-and-2023-2",
+    "trk_bloc-reprise-cass-and-2023-3",
+    "trk_rooftop-instrumental-cass-and-2023-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "funk",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician in their late twenties looking just past the camera",
+        "palette": "hot pink, gold, purple, deep orange"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician in their late twenties looking just past the camera. Palette: hot pink, gold, purple, deep orange. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20in%20their%20late%20twenties%20looking%20just%20past%20the%20camera.%20Palette%3A%20hot%20pink%2C%20gold%2C%20purple%2C%20deep%20orange.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "funk",
+        "year": 2023,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "hot pink, gold, purple, deep orange"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician leaning on a van, road behind them. Palette: hot pink, gold, purple, deep orange. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20hot%20pink%2C%20gold%2C%20purple%2C%20deep%20orange.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_small-hour-cass-and-2021-0",
+      "slug": "small-hour",
+      "title": "Small Hour",
+      "duration": "4:52",
+      "durationSec": 292,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_zoning-cass-and-t",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "45,344"
+    },
+    {
+      "id": "trk_central-exchange-cass-and-2021-1",
+      "slug": "central-exchange",
+      "title": "Central Exchange",
+      "duration": "4:53",
+      "durationSec": 293,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_zoning-cass-and-t",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "31,377"
+    },
+    {
+      "id": "trk_every-bureau-cass-and-2022-0",
+      "slug": "every-bureau",
+      "title": "Every Bureau",
+      "duration": "5:16",
+      "durationSec": 316,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-rooftop-cass-and-t",
+        "title": "The Rooftop",
+        "slug": "the-rooftop",
+        "year": 2022
+      },
+      "albumArt": null,
+      "playCountLabel": "24,194"
+    },
+    {
+      "id": "trk_bloc-lullaby-cass-and-2021-2",
+      "slug": "bloc-lullaby",
+      "title": "Bloc Lullaby",
+      "duration": "4:40",
+      "durationSec": 280,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_zoning-cass-and-t",
+        "title": "Zoning",
+        "slug": "zoning",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "22,101"
+    },
+    {
+      "id": "trk_provisional-exchange-cass-and-2023-1",
+      "slug": "provisional-exchange",
+      "title": "Provisional Exchange",
+      "duration": "5:28",
+      "durationSec": 328,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "7,991"
+    },
+    {
+      "id": "trk_zoning-cass-and-2023-0",
+      "slug": "zoning",
+      "title": "Zoning",
+      "duration": "4:18",
+      "durationSec": 258,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "7,979"
+    },
+    {
+      "id": "trk_neon-taxi-cass-and-2023-2",
+      "slug": "neon-taxi",
+      "title": "Neon Taxi",
+      "duration": "5:12",
+      "durationSec": 312,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "5,359"
+    },
+    {
+      "id": "trk_bloc-reprise-cass-and-2023-3",
+      "slug": "bloc-reprise",
+      "title": "Bloc (Reprise)",
+      "duration": "4:52",
+      "durationSec": 292,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "3,821"
+    },
+    {
+      "id": "trk_rooftop-instrumental-cass-and-2023-4",
+      "slug": "rooftop-instrumental",
+      "title": "Rooftop (Instrumental)",
+      "duration": "5:25",
+      "durationSec": 325,
+      "artist": {
+        "id": "art_cass-and-the-terminals",
+        "name": "Cass & The Terminals",
+        "slug": "cass-and-the-terminals"
+      },
+      "album": {
+        "id": "alb_the-boulevard-cass-and-t",
+        "title": "The Boulevard",
+        "slug": "the-boulevard",
+        "year": 2023
+      },
+      "albumArt": null,
+      "playCountLabel": "987"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_the-boulevard-cass-and-t",
+      "slug": "the-boulevard",
+      "title": "The Boulevard",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_the-rooftop-cass-and-t",
+      "slug": "the-rooftop",
+      "title": "The Rooftop",
+      "subtitle": "2022 · Single",
+      "year": 2022,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_zoning-cass-and-t",
+      "slug": "zoning-cass-and-the-terminals",
+      "title": "Zoning",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    }
+  ],
+  "onLists": [
+    {
+      "playlistId": "pl_country-united-states",
+      "slug": "united-states",
+      "title": "United States",
+      "image": "/artwork/playlist/country-united-states.png",
+      "curatorId": "cur_marcus-pike",
+      "curatorName": "Marcus Pike",
+      "trackTitle": "Every Bureau",
+      "position": 9,
+      "caption": "Every Bureau is track 9"
+    },
+    {
+      "playlistId": "pl_country-ghana",
+      "slug": "ghana",
+      "title": "Ghana",
+      "image": "/artwork/playlist/country-ghana.png",
+      "curatorId": "cur_ade-mensah",
+      "curatorName": "Adé Mensah",
+      "trackTitle": "Bloc (Reprise)",
+      "position": 6,
+      "caption": "Bloc (Reprise) is track 6"
+    }
+  ]
+}

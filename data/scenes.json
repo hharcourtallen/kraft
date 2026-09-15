@@ -1,0 +1,159 @@
+{
+  "$comment": "A scene is a label, a city, a production approach and a look. CANON.md §Scenes names three; the rest are derived from the generated roster and pinned here so Explore has something to show.",
+  "scenes": [
+    {
+      "id": "scn_analog-revival",
+      "name": "Analog Revival",
+      "city": "Melbourne",
+      "labelId": "lbl_second-pressing",
+      "genres": [
+        "analog-revival"
+      ],
+      "look": "Tape, room mics, visible wear.",
+      "artistIds": [
+        "art_the-worn-grooves",
+        "art_analog-hearts",
+        "art_oliver-felt",
+        "art_spinning-room",
+        "art_second-hand-sound",
+        "art_margot-and-the-spindles",
+        "art_hiss-and-warmth",
+        "art_shellac-jones",
+        "art_the-dusty-crates",
+        "art_lead-in-groove"
+      ],
+      "placeId": "plc_melbourne"
+    },
+    {
+      "id": "scn_blue-hour",
+      "name": "Blue Hour",
+      "city": "Portland",
+      "labelId": "lbl_blue-hour",
+      "genres": [
+        "dream-pop",
+        "shoegaze"
+      ],
+      "look": "Coastal dream-pop, close-mic vocals.",
+      "artistIds": [
+        "art_zaya-blue",
+        "art_nell-and-the-coronas",
+        "art_blue-ferry",
+        "art_nell-wren",
+        "art_merrick-and-the-motels",
+        "art_grafting"
+      ],
+      "placeId": "plc_portland"
+    },
+    {
+      "id": "scn_hedgerow",
+      "name": "Hedgerow",
+      "city": "Bristol",
+      "labelId": "lbl_hedgerow",
+      "genres": [
+        "folk",
+        "americana",
+        "singer-songwriter"
+      ],
+      "look": "One room, no click.",
+      "artistIds": [
+        "art_jack-hatfield",
+        "art_keane-sol",
+        "art_petal-and-dew",
+        "art_rust-strata",
+        "art_lodestar",
+        "art_ballast-and-lodestar",
+        "art_wren-mercer",
+        "art_the-shoals",
+        "art_opal-and-the-villages",
+        "art_sadie-and-the-villages",
+        "art_bloom",
+        "art_petra-ilic",
+        "art_the-barleyfield-ensemble"
+      ],
+      "placeId": "plc_bristol"
+    },
+    {
+      "id": "scn_strata-nine",
+      "name": "Strata Nine",
+      "city": "Berlin",
+      "labelId": "lbl_strata-nine",
+      "genres": [
+        "techno",
+        "electronic",
+        "post-punk"
+      ],
+      "look": "Concrete rooms, long decays.",
+      "artistIds": [
+        "art_rootwork-and-bloom",
+        "art_delia-hollis",
+        "art_ren-ishii",
+        "art_small-payphone",
+        "art_antonella-iriarte",
+        "art_sanne-midnight",
+        "art_the-slate-stratas",
+        "art_elliot-crane",
+        "art_nell-hollowell"
+      ],
+      "placeId": "plc_berlin"
+    },
+    {
+      "id": "scn_sable-note",
+      "name": "Sable Note",
+      "city": "New York",
+      "labelId": "lbl_sable-note",
+      "genres": [
+        "jazz",
+        "spiritual-jazz"
+      ],
+      "look": "Live to two-track, the count-in kept.",
+      "artistIds": [
+        "art_milo-kestrel",
+        "art_the-velvet-ferries",
+        "art_rhys-rees",
+        "art_the-green-vines",
+        "art_late-payphone",
+        "art_halvor-lindqvist",
+        "art_curfew"
+      ],
+      "placeId": "plc_new-york"
+    },
+    {
+      "id": "scn_tropico-alto",
+      "name": "Trópico Alto",
+      "city": "Bogotá",
+      "labelId": "lbl_tropico-alto",
+      "genres": [
+        "cumbia",
+        "latin"
+      ],
+      "look": "Brass on top, hiss underneath.",
+      "artistIds": [
+        "art_mateo-molinari",
+        "art_i-a-r",
+        "art_renata-and-the-taxis"
+      ],
+      "placeId": "plc_bogota"
+    },
+    {
+      "id": "scn_harmattan",
+      "name": "Harmattan",
+      "city": "Lagos",
+      "labelId": "lbl_harmattan",
+      "genres": [
+        "afrobeat",
+        "funk",
+        "hip-hop",
+        "rnb"
+      ],
+      "look": "Horn sections and heat.",
+      "artistIds": [
+        "art_bridie-sinclair",
+        "art_femi-and-the-observatories",
+        "art_merrick-dark",
+        "art_the-ballroom-orchestra",
+        "art_cass-and-the-terminals"
+      ],
+      "placeId": "plc_lagos"
+    }
+  ]
+}

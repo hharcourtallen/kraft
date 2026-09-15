@@ -1,0 +1,327 @@
+{
+  "id": "art_nell-and-the-coronas",
+  "slug": "nell-and-the-coronas",
+  "name": "Nell & The Coronas",
+  "formation": "band",
+  "country": "GB",
+  "hometown": "Bristol",
+  "geo": {
+    "placeId": "plc_bristol",
+    "city": "Bristol",
+    "country": "GB",
+    "lat": 51.45,
+    "lng": -2.59
+  },
+  "region": "uk",
+  "genres": [
+    "shoegaze",
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "shoegaze",
+    "name": "Shoegaze"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "tail",
+  "monthlyListeners": 923,
+  "monthlyListenersLabel": "923 monthly listeners",
+  "followers": 419,
+  "followersLabel": "419",
+  "shelfCaption": "Shoegaze · 923 listeners",
+  "verified": true,
+  "active": {
+    "from": 2024,
+    "to": null
+  },
+  "bio": "A four-piece making shoegaze about weather. Prefers the second take to the good one. Answers every interview question with a different lie.",
+  "discography": [
+    "alb_creeping-conservatory-nell-and-t",
+    "alb_studies-in-vines-nell-and-t",
+    "alb_ninth-aphelion-nell-and-t"
+  ],
+  "popularTrackIds": [
+    "trk_fern-dew-nell-and-2024-1",
+    "trk_green-frond-nell-and-2024-0",
+    "trk_orbit-song-nell-and-2024-2",
+    "trk_half-a-meridian-nell-and-2025-0",
+    "trk_distant-transit-nell-and-2025-1",
+    "trk_ascension-nell-and-2025-2",
+    "trk_nightblooming-herbarium-nell-and-2024-3",
+    "trk_ascension-nell-and-2025-3",
+    "trk_distant-aphelion-nell-and-2026-0",
+    "trk_outer-equinox-nell-and-2024-4"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "shoegaze",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "washed pink, acid white, cool grey-green"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: washed pink, acid white, cool grey-green. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20washed%20pink%2C%20acid%20white%2C%20cool%20grey-green.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "shoegaze",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician alone on a small stage, one lamp on",
+        "palette": "washed pink, acid white, cool grey-green"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician alone on a small stage, one lamp on. Palette: washed pink, acid white, cool grey-green. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20alone%20on%20a%20small%20stage%2C%20one%20lamp%20on.%20Palette%3A%20washed%20pink%2C%20acid%20white%2C%20cool%20grey-green.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_fern-dew-nell-and-2024-1",
+      "slug": "fern-dew",
+      "title": "Fern Dew",
+      "duration": "6:20",
+      "durationSec": 380,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "5,102"
+    },
+    {
+      "id": "trk_green-frond-nell-and-2024-0",
+      "slug": "green-frond",
+      "title": "Green Frond",
+      "duration": "4:57",
+      "durationSec": 297,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "4,162"
+    },
+    {
+      "id": "trk_orbit-song-nell-and-2024-2",
+      "slug": "orbit-song",
+      "title": "Orbit Song",
+      "duration": "4:27",
+      "durationSec": 267,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "2,320"
+    },
+    {
+      "id": "trk_half-a-meridian-nell-and-2025-0",
+      "slug": "half-a-meridian",
+      "title": "Half a Meridian",
+      "duration": "3:10",
+      "durationSec": 190,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "2,206"
+    },
+    {
+      "id": "trk_distant-transit-nell-and-2025-1",
+      "slug": "distant-transit",
+      "title": "Distant Transit",
+      "duration": "6:38",
+      "durationSec": 398,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,867"
+    },
+    {
+      "id": "trk_ascension-nell-and-2025-2",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "6:30",
+      "durationSec": 390,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "1,043"
+    },
+    {
+      "id": "trk_nightblooming-herbarium-nell-and-2024-3",
+      "slug": "nightblooming-herbarium",
+      "title": "Nightblooming Herbarium",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "897"
+    },
+    {
+      "id": "trk_ascension-nell-and-2025-3",
+      "slug": "ascension",
+      "title": "Ascension",
+      "duration": "4:54",
+      "durationSec": 294,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_studies-in-vines-nell-and-t",
+        "title": "Studies in Vines",
+        "slug": "studies-in-vines",
+        "year": 2025
+      },
+      "albumArt": null,
+      "playCountLabel": "807"
+    },
+    {
+      "id": "trk_distant-aphelion-nell-and-2026-0",
+      "slug": "distant-aphelion",
+      "title": "Distant Aphelion",
+      "duration": "3:59",
+      "durationSec": 239,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_creeping-conservatory-nell-and-t",
+        "title": "Creeping Conservatory",
+        "slug": "creeping-conservatory",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "603"
+    },
+    {
+      "id": "trk_outer-equinox-nell-and-2024-4",
+      "slug": "outer-equinox",
+      "title": "Outer Equinox",
+      "duration": "5:05",
+      "durationSec": 305,
+      "artist": {
+        "id": "art_nell-and-the-coronas",
+        "name": "Nell & The Coronas",
+        "slug": "nell-and-the-coronas"
+      },
+      "album": {
+        "id": "alb_ninth-aphelion-nell-and-t",
+        "title": "Ninth Aphelion",
+        "slug": "ninth-aphelion",
+        "year": 2024
+      },
+      "albumArt": null,
+      "playCountLabel": "453"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_creeping-conservatory-nell-and-t",
+      "slug": "creeping-conservatory",
+      "title": "Creeping Conservatory",
+      "subtitle": "2026 · Single",
+      "year": 2026,
+      "type": "Single",
+      "image": null
+    },
+    {
+      "id": "alb_studies-in-vines-nell-and-t",
+      "slug": "studies-in-vines",
+      "title": "Studies in Vines",
+      "subtitle": "2025 · EP",
+      "year": 2025,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_ninth-aphelion-nell-and-t",
+      "slug": "ninth-aphelion",
+      "title": "Ninth Aphelion",
+      "subtitle": "2024 · Album",
+      "year": 2024,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

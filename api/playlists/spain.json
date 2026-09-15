@@ -1,0 +1,295 @@
+{
+  "id": "pl_country-spain",
+  "slug": "spain",
+  "title": "Spain",
+  "description": null,
+  "note": "Barcelona at seven in the morning, when the clubs let out onto the beach. I go every June and come back with this.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": "ES",
+  "subtitle": "Théo Marchand",
+  "curator": {
+    "id": "cur_teo-marchand",
+    "name": "Théo Marchand",
+    "city": "Paris"
+  },
+  "trackCount": 12,
+  "durationSec": 3391,
+  "durationLabel": "57 min",
+  "metaLine": "12 tracks · 57 min",
+  "libraryLine": "List · 12 songs",
+  "followers": 12900,
+  "followersLabel": "13K",
+  "updated": "2026-07-03",
+  "moods": [],
+  "genres": [
+    "house",
+    "electronic",
+    "downtempo"
+  ],
+  "trackIds": [
+    "trk_zenith-til-voge-2024-0",
+    "trk_payphone-blues-ren-ishi-2021-2",
+    "trk_dark-underpass-sanne-mi-2025-1",
+    "trk_two-hundred-thickets-small-pa-2024-2",
+    "trk_small-ballroom-rootwork-2017-1",
+    "trk_rust-strata-delia-ho-2024-1",
+    "trk_small-underpass-antonell-2023-1",
+    "trk_rooftop-demo-antonell-2024-2",
+    "trk_last-track-home",
+    "trk_nocturne-sadie-bl-2021-4",
+    "trk_census-delia-ho-2023-0",
+    "trk_slow-common-small-pa-2019-0"
+  ],
+  "tracks": [
+    {
+      "id": "trk_zenith-til-voge-2024-0",
+      "slug": "zenith",
+      "title": "Zenith",
+      "duration": "5:57",
+      "durationSec": 357,
+      "artist": {
+        "id": "art_til-vogelsang",
+        "name": "Til Vogelsang",
+        "slug": "til-vogelsang"
+      },
+      "album": {
+        "id": "alb_the-cairn-til-vogels",
+        "title": "The Cairn",
+        "slug": "the-cairn",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_payphone-blues-ren-ishi-2021-2",
+      "slug": "payphone-blues",
+      "title": "Payphone Blues",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_ren-ishii",
+        "name": "Ren Ishii",
+        "slug": "ren-ishii"
+      },
+      "album": {
+        "id": "alb_rootwork-ren-ishii",
+        "title": "Rootwork",
+        "slug": "rootwork",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_dark-underpass-sanne-mi-2025-1",
+      "slug": "dark-underpass",
+      "title": "Dark Underpass",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_sanne-midnight",
+        "name": "Sanne Midnight",
+        "slug": "sanne-midnight"
+      },
+      "album": {
+        "id": "alb_velvet-hour-sanne-midn",
+        "title": "Velvet Hour",
+        "slug": "velvet-hour",
+        "year": 2025
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_two-hundred-thickets-small-pa-2024-2",
+      "slug": "two-hundred-thickets",
+      "title": "Two Hundred Thickets",
+      "duration": "3:24",
+      "durationSec": 204,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_the-motel-small-payp",
+        "title": "The Motel",
+        "slug": "the-motel",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-ballroom-rootwork-2017-1",
+      "slug": "small-ballroom",
+      "title": "Small Ballroom",
+      "duration": "4:36",
+      "durationSec": 276,
+      "artist": {
+        "id": "art_rootwork-and-bloom",
+        "name": "Rootwork & Bloom",
+        "slug": "rootwork-and-bloom"
+      },
+      "album": {
+        "id": "alb_village-and-alder-rootwork-a",
+        "title": "Village & Alder",
+        "slug": "village-and-alder",
+        "year": 2017
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rust-strata-delia-ho-2024-1",
+      "slug": "rust-strata",
+      "title": "Rust Strata",
+      "duration": "7:37",
+      "durationSec": 457,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_oxidation-delia-holl",
+        "title": "Oxidation",
+        "slug": "oxidation",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_small-underpass-antonell-2023-1",
+      "slug": "small-underpass",
+      "title": "Small Underpass",
+      "duration": "4:13",
+      "durationSec": 253,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_fallow-common-antonella-",
+        "title": "Fallow Common",
+        "slug": "fallow-common",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_rooftop-demo-antonell-2024-2",
+      "slug": "rooftop-demo",
+      "title": "Rooftop (Demo)",
+      "duration": "4:24",
+      "durationSec": 264,
+      "artist": {
+        "id": "art_antonella-iriarte",
+        "name": "Antonella Iriarte",
+        "slug": "antonella-iriarte"
+      },
+      "album": {
+        "id": "alb_the-thicket-antonella-",
+        "title": "The Thicket",
+        "slug": "the-thicket",
+        "year": 2024
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_last-track-home",
+      "slug": "last-track-home",
+      "title": "Last Track Home",
+      "duration": "5:27",
+      "durationSec": 327,
+      "artist": {
+        "id": "art_lead-in-groove",
+        "name": "Lead-In Groove",
+        "slug": "lead-in-groove"
+      },
+      "album": {
+        "id": "alb_side-b-forever",
+        "title": "Side B Forever",
+        "slug": "side-b-forever",
+        "year": 2023
+      },
+      "albumArt": "/artwork/album/side-b-forever.jpg"
+    },
+    {
+      "id": "trk_nocturne-sadie-bl-2021-4",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_sadie-blackwood",
+        "name": "Sadie Blackwood",
+        "slug": "sadie-blackwood"
+      },
+      "album": {
+        "id": "alb_label-and-reel-sadie-blac",
+        "title": "Label & Reel",
+        "slug": "label-and-reel",
+        "year": 2021
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_census-delia-ho-2023-0",
+      "slug": "census",
+      "title": "Census",
+      "duration": "5:57",
+      "durationSec": 357,
+      "artist": {
+        "id": "art_delia-hollis",
+        "name": "Delia Hollis",
+        "slug": "delia-hollis"
+      },
+      "album": {
+        "id": "alb_municipal-census-delia-holl",
+        "title": "Municipal Census",
+        "slug": "municipal-census",
+        "year": 2023
+      },
+      "albumArt": null
+    },
+    {
+      "id": "trk_slow-common-small-pa-2019-0",
+      "slug": "slow-common",
+      "title": "Slow Common",
+      "duration": "3:21",
+      "durationSec": 201,
+      "artist": {
+        "id": "art_small-payphone",
+        "name": "Small Payphone",
+        "slug": "small-payphone"
+      },
+      "album": {
+        "id": "alb_village-and-bramble-small-payp",
+        "title": "Village & Bramble",
+        "slug": "village-and-bramble",
+        "year": 2019
+      },
+      "albumArt": null
+    }
+  ],
+  "resolvedTrackCount": 12,
+  "shortfall": 0,
+  "artwork": {
+    "image": "/artwork/playlist/country-spain.png",
+    "direction": {
+      "genre": "house",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "generative abstraction, fluid gradient mesh, no depicted object",
+      "composition": "non-representational, full bleed, edge-to-edge colour",
+      "abstract": true,
+      "subject": "a dancefloor from above",
+      "palette": "electric blue, chrome, hot orange, black"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: generative abstraction, fluid gradient mesh, no depicted object. Not a depiction — an abstract composition that only distantly evokes a dancefloor from above. Palette: electric blue, chrome, hot orange, black. Composition: non-representational, full bleed, edge-to-edge colour. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20generative%20abstraction%2C%20fluid%20gradient%20mesh%2C%20no%20depicted%20object.%20Not%20a%20depiction%20%E2%80%94%20an%20abstract%20composition%20that%20only%20distantly%20evokes%20a%20dancefloor%20from%20above.%20Palette%3A%20electric%20blue%2C%20chrome%2C%20hot%20orange%2C%20black.%20Composition%3A%20non-representational%2C%20full%20bleed%2C%20edge-to-edge%20colour.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "3 Jul"
+}

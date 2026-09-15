@@ -1,0 +1,326 @@
+{
+  "id": "art_grafting",
+  "slug": "grafting",
+  "name": "Grafting",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Richmond, VA",
+  "geo": {
+    "placeId": "plc_richmond",
+    "city": "Richmond",
+    "country": "US",
+    "lat": 37.54,
+    "lng": -77.44
+  },
+  "region": "us",
+  "genres": [
+    "dream-pop"
+  ],
+  "primaryGenre": {
+    "slug": "dream-pop",
+    "name": "Dream Pop"
+  },
+  "label": {
+    "id": "lbl_blue-hour",
+    "name": "Blue Hour"
+  },
+  "tier": "tail",
+  "monthlyListeners": 1775,
+  "monthlyListenersLabel": "1.8K monthly listeners",
+  "followers": 716,
+  "followersLabel": "716",
+  "shelfCaption": "Dream Pop · 1.8K listeners",
+  "verified": false,
+  "active": {
+    "from": 2020,
+    "to": null
+  },
+  "bio": "Grafting has been a Richmond, VA fixture since 2020. Records in a rehearsal space at night and keeps the bleed.",
+  "discography": [
+    "alb_velvet-nocturne-grafting",
+    "alb_letters-from-ferries-grafting",
+    "alb_petal-dew-grafting"
+  ],
+  "popularTrackIds": [
+    "trk_grafting-grafting-2020-0",
+    "trk_trellis-blues-grafting-2020-1",
+    "trk_nocturne-grafting-2020-2",
+    "trk_velvet-taxi-grafting-2021-0",
+    "trk_conservatory-elegy-grafting-2020-3",
+    "trk_twice-the-greenhouse-grafting-2021-1",
+    "trk_grafting-grafting-2021-3",
+    "trk_blue-ballroom-grafting-2021-2",
+    "trk_grafting-grafting-2026-0",
+    "trk_all-the-ballrooms-grafting-2026-1"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "dream-pop",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "staged surreal still life, crisp studio lighting, uncanny scale relationships",
+        "composition": "object dead centre, hard directional shadow, seamless backdrop",
+        "abstract": false,
+        "subject": "a musician seated, chin resting on one hand, half in shadow",
+        "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: staged surreal still life, crisp studio lighting, uncanny scale relationships. Subject: a musician seated, chin resting on one hand, half in shadow. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: object dead centre, hard directional shadow, seamless backdrop. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20staged%20surreal%20still%20life%2C%20crisp%20studio%20lighting%2C%20uncanny%20scale%20relationships.%20Subject%3A%20a%20musician%20seated%2C%20chin%20resting%20on%20one%20hand%2C%20half%20in%20shadow.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20object%20dead%20centre%2C%20hard%20directional%20shadow%2C%20seamless%20backdrop.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "dream-pop",
+        "year": 2026,
+        "era": "heritage",
+        "eraLabel": "1955-1979",
+        "isPeriodHomage": true,
+        "medium": "studio photograph on 120 film, warm dye-transfer colour, soft vignette",
+        "composition": "classic centred portrait framing, subject filling two thirds of the frame",
+        "abstract": false,
+        "subject": "a musician leaning on a van, road behind them",
+        "palette": "bruised violet, teal shadow, hot magenta bloom, deep blue-black"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2026 press image deliberately styled after 1955-1979. Medium: studio photograph on 120 film, warm dye-transfer colour, soft vignette. Subject: a musician leaning on a van, road behind them. Palette: bruised violet, teal shadow, hot magenta bloom, deep blue-black. Composition: classic centred portrait framing, subject filling two thirds of the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202026%20press%20image%20deliberately%20styled%20after%201955-1979.%20Medium%3A%20studio%20photograph%20on%20120%20film%2C%20warm%20dye-transfer%20colour%2C%20soft%20vignette.%20Subject%3A%20a%20musician%20leaning%20on%20a%20van%2C%20road%20behind%20them.%20Palette%3A%20bruised%20violet%2C%20teal%20shadow%2C%20hot%20magenta%20bloom%2C%20deep%20blue-black.%20Composition%3A%20classic%20centred%20portrait%20framing%2C%20subject%20filling%20two%20thirds%20of%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_grafting-grafting-2020-0",
+      "slug": "grafting",
+      "title": "Grafting",
+      "duration": "4:27",
+      "durationSec": 267,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_petal-dew-grafting",
+        "title": "Petal Dew",
+        "slug": "petal-dew",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "31,468"
+    },
+    {
+      "id": "trk_trellis-blues-grafting-2020-1",
+      "slug": "trellis-blues",
+      "title": "Trellis Blues",
+      "duration": "4:44",
+      "durationSec": 284,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_petal-dew-grafting",
+        "title": "Petal Dew",
+        "slug": "petal-dew",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "15,820"
+    },
+    {
+      "id": "trk_nocturne-grafting-2020-2",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "4:46",
+      "durationSec": 286,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_petal-dew-grafting",
+        "title": "Petal Dew",
+        "slug": "petal-dew",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "10,357"
+    },
+    {
+      "id": "trk_velvet-taxi-grafting-2021-0",
+      "slug": "velvet-taxi",
+      "title": "Velvet Taxi",
+      "duration": "3:48",
+      "durationSec": 228,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "9,407"
+    },
+    {
+      "id": "trk_conservatory-elegy-grafting-2020-3",
+      "slug": "conservatory-elegy",
+      "title": "Conservatory Elegy",
+      "duration": "3:37",
+      "durationSec": 217,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_petal-dew-grafting",
+        "title": "Petal Dew",
+        "slug": "petal-dew",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "8,316"
+    },
+    {
+      "id": "trk_twice-the-greenhouse-grafting-2021-1",
+      "slug": "twice-the-greenhouse",
+      "title": "Twice the Greenhouse",
+      "duration": "3:47",
+      "durationSec": 227,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "5,349"
+    },
+    {
+      "id": "trk_grafting-grafting-2021-3",
+      "slug": "grafting",
+      "title": "Grafting",
+      "duration": "4:33",
+      "durationSec": 273,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "4,322"
+    },
+    {
+      "id": "trk_blue-ballroom-grafting-2021-2",
+      "slug": "blue-ballroom",
+      "title": "Blue Ballroom",
+      "duration": "4:19",
+      "durationSec": 259,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_letters-from-ferries-grafting",
+        "title": "Letters from Ferries",
+        "slug": "letters-from-ferries",
+        "year": 2021
+      },
+      "albumArt": null,
+      "playCountLabel": "3,503"
+    },
+    {
+      "id": "trk_grafting-grafting-2026-0",
+      "slug": "grafting",
+      "title": "Grafting",
+      "duration": "4:06",
+      "durationSec": 246,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_velvet-nocturne-grafting",
+        "title": "Velvet Nocturne",
+        "slug": "velvet-nocturne",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "709"
+    },
+    {
+      "id": "trk_all-the-ballrooms-grafting-2026-1",
+      "slug": "all-the-ballrooms",
+      "title": "All the Ballrooms",
+      "duration": "3:54",
+      "durationSec": 234,
+      "artist": {
+        "id": "art_grafting",
+        "name": "Grafting",
+        "slug": "grafting"
+      },
+      "album": {
+        "id": "alb_velvet-nocturne-grafting",
+        "title": "Velvet Nocturne",
+        "slug": "velvet-nocturne",
+        "year": 2026
+      },
+      "albumArt": null,
+      "playCountLabel": "593"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_velvet-nocturne-grafting",
+      "slug": "velvet-nocturne",
+      "title": "Velvet Nocturne",
+      "subtitle": "2026 · EP",
+      "year": 2026,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_letters-from-ferries-grafting",
+      "slug": "letters-from-ferries",
+      "title": "Letters from Ferries",
+      "subtitle": "2021 · EP",
+      "year": 2021,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_petal-dew-grafting",
+      "slug": "petal-dew",
+      "title": "Petal Dew",
+      "subtitle": "2020 · Album",
+      "year": 2020,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

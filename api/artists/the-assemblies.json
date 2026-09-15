@@ -1,0 +1,356 @@
+{
+  "id": "art_the-assemblies",
+  "slug": "the-assemblies",
+  "name": "The Assemblies",
+  "formation": "band",
+  "country": "US",
+  "hometown": "Athens, GA",
+  "geo": {
+    "placeId": "plc_athens-ga",
+    "city": "Athens",
+    "country": "US",
+    "lat": 33.96,
+    "lng": -83.38
+  },
+  "region": "us",
+  "genres": [
+    "indie-rock"
+  ],
+  "primaryGenre": {
+    "slug": "indie-rock",
+    "name": "Indie Rock"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "tier": "headline",
+  "monthlyListeners": 141744,
+  "monthlyListenersLabel": "142K monthly listeners",
+  "followers": 74927,
+  "followersLabel": "75K",
+  "shelfCaption": "Indie Rock · 142K listeners",
+  "verified": true,
+  "active": {
+    "from": 2008,
+    "to": null
+  },
+  "bio": "A band making indie rock about work. Three amps, no pedals, and a rule against overdubs.",
+  "discography": [
+    "alb_velvet-motel-the-assemb",
+    "alb_bureaus-the-assemb",
+    "alb_census-the-assemb",
+    "alb_velvet-insomnia-the-assemb",
+    "alb_late-motel-the-assemb",
+    "alb_small-afterhours-the-assemb"
+  ],
+  "popularTrackIds": [
+    "trk_midnight-taxi-the-asse-2008-0",
+    "trk_assembly-march-the-asse-2012-0",
+    "trk_bureau-live-at-the-roundhouse-the-asse-2010-0",
+    "trk_provision-the-asse-2012-1",
+    "trk_marquee-lullaby-the-asse-2008-1",
+    "trk_twice-the-bureau-the-asse-2008-2",
+    "trk_public-annex-the-asse-2008-3",
+    "trk_provision-the-asse-2010-2",
+    "trk_payphone-waltz-the-asse-2010-1",
+    "trk_nocturne-the-asse-2020-0"
+  ],
+  "artwork": {
+    "portrait": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "sculptural or textile object photographed under raking light",
+        "composition": "tactile, close, shallow depth of field",
+        "abstract": false,
+        "subject": "a musician in profile against a plain wall",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Artist portrait, square, suitable for a circular crop. A 2015-present press image. Medium: sculptural or textile object photographed under raking light. Subject: a musician in profile against a plain wall. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: tactile, close, shallow depth of field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://google-nano-banana-2?prompt=Artist%20portrait%2C%20square%2C%20suitable%20for%20a%20circular%20crop.%20A%202015-present%20press%20image.%20Medium%3A%20sculptural%20or%20textile%20object%20photographed%20under%20raking%20light.%20Subject%3A%20a%20musician%20in%20profile%20against%20a%20plain%20wall.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20tactile%2C%20close%2C%20shallow%20depth%20of%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+    },
+    "hero": {
+      "image": null,
+      "direction": {
+        "genre": "indie-rock",
+        "year": 2026,
+        "era": "contemporary",
+        "eraLabel": "2015-present",
+        "isPeriodHomage": false,
+        "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+        "composition": "extreme crop, subject pressed against the frame",
+        "abstract": false,
+        "subject": "a band of three standing far apart in an empty car park",
+        "palette": "flash white, cheap yellow, dark green, exit-sign red"
+      },
+      "prompt": "Wide editorial artist banner photograph, cinematic. A 2015-present press image. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: a band of three standing far apart in an empty car park. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+      "paperGen": "paper-gen://flux-2-pro?prompt=Wide%20editorial%20artist%20banner%20photograph%2C%20cinematic.%20A%202015-present%20press%20image.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20a%20band%20of%20three%20standing%20far%20apart%20in%20an%20empty%20car%20park.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=16%3A9"
+    }
+  },
+  "nameRisk": null,
+  "designFileValue": null,
+  "popular": [
+    {
+      "id": "trk_midnight-taxi-the-asse-2008-0",
+      "slug": "midnight-taxi",
+      "title": "Midnight Taxi",
+      "duration": "2:42",
+      "durationSec": 162,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_small-afterhours-the-assemb",
+        "title": "Small Afterhours",
+        "slug": "small-afterhours",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "3,094,240"
+    },
+    {
+      "id": "trk_assembly-march-the-asse-2012-0",
+      "slug": "assembly-march",
+      "title": "Assembly March",
+      "duration": "3:46",
+      "durationSec": 226,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_velvet-insomnia-the-assemb",
+        "title": "Velvet Insomnia",
+        "slug": "velvet-insomnia",
+        "year": 2012
+      },
+      "albumArt": null,
+      "playCountLabel": "1,531,268"
+    },
+    {
+      "id": "trk_bureau-live-at-the-roundhouse-the-asse-2010-0",
+      "slug": "bureau-live-at-the-roundhouse",
+      "title": "Bureau (Live at the Roundhouse)",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_late-motel-the-assemb",
+        "title": "Late Motel",
+        "slug": "late-motel",
+        "year": 2010
+      },
+      "albumArt": null,
+      "playCountLabel": "1,526,297"
+    },
+    {
+      "id": "trk_provision-the-asse-2012-1",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "3:31",
+      "durationSec": 211,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_velvet-insomnia-the-assemb",
+        "title": "Velvet Insomnia",
+        "slug": "velvet-insomnia",
+        "year": 2012
+      },
+      "albumArt": null,
+      "playCountLabel": "1,141,081"
+    },
+    {
+      "id": "trk_marquee-lullaby-the-asse-2008-1",
+      "slug": "marquee-lullaby",
+      "title": "Marquee Lullaby",
+      "duration": "3:26",
+      "durationSec": 206,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_small-afterhours-the-assemb",
+        "title": "Small Afterhours",
+        "slug": "small-afterhours",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "1,066,050"
+    },
+    {
+      "id": "trk_twice-the-bureau-the-asse-2008-2",
+      "slug": "twice-the-bureau",
+      "title": "Twice the Bureau",
+      "duration": "3:20",
+      "durationSec": 200,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_small-afterhours-the-assemb",
+        "title": "Small Afterhours",
+        "slug": "small-afterhours",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "1,057,428"
+    },
+    {
+      "id": "trk_public-annex-the-asse-2008-3",
+      "slug": "public-annex",
+      "title": "Public Annex",
+      "duration": "5:01",
+      "durationSec": 301,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_small-afterhours-the-assemb",
+        "title": "Small Afterhours",
+        "slug": "small-afterhours",
+        "year": 2008
+      },
+      "albumArt": null,
+      "playCountLabel": "809,213"
+    },
+    {
+      "id": "trk_provision-the-asse-2010-2",
+      "slug": "provision",
+      "title": "Provision",
+      "duration": "2:38",
+      "durationSec": 158,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_late-motel-the-assemb",
+        "title": "Late Motel",
+        "slug": "late-motel",
+        "year": 2010
+      },
+      "albumArt": null,
+      "playCountLabel": "748,077"
+    },
+    {
+      "id": "trk_payphone-waltz-the-asse-2010-1",
+      "slug": "payphone-waltz",
+      "title": "Payphone Waltz",
+      "duration": "4:02",
+      "durationSec": 242,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_late-motel-the-assemb",
+        "title": "Late Motel",
+        "slug": "late-motel",
+        "year": 2010
+      },
+      "albumArt": null,
+      "playCountLabel": "597,133"
+    },
+    {
+      "id": "trk_nocturne-the-asse-2020-0",
+      "slug": "nocturne",
+      "title": "Nocturne",
+      "duration": "2:50",
+      "durationSec": 170,
+      "artist": {
+        "id": "art_the-assemblies",
+        "name": "The Assemblies",
+        "slug": "the-assemblies"
+      },
+      "album": {
+        "id": "alb_census-the-assemb",
+        "title": "Census",
+        "slug": "census",
+        "year": 2020
+      },
+      "albumArt": null,
+      "playCountLabel": "499,890"
+    }
+  ],
+  "albums": [
+    {
+      "id": "alb_velvet-motel-the-assemb",
+      "slug": "velvet-motel",
+      "title": "Velvet Motel",
+      "subtitle": "2026 · Album",
+      "year": 2026,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_bureaus-the-assemb",
+      "slug": "bureaus",
+      "title": "Bureaus",
+      "subtitle": "2023 · Album",
+      "year": 2023,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_census-the-assemb",
+      "slug": "census",
+      "title": "Census",
+      "subtitle": "2020 · EP",
+      "year": 2020,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_velvet-insomnia-the-assemb",
+      "slug": "velvet-insomnia",
+      "title": "Velvet Insomnia",
+      "subtitle": "2012 · EP",
+      "year": 2012,
+      "type": "EP",
+      "image": null
+    },
+    {
+      "id": "alb_late-motel-the-assemb",
+      "slug": "late-motel",
+      "title": "Late Motel",
+      "subtitle": "2010 · Album",
+      "year": 2010,
+      "type": "Album",
+      "image": null
+    },
+    {
+      "id": "alb_small-afterhours-the-assemb",
+      "slug": "small-afterhours",
+      "title": "Small Afterhours",
+      "subtitle": "2008 · Album",
+      "year": 2008,
+      "type": "Album",
+      "image": null
+    }
+  ],
+  "onLists": []
+}

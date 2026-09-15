@@ -1,0 +1,93 @@
+.curator-row {
+  display: flex;
+  gap: var(--spacing-2);
+  overflow-x: auto;
+}
+
+.curator-tile {
+  width: 120px;
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: var(--spacing-3);
+  text-align: center;
+}
+
+.curator-tile-text {
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-0-5);
+}
+
+.scene-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-4);
+}
+
+.scene--sm {
+  width: 276px;
+  height: 140px;
+}
+
+.scene--sm .scene-text {
+  padding: var(--spacing-3);
+}
+
+.browse-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--spacing-4);
+}
+
+.browse-tile {
+  width: 130px;
+  height: 88px;
+  display: flex;
+  align-items: flex-end;
+  padding: var(--spacing-3);
+  border-radius: var(--radius-md);
+  background: var(--color-surface);
+  border: 1px solid var(--color-line-subtle);
+}
+
+/* Follow button + LED, shared by Curator and Artist */
+.follow {
+  display: inline-flex;
+  align-items: center;
+  gap: var(--spacing-2);
+  height: 32px;
+  padding: 0 var(--spacing-3);
+  border-radius: var(--radius-md);
+  background: var(--color-bg-inverse);
+  color: var(--color-text-inverse);
+  font-size: var(--text-sm);
+  font-weight: var(--font-weight-medium);
+  flex-shrink: 0;
+}
+
+.follow--on {
+  background: var(--color-surface);
+  color: var(--color-text);
+  border: 1px solid var(--color-line);
+}
+
+.follow--pill {
+  height: 36px;
+  padding: 0 var(--spacing-4);
+  border-radius: var(--radius-full);
+  background: transparent;
+  color: var(--color-text);
+  border: 1px solid var(--color-line-strong);
+  font-size: var(--text-xs);
+  font-weight: var(--font-weight-semibold);
+}
+
+.led {
+  width: 6px;
+  height: 6px;
+  border-radius: var(--radius-full);
+  background: var(--color-led-accent);
+  box-shadow: var(--color-led-glow) var(--color-accent);
+}

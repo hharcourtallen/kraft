@@ -1,0 +1,48 @@
+{
+  "id": "alb_ferries-imogen-sin",
+  "slug": "ferries",
+  "title": "Ferries",
+  "year": 2008,
+  "type": "Album",
+  "subtitle": "2008 · Album",
+  "trackCount": 9,
+  "durationSec": 2104,
+  "durationLabel": "35 min",
+  "artist": {
+    "id": "art_imogen-sinclair",
+    "name": "Imogen Sinclair",
+    "slug": "imogen-sinclair"
+  },
+  "label": {
+    "id": "lbl_self-released",
+    "name": "Self-released"
+  },
+  "genres": [
+    "indie-rock",
+    "dream-pop"
+  ],
+  "tracks": [
+    "trk_census-imogen-s-2008-0",
+    "trk_annex-alt-take-imogen-s-2008-1",
+    "trk_census-imogen-s-2008-2",
+    "trk_dark-motel-imogen-s-2008-3"
+  ],
+  "artwork": {
+    "image": null,
+    "direction": {
+      "genre": "indie-rock",
+      "year": 2008,
+      "era": "digital",
+      "eraLabel": "2000-2014",
+      "isPeriodHomage": false,
+      "medium": "photographic composite with soft shadow layering, magazine retouching",
+      "composition": "subject cut out and floated over a flat field",
+      "abstract": false,
+      "subject": "a stack of amplifiers",
+      "palette": "flash white, cheap yellow, dark green, exit-sign red"
+    },
+    "prompt": "Album cover artwork, square format. A 2000-2014 sleeve. Medium: photographic composite with soft shadow layering, magazine retouching. Subject: a stack of amplifiers. Palette: flash white, cheap yellow, dark green, exit-sign red. Composition: subject cut out and floated over a flat field. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Album%20cover%20artwork%2C%20square%20format.%20A%202000-2014%20sleeve.%20Medium%3A%20photographic%20composite%20with%20soft%20shadow%20layering%2C%20magazine%20retouching.%20Subject%3A%20a%20stack%20of%20amplifiers.%20Palette%3A%20flash%20white%2C%20cheap%20yellow%2C%20dark%20green%2C%20exit-sign%20red.%20Composition%3A%20subject%20cut%20out%20and%20floated%20over%20a%20flat%20field.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "nameRisk": null
+}

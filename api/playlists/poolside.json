@@ -1,0 +1,56 @@
+{
+  "id": "pl_poolside",
+  "slug": "poolside",
+  "title": "Poolside",
+  "description": "Bossa, dub and disco edits for standing in shade you did not plan for.",
+  "note": "Cumbia, bossa, and things that move at the speed of a Sunday. Play it loud enough that the neighbours ask.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Luana Andrade",
+  "curator": {
+    "id": "cur_luana-andrade",
+    "name": "Luana Andrade",
+    "city": "São Paulo"
+  },
+  "trackCount": 11,
+  "durationSec": 2640,
+  "durationLabel": "44 min",
+  "metaLine": "11 tracks · 44 min",
+  "libraryLine": "List · 11 songs",
+  "followers": 55302,
+  "followersLabel": "55K",
+  "updated": "2026-08-04",
+  "moods": [
+    "chill",
+    "euphoric"
+  ],
+  "genres": [
+    "bossa",
+    "dub",
+    "funk"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 11,
+  "artwork": {
+    "image": "/artwork/playlist/poolside.jpg",
+    "direction": {
+      "genre": "bossa",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "digital collage of cut-out photography over scanned paper texture",
+      "composition": "layered and deliberately flat, elements overlapping at odd scales",
+      "abstract": false,
+      "subject": "a modernist chair on tile",
+      "palette": "sand, sea green, sun yellow, white"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: digital collage of cut-out photography over scanned paper texture. Subject: a modernist chair on tile. Palette: sand, sea green, sun yellow, white. Composition: layered and deliberately flat, elements overlapping at odd scales. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20digital%20collage%20of%20cut-out%20photography%20over%20scanned%20paper%20texture.%20Subject%3A%20a%20modernist%20chair%20on%20tile.%20Palette%3A%20sand%2C%20sea%20green%2C%20sun%20yellow%2C%20white.%20Composition%3A%20layered%20and%20deliberately%20flat%2C%20elements%20overlapping%20at%20odd%20scales.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "3 weeks ago"
+}

@@ -1,0 +1,55 @@
+{
+  "id": "pl_wildflower-days",
+  "slug": "wildflower-days",
+  "title": "Wildflower Days",
+  "description": "Open windows, long grass, and a tape deck that only plays one side.",
+  "note": "Folk that isn't precious about it. Half of these were recorded outdoors and you can hear a dog somewhere.",
+  "notePin": null,
+  "stressFixture": false,
+  "system": false,
+  "countryCode": null,
+  "subtitle": "Sofía Reyes",
+  "curator": {
+    "id": "cur_sofia-reyes",
+    "name": "Sofía Reyes",
+    "city": "Mexico City"
+  },
+  "trackCount": 15,
+  "durationSec": 3600,
+  "durationLabel": "1 hr 0 min",
+  "metaLine": "15 tracks · 1 hr 0 min",
+  "libraryLine": "List · 15 songs",
+  "followers": 62190,
+  "followersLabel": "62K",
+  "updated": "2026-07-30",
+  "moods": [
+    "sunday-morning"
+  ],
+  "genres": [
+    "folk",
+    "americana",
+    "singer-songwriter"
+  ],
+  "trackIds": [],
+  "tracks": [],
+  "resolvedTrackCount": 0,
+  "shortfall": 15,
+  "artwork": {
+    "image": "/artwork/playlist/wildflower-days.jpg",
+    "direction": {
+      "genre": "folk",
+      "year": 2026,
+      "era": "contemporary",
+      "eraLabel": "2015-present",
+      "isPeriodHomage": false,
+      "medium": "hyperreal close-up photograph with phone-camera immediacy and slight distortion",
+      "composition": "extreme crop, subject pressed against the frame",
+      "abstract": false,
+      "subject": "cut wheat bound with twine",
+      "palette": "desaturated ochre, moss green, bone white, overcast grey"
+    },
+    "prompt": "Playlist cover artwork, square format, evocative rather than literal. A 2015-present cover. Medium: hyperreal close-up photograph with phone-camera immediacy and slight distortion. Subject: cut wheat bound with twine. Palette: desaturated ochre, moss green, bone white, overcast grey. Composition: extreme crop, subject pressed against the frame. No text, lettering, typography, watermarks, logos or signatures anywhere in the image.",
+    "paperGen": "paper-gen://google-nano-banana-2?prompt=Playlist%20cover%20artwork%2C%20square%20format%2C%20evocative%20rather%20than%20literal.%20A%202015-present%20cover.%20Medium%3A%20hyperreal%20close-up%20photograph%20with%20phone-camera%20immediacy%20and%20slight%20distortion.%20Subject%3A%20cut%20wheat%20bound%20with%20twine.%20Palette%3A%20desaturated%20ochre%2C%20moss%20green%2C%20bone%20white%2C%20overcast%20grey.%20Composition%3A%20extreme%20crop%2C%20subject%20pressed%20against%20the%20frame.%20No%20text%2C%20lettering%2C%20typography%2C%20watermarks%2C%20logos%20or%20signatures%20anywhere%20in%20the%20image.&aspect_ratio=1%3A1"
+  },
+  "updatedLabel": "4 weeks ago"
+}
