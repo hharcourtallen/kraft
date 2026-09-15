@@ -14,7 +14,7 @@ way round. When the project is simplified or extended, it happens here first.
 
 | | |
 |---|---|
-| Live app | _Vercel, pending first deploy_ |
+| Live app | _Vercel, pending first deploy_ · source: [github.com/agusegui/kraft](https://github.com/agusegui/kraft) |
 | Paper file | [Kraft on Paper](https://app.paper.design/file/01KVEA9ZH9NC4H1JMS4CAP1VCP) (duplicate it to work on your own copy) |
 | Rules of the world | [`CANON.md`](./CANON.md) |
 | History and decisions | [`PLAN.md`](./PLAN.md) |
