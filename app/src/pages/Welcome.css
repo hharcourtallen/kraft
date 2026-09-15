@@ -81,12 +81,6 @@
   box-sizing: border-box;
 }
 
-.wl-hero-top {
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-}
-
 .wl-hero-copy { display: flex; flex-direction: column; gap: var(--spacing-4); }
 .wl-hero-copy p { margin: 0; color: #e6e6e6; }
 
@@ -100,36 +94,11 @@
 }
 
 .wl-actions { display: flex; align-items: center; gap: var(--spacing-5); }
-.wl-dim { color: #e6e6e6; }
-
-.wl-now { display: flex; flex-direction: column; gap: var(--spacing-3); }
-.wl-now-head { display: flex; align-items: center; justify-content: space-between; }
-.wl-now-track { display: flex; align-items: center; gap: var(--spacing-4); }
-.wl-now-track > div { display: flex; flex-direction: column; gap: var(--spacing-0-5); }
-
-.wl-play {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 48px;
-  height: 48px;
-  border-radius: var(--radius-full);
-  background: #fafafa;
-  color: #0c0d0e;
-  flex-shrink: 0;
-}
 
 .wl-live { display: flex; align-items: center; gap: var(--spacing-2); }
 .wl-live .led { display: inline-block; width: 6px; height: 6px; border-radius: 9999px; background: var(--color-accent-core); box-shadow: 0 0 4px 1px oklch(78% .140 257.5 / 90%), 0 0 9px 3px oklch(61% .125 257.5 / 70%); }
 
 /* Notes pinned to moments: avatar, tick, label, above the strip. */
-.wl-pins { position: relative; height: 56px; width: 100%; }
-.wl-pin { position: absolute; top: 0; display: flex; flex-direction: column; align-items: center; gap: 4px; width: 24px; margin-left: -12px; }
-.wl-pin-tick { width: 2px; height: 24px; border-radius: 1px; background: var(--color-accent); }
-.wl-pin--alt { top: 20px; }
-.wl-pin--alt .wl-pin-tick { height: 8px; }
-.wl-pin-label { position: absolute; left: 34px; top: 3px; white-space: nowrap; color: #e6e6e6; }
-.wl-times { display: flex; justify-content: space-between; width: 100%; }
 
 /* Sections */
 .wl-section {
@@ -149,23 +118,10 @@
 .wl-people { display: flex; justify-content: space-between; }
 .wl-person { display: flex; flex-direction: column; align-items: center; gap: var(--spacing-3); width: 128px; text-align: center; }
 .wl-person .t-sm { margin-top: calc(var(--spacing-3) * -1 + var(--spacing-0-5)); }
-
-.wl-activity { display: flex; flex-direction: column; }
-.wl-act { display: flex; align-items: center; gap: var(--spacing-4); min-height: 60px; border-bottom: 1px solid var(--color-line-subtle); }
 .wl-act:last-child { border-bottom: 0; }
-.wl-act-text { flex: 1 1 0; }
-.wl-act-text a { font-weight: var(--font-weight-medium); }
-.wl-act-when { width: 120px; text-align: right; }
 
 .wl-scenes { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); gap: var(--spacing-4); }
 .wl-scene { height: 180px; }
-
-.wl-three { display: flex; gap: var(--spacing-8); }
-.wl-thing { display: flex; flex-direction: column; gap: var(--spacing-3); flex: 1 1 0; padding-top: var(--spacing-5); border-top: 1px solid var(--color-line); }
-
-
-.wl-close { align-items: flex-start; gap: var(--spacing-6); }
-.wl-close-line { font-size: var(--text-2xl); line-height: var(--leading-2xl); letter-spacing: var(--tracking-snug); }
 
 .wl-footer { width: min(1264px, 100% - 176px); margin: 0 auto; padding: 128px 0 48px; display: flex; flex-direction: column; gap: var(--spacing-6); }
 .wl-footer-row { display: flex; align-items: center; justify-content: space-between; padding-top: var(--spacing-6); border-top: 1px solid var(--color-line-subtle); }
@@ -176,16 +132,10 @@
 .wl-nav a.wl-btn, .wl-hero a.wl-btn { color: #0c0d0e; }
 
 /* Split sections: 408 lead, 32 gap, the rest. */
-.wl-split { flex-direction: row; align-items: flex-start; gap: var(--spacing-8); }
-.wl-split-lead { display: flex; flex-direction: column; gap: var(--spacing-4); width: 408px; flex-shrink: 0; }
-.wl-split-lead p { margin: 0; max-width: 360px; }
-.wl-split .wl-activity { flex: 1 1 0; }
-.wl-act-type { width: 56px; flex-shrink: 0; }
 
 .wl-what { padding-top: 112px; }
 .wl-what-line { width: 408px; flex-shrink: 0; margin: 0; font-size: var(--text-2xl); line-height: var(--leading-2xl); letter-spacing: var(--tracking-snug); font-weight: var(--font-weight-normal); }
 .wl-number-n { font-size: var(--text-3xl); line-height: 44px; letter-spacing: var(--tracking-snug); font-weight: var(--font-weight-normal); }
-.wl-members { margin: 0; }
 
 /* What this is, as a bento: 400 / 400 / 432 columns, 176 rows, the statement spans 2×2. */
 .wl-bento {
@@ -229,20 +179,6 @@
 
 /* This week: the objects themselves, not a log. A list update owns its replies. */
 .wl-feed { display: flex; flex-direction: column; gap: var(--spacing-4); flex: 1 1 0; min-width: 0; }
-.wl-card, .wl-feed-row { background: var(--color-surface); border: 1px solid var(--color-line-subtle); border-radius: var(--radius-lg); }
-.wl-card { display: flex; flex-direction: column; gap: var(--spacing-4); padding: var(--spacing-5); }
-.wl-card-head { display: flex; align-items: center; gap: 14px; }
-.wl-card-cover { width: 48px; height: 48px; border-radius: var(--radius-md); flex-shrink: 0; }
-.wl-card-text { display: flex; flex-direction: column; gap: var(--spacing-1); flex: 1 1 0; min-width: 0; }
-.wl-card-meta { display: flex; align-items: center; gap: var(--spacing-2); }
-.wl-card-when { width: 96px; text-align: right; flex-shrink: 0; }
-.wl-card-note { margin: 0; max-width: 720px; }
-.wl-card .wave { cursor: default; }
-.wl-reply { display: flex; align-items: center; gap: 10px; }
-.wl-feed-row { display: flex; align-items: center; gap: 14px; padding: var(--spacing-4) var(--spacing-5); }
-.wl-row-text { display: flex; flex-direction: column; gap: var(--spacing-0-5); flex: 1 1 0; min-width: 0; }
-.wl-row-text a, .wl-card-meta a { font-weight: var(--font-weight-medium); }
-.wl-row-cover { width: 40px; height: 40px; border-radius: var(--radius-md); flex-shrink: 0; }
 
 /* Below 1320 the tiles get narrow: labels stay on one line and the portraits overlap instead of wrapping. */
 .wl-tile-head > .t-sm { white-space: nowrap; }
