@@ -72,11 +72,6 @@
   border-color: var(--color-line-strong);
 }
 
-.theme-card[aria-checked='true'] .theme-frame {
-  padding: 3px;
-  border: 2px solid var(--color-accent);
-}
-
 .theme-meta {
   display: flex;
   align-items: center;
@@ -98,14 +93,6 @@
 .sw-neutral { background: var(--color-well); }
 .sw-accent { background: var(--color-accent); }
 .sw-signal { background: var(--color-signal); }
-
-.theme-inuse {
-  margin-left: auto;
-  display: flex;
-  align-items: center;
-  gap: 4px;
-  color: var(--color-accent);
-}
 
 /* ---------- The preview: a small Kraft window, drawn by the tokens of the
    data-theme / data-mode it carries. Proportions follow the canvas card. */
