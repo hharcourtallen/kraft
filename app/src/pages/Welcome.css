@@ -211,6 +211,53 @@
   pointer-events: auto;
 }
 
+/* Featured this week: two 360px tiles, 16px apart, type sitting on a bottom scrim. */
+.wl-featured { gap: var(--spacing-8); }
+.wl-featured .wl-head > div { gap: 6px; }
+.wl-lede { margin: 0; font-size: var(--text-base); line-height: 22px; }
+.wl-featured-tiles { display: grid; grid-template-columns: 1fr 1fr; gap: var(--spacing-4); }
+.wl-feature {
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  height: 360px;
+  border-radius: var(--radius-md);
+  overflow: hidden;
+  background-color: var(--color-well);
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.wl-feature::before {
+  content: '';
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(in oklab 0deg, #000000cc 0%, #00000000 70%);
+}
+.wl-feature-body {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  gap: var(--spacing-4);
+  width: 100%;
+  padding: var(--spacing-6);
+}
+.wl-feature-id { display: flex; flex-direction: column; gap: var(--spacing-1); }
+.wl-feature-name {
+  color: var(--color-neutral-0);
+  font-family: var(--font-display);
+  font-size: var(--text-3xl);
+  font-weight: var(--font-weight-normal);
+  letter-spacing: var(--tracking-snug);
+  line-height: var(--leading-3xl);
+}
+.wl-feature-stats { display: flex; gap: var(--spacing-8); }
+.wl-feature-stat { display: flex; flex-direction: column; gap: var(--spacing-0-5); }
+.wl-on { color: var(--color-neutral-0); }
+.wl-on-muted { color: var(--color-neutral-200); }
+[data-mode='light'] .wl-feature-name,
+[data-mode='light'] .wl-on { color: #fafafa; }
+[data-mode='light'] .wl-on-muted { color: #e6e6e6; }
+
 /* On the shelf this week: 194px covers in a row that scrolls past the column edge. */
 .wl-shelf { display: flex; gap: var(--spacing-5); overflow-x: auto; scrollbar-width: none; margin-right: -88px; padding-right: 88px; }
 .wl-shelf::-webkit-scrollbar { display: none; }

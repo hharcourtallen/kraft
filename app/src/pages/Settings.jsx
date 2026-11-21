@@ -68,6 +68,7 @@ export default function Settings() {
                     <span className="swatches" data-theme={t} data-mode={resolvedMode} aria-hidden="true">
                       <i className="sw-neutral" /><i className="sw-accent" /><i className="sw-signal" />
                     </span>
+                    {theme === t && <span className="theme-inuse t-xs"><Icon name="check" size={14} />In use</span>}
                   </span>
                 </button>
               ))}
