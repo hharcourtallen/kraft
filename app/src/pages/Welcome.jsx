@@ -1,4 +1,4 @@
-// Paper: the homepage frame (globe hero → bento → shelf → who's on → scenes → around the world → footer).
+// Paper: the homepage frame (globe hero → bento → featured → shelf → who's on → scenes → around the world → footer).
 // Everything on it comes from the API: the player, the members' now-playing,
 // the activity log, the scenes, the note pins and the canon disclaimer.
 // Curation is community-driven: anyone who joins can shelve a list, write why
@@ -17,15 +17,21 @@ import './Welcome.css'
 const SHELF = ['garden-sessions', 'the-archive', 'late-night-heat', 'jazz-nights', 'cassette-dreams', 'poolside', 'golden-hour', 'tropicalia']
 const COVERS = ['golden-hour', 'the-archive', 'garden-sessions', 'jazz-nights', 'cassette-dreams', 'tropicalia']
 const PAIR = ['luana-andrade', 'ade-mensah', 'ingrid-halvorsen']
+// Featured this week, as drawn: the pair, the line under the name, and the two counts.
+// Those lines are the frame's, not the artist record (Femi's catalogue city is Abidjan).
+const FEATURED = [
+  { slug: 'zaya-blue', kicker: 'Dream pop · Half Moon Bay', playlists: '14', listeners: '231K', position: '50% 22%', image: '/artwork/artist/zaya-blue-hero.jpg' },
+  { slug: 'femi-and-the-observatories', kicker: 'Afro-jazz · Accra', playlists: '9', listeners: '86K', position: '50% 30%', image: '/artwork/artist/femi-and-the-observatories-featured.jpg' },
+]
 const first = (n = '') => n.split(' ')[0]
 const compact = (n) => (n >= 1e6 ? `${+(n / 1e6).toFixed(2)}M` : n >= 1e3 ? `${Math.round(n / 1e3)}K` : String(n))
 
 export default function Welcome() {
-  const { data, error } = useApi(['curators/index', 'activity', 'scenes', 'index', 'playlists/index', 'globe', 'countries'])
+  const { data, error } = useApi(['curators/index', 'activity', 'scenes', 'index', 'playlists/index', 'globe', 'countries', 'artists/zaya-blue', 'artists/femi-and-the-observatories'])
   const p = usePlayer()
   if (error) return <p className="page muted">Could not load the homepage data.</p>
   if (!data) return null
-  const [cu, act, scenesDoc, index, plIndex, globe, countriesDoc] = data
+  const [cu, act, scenesDoc, index, plIndex, globe, countriesDoc, zaya, femi] = data
   // On the shelf this week: the eight lists on the frame, in its order. Around the world: the drawn country cards.
   const shelf = SHELF.map((slug) => plIndex.playlists.find((l) => l.slug === slug)).filter(Boolean)
   const world = countriesDoc.countries.filter((c) => c.image).slice(0, 5)
@@ -39,6 +45,8 @@ export default function Welcome() {
   const bySlug = Object.fromEntries(cu.curators.map((c) => [c.slug, c]))
   const covers = COVERS.map((s) => plIndex.playlists.find((l) => l.slug === s)).filter(Boolean)
   const pair = PAIR.map((s) => bySlug[s]).filter(Boolean)
+  const featuredBySlug = Object.fromEntries([zaya, femi].map((a) => [a.slug, a]))
+  const featured = FEATURED.map((f) => ({ ...f, name: featuredBySlug[f.slug]?.name })).filter((f) => f.name)
 
   return (
     <div className="wl" id="top">
@@ -106,6 +114,38 @@ export default function Welcome() {
             <Waveform seed="notes-at-a-moment" position={0} duration={1} width={384} height={32} pitch={4} playhead={false} pins={[{ fraction: 0.15 }]} />
             <div className="wl-tile-num"><span className="display wl-number-n">{act.thisWeek?.notesLeft ?? '—'}</span><span className="t-sm muted">pinned to a second, this week</span></div>
           </div>
+        </div>
+      </section>
+
+      <section className="wl-section wl-featured">
+        <header className="wl-head">
+          <div>
+            <h2 className="display t-xl">Featured this week</h2>
+            <p className="wl-lede muted">Two artists members keep shelving. Here's who's building lists around them.</p>
+          </div>
+          <Link to="/explore" className="wl-lede muted">All artists</Link>
+        </header>
+        <div className="wl-featured-tiles">
+          {featured.map((f) => (
+            <Link key={f.slug} to={`/artists/${f.slug}`} className="wl-feature" style={{ ...bg(f.image), backgroundPosition: f.position }}>
+              <span className="wl-feature-body">
+                <span className="wl-feature-id">
+                  <span className="t-xs wl-on-muted">{f.kicker}</span>
+                  <span className="wl-feature-name">{f.name}</span>
+                </span>
+                <span className="wl-feature-stats">
+                  <span className="wl-feature-stat">
+                    <span className="t-lg w-medium wl-on">{f.playlists}</span>
+                    <span className="t-xs wl-on-muted">playlists created</span>
+                  </span>
+                  <span className="wl-feature-stat">
+                    <span className="t-lg w-medium wl-on">{f.listeners}</span>
+                    <span className="t-xs wl-on-muted">listening this month</span>
+                  </span>
+                </span>
+              </span>
+            </Link>
+          ))}
         </div>
       </section>
 
